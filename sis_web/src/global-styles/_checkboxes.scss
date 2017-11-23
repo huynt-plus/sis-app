@@ -1,0 +1,60 @@
+﻿$checkbox-disabled-color: $gray-light;
+$checkbox-checked-color: $brand-success;
+
+/* hide inputs offscreen, but at the same vertical positions as the correpsonding labels, so that tabbing scrolls the viewport as expected */
+input[type='checkbox'].pretty-checkbox {
+  display: block;
+  height: 53px;
+  margin: 0 0 -53px -9999px;
+  outline: none;
+}
+
+input[type='checkbox'].pretty-checkbox + label {
+  display: block;
+  position: relative;
+  padding: 15px 0 5px 25px;
+  cursor: pointer;
+  font-size: 1em;
+  line-height: 1;
+}
+
+input[type='checkbox'].pretty-checkbox + label::before {
+  content: '\f096'; /* square outline */
+  display: block;
+  position: absolute;
+  top: 12px;
+  left: 3px;
+  font: 1.3em 'FontAwesome';
+  animation: bounceIn .5s;
+}
+
+input[type='checkbox'].pretty-checkbox.sub-item + label {
+  padding-top:5px;
+}
+
+input[type='checkbox'].pretty-checkbox.sub-item + label::before {
+  top: 3px;
+}
+
+input[type='checkbox']:checked.pretty-checkbox + label::before,
+input[type='checkbox'].pretty-checkbox.checked + label::before {
+  content: '\f046'; /* square checkmark */
+  color: $checkbox-checked-color;
+}
+
+input[type='checkbox'].pretty-checkbox.indeterminate + label::before {
+  content: '\f147'; /* square minus */
+}
+
+input[type='checkbox']:disabled.pretty-checkbox + label::before {
+  color: $checkbox-disabled-color;
+  cursor: default;
+}
+
+input[type='checkbox']:disabled.pretty-checkbox + label {
+  cursor: default;
+}
+
+input[type='checkbox']:checked.pretty-checkbox + label::before {
+  animation: zoomIn .5s;
+}

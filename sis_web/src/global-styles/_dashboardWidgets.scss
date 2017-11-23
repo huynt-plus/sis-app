@@ -1,0 +1,101 @@
+﻿
+$tile-border-radius: $border-radius-small;
+$tile-padding:       10px;
+
+
+
+.box {
+    height: 100%;
+    border: 1px solid #ccc;
+    background-color: #fff;
+}
+.box-header {
+    background-color: #eee;
+    padding: 0 30px 0 10px;
+    border-bottom: 1px solid #ccc;
+    cursor: move;
+    position: relative;
+}
+.box-header h3 {
+    margin-top: 10px;
+    display: inline-block;
+}
+.box-content {
+    padding: 10px;
+}
+.box-header-btns {
+    top: 15px;
+    right: 10px;
+    cursor: pointer;
+    position: absolute;
+}
+
+// Base class
+.dashboardWidgetTile {
+  //padding: $tile-padding;
+  margin-bottom: $line-height-computed;
+  background-color: $panel-bg;
+  border: 1px solid transparent;
+  border-radius: $tile-border-radius;
+  @include box-shadow(0 1px 1px rgba(0,0,0,.05));
+}
+
+// Panel contents
+.dashboardWidgetTile-body {
+  @include clearfix;
+}
+
+// Optional heading
+.dashboardWidgetTile-heading {
+  border-bottom: none;
+  @include border-top-radius(($tile-border-radius - 1));
+
+  > .dropdown .dropdown-toggle {
+    color: inherit;
+  }
+}
+
+// Within heading, strip any `h*` tag of its default margins for spacing.
+.dashboardWidgetTile-title {
+  margin-top: 0;
+  margin-bottom: 0;
+  font-size: ceil(($font-size-base * 1.1));
+  color: inherit;
+
+  > a {
+    color: inherit;
+  }
+}
+
+// Optional footer (stays gray in every modifier class)
+.dashboardWidgetTile-footer {
+  //padding: $panel-footer-padding;
+  background-color: $panel-footer-bg;
+  border-top: 1px solid $panel-inner-border;
+  @include border-bottom-radius(($tile-border-radius - 1));
+}
+
+
+/*.gridster-item-resizable-handler.handle-se {
+background-image: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBzdGFuZGFsb25lPSJubyI/P…4yIDAgTCA2IDAgTCA2IDYgTCA2IDYgWiIgZmlsbD0iIzAwMDAwMCIvPg0JPC9nPg08L3N2Zz4=);
+background-position: 0% 0%;
+background-repeat: no-repeat;
+bottom: -8px;
+color: rgb(51, 51, 51);
+cursor: se-resize;
+display: block;
+font-family: wf_segoe-ui_normal;
+font-size: 16px;
+height: 20px;
+list-style-image: none;
+list-style-position: outside;
+list-style-type: none;
+opacity: 0;
+position: absolute;
+right: -8px;
+text-align: left;
+visibility: visible;
+width: 20px;
+z-index: 20;
+content: string('s');
+}*/

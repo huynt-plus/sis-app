@@ -1,0 +1,12 @@
+﻿<li class="dropdown">
+    <a ng-show="vm.isAuthenticated()" href="" class="dropdown-toggle" data-toggle="dropdown">
+        <!--<i class="fa fa-user"></i>-->
+        <img style="max-width:20px;" ng-show="vm.NLPUser.isAuthenticated()" ng-src="{{vm.NLPUser.userExternalProfile.picture}}" class="img-circle profile-image" />
+        <span class="hidden-sm"> Hi, {{vm.NLPUser.auth.profile.nickname}}! </span>
+        <span class="caret"></span>
+    </a>
+    <ul ng-show="vm.isAuthenticated()" class="dropdown-menu dropdown-menu-right" role="menu">
+        <!--<li ng-show="{{vm.isAuthenticated()}}"><a ui-sref="ilEmployer.changePassword">Change Password</a></li>-->
+        <li ng-show="{{vm.isAuthenticated()}}"><a ng-click="vm.NLPUser.logout()" href="javascript:void(0);">Log Out</a></li>
+    </ul>
+</li>

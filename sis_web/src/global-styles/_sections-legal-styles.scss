@@ -1,0 +1,36 @@
+﻿@import 'global-styles/_variables.scss';
+$screen-xl-min: 1500px;
+
+/* tiny devices (0px and up) */
+@import "variables";
+@media (min-width: 0px) {
+    .tou-scrollArea {
+      height: 200px;
+      overflow: auto;
+    }
+}
+
+
+/* Small devices (tablets, 768px and up) */
+@media (min-width: $screen-sm-min) {
+    .tou-scrollArea {
+      height: 280px;
+      overflow: auto;
+    }
+}
+
+/* Medium devices (desktops, 992px and up) */
+@media (min-width: $screen-md-min) {
+    .tou-scrollArea {
+      height: 350px;
+      overflow: auto;
+    }
+}
+
+/* Large devices (large desktops, 1500px and up) */
+@media (min-width: $screen-xl-min) {
+    .tou-scrollArea {
+      height: 450px;
+      overflow: auto;
+    }
+}

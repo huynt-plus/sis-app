@@ -1,0 +1,54 @@
+// Fonts
+
+$font-family-sans-serif:  "Raleway", sans-serif;
+
+
+$brand-primary:         #008cba;
+$brand-success:         #43ac6a;
+$brand-info:            #5bc0de;
+$brand-warning:         #E99002;
+$brand-danger:          #F04124;
+
+//== Components
+//
+//## Define common padding and border radius sizes and more. Values based on 14px text and 1.428 line-height (~20px to start).
+
+
+$border-radius-base:        0px;
+$border-radius-large:       0px;
+$border-radius-small:       0px;
+
+//** Background color used for `.table-hover`.
+$table-bg-hover:                rgb(220, 220, 220);
+$table-bg-active:               $table-bg-hover;
+
+$state-warning-text: #ffd200;
+
+$close-color: #ff0000;
+
+/*$gray-base:              #e3e3e3;
+$gray:                   #ededed;
+
+//== Navbar
+//
+//##
+
+// Navbar links
+$navbar-default-link-color:                #fff;
+$navbar-default-link-hover-color:          #fff;
+$navbar-default-link-hover-bg:             #272727;
+$navbar-default-link-active-color:         #fff;
+$navbar-default-link-active-bg:            #272727;
+$navbar-default-link-disabled-color:       #ccc;
+$navbar-default-link-disabled-bg:          transparent;
+
+// Navbar brand label
+$navbar-default-brand-color:               $navbar-default-link-color;
+$navbar-default-brand-hover-color:         $navbar-default-brand-color;
+$navbar-default-brand-hover-bg:            transparent;
+
+// Navbar toggle
+$navbar-default-toggle-hover-bg:           transparent;
+$navbar-default-toggle-icon-bar-bg:        #fff;
+$navbar-default-toggle-border-color:       transparent;*/
+//$navbar-default-color: #F1F2F2;

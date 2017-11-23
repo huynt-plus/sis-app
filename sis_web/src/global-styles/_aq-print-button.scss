@@ -1,0 +1,25 @@
+﻿@media screen {
+  #printSection {
+      display: none;
+  }
+}
+
+@media print {
+  .printSection-hidden * {
+    visibility:hidden;
+  }
+
+  #printSection, #printSection *{
+    visibility:visible;
+  }
+
+  #printSection{
+    position:absolute;
+    left:0;
+    top:0;
+  }
+
+  .printSection-alwaysVisible, .printSection-alwaysVisible *{
+    visibility:visible;
+  }
+}

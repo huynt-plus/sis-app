@@ -1,0 +1,46 @@
+.page-side-area
+{
+    //position: fixed;
+}
+
+.page-side-area.right-side
+{
+    //top:0;
+    //right: 0;
+    //height: 100%;
+}
+
+.page-side-area.left-side
+{
+    //top:0;
+    //left: 0;
+    //height: 100%;
+}
+
+.page-side-area.right-side > .content {
+    position: fixed;
+    top: 50%;
+    right: -10px;
+    z-index:1000;
+}
+
+.page-side-area.left-side > .content {
+    position: fixed;
+    top: 55%;
+    left: 0;
+}
+
+.vertical-text {
+	transform-origin: right bottom 0;
+    float: left;
+}
+
+.vertical-text.bottom-top {
+    transform: rotate(-90deg);
+}
+
+.aside-pull-close-handle {
+    transform: rotate(-270deg);
+    transform-origin: left bottom;
+    float: left;
+}

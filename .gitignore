@@ -1,0 +1,7 @@
+sis_web/.idea
+sis_web/nbproject
+sis_web/node_modules
+sis_web/bower_components
+sis_web/build
+
+sis_apis/.idea

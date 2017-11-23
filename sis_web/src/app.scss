@@ -1,0 +1,1465 @@
+@import url(https://fonts.googleapis.com/css?family=Raleway:600);
+@import url(https://fonts.googleapis.com/icon?family=Material+Icons);
+
+
+$screen-xl-min: 1500px;
+
+$homepage-progressTitle-fontSize-xs:40px;
+$homepage-smallProgressTitle-fontSize-xs:20px;
+$homepage-progressTitle-fontSize-sm:35px;
+$homepage-smallProgressTitle-fontSize-sm:18px;
+$homepage-progressTitle-fontSize-md:30px;
+$homepage-smallProgressTitle-fontSize-md:15px;
+$homepage-progressTitle-fontSize-lg:30px;
+$homepage-smallProgressTitle-fontSize-lg:15px;
+$homepage-progressTitle-fontSize-xl:20px;
+$homepage-smallProgressTitle-fontSize-xl:10px;
+
+
+$tad-think-color: #c21b1b;
+$tad-act-color: #e07911;
+$tad-deliver-color: #59b4c6;
+
+$animated-list-item-deleted-color: #a6365a;
+$animated-list-item-entering-color: #419fe8;
+
+$questionnaire-legend-answer-gradient-from-color: #ffffff;
+$questionnaire-legend-answer-gradient-to-color: #3fb563;
+
+$initiative-report-colgroup-highlight-color: #f2f7fa;
+
+$metric-ok-color: #008000;
+$metric-warning-color: #f2ed11;
+$metric-bad-color: #ff0000;
+
+$focus-color: #0097cf;
+
+$smart-table-selected-row-bg-color: $focus-color;
+
+$widget-zone-collapse-button-color: #008cba;
+
+$quadrant-ambient-color: #00CE9C;
+$quadrant-warning-color: #DB7612;
+
+
+/*$gray-base: #e3e3e3;
+$gray: #ededed;*/
+
+$ng-slider-border-radius: 0;
+$ng-slider-handle-radius: $ng-slider-border-radius;
+$ng-slider-progress-radius: $ng-slider-border-radius;
+
+@import 'global-styles/customBootstrapVariables';
+@import 'global-styles/bootstrapVariables';
+/*@import 'global-styles/variables';*/
+@import 'global-styles/bootstrap';
+@import 'global-styles/bootstrapAddons';
+/*@import 'global-styles/bootswatch';*/
+@import "../bower_components/susy/sass/susy";
+
+@import 'global-styles/simple-sidebar';
+@import 'global-styles/bootstrapTagsInput';
+@import 'global-styles/customBootstrapAddons';
+@import 'global-styles/dashboardWidgets';
+@import 'global-styles/icons';
+@import 'global-styles/strategic-dashboard';
+@import 'global-styles/animations';
+@import 'global-styles/quadrantChart';
+@import 'global-styles/components';
+@import "global-styles/_spectrum-color-picker-styles";
+@import "global-styles/_sections-legal-styles";
+@import "global-styles/_aq-print-button.scss";
+@import "global-styles/_tad-period.scss";
+@import "global-styles/_checkboxes.scss";
+
+/* Changing Susy default global settings */
+$susy: (
+  /* Tells Susy to use 12 columns */
+  columns: 12,
+  /* Tells Susy that the container has a max-width of 1120px */
+  container: 1120px,
+  /* Tells Susy to use border-box */
+  global-box-sizing: border-box
+);
+
+aq-metric-measurement-history-button {
+    display:block;
+}
+
+div.bootstrap-error {
+    display: none;
+}
+
+.deferred-bootstrap-error div.bootstrap-error {
+    display: block !important;
+    z-index:10;
+}
+
+div.doc-vault-header {
+    background-image: url('assets/images/doclibrary_header.png');
+}
+div.template-vault-header {
+    background-image: url('assets/images/templatelibrary_header.jpg');
+}
+
+// bug fix for bootstrap breadcrubms
+// https://github.com/jasonsanjose/brackets-sass/issues/139
+// https://github.com/twbs/bootstrap/issues/16576
+// https://github.com/twbs/bootstrap-sass/pull/911
+// bug in libsass
+// https://github.com/sass/libsass/issues/1115
+.breadcrumb {
+
+    li {
+        + li:before {
+            content: $breadcrumb-separator + "\00a0"; // Unicode space added since inline-block means non-collapsing white-space
+        }
+    }
+}
+
+// set the mouse pointer for all hyperlinks in svg files
+svg a {
+    cursor:pointer;
+}
+svg a:hover {
+    text-decoration: none;
+}
+
+.scaling-svg-container {
+  position: relative;
+  height:0;
+  padding: 0;
+  padding-bottom: 100%;
+  margin:0px 20px 0px 20px;
+  /* over-ride this inline for aspect ratio other than square */
+}
+.scaling-svg {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  left: 0;
+  top:0;
+}
+
+.scaling-svg .progressTitle {
+    font-style:normal;
+    font-weight:normal;
+    line-height:125%;
+    font-family:sans-serif;
+    letter-spacing:0;
+    word-spacing:0;
+    fill:#000000;
+    fill-opacity:1;
+    stroke:none;
+    stroke-width:1px;
+    stroke-linecap:butt;
+    stroke-linejoin:miter;
+    stroke-opacity:1;
+    font-size:20px;
+}
+
+.scaling-svg .smallProgressTitle {
+    @extend .progressTitle;
+    font-size:10px;
+    fill: #6a6a6a
+}
+
+@media screen and (max-width: $screen-sm-min) {
+    .scaling-svg .progressTitle {
+        font-size:$homepage-progressTitle-fontSize-xs;
+    }
+
+    .scaling-svg .smallProgressTitle {
+        font-size:$homepage-smallProgressTitle-fontSize-xs;
+    }
+}
+
+/* Small devices (tablets, 768px and up) */
+@media (min-width: $screen-sm-min) {
+    .scaling-svg .progressTitle {
+        font-size:$homepage-progressTitle-fontSize-sm;
+    }
+    .scaling-svg .smallProgressTitle {
+        font-size:$homepage-smallProgressTitle-fontSize-sm;
+    }
+}
+
+/* Medium devices (desktops, 992px and up) */
+@media (min-width: $screen-md-min) {
+    .scaling-svg .progressTitle {
+        font-size:$homepage-progressTitle-fontSize-md;
+    }
+    .scaling-svg .smallProgressTitle {
+        font-size:$homepage-smallProgressTitle-fontSize-md;
+    }
+}
+
+/* Large devices (large desktops, 1200px and up) */
+@media (min-width: $screen-lg-min) {
+    .scaling-svg .progressTitle {
+        font-size:$homepage-progressTitle-fontSize-lg;
+    }
+    .scaling-svg .smallProgressTitle {
+        font-size:$homepage-smallProgressTitle-fontSize-lg;
+    }
+}
+/* Large devices (large desktops, 1500px and up) */
+@media (min-width: $screen-xl-min) {
+    .scaling-svg .progressTitle {
+        font-size:$homepage-progressTitle-fontSize-xl;
+    }
+    .scaling-svg .smallProgressTitle {
+        font-size:$homepage-smallProgressTitle-fontSize-xl;
+    }
+}
+
+.drag-handle {
+    cursor: move;
+}
+
+/*#region Questionnaire*/
+
+$question-levels-number: 5;
+$question-cell-base-padding: 20px;
+
+@for $i from (2) through $question-levels-number {
+    .question-row-level-#{$i} > td:first-child {
+        padding-left: $question-cell-base-padding * ($i - 1);
+    }
+  }
+
+.question-row-level-1 {
+    font-size: floor($font-size-base * 1.1); // ~16px;
+    font-weight: bold;
+}
+
+/*#endregion*/
+
+.fancytree-icon.fa,
+.fancytree-checkbox.fa,
+.fancytree-expander.fa {
+    background-image: none;
+}
+
+colgroup col.initiative-report-status-col {
+    background-color: $initiative-report-colgroup-highlight-color;
+    width: 80px;
+}
+
+.col-centered {
+    float: none;
+    margin: 0 auto;
+}
+
+.body-content {
+    margin-top: 100px;
+}
+
+.content-loading {
+    position: relative;
+}
+
+.content-loading:after {
+    content: url('data:image/gif;base64,R0lGODlhEAALAPQAAP///wAAANra2tDQ0Orq6gYGBgAAAC4uLoKCgmBgYLq6uiIiIkpKSoqKimRkZL6+viYmJgQEBE5OTubm5tjY2PT09Dg4ONzc3PLy8ra2tqCgoMrKyu7u7gAAAAAAAAAAACH/C05FVFNDQVBFMi4wAwEAAAAh/hpDcmVhdGVkIHdpdGggYWpheGxvYWQuaW5mbwAh+QQJCwAAACwAAAAAEAALAAAFLSAgjmRpnqSgCuLKAq5AEIM4zDVw03ve27ifDgfkEYe04kDIDC5zrtYKRa2WQgAh+QQJCwAAACwAAAAAEAALAAAFJGBhGAVgnqhpHIeRvsDawqns0qeN5+y967tYLyicBYE7EYkYAgAh+QQJCwAAACwAAAAAEAALAAAFNiAgjothLOOIJAkiGgxjpGKiKMkbz7SN6zIawJcDwIK9W/HISxGBzdHTuBNOmcJVCyoUlk7CEAAh+QQJCwAAACwAAAAAEAALAAAFNSAgjqQIRRFUAo3jNGIkSdHqPI8Tz3V55zuaDacDyIQ+YrBH+hWPzJFzOQQaeavWi7oqnVIhACH5BAkLAAAALAAAAAAQAAsAAAUyICCOZGme1rJY5kRRk7hI0mJSVUXJtF3iOl7tltsBZsNfUegjAY3I5sgFY55KqdX1GgIAIfkECQsAAAAsAAAAABAACwAABTcgII5kaZ4kcV2EqLJipmnZhWGXaOOitm2aXQ4g7P2Ct2ER4AMul00kj5g0Al8tADY2y6C+4FIIACH5BAkLAAAALAAAAAAQAAsAAAUvICCOZGme5ERRk6iy7qpyHCVStA3gNa/7txxwlwv2isSacYUc+l4tADQGQ1mvpBAAIfkECQsAAAAsAAAAABAACwAABS8gII5kaZ7kRFGTqLLuqnIcJVK0DeA1r/u3HHCXC/aKxJpxhRz6Xi0ANAZDWa+kEAA7AAAAAAAAAAAA') /*assets/images/ajax-loader.gif*/;
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    z-index: 1050;
+    display: block;
+    overflow: hidden;
+    -webkit-overflow-scrolling: touch;
+    outline: 0;
+    background-color: #ffffff;
+    filter: alpha(opacity=50);
+    opacity: 0.5;
+    text-align: center;
+    padding-top: 15%;
+}
+
+/*Fixing the bootstrap radio and checkbox groups to enable knockout binding*/
+label.btn > input[type='radio'] {
+    display: none;
+}
+
+label.btn > input[type='checkbox'] {
+    display: none;
+}
+
+.form-control[disabled],
+.form-control[readonly],
+fieldset[disabled] .form-control {
+    cursor: auto;
+}
+
+input[type="url"][disabled] {
+    cursor: text;
+}
+
+input[type="checkbox"][disabled] {
+    cursor: auto;
+}
+
+.bootstrap-tagsinput {
+    min-height: 34px;
+    min-width: 280px;
+}
+
+.overflowable-x {
+    overflow-x: auto;
+}
+
+.overflowable-y {
+    overflow-y: auto;
+}
+
+
+/* Responsive: Portrait tablets and up */
+@media screen and (min-width: 768px) {
+    .jumbotron {
+        margin-top: 20px;
+    }
+
+    .body-content {
+        padding: 0;
+    }
+
+    /*Add margin to the top nav so that it does not overflow the left navigation*/
+    .navbar-default {
+        padding-left: 250px;
+    }
+
+    /*Don't add padding when the navigation is inside the Bootstrap grid*/
+    .row .navbar-default {
+        padding-left: 0;
+    }
+}
+
+
+/*div.navbar-default {
+	background-color: $navbar-default-color;
+	border: none;
+}*/
+
+.logo-white-header {
+	background-image: url('assets/images/logo-white.png');
+	background-repeat: no-repeat;
+	width: 220px;
+	height: 130px;
+	background-color: #e3e3e3;
+    background-size:contain;
+    background-position-x: 35px;
+    background-position-y: -5px;
+}
+
+h3 a {
+    color: inherit;
+}
+
+.global-left-panel {
+    background-color: #e3e3e3;
+}
+
+#sidebar-wrapper {
+	background-color: #e3e3e3;
+	margin-top: -71px;
+}
+
+.modal-dialog-center {
+    margin-top: 25%;
+}
+
+.metric-status-arrow-up {
+    color: $metric-ok-color;
+}
+
+.metric-status-arrow-right {
+    color: $metric-warning-color;
+}
+
+.metric-status-arrow-down {
+    color: $metric-bad-color;
+}
+
+div.roadSign {
+    height: 100%;
+    border: 0 solid;
+    background-color: green;
+    border-radius: 10px;
+    display: table-cell;
+    vertical-align: middle;
+    text-indent: 0;
+}
+
+div.roadSign.think {
+    background-color: $tad-think-color;
+}
+
+div.roadSign div {
+    border: 2px solid white;
+    border-radius: 10px;
+    margin: 6px;
+    padding: 10px;
+    display: inline-block;
+    color: white;
+}
+
+div.roadSign a,
+div.roadSign a:hover,
+div.roadSign a:visited {
+    text-decoration: none;
+    color: white;
+    display: block;
+    margin-bottom: 5px;
+    background-color: inherit;
+}
+
+div.roadSign a:hover {
+    color: #999;
+}
+
+.navbar-bottom {
+    margin-bottom: 0;
+}
+
+.table-filelist > tfoot > tr {
+    background-color: #f0f0f0;
+}
+
+.text-think {
+    color: $tad-think-color;
+}
+
+.text-act {
+    color: $tad-act-color;
+}
+
+.text-deliver {
+    color: $tad-deliver-color;
+}
+
+.fill-think {
+    color: #ffffff;
+    background-color: $tad-think-color;
+	fill: $tad-think-color;
+}
+
+.fill-act {
+    color: #ffffff;
+    background-color: $tad-act-color;
+	fill: $tad-act-color;
+}
+
+.fill-deliver {
+    color: #ffffff;
+    background-color: $tad-deliver-color;
+	fill: $tad-deliver-color;
+}
+
+.bs-callout-think {
+    border-left-color: $tad-think-color;
+}
+.bs-callout-think h4 {
+	color: $tad-think-color;
+}
+
+.bs-callout-act {
+    border-left-color: $tad-act-color;
+}
+.bs-callout-act h4 {
+	color: $tad-act-color;
+}
+
+.bs-callout-deliver {
+    border-left-color: $tad-deliver-color;
+}
+.bs-callout-deliver h4 {
+	color: $tad-deliver-color;
+}
+
+.panel-think > .panel-heading {
+    border-bottom-color: $tad-think-color;
+    color: $tad-think-color;
+}
+
+.panel-deliver > .panel-heading {
+    border-bottom-color: $tad-deliver-color;
+    color: $tad-deliver-color;
+}
+
+.panel-act > .panel-heading {
+    border-bottom-color: $tad-act-color;
+    color: $tad-act-color;
+    /*background-color: #db7612;*/
+}
+
+.no-margin-col {
+    margin-left: -15px;
+    margin-right: -15px;
+}
+
+/* make all .action elements inside .list-group-item which parent list-group has .md-hover-action class visible on hover only.
+    Applied to mid-size screens and up.
+*/
+/*@media screen and (min-width: 992px) {*/
+/* by default, action items will be hidden for list-group-item and visible only on hover */
+/*.list-group.md-hover-action li.list-group-item .action {
+        display: none;
+    }*/
+
+/* show action items on list-group-item hover event */
+/*.list-group.md-hover-action li.list-group-item:hover .action {
+        display: block;
+    }*/
+/*}*/
+
+.dialog-close-button {
+    padding: 0;
+    border: 0;
+    background: 0 0;
+    font-weight: 700;
+    font-size: 21px;
+    color: red;
+    opacity: 0.2;
+    text-shadow: 0 1px 0 #ffffff;
+    font-family: 'Raleway', sans-serif;
+}
+
+.dialog-close-button:hover {
+    opacity: 1;
+}
+
+/* #region Smart table styles*/
+.st-sort-ascent:before {
+    content: '\25B2';
+}
+
+.st-sort-descent:before {
+    content: '\25BC';
+}
+
+.st-selected {
+    background: $smart-table-selected-row-bg-color;
+    color: white;
+}
+/* #endregion */
+
+/* #region List item animations*/
+
+$easeOutQuad: cubic-bezier(0.250, 0.460, 0.450, 0.940);
+$easeOutQuint: cubic-bezier(0.230, 1.000, 0.320, 1.000);
+$easeInBackCustom: cubic-bezier(0.245, -0.090, 0.735, 0.045);
+
+.animated-list-group li.ng-enter {
+    /*max-height: 0;*/
+    opacity: 0;
+    z-index: 5;
+    transform: translateX(-300px);
+    animation: openList 0.1s $easeOutQuad forwards, itemEnter 0.2s 0.1s $easeOutQuad forwards, itemHighlight .75s 0.2s $easeOutQuint;
+}
+
+.animated-list-group li.ng-enter .action {
+    display: none;
+}
+
+.animated-list-group li.ng-leave {
+    z-index: 5;
+    animation: itemExit 0.75s $easeInBackCustom forwards;
+}
+
+.animated-list-group li.ng-leave .action {
+    display: none;
+}
+
+@-moz-keyframes openList {
+    to {
+        max-height: 71px;
+    }
+}
+@-webkit-keyframes openList {
+    to {
+        max-height: 71px;
+    }
+}
+@keyframes openList {
+    to {
+        max-height: 71px;
+    }
+}
+
+@-moz-keyframes itemEnter {
+    to {
+        opacity: 1;
+        transform: translateX(0);
+    }
+}
+@-webkit-keyframes itemEnter {
+    to {
+        opacity: 1;
+        transform: translateX(0);
+    }
+}
+@keyframes itemEnter {
+    to {
+        opacity: 1;
+        transform: translateX(0);
+    }
+}
+
+@-moz-keyframes itemExit {
+    15%, 30% {
+        background: $animated-list-item-deleted-color;
+        opacity: .6;
+        transform: translateX(0);
+    }
+
+    100% {
+        opacity: 0;
+        transform: translateX(300px);
+    }
+}
+
+@-webkit-keyframes itemExit {
+    15%, 30% {
+        background: $animated-list-item-deleted-color;
+        opacity: .6;
+        transform: translateX(0);
+    }
+
+    100% {
+        opacity: 0;
+        transform: translateX(300px);
+    }
+}
+
+@keyframes itemExit {
+    15%, 30% {
+        background: $animated-list-item-deleted-color;
+        opacity: .6;
+        transform: translateX(0);
+    }
+
+    100% {
+        opacity: 0;
+        transform: translateX(300px);
+    }
+}
+
+@-moz-keyframes itemHighlight {
+    5%, 60% {
+        background: $animated-list-item-entering-color;
+    }
+}
+@-webkit-keyframes itemHighlight {
+    5%, 60% {
+        background: $animated-list-item-entering-color;
+    }
+}
+@keyframes itemHighlight {
+    5%, 60% {
+        background: $animated-list-item-entering-color;
+    }
+}
+
+/* #endregion */
+
+/* #region Flowchart */
+
+.flowchart-item {
+    max-width: 300px;
+    padding: 1px;
+    position: relative;
+    text-align: left;
+    white-space: normal;
+    background-color: #ffffff;
+    background-clip: padding-box;
+    border: 1px solid #cccccc;
+    border: 1px solid rgba(0, 0, 0, .2);
+    margin-top: 10px;
+}
+.flowchart-item-title {
+    padding: 21px 14px 8px 14px;
+    margin: 0;
+    font-size: 14px;
+    font-weight: bold;
+    line-height: 18px;
+    background-color: #f7f7f7;
+    border-bottom: 1px solid #ebebeb;
+}
+
+.flowchart-item-content {
+    padding: 9px 14px;
+}
+
+.flowchart-item > .arrow,
+.flowchart-item > .arrow:after,
+.flowchart-item > .opening,
+.flowchart-item > .opening:after {
+    position: absolute;
+    display: block;
+    width: 0;
+    height: 0;
+    border-color: transparent;
+    border-style: solid;
+}
+
+.flowchart-item > .arrow,
+.flowchart-item > .opening {
+    border-width: 21px;
+}
+
+.flowchart-item > .arrow:after,
+.flowchart-item > .opening:after {
+    content: "";
+    border-width: 20px;
+}
+
+.flowchart-item.bottom-left > .arrow {
+    bottom: -21px;
+    left: 15%;
+    margin-left: -21px;
+    border-top-color: #999;
+    border-top-color: rgba(0, 0, 0, .25);
+    border-bottom-width: 0;
+    z-index: 1000;
+}
+
+.flowchart-item.bottom-left > .arrow:after {
+    bottom: 1px;
+    margin-left: -20px;
+    content: " ";
+    border-top-color: #fff;
+    border-bottom-width: 0;
+    z-index: 1001;
+}
+
+.flowchart-item.bottom-right > .arrow {
+    bottom: -21px;
+    left: 85%;
+    margin-left: -21px;
+    border-top-color: #999;
+    border-top-color: rgba(0, 0, 0, .25);
+    border-bottom-width: 0;
+    z-index: 1000;
+}
+
+.flowchart-item.bottom-right > .arrow:after {
+    bottom: 1px;
+    margin-left: -20px;
+    content: " ";
+    border-top-color: #fff;
+    border-bottom-width: 0;
+    z-index: 1001;
+}
+
+.flowchart-item.bottom-left > .opening {
+    top: -1px;
+    left: 85%;
+    margin-left: -21px;
+    border-top-color: #999;
+    border-top-color: rgba(0, 0, 0, .25);
+    border-bottom-width: 0;
+}
+
+.flowchart-item.bottom-left > .opening:after {
+    bottom: 1px;
+    margin-left: -20px;
+    content: " ";
+    border-top-color: #fff;
+    border-bottom-width: 0;
+}
+
+.flowchart-item.bottom-right > .opening {
+    top: -1px;
+    left: 15%;
+    margin-left: -21px;
+    border-top-color: #999;
+    border-top-color: rgba(0, 0, 0, .25);
+    border-bottom-width: 0;
+}
+
+.flowchart-item.bottom-right > .opening:after {
+    bottom: 1px;
+    margin-left: -20px;
+    content: " ";
+    border-top-color: #fff;
+    border-bottom-width: 0;
+}
+
+.flowchart-item.right > .arrow {
+    top: 50%;
+    left: -11px;
+    margin-top: -11px;
+    border-right-color: #999;
+    border-right-color: rgba(0, 0, 0, .25);
+    border-left-width: 0;
+}
+
+.flowchart-item.right > .arrow:after {
+    bottom: -10px;
+    left: 1px;
+    content: " ";
+    border-right-color: #fff;
+    border-left-width: 0;
+}
+
+.flowchart-item.step.top-left > .arrow {
+    top: -11px;
+    left: 50%;
+    margin-left: -11px;
+    border-top-width: 0;
+    border-bottom-color: #999;
+    border-bottom-color: rgba(0, 0, 0, .25);
+}
+
+.flowchart-item.step.top-left > .arrow:after {
+    top: 1px;
+    margin-left: -10px;
+    content: " ";
+    border-top-width: 0;
+    border-bottom-color: #fff;
+}
+
+.flowchart-item.left > .arrow {
+    top: 50%;
+    right: -11px;
+    margin-top: -11px;
+    border-right-width: 0;
+    border-left-color: #999;
+    border-left-color: rgba(0, 0, 0, .25);
+}
+
+.flowchart-item.left > .arrow:after {
+    right: 1px;
+    bottom: -10px;
+    content: " ";
+    border-right-width: 0;
+    border-left-color: #fff;
+}
+
+/* #endregion */
+
+/* #region Typeahead styles */
+.tt-dropdown-menu {
+    width: 280px;
+    margin-top: 5px;
+    padding: 8px 0;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border: 1px solid rgba(0, 0, 0, 0.2);
+    border-radius: 8px;
+    box-shadow: 0 5px 10px rgba(0,0,0,.2);
+}
+
+.typeahead {
+    background-color: #fff;
+}
+
+.typeahead:focus {
+    border: 1px solid $focus-color;
+}
+
+.tt-query {
+    box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+}
+
+.tt-hint {
+    color: #999;
+}
+
+.tt-suggestion {
+    padding: 3px 20px;
+    line-height: 24px;
+}
+
+.tt-suggestion.tt-cursor {
+    color: #fff;
+    background-color: $focus-color;
+}
+
+.tt-suggestion p {
+    margin: 0;
+}
+
+/* #endregion */
+
+/* #region Questionnaire legend */
+.legend {
+    margin-top: 10px;
+    margin-left: 5px;
+}
+
+.legend .legend-title {
+    text-align: left;
+    margin-bottom: 8px;
+    font-weight: bold;
+    font-size: 90%;
+}
+
+.legend .legend-scale ul {
+    margin: 0;
+    padding: 0;
+    float: left;
+    list-style: none;
+}
+
+.legend .legend-scale ul li {
+    display: block;
+    float: left;
+    width: 35px;
+    margin-bottom: 6px;
+    text-align: center;
+    font-size: 80%;
+    list-style: none;
+}
+
+.legend ul.legend-labels li span {
+    display: block;
+    float: left;
+    height: 5px;
+    width: 35px;
+}
+
+.legend .legend-source {
+    font-size: 70%;
+    color: #999;
+    clear: both;
+}
+
+.legend a {
+    color: #777;
+}
+
+/* #endregion */
+
+/*#region Splash */
+#splash-page {
+    z-index: 5 !important;
+}
+
+#splash-page .bar {
+    width: 100%;
+}
+
+.page-splash {
+    z-index: 5 !important;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: #333;
+    opacity: .9;
+    pointer-events: auto;
+    backface-visibility: hidden;
+    transition: opacity 0.3s linear;
+}
+
+.page-splash-message {
+    text-align: center;
+    margin: 20% auto 0 auto;
+    font-size: 150%;
+    font-family: "Segoe UI", Arial, Helvetica, sans-serif;
+    font-weight: normal;
+    text-shadow: 2px 2px #000000;
+    text-shadow: 2px 2px rgba(0, 0, 0, 0.15);
+    text-transform: uppercase;
+    text-decoration: none;
+    color: $focus-color;
+    padding: 0;
+}
+
+.page-splash-message.page-splash-message-subtle {
+    margin: 30% auto 0 auto;
+    font-size: 200%;
+}
+
+.progress,
+.page-progress-bar {
+    margin: 30px 10% !important;
+}
+
+.spinner {
+    margin: 20% auto 0 auto;
+    left: auto;
+    top: auto !important;
+}
+
+
+.loader:before,
+.loader:after,
+.loader {
+  border-radius: 50%;
+  width: 2.5em;
+  height: 2.5em;
+  animation-fill-mode: both;
+  animation: load7 1.8s infinite ease-in-out;
+}
+
+.loader {
+  margin: 8em auto;
+  font-size: 10px;
+  position: relative;
+  text-indent: -9999em;
+  transform: translateZ(0);
+  animation-delay: -0.16s;
+}
+
+.loader:before {
+  left: -3.5em;
+  animation-delay: -0.32s;
+}
+
+.loader:after {
+  left: 3.5em;
+}
+
+.loader:before,
+.loader:after {
+  content: '';
+  position: absolute;
+  top: 0;
+}
+
+@keyframes load7 {
+  0%,
+  80%,
+  100% {
+    box-shadow: 0 2.5em 0 -1.3em #ffffff;
+  }
+  40% {
+    box-shadow: 0 2.5em 0 0 #ffffff;
+  }
+}
+/*#endregion*/
+
+/*#region angular-slider overrides*/
+.ngrs-range-slider {
+    border-radius: $ng-slider-border-radius;
+    margin-top: 0;
+    margin-bottom: 10px;
+}
+
+.ngrs-range-slider .ngrs-handle {
+    border-radius: $ng-slider-handle-radius;
+}
+
+.ngrs-range-slider .ngrs-join {
+    border-radius: $ng-slider-progress-radius;
+}
+/*#endregion*/
+
+/*#region ngAnimate animations for ui-view transition*/
+.slide.ng-leave {
+    position: relative;
+}
+
+.slide.ng-enter {
+    position: absolute;
+}
+
+.slide.ng-enter,
+.slide.ng-leave {
+    transition: 100ms cubic-bezier(0.250, 0.250, 0.750, 0.750) all;
+    position: relative;
+    display: block;
+}
+
+.slide.ng-enter,
+.slide.ng-leave.ng-leave-active {
+    opacity: 0;
+}
+
+.slide,
+.slide.ng-enter.ng-enter-active {
+    opacity: 1;
+}
+
+
+.ellipsis {
+    text-overflow: ellipsis;
+    /* Required for text-overflow to do anything */
+    white-space: nowrap;
+    overflow: hidden;
+}
+/*#endregion*/
+
+/*#region text-angular styling */
+
+
+.ta-editor {
+    min-height: 150px !important;
+    height: 150px !important;
+    overflow-y: auto;
+    font-family: inherit;
+    font-size: 100%;
+    box-shadow: none !important;
+    border: 1px solid #EEE;
+    border-radius: 3px !important;
+}
+
+.ta-html.ta-editor,
+.form-control.ta-scroll-window {
+    /*height: 150px !important;*/
+}
+
+.ta-toolbar .btn {
+    border-radius: 0;
+    padding: 5px;
+    min-width: 30px;
+    background-color: #fff;
+    color: #333;
+}
+
+[text-angular] {
+    position: relative;
+}
+
+.ta-toolbar {
+    position: absolute;
+    top: -32px;
+    right: 0;
+    z-index: 3;
+    display: none;
+}
+
+.ta-toolbar.focussed {
+    display: block;
+}
+
+@media all and (max-width: 699px) {
+    .ta-toolbar {
+        position: absolute;
+    }
+
+    .ta-toolbar.focussed {
+        position: absolute;
+    }
+
+    .ta-editor {
+        padding-top: 30px;
+    }
+}
+
+@media all and (max-width: 250px) {
+    .ta-toolbar {
+        display: none;
+    }
+
+    .ta-toolbar.focussed {
+        display: none;
+    }
+}
+
+.ta-toolbar .btn-group {
+    margin: 0 !important;
+}
+
+/*#endregion */
+
+/* #region Set printing styles */
+@media print {
+
+    /*.col-md-5 {
+        @extend .col-xs-5;
+    }
+
+    .col-md-7 {
+        @extend .col-xs-7;
+    }*/
+
+    /* page margins */
+    @page {
+        /*margin: 0mm 0mm 0mm 0mm;*/
+        size: 297mm 210mm; /* landscape */
+        /* you can also specify margins here: */
+        margin: 25mm;
+        margin-right: 45mm; /* for compatibility with both A4 and Letter */
+    }
+
+    body {
+        /* this affects the margin on the content before sending to printer */
+        margin: 0;
+        background: white;
+        font-size: 12pt;
+        transform: scale(0.85);
+    }
+
+    #page-content-wrapper {
+        /*-moz-transform: scale(.85) rotate(-90deg);
+        -ms-transform: scale(.85) rotate(-90deg);
+        -o-transform: scale(.85) rotate(-90deg);
+        -webkit-transform: scale(.85) rotate(-90deg);
+        transform: scale(.85) rotate(-90deg);*/
+    }
+
+    /* This gives the links a color dark enough to be close to black in grayscale output,
+        while still using a dark red that will show up on a color printout.
+        The boldfacing and underlining ensure that the text of the links will stand out.
+    */
+    a:link,
+    a:visited {
+        color: #520;
+        background: transparent;
+        font-weight: bold;
+        text-decoration: underline;
+    }
+
+    /* remove padding from content section (added to accomodate left nav) */
+    #wrapper {
+        padding: 0;
+        margin: 0;
+    }
+
+    /* Some browsers like to show a border around images. Switch it off */
+    img {
+        border: 0;
+        max-width: 500px;
+    }
+
+    /*.highchartContainer-lg {
+        width: 300px;
+    }
+    .highchartContainer-lg.highcharts-container {
+        width: 300px;
+    }*/
+
+    /*.noPrint { display: none; }*/
+    /*#topNavigation { display: none; }*/
+    /*#sideNavigation { display: none; }*/
+    /*#bottomNavigation { display: none; }*/
+}
+/* #endregion */
+
+
+/* #region Widget zone */
+
+.widget-zone-collapse-button {
+
+    border: none;
+    background: white;
+    color: $widget-zone-collapse-button-color;
+    margin-bottom: 12px;
+
+}
+
+.widget-zone-header {
+    display: inline-block;
+    max-width: 300px;
+    vertical-align: bottom;
+    @include text-overflow();
+}
+
+.widget-zone-body {
+    overflow-x: auto;
+}
+
+.widget-zone-body > .widget-grid-container {
+    padding-top: 15px;
+    min-width:200px;
+}
+
+.list-group.selectable > .list-group-item {
+    max-height: 100px;
+}
+
+.list-group.selectable > .list-group-item.ng-enter {
+    animation: bounceInLeft 0.3s;
+}
+.list-group.selectable > .list-group-item.ng-leave {
+    animation: bounceOutRight 0.3s;
+}
+
+.list-group.selectable > .list-group-item > h4 > .list-group-item-header {
+    max-width: 800px;
+     @include text-overflow();
+}
+
+.list-group.selectable > .list-group-item > .list-group-item-text {
+    @include text-overflow();
+}
+
+/* #endregion */
+
+.modal-sm-fixed-height {
+    width: $modal-sm;
+    max-height: 400px;
+    overflow-y: auto;
+}
+
+/*This is our main wrapping element, it's made 100vh high to ensure it is always the correct size and then moved into place and padded with negative margin and padding*/
+.flex-container {
+    display: flex;
+    overflow: hidden;
+    height: 90vh;
+    margin: 0px;
+    margin-top: -100px;
+    padding-top: 100px;
+    position: relative;
+    width: 100%;
+    backface-visibility: hidden;
+    will-change: overflow;
+}
+/*All the scrollable sections should overflow and be whatever height they need to be. As they are flex-items (due to being inside a flex container) they could be made to stretch full height at all times if needed.
+WebKit inertia scrolling is being added here for any present/future devices that are able to make use of it.
+*/
+.flex-container > .left,
+.flex-containe > .middle,
+.flex-container > .right {
+    overflow: auto;
+    height: auto;
+    //padding: .5rem;
+}
+
+.flex-container > .right {
+    width: 25rem;
+}
+
+.flex-container > .middle {
+    overflow: auto;
+    width: 100%;
+    //flex:1;
+}
+
+.line-straight {
+    border-right: 1px solid #ccc;
+}
+
+.line-straight.line-height-title {
+    height: 70px;
+}
+
+.line-straight.line-height-phase {
+    height: 20px;
+    margin-top: 10px;
+}
+
+.fa-icon-color {
+    color: $focus-color;
+}
+
+/*  div having "placeholder", it's make light gray  */
+div.placeholder-text {
+	color: #999;
+    opacity: 1;
+}
+
+.panel-header{
+    display: block;
+    font-size: 1.5em;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    font-weight: bold;
+}
+
+
+.dropdown-submenu {
+    position: relative;
+}
+
+.dropdown-submenu>.dropdown-menu {
+    top: 0;
+    left: 100%;
+    margin-top: -6px;
+    margin-left: -1px;
+    border-radius: 0 6px 6px 6px;
+}
+
+.dropdown-submenu:hover>.dropdown-menu {
+    display: block;
+}
+
+.dropdown-submenu>a:after {
+    display: block;
+    content: " ";
+    float: right;
+    width: 0;
+    height: 0;
+    border-color: transparent;
+    border-style: solid;
+    border-width: 5px 0 5px 5px;
+    border-left-color: #ccc;
+    margin-top: 5px;
+    margin-right: -10px;
+}
+
+.dropdown-submenu:hover>a:after {
+    border-left-color: #fff;
+}
+
+.dropdown-submenu.pull-left {
+    float: none;
+}
+
+.dropdown-submenu.pull-left>.dropdown-menu {
+    left: -100%;
+    margin-left: 10px;
+    border-radius: 6px 0 6px 6px;
+}
+
+.ack {
+    padding: .1em .6em;
+    border: 1px solid #ccc;
+    font-size: 11px;
+    font-family: Arial,Helvetica,sans-serif;
+    background-color: #f7f7f7;
+    color: #333;
+    box-shadow: 0 1px 0 rgba(0,0,0,0.2),0 0 0 2px #fff inset;
+    border-radius: 3px;
+    display: inline-block;
+    margin: .2em .1em;
+    text-shadow: 0 1px 0 #fff;
+    line-height: 1.4;
+    white-space: nowrap;
+}
+
+.checkbox-increase-indent {
+    margin-left: 20px;
+}
+
+.checkbox-increase-indent-master {
+    margin-left: 22px;
+}
+
+.pointer {
+    cursor: pointer;
+}
+
+.think-act-deliver-title-width {
+    width: 157px;
+}
+
+.email-template .ta-editor {
+    min-height: 302px !important;
+    height: 302px !important;
+}
+
+
+/* Overrides for bootstrap datepicker */
+
+.glyphicon {
+    display: inline-block;
+    font: normal normal normal 14px/1 FontAwesome;
+    font-size: inherit;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.glyphicon-chevron-left:before {
+    content: "\f060";
+}
+
+.glyphicon-chevron-right:before {
+    content: "\f061";
+}
+
+.text-info {
+    color: green;
+}
+.text-error {
+    color: red;
+}

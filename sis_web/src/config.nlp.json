@@ -1,0 +1,10 @@
+{
+    "module":  "nlp.config",
+    "constants": {
+        "API_ENDPOINT_CONFIG": { "URL": "http://127.0.0.1:8000/" },
+        "BASE_URL": { "URL": "http://localhost:21829/" },
+        "SHA": "0db72a64bfa817c8518a32c0ec96cc31910fa5a6",
+        "authSettings": {
+        }
+    }
+}

@@ -1,0 +1,192 @@
+﻿.swot-wrapper {
+    display: flex;
+
+    .col-lg-3 {
+        display: flex;
+        flex-flow: column;
+
+        .swot-item {
+            flex: 1;
+
+            .swot-item-title {
+                padding: 5px 5px;
+
+                h3, h4 {
+                    margin: 0;
+                }
+            }
+
+            .swot-item-body {
+                label {
+                    display: block;
+                }
+            }
+        }
+    }
+}
+
+.no-padding {
+    padding: 0;
+}
+
+.padding-5 {
+    padding: 5px;
+}
+
+.new-swot {
+    .new-swot-body {
+        .col-lg-12 {
+            .col-lg-3 {
+                .col-wrapper {
+                    height: 200px;
+                    overflow-y: auto;
+                }
+            }
+        }
+    }
+}
+
+.new-swot-body .fancytree-container li span.fancytree-has-children .fancytree-checkbox {
+    display: none;
+}
+
+.new-swot-body .fancytree-container li span.fancytree-has-children .fancytree-icon {
+    display: none;
+}
+
+.new-swot-body .fancytree-container ul li span.fancytree-exp-n .fancytree-icon {
+    display: none;
+}
+
+.new-swot-body .fancytree-container ul li span.fancytree-exp-nl .fancytree-icon {
+    display: none;
+}
+
+/*SWOT personal card*/
+
+.swot-personal-wrapper {
+    .col-lg-6 {
+        .swot-personal-item {
+            .items-container {
+                height: 190px;
+                max-height: 190px;
+                overflow-y: auto;
+
+                label {
+                    display: block;
+                }
+            }
+
+            .custom-area {
+                margin-top: 10px;
+            }
+        }
+    }
+}
+
+/*SWOT Dashboard*/
+
+.swot-dashboard-wrapper {
+    display: flex;
+    flex-flow: column;
+    width: 100%;
+    height: 100%;
+
+    .col-item {
+        display: flex;
+        flex-flow: row;
+        width: 100%;
+        height: 100%;
+        margin: 0 auto;
+        flex: 0.0000000001 2 50%;
+
+        .zoomed {
+            flex: 1 1 100% !important;
+            font-size: 20px;
+        }
+
+        .swot-item-wrapper {
+            margin: 2px;
+            flex: 0.0000000001 2 50%;
+            border: 1px solid #dddddd;
+            box-sizing: border-box;
+            transition: all 0.5s ease-in-out;
+            -webkit-transition: all 0.5s ease-in-out;
+            -moz-transition: all 0.5s ease-in-out;
+            -o-transition: all 0.5s ease-in-out;
+            display: flex;
+            flex-direction: column;
+
+            .panel-heading {
+                color: #000;
+
+                .btn-link-zoom {
+                    float: right;
+                    border: none;
+                    background: transparent;
+                }
+            }
+
+            .panel-body {
+                display: flex;
+                flex-direction: column;
+                flex: 1;
+                min-height: 75px;
+                max-height: 180px;
+            }
+
+            .body-wrapper {
+                flex: 1;
+                overflow-y: auto;
+
+                .swot-item {
+
+                    .col-lg-9 {
+                        text-overflow: ellipsis;
+                        white-space: nowrap;
+                        overflow: hidden;
+
+                        .item-name {
+                            text-decoration: none;
+                            text-overflow: ellipsis;
+                            white-space: nowrap;
+                            overflow: hidden;
+                        }
+
+                        .item-desc {
+                            color: #808080;
+                            font-size: 12px;
+                            vertical-align: text-top;
+                            text-overflow: ellipsis;
+                            white-space: nowrap;
+                            overflow: hidden;
+                        }
+                    }
+
+                    .score-col {
+                        text-align: right;
+
+                        .item-score {
+                            padding: 0 5px;
+                        }
+
+                        .editable-number, .item-score {
+                            input[type=number] {
+                                width: 100%;
+                                padding: 0 5px;
+                            }
+                        }
+
+                        .btn-link-danger {
+                            float: left;
+                        }
+                    }
+
+                    .button-col {
+                        text-align: right;
+                    }
+                }
+            }
+        }
+    }
+}

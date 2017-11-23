@@ -1,0 +1,168 @@
+﻿<style>
+    .rounded-list a{
+        position: relative;
+        display: block;
+        padding: .4em .4em .4em 2em;
+        *padding: .4em;
+        margin: .5em 0;
+        background: #ddd;
+        color: #444;
+        text-decoration: none;
+        border-radius: .3em;
+        transition: all .3s ease-out;
+    }
+
+    .rounded-list a:hover{
+        background: #eee;
+    }
+
+    .rounded-list a:hover:before{
+        transform: rotate(360deg);
+    }
+
+    .rounded-list a:before{
+        content: no-close-quote;
+        counter-increment: li;
+        position: absolute;
+        left: -1.3em;
+        top: 45%;
+        margin-top: -1.3em;
+        background: #87ceeb;
+        height: 3em;
+        width: 3em;
+        line-height: 2em;
+        border: .3em solid #fff;
+        text-align: center;
+        font-weight: bold;
+        border-radius: 2em;
+        transition: all .3s ease-out;
+    }
+
+    .rounded-list {
+        list-style-type: none;
+    }
+
+    .rectangle-list {
+        list-style-type: none;
+    }
+    .rectangle-list a{
+        position: relative;
+        display: block;
+        padding: .4em .4em .4em .8em;
+        *padding: .4em;
+        /*margin: .5em 0 .5em 2.5em;*/
+        background: #87ceeb;
+        color: #444;
+        text-decoration: none;
+        transition: all .3s ease-out;
+    }
+
+    .rectangle-list a:hover{
+        background: #87ceeb;
+    }
+
+    .rectangle-list a:before{
+        content: none;
+        counter-increment: li;
+        position: absolute;
+        left: -1.3em;
+        top: 45%;
+        margin-top: -1.3em;
+        background: #fa8072;
+        height: 3em;
+        width: 3em;
+        line-height: 2em;
+        text-align: center;
+        font-weight: bold;
+    }
+
+    .rectangle-list a:after{
+        position: absolute;
+        /*content: '';*/
+        /*border: .5em solid transparent;*/
+        left: -1em;
+        top: 50%;
+        margin-top: -.5em;
+        /*transition: all .3s ease-out;*/
+    }
+
+    /*.rectangle-list a:hover:after{*/
+        /*left: -.5em;*/
+        /*border-left-color: #fa8072;*/
+    /*}*/
+</style>
+<form name="reportForm" role="form" enctype="multipart/form-data">
+    <div class="row">
+        <div class="col-sm-3 col-lg-3">
+            <div>
+                <label class="control-label">Report files *</label>
+                <input class="btn btn-default" name="file" type="file" required="" ng-model="reportZone.reportFile" accept="application/pdf" ngf-select/><br />
+            </div>
+        </div>
+        <!--<div class="col-sm-3 col-lg-3">-->
+            <!--<div>-->
+                <!--<label class="control-label">Form files *</label>-->
+                <!--<input class="btn btn-default" name="file" type="file" required="" ng-model="reportZone.formFile" accept="application/json" ngf-select/><br />-->
+            <!--</div>-->
+        <!--</div>-->
+    </div>
+    <div class="row">
+        <div class="col-md-12">
+            <h4>Results:</h4>
+            <div class="well">
+                <p ng-repeat="message in reportZone.syncResult" ng-bind="message.message"
+                   ng-class="message.level">
+                </p>
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-12">
+            <button ng-disabled="reportForm.$invalid" type="button" class="btn btn-primary" ng-click="reportZone.analyze(reportForm.$valid)">Analyze</button>
+            <p ng-show="reportForm.$invalid && reportForm.$submitted" class="text-danger">Invalid file!</p>
+        </div>
+    </div>
+</form>
+<div ng-include="'angular-busy.html'" ng-init="$message = 'Analyzing...'" ng-show="reportZone.loading"></div>
+<div class="row" ng-if="reportZone.loadingFinished">
+    <div class="col-md-12">
+        <hr />
+        <div collapse="reportZone.collapsed">
+            <ul class="rounded-list">
+                <li ng-repeat="(key_sec, value_sec) in reportZone.json">
+                    <a href="">
+                        <h3 style="margin-top: 2px; margin-bottom: 0px;">{{ key_sec }}</h3>
+                    </a>
+                    <div class="liststyling" ng-hide="value_sec.length">
+                        <ul class="rectangle-list">
+                            <li ng-repeat="(key_sub_sec, value_sub_sec) in value_sec">
+                                <a href=""><h4 style="margin-top: 2px; margin-bottom: 0px;">{{ key_sub_sec }}</h4></a>
+                                <div class="liststyling" ng-hide="value_sub_sec.length">
+                                    <ul>
+                                        <li ng-repeat="(key_sub_sub_sec, value_sub_sub_sec) in value_sub_sec">
+                                            <h5><input type="checkbox" ng-model="value_sub_sub_sec" ng-show="value_sub_sub_sec === false || value_sub_sub_sec === true"> {{ key_sub_sub_sec  }}</h5>
+                                            <div class="liststyling" ng-show="value_sub_sub_sec.length !== 0">
+                                                <ul>
+                                                    <li ng-repeat="(key_sub_sub_sub_sec, value_sub_sub_sub_sec) in value_sub_sub_sec">
+                                                        <h5><input type="checkbox" ng-model="value_sub_sub_sub_sec" ng-show="value_sub_sub_sub_sec === false || value_sub_sub_sub_sec === true"> {{ key_sub_sub_sub_sec }}</h5>
+                                                        <div class="liststyling" ng-show="value_sub_sub_sub_sec.length !== 0">
+                                                            <ul>
+                                                                <li ng-repeat="(key_sub_sub_sub_sub_sec, value_sub_sub_sub_sub_sec) in value_sub_sub_sub_sec">
+                                                                    <h6><input type="checkbox" ng-model="value_sub_sub_sub_sub_sec" ng-show="value_sub_sub_sub_sub_sec === false || value_sub_sub_sub_sub_sec === true"> {{ key_sub_sub_sub_sub_sec }}</h6>
+                                                                </li>
+                                                            </ul>
+                                                        </div>
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </li>
+                        </ul>
+                    </div>
+                </li>
+            </ul>
+        </div>
+    </div>
+</div>
