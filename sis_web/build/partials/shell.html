@@ -1,0 +1,24 @@
+<div data-ng-include="'partials/topnav.html'" class="hidden-print" id="topNavigation"></div>
+<div id="wrapper">
+    <div data-ng-include="'partials/sidebar.html'" class="hidden-print" id="sideNavigation"></div>
+
+    <div id="page-content-wrapper">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div ncy-breadcrumb></div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-12" style="padding-bottom: 15px;">
+					<div ui-view autoscroll="false"></div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-12">
+                    <div data-ng-include="'partials/footer.html'"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
