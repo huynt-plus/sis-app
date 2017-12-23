@@ -1,7 +1,7 @@
 # SIS APPLICATION
 Open terminal and run the following sh files:
 
-**Note: the server is run first and then running the website**
+**Note: the server must be run first and then running the website**
 
 ## SIS APIs
 ### These steps are to run server
