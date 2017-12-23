@@ -1,0 +1,729 @@
+ 
+ 
+  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ GREEN STORM 2017 
+
+OBVION 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+
+FRAMEWORK OVERVIEW AND SECOND OPINION BY 
+
+SUSTAINALYTICS 
+
+May 10th, 2017 
+
+www.sustainalytics.com 
+ 
+
+ 
+
+Catarina da Silva (Amsterdam) 
+
+Willem van Golstein Brouwers (Amsterdam) 
+
+Senior Advisor, Advisory Services 
+catarina.dasilva@sustainalytics.com 
+(+31) 20 205 0045 
+ 
+ 
+ 
+ 
+
+Senior Advisor, Institutional Relations 
+
+willem.vgb@sustainalytics.com  
+
+(+31) 20 205 0041 
+
+ 
+ 
+
+Vikram Puppala  
+
+© Sustainalytics 2017 
+ 
+
+TABLE OF CONTENTS 
+
+1. 
+
+Introduction 
+
+2.  Overview of Issuer 
+
+3.  Framework overview 
+3.1  Use of Proceeds 
+3.2  Project Evaluation and Selection Process 
+3.3  Management of Proceeds 
+3.4  Reporting 
+
+4  SUSTAINALYTICS’ OPINION 
+
+Section 1: Sustainability Performance of the Issuer 
+Section 2: Impact of Use of Proceeds 
+Conclusion 
+
+APPENDICES 
+
+SUSTAINALYTICS 
+
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+3 
+
+3 
+
+3 
+4 
+5 
+5 
+6 
+
+7 
+7 
+8 
+9 
+
+10 
+
+20 
+
+2 
+
+© Sustainalytics 2017 
+ 
+
+1. INTRODUCTION 
+Obvion  N.V.  (Obvion),  a  Dutch  mortgage  provider  and  a  wholly  owned  subsidiary  of  Rabobank1,  has 
+engaged Sustainalytics to review its planned green residential mortgage-backed security (RMBS) issuance 
+(“Green STORM 2017”) and provide an opinion as to its alignment with ICMA’s Green Bond Principles2. As 
+part  of  this  engagement,  Sustainalytics  has  held  conversations  with  both  Obvion’s  treasury  team  and 
+Rabobank’s  sustainability  and  capital  markets  structuring  teams  to  understand  the  use  of  proceeds, 
+management of proceeds and reporting aspects of this transaction, as well as the sustainability strategy 
+of  the  Rabobank  Group  (Obvion’s  parent  company).  Sustainalytics  also  reviewed  relevant  public  and 
+internal documents to assess the expected impact of Obvion’s Green STORM 2017. 
+  
+This  document  contains  three  sections:  Overview  of  the  issuer;  Green  Bond  Framework  Overview  – 
+summary of Obvion’s framework for the bond; and Sustainalytics’ Opinion – an opinion on the framework. 
+ 
+ 
+2. OVERVIEW OF ISSUER – OBVION AND RABOBANK 
+Obvion, the issuer of Green STORM 2017, is a subsidiary of Rabobank, an international cooperative bank 
+focused on providing financial services in the Netherlands and involved in retail and wholesale banking, 
+and  food  and  agriculture  internationally.  Rabobank  has  the  largest  mortgage-lending  business  in  the 
+Netherlands, which is complemented with a lending portfolio that is directed towards retail customers 
+and  corporates.  In  2016,  Rabobank’s  and  Obvion’s  share  of  the Dutch  mortgage  market  amounted  to 
+17.3% and 3.2% respectively.  
+ 
+Rabobank has identified responsible finance as a key differentiator and strategic opportunity for the bank. 
+As such, it has implemented numerous initiatives to promote sustainable financial services and products, 
+including impact loans and specialized green financing. The breadth of its offerings is strengthened by a 
+commitment to provide EUR 40 billion in sustainability-related financing by 2020. In addition, Rabobank 
+has  a  Sustainability  Policy  Framework3  which  includes  several  responsible  investment  policies  and 
+guidelines with respect to its credit and loan business.  
+ 
+ 
+3. FRAMEWORK OVERVIEW 
+Obvion  is  planning  to  issue  a  green  RMBS.  The  security  will  be  part  of  Obvion’s  residential  mortgage 
+securitization program known as STORM, which has about 17.9 billion euros of outstanding securities, 
+and will be structured in line with other transactions in the STORM program (in particular the most recent 
+STORM 2017-I). The aim of the Green STORM 2017 issuance is to refinance a mortgage asset pool with 
+added environmental value, focusing namely on energy efficiency and energy performance. The security 
+will refinance an existing mortgage loans portfolio with residential buildings in the Netherlands that meet 
+the  eligibility  criteria  described  below.  Furthermore,  in  alignment  with  the  Green  Bond  Principles, 
+ 
+1 Statutory name: Coöperatieve Rabobank U.A. 
+2 “Green Bond Principles, 2016” dated 16 June 2016 issued by the International Capital Market Association (ICMA) 
+3 https://www.rabobank.com/en/images/sustainability-policy-framework.pdf 
+
+ 
+
+ 
+
+3 
+
+© Sustainalytics 2017 
+ 
+
+information on project evaluation and selection process, management of proceeds, and reporting is also 
+documented. 
+ 
+The Green STORM 2017 will be a fully revolving transaction up to the call date (22 April 2022). In this 
+transaction, the available principal will be used to purchase new loans in order to limit amortization, and 
+the notes will be repaid at the call date as a bullet payment. Additional purchase criteria are in place to 
+maintain  the  credit  quality  of  the  underlying  pool,  and  all  newly  added  loans  must  comply  with  the 
+eligibility criteria (including the green eligibility criteria defined in Section 3.1 of this document). 
+ 
+3.1   Use of Proceeds 
+The proceeds of the Green STORM 2017 will be used to refinance existing mortgage loans from Dutch 
+residential buildings that represent the top 15% in terms of energy performance in the Netherlands, or 
+which have achieved at least a 30% improvement in energy efficiency, as detailed below. The mortgages 
+to be refinanced reflect a diversified portfolio in terms of geography and building types.  
+ 
+Eligibility Criteria  
+The  selection  criteria  for  inclusion  in  the  mortgage  pool  of  the  Green  STORM  2017  are  based  on:  (i) 
+construction  year,  and  (ii)  Dutch  residential  Energy  Performance  Certificates.  The  Dutch  Energy 
+Performance Certificate system is a result of the Dutch government’s implementation of the revised 2010 
+EU Energy Performance of Buildings Directive.  Energy Performance Certificates assign a  label between 
+“A” and “G” to each property, with “A” representing the best performance.  
+ 
+The eligibility criteria for qualification for GREEN STORM 2017 pool are: 
+ 
+1.  New  residential  buildings  (built  after  20024)  that  represent  the  top  15%  in  terms  of  energy 
+
+performance: 
+Buildings that have obtained an Energy Performance Certificate (energy label) of “A” or “B” by the 
+Netherlands Enterprise Agency.5 Currently, “A” or “B” labeled residential buildings that received their 
+building permit after the year 2000 represent the top 15%6 in terms of energy performance in the 
+Dutch residential market.  
+ 
+
+2.  Residential buildings built before 2002 that have achieved at least a 30% improvement in energy 
+
+performance: 
+•  Buildings that received the highest possible final Energy Performance Certificate (“A”) due to the 
+
+improvements made to the property, or 
+
+•  Buildings  with  a  definitive7  Energy  Performance  Certificate  of  “C”  or  higher  that  have 
+demonstrated an improvement of two levels in the Energy Performance Certificate. This has been 
+
+ 
+4 Accounting for a two-year building period from the moment of obtaining the building permit. 
+5 Rijksdienst voor Ondernemend Nederland or RVO. 
+6 Specifically, for the Green STORM 2017 transaction, “A” and “B” labels after 2000 represent the top 13.6% of the Dutch residential market. 
+7 Prior to receiving a definitive Energy Performance Certificate, residential buildings are assigned a provisional Certificate. This Certificate 
+provides a performance estimate based on general information such as the type of building, floor area and the year of construction. To acquire 
+a definite Certificate, energy efficiency information will be verified by an expert.  
+
+ 
+
+ 
+
+4 
+
+© Sustainalytics 2017 
+ 
+
+calculated to represent a minimum improvement of 30% in terms of energy efficiency compared 
+to an average home from the same building period. 
+
+ 
+Therefore, the eligible mortgage pool contains a mix of energy efficient homes and houses that have been 
+refurbished to improve energy performance.  
+ 
+ 
+3.2  Project Evaluation and Selection Process 
+Obvion’s database of mortgages has been matched against the external database provided by Calcasa, a 
+Dutch valuation service  agency. Calcasa sourced the underlying data with regards to definitive  Energy 
+Performance Certificates directly from the  the  Netherlands Enterprise  Agency  (RVO). Where definitive 
+Performance Certificates were not available, Calcasa calculated them using the RVO’s methodology for 
+determining Dutch residential Energy Performance Certificates.  
+ 
+From the asset pool that has been classified by Energy Performance labels, Obvion has selected mortgages 
+for inclusion in the Green STORM 2017 based on the defined Eligibility Criteria (see section 3.1), in addition 
+to Obvion’s usual mortgage loan criteria. For detailed information on the project evaluation and selection 
+process see Appendix A.  
+ 
+To  evaluate  and  select  eligible  loans,  Obvion  and  Rabobank  created  a  working  group  that  included 
+Obvion’s Head of Funding & Balance Sheet Management and members of its Funding & Risk Management 
+team, and  Rabobank’s Debt Capital Markets (Securitisation & Covered Bonds and Sustainable Markets 
+teams).  
+ 
+ 
+
+3.3        Management of Proceeds  
+Management  
+Net proceeds from the issuance of the mortgage-backed notes shall be used to fund eligible mortgages in 
+the  portfolio,  and  thus  there  will  be  no  balance  of  funds  to  be  invested.  Therefore,  only  mortgages 
+meeting the eligibility criteria will be backing the Green STORM 2017.  
+ 
+The eligible loans that serve as collateral will be documented, and this information will be checked by an 
+auditor.   
+ 
+Tracking 
+The total proceeds will be allocated in full at closing to existing eligible loans. Additionally, a third party 
+(Intertrust) will report monthly on the portfolio regarding size, prepayments, defaults, losses, etc. Any 
+new mortgage loans that are added to the transaction due to the revolving structure have to meet the 
+green eligibility criteria as described in the Eligibility Criteria section (see Section 3.1 above). In case any 
+loan  fails  to  comply  with  the  eligibility  criteria,  it  will  be  purchased  back  by  the  seller  (Obvion)  and 
+substituted by another loan that complies with the criteria. 
+ 
+ 
+
+ 
+
+ 
+
+5 
+
+© Sustainalytics 2017 
+ 
+
+3.4    Reporting  
+Allocation Reporting 
+Due to the nature of the green RMBS, proceeds of the transaction will be 100% allocated upon issuance 
+to refinance the eligible portfolio. The information made available to investors will provide loan by loan 
+data on the underlying pool of eligible assets. As mentioned in Section 3.3, an external party will publish 
+a monthly report  providing  information regarding  the  mortgages  included  in Green STROM 2017,  and 
+Obvion will report yearly on the composition of the mortgages in terms of the green eligibility criteria. 
+This information will be available on Bloomberg and well as on the website of the Dutch Securitisation 
+Association.8 
+ 
+Impact Reporting 
+As a part of the requirements for the Climate Bond Standard for Low Carbon Buildings, Obvion appointed 
+a third party to perform a CO2 calculation study to demonstrate the climate impact of the Green STORM 
+2017.  This estimate  is  based  on  a  breakdown  of  the  portfolio  by  Energy  Performance  Certificate.  This 
+report  will  be  included  in  the  investor  package  and  made  available  to  potential  investors.  The  CO2 
+calculation is based on the real energy consumption of the properties and uses an assumed emissions 
+intensity of 505 g/kWh for electricity and 1.78 kg/m3 for natural gas.  
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+8 www.dutchsecuritisation.nl 
+
+ 
+
+ 
+
+6 
+
+© Sustainalytics 2017 
+ 
+
+4  SUSTAINALYTICS’ OPINION 
+ 
+Section 1: Sustainability Performance of the Issuer 
+Rabobank and Obvion: Strong Sustainability Performers 
+Based  on  Sustainalytics’  ESG  research,  Rabobank9  is  assessed  as  a  leader  among  its  banking  peers.10  
+Although  Rabobank  has  faced  some  business  ethics  issues  in  recent  years,  it  demonstrates  adequate 
+performance  on  the  key  issues  of  responsible  finance  and  financial  product  governance.  Responsible 
+finance  refers  to  practices  and  strategies  employed  by  banks  to  integrate  sustainability  criteria  into 
+financial  lending  and  investment  decisions.  A  reorganization  of  Rabobank  in  2016,11  may  also  have  a 
+positive impact for all operations to meet ESG compliance requirements and exercise control of company‐
+wide ESG programmes.  
+ 
+Sustainalytics considers that  Rabobank  has strong credit  and loan standards, strengthened by a list  of 
+industries that are excluded from financing for sustainability reasons. Additionally, Rabobank outperforms 
+its  peers  with  regards  to  financial  product  governance:  the  company  has  implemented  strong 
+programmes to integrate customer feedback and market its products and services responsibly. Notably, 
+Rabobank is member of the executive board of the Green Bond Principles. 
+ 
+The  bank  has  an  important  presence  in  the  Dutch  housing  and  real  estate  market  and  has  enacted 
+sustainability policies for the real estate sector that aim to promote higher energy efficiency, a circular 
+economy, lower greenhouse gas emissions, and the use of more renewable energy in housing and real 
+estate.  Additionally,  Rabobank  supports  Dutch  retail  customers  investing  in  home  improvements  to 
+improve energy efficiency, by acting as a co-financer of the Dutch National Energy Saving Fund (Nationaal 
+Energiebespaarfonds). This fund allows home owners to invest in energy-saving measures with favourable 
+conditions.  Local  Rabobank  branches  in  the  Netherlands  are  also  organising  Smart  Refurbishment 
+meetings, where retail customers can meet experts in the field of energy conservation and the generation 
+of  sustainable  energy.  Furthermore,  the  company  is  a  signatory  to  the  Dutch  Energy  Agreement  for 
+Sustainable Growth.12 
+ 
+Obvion (and it’s legal predecessor) has been investing in the Dutch housing market for over 30 years and, 
+alongside its parent Rabobank, is using its presence in the local market to promote the country’s transition 
+towards  a  sustainable  economy.  Obvion  has  also  demonstrated  a  strong  commitment  to  responsible 
+lending  through  its  JobCoach  programme,  which  supports  customers  having  difficulty  making  their 
+payments with career support.  
+ 
+These  activities  provide  evidence  that  both  Obvion  and  Rabobank  are,  in  Sustainalytics’  opinion,  well 
+positioned to issue a green RMBS. In addition, Sustainalytics considers that this issuance will provide a 
+
+ 
+9 As a wholly owned subsidiary of Rabobank, Sustainalytics’ assesses Obvion’s sustainability performance under its parent.  
+10 As of May 2017, Sustainalytics ranks 319 Banks. Rabobank’s ESG performance places it amongst sector leaders in the Top 5 companies. 
+11 Since 2016, all branches act under the central Rabobank umbrella, following the merger of 106 local banks into a single entity. 
+12 http://www.energieakkoordser.nl/energieakkoord.aspx 
+
+ 
+
+ 
+
+7 
+
+© Sustainalytics 2017 
+ 
+
+positive contribution to the efforts towards improving the environmental impact of the Dutch housing 
+and real estate market.  
+ 
+Well positioned to address common environmental and social risks associated with the projects 
+The Rabobank Group has a Sustainability Policy Framework which includes several responsible investment 
+policies and guidelines with respect to its credit and loan business, communicating the company’s stance 
+and due diligence process to avoid potential social and environmental risks stemming from the financed 
+projects.  For  instance,  the  group  has  position  papers  setting  expectations  on  compliance  with  human 
+rights issues and animal welfare, and has published several sector statements that serve as a guide for its 
+credit policy. Overall, Sustainalytics considers that these policies and due diligence efforts strengthen the 
+bank’s ability to address and mitigate risks in its loan portfolio.  
+ 
+ 
+Section 2: Impact of Use of Proceeds 
+ 
+Alignment with the Dutch government’s energy efficiency improvement initiatives 
+The  Dutch  government  has  implemented  a  comprehensive  Energy  Policy,  with  an  important  focus  on 
+saving energy in homes and other buildings13. In 2013, after extensive consultations with stakeholders, 
+the  Netherlands  issued  its  Energy  Agreement  for  Sustainable  Growth,  a  roadmap  towards  ensuring  a 
+sustainable, long-term energy supply for the country.  Alongside commitments by industry, the plan also 
+highlighted that the energy efficiency of residential buildings was key to ensuring a successful execution 
+of the Agreement and, more broadly, the shift to a sustainable economy. As part of this policy framework, 
+the  Dutch  government  also  made  mandatory  the  energy  labelling  for  all  privately  owned  and  rented 
+homes,  indicating  the  level  of  energy  efficiency  and  raising  awareness  of  energy  consumption. 
+Furthermore, the government and other Dutch stakeholders have implemented stricter energy efficiency 
+requirements for new homes, striving for “zero-energy by 2020”14. Considering this local context and the 
+clear policy directives established by the Dutch government, Sustainalytics is of the opinion that the asset 
+selection criteria defined by Obvion is aligned with the Dutch government’s initiatives to improve energy 
+efficiency in the housing sector and contribute to the overall efforts to achieve commitments. The assets 
+selected  represent  the  top  15%  in  terms  of  energy  ratings  (“A”  and  “B”  ratings),  or  demonstrate  a 
+significant improvement in performance over time.  
+ 
+Climate Bonds Initiative Certification 
+Obvion’s  Green  STORM  2017  has  received  certification  under  the  Climate  Bond  Standard,  as  it  is  in 
+alignment with the Climate Bonds Initiative Residential Property Eligibility Criteria and Guidelines.15 
+ 
+Adjustments in comparison to Obvion’s Green STORM 2016 
+Obvion issued a Green STORM in 2016 using an approach similar to the one defined in this framework. In 
+comparison  to  2016,  Obvion  has  selected  a  new  eligible  pool  of  assets  in  line  with  updated  Energy 
+
+ 
+13 https://www.government.nl/topics/energy-policy/contents/saving-energy 
+14 This means that new homes must generate almost as much energy as they consume by 2020. To achieve this aim, the energy performance 
+coefficient (EPC) will be reduced gradually. 
+15 https://www.climatebonds.net/standards/certification 
+
+ 
+
+ 
+
+8 
+
+© Sustainalytics 2017 
+ 
+
+Performance  Certificates  data  from  Calcasa.  Furthermore,  Obvion’s  Green  STORM  2017  will  be  a  fully 
+revolving transaction up to the call date (like all STORM transactions of Obvion since September 2016, but 
+unlike Green STORM 2016).  
+ 
+Alignment with the Green Bond Principles  
+Sustainalytics has determined that the Obvion’s Green STORM 2017 aligns to the four pillars of the Green 
+Bond Principles 2016. For detailed information please refer to Appendix B: Green Bond External Review 
+Form. 
+ 
+ 
+Conclusion 
+Obvion’s  Green  STORM  2017  will  refinance  existing  mortgage  loans  from  Dutch  residential  buildings 
+within  the  top  15%  in  terms  of  energy  performance  in  the  Netherlands,  or  with  at  least  30%  energy 
+efficiency improvement. The security will be part of Obvion’s residential mortgage securitization program 
+known  as  STORM.  Given  the  established  process  to  select  eligible  mortgages,  deriving  energy 
+performance information from credible third parties, Sustainalytics is confident  that the refinanced loans 
+will  adhere  to  the  eligibility  criteria.  The  information  made  available  to  (potential)  investors  will  be 
+transparent  and  detailed  by  providing  loan-by-loan  data  on  the  underlying  pool  of  eligible  assets.  In 
+Sustainalytics’ opinion, Obvion’s Green STORM 2017 is in alignment with the Green Bond Principles’ four 
+components: the use of proceeds, project evaluation and selection process, management of proceeds and 
+reporting.  Furthermore,  Obvion’s  Green  STORM  2017  has  been  certified  under  the  Climate  Bonds 
+Standard.  Overall,  Sustainalytics  is  of  the  opinion  that  Obvion’s  Green  STORM  2017  is  credible  and 
+transparent.   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+9 
+
+© Sustainalytics 2017 
+ 
+
+APPENDICES 
+ 
+Appendix A:  Green STORM 2017 - Portfolio evaluation and selection process 
+ 
+This appendix describes the methodology that Obvion applies to select energy efficient mortgage loans 
+for its green RMBS programme in line with the Climate Bond Principles: (i) a selection of Dutch residential 
+properties within the top 15% in terms of energy efficiency, and (ii) a selection of improved (refurbished) 
+properties with at least 30% energy efficiency improvement. 
+ 
+Dutch Energy Performance Certificate (EPC) methodology – newly built houses 
+The analysis is based on the latest calculation methodology version 1.2 of the Dutch residential Energy 
+Performance  Certificates  (EPC)  presented  in  the  official  Energy  Performance  Certificate  calculation 
+documents  and  tables  and  the  Dutch  Buildings  Directive  “Bouwbesluit”  which  sets  the  Dutch  Energy 
+Performance Coefficient requirements, and is in line with the European Buildings Directive. EPC is the 
+minimum environmental standard for newly built residential buildings and ranks houses based on their 
+environmental impact with A being the best and G being the worst category. See Figure 1 and 2 for the 
+energy labels per building period and the number of corresponding properties in each category. 
+ 
+
+Figure 1. Schematic overview of Energy Performance Certificates based on building period and housing type by RVO, 
+methodology version 1.2 
+ 
+
+ 
+
+ 
+
+Figure 2. Division of Energy Performance Certificates based on number of houses according to WoON2012 until J9. For J10 
+Obvion determined the number of new built houses 
+ 
+Dutch Energy Index (EI) methodology – existing houses 
+While EPC considers newly built properties, Energy Index (EI) is the measure that is used to express energy 
+efficiency for existing properties and is based on the norm NEN7120+NV since 2015. NEN7120+NV is an 
+improvement of the old norm ISSO 82.3 that was used until 2015. According to the Second Opinion Inijking 
+Energielabels1 is the new norm equal to the old norm in complexity. The most important difference is that 
+the old norm is based on the original construction quality of the houses, while the new norm takes into 
+
+ 
+
+ 
+
+10 
+
+T/M 19451946-19641965-19741975-19821983-19871988-19911992-19992000-20052006-20132014 en laterJ1J2J3J4J5J6J7J8J9J10C1GFDCCBBBAAC2GFDCCCBBAAC3GFDCCCBBAAC4FECCCCBAAAC5Flat/appartement*GEEBCCCBAAC6Maisonnette**FECBCCAAAAWONINGTYPE (C )Vrijstaande woningTwee / één kapwoningRijwoning hoekBOUWPERIODE (J)Rijwoning tussenMeergezinswoning© Sustainalytics 2017 
+ 
+
+account the fact that many people did the most obvious energy improvements over the past years (e.g. 
+double glazing). Consequently, under the new norm, older houses have on average a higher EPC/EI. By 
+using the new norm the selection for refurbished houses will be stricter because the initial EPC/EI is higher 
+and therefore a refurbished property will need to improve to a higher EPC in order to be eligible. In other 
+words, the selected properties will have a 30% additional energy efficiency improvement compared to an 
+average home from the same building period. 
+ 
+Identification of top 15% most energy efficient houses 
+The EPCs rank houses based on their environmental impact with A being the best and G being the worst 
+category. The Energy Performance Coefficient norm has become more stringent from 1996 onwards by 
+lowering the Energy Performance Coefficient norm for all newly builds (Table 1) 
+ 
+
+Date in Dutch Building Directive 
+1-1-1996 
+
+Energy Performance Coefficient required for a building permit 
+1.4 
+
+1-1-1998 
+1-1-2000 
+
+1-1-2006 
+1-1-2011 
+
+1-1-2015 (current norm) 
+
+1.2 
+1.0 
+
+0.8 
+0.6 
+
+0.4 
+
+Table 1. Historic Energy Performance Coefficients per start date in the Dutch Building Directive 
+ 
+To identify a portfolio consisting of the top 15% most energy efficient properties, all houses with an A or 
+B label that were built from 2000 onwards (Energy Performance Coefficient <= 1.0) can be considered as 
+a greener selection than properties that were constructed before 2000. Properties with A and B labels 
+that were built after 2000 constitute the top 13.6% of the Dutch housing market and therefore remains 
+well within the top 15%. A more graphical display of the selection is shown in the red square in Figure 3 
+below. 
+
+ 
+Figure 3. Selection of houses with A and B labels that were built after 2000 constitute the top 13.6% of the Dutch housing 
+ 
+ 
+Identification of refurbished houses with at least 30% energy efficiency improvement 
+Although the most efficient A and B label properties represent the best-in-class properties in terms of 
+energy  efficiency,  home  improvements  (refurbishments)  of  older  properties  are  another  important 
+contributor to energy savings within the housing market. Therefore it is important that the selection also 
+include  these  older  refurbished  properties  that  have  improved  their  Energy  Performance  Certificate. 
+According  to  the  Climate  Bond  Standard,  properties  that  have  realised  at  least  30%  improvement  in 
+energy  performance  qualify  for  the  standard.  Figure  4  quantifies  the  improvements  and  shows  that 
+improvement  of  the  Energy  Index  of  at  least  30%  is  equal  to  an  increase  of  2  notches  in  EPC  (with  a 
+
+ 
+
+ 
+
+ 
+
+11 
+
+T/M 19451946-19641965-19741975-19821983-19871988-19911992-19992000-20052006-20132014 en laterJ1J2J3J4J5J6J7J8J9J10C1GFDCCBBBAAC2GFDCCCBBAAC3GFDCCCBBAAC4FECCCCBAAAC5Flat/appartement*GEEBCCCBAAC6Maisonnette**FECBCCAAAAWONINGTYPE (C )Vrijstaande woningTwee / één kapwoningRijwoning hoekBOUWPERIODE (J)Rijwoning tussenMeergezinswoning© Sustainalytics 2017 
+ 
+
+minimum of C label). Improvements  to definitive  label A are considered eligible  in any case  since  this 
+would be an improvement to the best possible energy certificate. 
+ 
+
+ 
+
+Figure 4. Change in Energy Index (EI) and from the original EPC (rows) to the improved EPC (column). A lower Energy Index 
+represents an improvement. The lower boundary of the EI was used. EI Values according to NEN 7120+NV. 
+ 
+ 
+Matching Obvion’s mortgage loans with EPC-data 
+In  order  to  identify  the  current  Energy  Performance  Certificates  of  Obvion’s  mortgage  pool,  Obvion 
+matched all postal codes and addresses of the residential buildings that serve as collateral to the mortgage 
+loans with externally provided EPC data. The data was provided by real estate dataprovider Calcasa. The 
+original  source  of  the  data  is  the  Netherlands  Enterprise  Agency  “Rijksdienst  voor  Ondernemend 
+Nederland” (RVO) and contains both provisional and definitive Energy Performance Certificates. In case 
+the  definitive  EPCs  were  not  available  the  label  was  calculated  by  Calcasa  based  on  the  official  EPC 
+methodology  version  1.2.  Every  house  in  the  Netherlands  has  received  a  provisional  EPC  based  on 
+property characteristics such as construction year and property type (see  Figure 1). Home owners are 
+required to register a definitive EPC before the relevant property is sold or can register it on their own 
+initiative. A definitive EPC has been audited by an expert; the expert does not visit the property in all cases 
+but verifies the evidence provided by the home owner (such as pictures or invoices). Using definitive EPCs 
+increases the certainty of selecting mortgages that have actually been improved by a minimum of 30%. 
+ 
+ 
+Obvion’s green pool selection 
+Based on the analysis on page 10 and 11, Obvion selected mortgage loans connected to buildings with an 
+A  label  or  B  label  with  a  construction  year  from  2002  onwards.  Because  the  Energy  Performance 
+Coefficient norm change in the year 2000 applies to the date of the building permit (as opposed to the 
+actual date of building completion), Obvion only selected those A and B labels with a construction date 
+from 2002 onwards in order to account for a building period of at least 2 years.  
+ 
+Additionally Obvion selected older houses that have improved (refurbished) their energy efficiency to at 
+least a definitive label A and those houses that have improved by at least two notches from the original 
+EPC as per Figure 1 to the definitive Energy Performance Certificate B or C (as a proxy for at least 30% 
+improvement of energy efficiency) provided by the RVO database, both according to norm NEN7120+NV. 
+In order to establish the energy efficiency improvement, Obvion has determined the original EPC of every 
+house in the mortgage portfolio by means of the building period and the housing type as per the Figure 
+1. Since Obvion’s housing type data does not 1-on-1 match with the classifications used by the RVO, this 
+
+ 
+
+ 
+
+12 
+
+EPCABCDEEI0.61.21.41.82.1C1.4-57%-14%D1.8-67%-33%-22%E2.1-71%-43%-33%-14%F2.4-75%-50%-42%-25%-13%G2.7-78%-56%-48%-33%-22%TOFROM© Sustainalytics 2017 
+ 
+
+was  approached  conservatively  by  classifying  the  properties  in  either  an  apartment  (C5)  or  detached 
+house (C1), and all other residential buildings as terraced houses (C4). 
+ 
+The above selection methodology leads to a total eligible provisional pool of assets for Obvion’s Green 
+RMBS. Obvion will randomly select a final pool from the provisional pool to match the final transaction 
+size. The proceeds of the transaction will be used to refinance these existing mortgage loans. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+13 
+
+© Sustainalytics 2017 
+ 
+
+SUSTAINALYTICS 
+ 
+Sustainalytics  is  an  independent  ESG  and  corporate  governance  research,  ratings  and  analysis  firm 
+supporting  investors  around  the  world  with  the  development  and  implementation  of  responsible 
+investment  strategies. With 13 offices globally, Sustainalytics partners with institutional investors who 
+integrate  environmental,  social  and  governance  information  and  assessments  into  their  investment 
+processes.  Today,  the  firm  has  more  than  300  staff  members,  including  170  analysts  with  varied 
+multidisciplinary  expertise  of  more  than  40  sectors.  Through  the  IRRI  survey,  investors  selected 
+Sustainalytics as the best independent responsible investment research firm for three consecutive years, 
+2012 through 2014 and in 2015, Sustainalytics was named among the top three firms for both ESG and 
+Corporate Governance research. The firm was also named the Best SRI or Green Bond Research Firm by 
+Global Capital in 2015. For more information, visit www.sustainalytics.com  
+ 
+Copyright © 2017 Sustainalytics. All rights reserved. 
+ 
+The  intellectual  property  rights  to  this  publication/report  and  the  information  contained  herein  are  vested  exclusively  in 
+Sustainalytics and/or its suppliers. No part of this publication/report may be reproduced, used, disseminated, modified, published 
+or  otherwise  furnished  in  any  manner  without  the  express  written  consent  of  Sustainalytics.  Nothing  contained  in  this 
+publication/report shall be construed as to make a representation or warranty, express or implied, regarding the advisability to 
+invest in or include companies in investable universes and/or portfolios. The performance represented herein is historical; past 
+performance is not a reliable indicator of future results and results and the information provided in this brochure is not intended 
+to be relied upon as, nor to be a substitute for specific professional advice and in particular financial advice. The information on 
+which this publication/report is based on reflects the situation as on the date of its elaboration. Such information has – fully or 
+partially  –  been  derived  from  third  parties  and  is  therefore  subject  to  continuous  modification.  Sustainalytics  observes  the 
+greatest possible care in using information but cannot guarantee that information contained herein is accurate and/or complete 
+and no rights can be derived from it. The information is provided “as is” and, therefore Sustainalytics assumes no responsibility 
+for  errors  or  omissions.  Sustainalytics  nor  its  suppliers  accept  any  liability  for  damage  arising  from  the  use  of  this 
+publication/report or information contained herein in any manner whatsoever. 
+ 
+Sustainalytics 
+info@sustainalytics.com  
+www.sustainalytics.com  
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+20 
+
+

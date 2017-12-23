@@ -1,0 +1,1045 @@
+ 
+ 
+  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ FIBRIA GREEN BOND 
+
+ 
+
+FRAMEWORK OVERVIEW AND SECOND PARTY 
+
+OPINION BY SUSTAINALYTICS 
+
+ 
+
+November 7th, 2016 
+
+www.sustainalytics.com 
+ 
+www.sustainalytics.com 
+ 
+www.sustainalytics.com 
+
+Trisha Taneja (Toronto) 
+
+Catarina da Silva (Amsterdam) 
+
+Charlotte Peyraud (New York) 
+
+Advisor, Advisory Services 
+trisha.taneja@sustainalytics.com 
+(+1 ) 647 317 3695 
+
+Senior Advisor, Advisory Services 
+catarina.dasilva@sustainalytics.com 
+(+31) 20 205 00 45 
+
+Senior Advisor, Institutional Relations 
+charlotte.peyraud@sustainalytics.com 
+(+1) 646 518 0184 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+Vikram Puppala  
+
+Vikram Puppala  
+
+Vikram Puppala  
+
+© Sustainalytics 2016 
+
+TABLE OF CONTENTS 
+
+FRAMEWORK OVERVIEW AND SECOND PARTY OPINION BY SUSTAINALYTICS 
+
+1.  Preface 
+
+2. 
+
+Introduction 
+
+3.  Framework overview 
+3.1  Use of Proceeds 
+3.2  Project Evaluation and Selection Process 
+3.3  Management of Proceeds 
+3.4  Reporting 
+
+4  SUSTAINALYTICS’ OPINION 
+
+Sustainability Performance of Issuer 
+Sustainalytics’ Opinion on Fibria’s Green Bond Framework 
+Conclusion 
+
+APPENDICES 
+
+Appendix 1: Documents Reviewed 
+Appendix 2: Sustainalytics’ Analysis of FSC and Cerflor (PEFC) Certifications 
+Appendix 3: Green Bond/Green Bond Programme External Review Form 
+
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1 
+
+3 
+
+3 
+
+4 
+4 
+7 
+7 
+8 
+
+9 
+9 
+11 
+12 
+
+13 
+13 
+14 
+15 
+
+2 
+
+© Sustainalytics 2016 
+
+1. PREFACE 
+ 
+Fibria Overseas Finance Ltd. (Fibria), with the corporate guarantee of Fibria Celulose S.A., a Brazilian pulp 
+company active in the global forest products market, intends to issue a Green Bond to finance projects 
+that will improve its environmental performance. The company has engaged Sustainalytics to provide a 
+second opinion on Fibria’s Green Bond Framework and on the bond’s environmental credentials. As part 
+of this engagement, Sustainalytics held conversations with Fibria’s treasury, legal and sustainability teams 
+to  understand  the  use  of proceeds,  management  of  proceeds  and  reporting  aspects of  Fibria’s  Green 
+Bond, as well as the company’s sustainability strategy. Sustainalytics also reviewed relevant public and 
+internal documents from Fibria. This document contains two sections: Framework Overview – a summary 
+of Fibria’s Green Bond framework; and Sustainalytics’ Opinion – an opinion on the framework. 
+  
+2. INTRODUCTION 
+ 
+Fibria is a pulp company with 969,000 hectares of forest plantations in Brazil. The company has an annual 
+production capacity of 5.3 million tons, with mills located in Três Lagoas (Mato Grosso do Sul), Aracruz 
+(Espírito Santo), Jacareí (São Paulo), besides Veracel, a mill in Eunápolis (Bahia), in Joint-Operation with 
+Stora Enso. In partnership with Cenibra, it operates Portocel, in Aracruz, the only Brazilian port specialized 
+in pulp shipments.  
+ 
+Fibria  produces  pulp  from  eucalyptus  and  is  the  world’s  largest  producer  of  market  pulp  in  terms  of 
+production capacity, with the majority of its exports sold to Europe, North America and Asia. Fibria’s long-
+term  business  strategies  include  increasing  its  market  share  in  the  international  pulp  market  and 
+developing  state-of-the-art  technologies  to 
+its 
+environmental impact. With its operations based entirely on renewable forest plantations, Fibria has a 
+total forest base covering 969,000 hectares of land, of which 338,000 hectares are native forests that have 
+been  set  aside  for  environmental  conservation.  All  Fibria  units  have  been  certified  by  the  Forest 
+Stewardship Council® (FSC®)1 or the Brazilian Forest Certification Programme (Cerflor), which is part of 
+the Programme for the Endorsement of Forest Certification (PEFC). 
+ 
+Fibria’s  vision  to  consolidate  the  planted  forest  area  as  a  generator  of  profits  in  tandem  with 
+environmental conservation, social inclusion and improved quality of life is reflected in its Sustainability 
+Policy. This Policy, applicable to all units and subsidiaries, states that Fibria aims to consider the social and 
+environmental  context  of  its  operations,  while  promoting  the  identification,  prevention,  resolution  or 
+mitigation  of  the  social,  environmental  and  economic  impacts  of  its  activities.  In  line  with  this 
+commitment, the company publishes a yearly sustainability report in which it outlines its short- and long-
+term sustainability goals and reports on its key social and environmental performance indicators. These 
+include  the  company’s  efforts  on  sustainable  forestry  management,  local  community  relations, 
+greenhouse gas emissions and sequestration, waste management, among others.  
+ 
+
+its  operational  efficiency  and  reduce 
+
+improve 
+
+ 
+ 
+
+ 
+
+ 
+
+3 
+
+© Sustainalytics 2016 
+
+Fibria is issuing a Green Bond, to help finance projects that will improve its environmental sustainability 
+across its global business divisions and operations. The bond proceeds will finance activities focused on 
+1) sustainable forest management, 2) restoration of native forests and conservation of biodiversity, 3) 
+waste  management,  4)  sustainable  water  management,  and  5)  generation  of  energy  from  renewable 
+sources. 
+ 
+3. FRAMEWORK OVERVIEW 
+ 
+Fibria Overseas Finance Ltd., with the corporate guarantee of Fibria Celulose S.A., is issuing a Green Bond 
+that  will  fund  projects  focused  on  environmental  sustainability  across  the  company’s  global  business 
+divisions and operations.  For this Green Bond issuance, a framework has been created that follows the 
+four key pillars of the Green Bond Principles 2016 (“GBP”): 
+
+  Use of Proceeds 
+  Selection Process 
+  Management of Proceeds 
+  Reporting 
+
+ 
+ 
+3.1   Use of Proceeds 
+An  amount  equal  to  the  net  proceeds  of  the  Green  Bond  will  be  allocated  to  projects  that  meet  the 
+eligibility criteria specified below, including (i) existing projects financed during the two years preceding 
+the issue date of the Green Bond, (ii) projects committed to prior to the issue date of the Green Bond but 
+financed following the issue date of the Green Bond and (iii) projects committed to and financed after the 
+issue date of the Green Bond.  
+ 
+3.1.1  Eligibility Criteria 
+To be eligible for the green bond proceeds, the projects funded must meet one or more of the following 
+eligibility criteria: 
+
+ 
+1.  SUSTAINABLE FOREST MANAGEMENT  
+
+ 
+Use  of  proceeds:  Proceeds  of  the  green  bond  will  be  allocated  to  capital  expenditures  necessary  to 
+sustainably  manage  eucalyptus  forest  plantations  that  are  certified  by  FSC®  or  Cerflor  (PEFC).  This 
+includes: 
+ 
+
+(i) 
+
+New planting and replanting activities such as:  
+a.  Production2 and acquisition of eucalyptus seedlings  
+b.  Preparation of soil for the plantation of seedlings, including subsoiling and harrowing 
+
+activity 
+
+c.  Planting of seedlings 
+
+ 
+2 Fibria’s eucalyptus clones are the result of conventional genetic improvement processes, as a result of vegetative propagation procedures. No 
+genetically-modified organisms are used in commercial plantations. The bond proceeds will not be used in any activity related to GM trees.  
+
+ 
+
+ 
+
+4 
+
+© Sustainalytics 2016 
+
+d.  Protection and maintenance of planted seedlings up to harvest 
+
+Context:  As  a  part  of  its  sustainability  strategy,  Fibria  has  made  two  long-term  commitments:  (i)  to 
+optimize the use of natural resources, and (ii) to contribute to mitigation of greenhouse gas emissions. In 
+keeping with these two goals, Fibria has set targets to achieve a one-third reduction in the amount of land 
+it uses to produce pulp, and to increase the net capture from forests from 5.5 million tCO2eq, in 2011, to 
+11.1 million tCO2eq, in 2025. Fibria has identified sustainable management of forests  as an important 
+means to achieve progress towards these targets.  
+ 
+
+2.  RESTORATION OF NATIVE FORESTS AND CONSERVATION OF BIODIVERSITY  
+
+ 
+Use of Proceeds: Proceeds of the green bond will be allocated to inputs and services (capital and 
+operational expenditures) required for: 
+ 
+
+(i) 
+
+Restoration of native forest cover in degraded land such as:  
+a.  Acquisition of native Brazilian seedlings 
+b.  Labor costs associated with planting native Brazilian seedlings in degraded land 
+c.  Labor and capital costs associated with creating ecological corridors and mosaics in 
+eucalyptus plantations so they can serve as wildlife and flora habitat conservation  
+
+d.  Funding studies that evaluate and monitor the conservation of High Conservation Value 
+
+(HCV) areas  
+ 
+
+Context:  As  a  part  of  its  sustainability  strategy,  Fibria  states  a  long-term  commitment  to  protect 
+biodiversity. In keeping with this goal, Fibria has set a target to restore 40,000 hectares of its own land 
+between 2012 and 2025. These projects will also contribute to Fibria’s long-term goal to double carbon 
+sequestration into the atmosphere by 2025. 
+ 
+
+3.  WASTE MANAGEMENT 
+
+ 
+Use  of  Proceeds:  Proceeds  of  the  Green  Bond  may  be  allocated  to  the  construction,  installation, 
+operations, and upgrade of waste facilities that:  
+  
+
+(i) 
+
+(ii) 
+
+Reduce the generation of waste such as:  
+a.  Equipment to reduce chemical usage and waste generated in the wood cooking process  
+b.  Equipment to increase the efficiency of filtration and the removal of dregs generated in 
+the causticizing process. This ensures the recovery of caustic soda through purges in the 
+system, and reduces the volume of waste (dregs) generated. 
+
+c.  Equipment to recover fibers (which are reused as either biomass or commercialized for 
+
+packaging) and minimize fiber waste 
+
+ 
+Reuse waste in processes such as:  
+a. 
+
+Installation of a biological sludge dryer in the wastewater treatment plant. This results in 
+the dry waste being used as biomass in the biomass boiler. 
+
+b.  Separation and recovery of methanol waste to reuse as fuel in the lime kilns 
+
+ 
+
+ 
+
+5 
+
+© Sustainalytics 2016 
+
+c.  Reduction of excessive levels of sedimentation in emergency lagoons through dredging 
+in  order  to  improve  effluent  treatment. Dredged material  will  be  evaluated  for  use  in 
+composting or soil corrective products.  
+
+d.  Transformation of waste of the industrial process into sub products (ex. soil correctives) 
+
+ 
+
+Context: As a part of its sustainability strategy Fibria states that it has an objective to avoid and prevent 
+pollution related to wastewater, solid waste and air emissions. The company aims to achieve this through 
+effective waste management by reducing, reusing, and recycling waste. Between 2012 and 2025, Fibria 
+has a target to reduce the amount of solid waste disposed in Fibria’s or third-party landfills by 91%. 
+ 
+
+4.  SUSTAINABLE WATER MANAGEMENT - WATER USAGE EFFICIENCY  
+
+ 
+Use of Proceeds: Proceeds of the Green Bond may be allocated to construction, installation, operations 
+and upgrades of water facilities that:  
+ 
+
+(i) 
+
+(ii) 
+
+ 
+
+Reduce water consumption such as:  
+a.  Equipment to reduce the consumption of water in industrial processes, such as reducing 
+
+consumption of water used for sealing vacuum pumps  
+ 
+
+Allow for water reuse in industrial processes such as:  
+a.  Equipment that would facilitate reuse of water in industrial processes, such as reusing 
+
+water that was previously released as effluent 
+
+Context:  In  its  sustainability  strategy,  Fibria  states  that  it  strives  to  conserve  its  water  resources.  The 
+company  monitors  water  withdrawal  in  its  forest  management  activities  and  has  been  implementing 
+measures to reduce water withdrawal in its operations. In its 2015 sustainability report, Fibria has stated 
+the intention to develop water goals in 2016 for nurseries, planted forests, and industry. 
+
+ 
+
+5.  RENEWABLE ENERGY – GENERATION OF ENERGY FROM RENEWABLE SOURCES  
+
+ 
+Use of Proceeds: Proceeds of the Green Bond may be allocated to construction, installation, operations 
+and upgrades of renewable energy facilities that: 
+  
+
+(i) 
+
+Increase production of renewable energy from waste biomass sources (waste to energy) 
+such as: 
+a.  Equipment to increase the efficiency of the biomass boiler to increase energy generated 
+
+from biomass 
+
+ 
+Context:  Fibria  states that it  is aims to reduce  its  energy footprint  and shift  from fossil fuel energy to 
+renewable energy. 90%3  of the energy produced by Fibria is renewable and includes biomass energy from 
+waste biomass resulting from the production process (i.e. liquid biomass, wood chips, biological sludge 
+
+ 
+3 The remaining 10% is primarily natural gas and oil which is used when there is equipment maintenance and general stoppage at the mill. 
+Fibria states that aiming for 100% renewable energy would not be a realistic target 
+
+ 
+
+ 
+
+6 
+
+© Sustainalytics 2016 
+
+and primary sludge). All three mills are wholly energy self-sufficient, and two (Aracruz and Três Lagoas) 
+export a surplus of energy to the grid.  
+ 
+ 
+3.2  Project Evaluation and Selection Process 
+To evaluate and select Green Bonds projects Fibria has created a Green Bond Sustainability Team that 
+will: 
+
+(i) 
+
+(ii) 
+
+Select  projects  for  funding  through  green  bond  proceeds  based  on  compliance  with  the 
+eligibility criteria as described in the framework; and, 
+Recommend an allocation of proceeds to eligible projects. 
+
+ 
+The  Green  Bond  Sustainability  Team  is  comprised  of  representatives  from  the  Treasury,  Legal, 
+Environment,  CAPEX  and  Sustainability  departments  and  is  overseen  by  the  Sustainability  Executive 
+Officer.  The team will recommend to the finance department specific projects for allocation of the bond 
+proceeds. These recommendations will be made on an annual basis and will include  past, current and 
+future projects. Fibria’s Green Bond Sustainability Team has also identified the eligible criteria for the use 
+of proceeds, closely connected to Fibria’s Sustainability strategy and specifically its sustainability long-
+term targets for 2025. 
+ 
+Fibria’s  Green  Bond  Sustainability  Team  also  oversees  the  purchases  and  investments  made  in 
+environmental initiatives.  
+ 
+ 
+
+3.3        Management of Proceeds  
+Proceeds may be allocated to Fibria subsidiaries’ projects that meet the eligibility criteria, and that are 
+committed to either up to two years before the settlement of the bonds or after the settlement date and 
+before the maturity date of the Green Bond. 
+ 
+The  proceeds  from  the  Green  Bond  will  be  allocated  and  managed  by  Fibria’s Finance  Department 
+following  specific  recommendations  by  the  Green  Bond  Sustainability  Team  on  project  selection.  The 
+finance  team  has  an  internal  management  system  that  will  track  the  allocation  of  proceeds  to  such 
+projects using spreadsheets, including brief descriptions of the projects, the regions in which the projects 
+are located, and the amount of proceeds allocated to the projects.  
+ 
+Pending allocation, net proceeds from the sale of the notes may be invested in cash, cash equivalents 
+and/or marketable securities, in accordance with Fibria’s cash management policies. 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+7 
+
+© Sustainalytics 2016 
+
+3.4    Reporting  
+Throughout  the  life  of  the  notes,  Fibria  will  keep  records  in connection  with  the  allocation of the  net 
+proceeds and will make publicly available on its website (see www.fibria.com.br/en) information on the 
+allocation of the net proceeds, to be renewed annually until full allocation of the net proceeds, and as 
+necessary  thereafter  in  the  event  of  new  developments.  This  information  will  include,  subject  to 
+confidentiality considerations, in relation to the projects to which we are subject, additional descriptions 
+of select projects funded with the net proceeds and, to the extent possible, in addition to its allocation 
+reporting, Fibria will report on the expected environmental impact of the projects. The contents of Fibria’s 
+website are not incorporated into this prospectus supplement or the accompanying prospectus. 
+ 
+These reports will be accompanied by: 
+
+(i)  An assertion by management that the net proceeds of this offering were allocated to qualifying 
+
+eligible projects; and 
+
+(ii)   A  report  by  an  external  auditor  in  respect  of  its  examination  of  management’s  assertion 
+conducted in accordance with attestation standards established by the International Standard on 
+Assurance Engagements (ISAE) 3000. 
+ 
+
+Impact Reporting 
+To  the  extent  possible,  in  addition  to  its  allocation  reporting,  Fibria  will  report  on  the  expected 
+environmental impact of the projects to which bond proceeds have been allocated. Where relevant, Fibria 
+will  report  on  the  following  key  performance  indicators  in  aggregate  (on  a  project  portfolio  basis)  for 
+Green Bond projects. Impact reporting will be disclosed publically on the Fibria website, when feasible.  
+ 
+Table 1: Key Performance Indicators by Eligibility Criteria 
+
+Use of proceeds category 
+Sustainable Forest Management 
+
+Restoration of native forests and 
+conservation of biodiversity  
+
+Key Performance Indicators 
+Certified forest area: Hectares of Fibria’s land that has been planted 
+or replanted certified by FSC®4 and Cerflor/PEFC   
+Greenhouse gas sequestration (tCO2eq/adt) 
+Hectares of Fibria’s land that has been restored 
+Hectares of owned land area with conserved native vegetation  
+
+Waste management 
+Sustainable water management  
+
+Generation of energy from 
+renewable sources 
+
+Greenhouse gas sequestration (tCO2eq/adt) 
+Reduced and reused waste (t or kg/adt) 
+Water withdrawal reduction (m3 or m3/adt) 
+Water reused (m3 or m3/adt) 
+Total electricity generated from waste biomass at Fibria’s facilities 
+(MWh or MWh/adt5) 
+Total amount of waste biomass reused for electricity generation 
+
+ 
+4 FSC® License Code FSC-C100042, FSC-C100704, FSC-C110130 
+5 Adt – Air dried tons of pulp   
+
+ 
+
+ 
+
+8 
+
+© Sustainalytics 2016 
+
+4  SUSTAINALYTICS’ OPINION 
+ 
+Sustainability Performance of Issuer 
+Contribution of use of proceeds to Fibria’s sustainability strategy  
+Fibria has a strong overall sustainability strategy supported by a formal sustainability policy. The strength 
+of  Fibria’s  strategy  derives  from  (i)  internal  accountability  –  Fibria  has  a  sustainability  committee  that 
+reports to the Board on all aspects of sustainability; (ii) a multi-stakeholder process to define material 
+issues,  and  continual  engagement  with  relevant  stakeholder  groups  on  these  issues;  (iii)  definition  of 
+short-  and  long-term  sustainability  targets;  (iv)  yearly  sustainability  reporting  on  these  targets. 
+Sustainalytics  is  of  the  opinion  that  accountability  through  a  formal  sustainability  committee,  and 
+performing a materiality analysis demonstrate the importance given to sustainability and the recognition 
+that sustainability is important in day-to-day operations. Furthermore, the commitment to targets and 
+yearly reporting is indicative of the priority the company assigns to achieving its sustainability goals.  
+ 
+Table 2: Fibria’s Sustainability targets on issues relevant for use of proceeds 
+
+Long-term commitment 
+
+Targets for 2025 
+
+Optimizing the use of 
+natural resources  
+
+Contributing to the 
+mitigation of the effects 
+of greenhouse gas effect 
+Protecting biodiversity 
+ 
+
+Increasing eco-efficiency 
+(including waste 
+management) 
+ 
+
+Reduce by one third the amount of land 
+needed for pulp production (Goal: 15 
+adt/ha/year) 
+Increase the net capture from forests from 
+5.5 million tCO2eq, in 2011, to 11.1 million 
+tCO2eq, in 2025 
+Promote environmental restoration of 
+40,000 hectares of Fibria’s own 
+areas between 2012 and 2025. 
+Reduce by 91% the volume of industrial 
+solid waste disposed 
+in own or third-party landfills 
+
+Reported performance  
+(2015 Sustainability 
+Report) 
+11.7 adt/ha/year 
+ 
+
+7.25 million tCO2eq 
+sequestered in 2015 
+
+13,885 hectares in 2015 
+ 
+
+44.7% reduction in 2015 
+ 
+
+ 
+The intention to develop in 2016 water goals is also seen positively by Sustainalytics in the context of the 
+use of proceeds for Fibria’s Green Bond.  
+ 
+Given  Fibria’s  strong  sustainability  strategy,  and  alignment  of  the  framework  to  support  progress  on 
+Fibria’s sustainability goals, Sustainalytics is of the opinion that the company is well positioned to issue a 
+green bond. 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+9 
+
+© Sustainalytics 2016 
+
+Well positioned to mitigate key environmental and social risks from eligible projects 
+Sustainalytics recognizes that the eligible projects defined in Fibria’s Green Bond Framework are exposed 
+to environmental risks specific to the Brazilian context. Eucalyptus plantations are a fast way of generating 
+wood fibers, but have been criticized for their negative impact on water resources and biodiversity. An 
+additional concern is the use of genetically-modified (GM) seedlings in eucalyptus plantations, given that 
+the potential negative impacts of GM trees are not yet fully understood.  While FSC and PEFC are both 
+based on rigorous standards and are aligned with international norms, PEFC has faced certain criticisms 
+from civil society organizations (see Appendix 2 for details). However, Sustainalytics is of the opinion that 
+Fibria is well positioned to mitigate these environmental and social risks, based on:  
+ 
+
+(i) 
+
+(ii) 
+
+(iii) 
+
+Fibria’s environmental impact plan to mitigate the negative impacts of Eucalyptus plantations 
+This environmental impact plan includes several activities that alleviate the negative impacts 
+associated  with  Eucalyptus  plantations.  Such  activities  include:  (a)  Formation  of  forest 
+mosaics that alternate eucalyptus plantations with native vegetation. For each two hectares 
+of  planted  forest,  one  hectare  of  natural  area  is  preserved;  (b)  Restoration  processes  and 
+improvement  of  conservation  areas;  (c)  Development  of  measures  that  reduce  negative 
+impacts associated with forest operations; (d) Monitoring of the impacts of its operations to 
+effectively utilise corrective actions.  
+ 
+Fibria’s  transparent  and  conservative  approach  to  the  introduction  of  GM  seedlings 
+Fibria maintains a detailed policy on the use of GM eucalyptus. Fibria is involved in research 
+and development in this area, but the company has no commercial plantations with GM trees. 
+Fibria states that it is committed to holding stakeholder dialogues with the scientific and social 
+communities  to  investigate  the  potential  economic,  social,  environmental  and  biosafety 
+aspects of GM plantations. Additionally, Fibria has committed that no bond proceeds will be 
+allocated to GM eucalyptus related activities.  
+ 
+Double 
+forests 
+Fibria reports that the majority of its forests have both FSC and PEFC certification, lessening 
+the risk of proceeds being directed towards exclusively PEFC-certified forests, which has faced 
+criticisms from civil society organizations. See Appendix 2 for Sustainalytics’ assessment of 
+the relative strengths and weaknesses of FSC and PEFC certifications. Sustainalytics’ is of the 
+opinion that Fibria should keep striving to maintain FSC certification for the majority of its 
+forests, to ensure alignment with international best practices. 
+
+a  majority 
+
+certification 
+
+and 
+
+PEFC) 
+
+of 
+
+Fibria 
+
+(FSC 
+
+of 
+
+ 
+Additionally, Sustainalytics has reviewed Fibria and its operations, and has found no evidence of major 
+environmental or social controversies. Given that the company is not involved in major controversies, its 
+environmental impact plan to mitigate negative impacts of eucalyptus, its detailed policy on the use of 
+GM eucalyptus, and its double certified forests, Sustainalytics believes that Fibria is well positioned to 
+mitigate common environmental risks from eligible projects.  
+ 
+ 
+ 
+
+ 
+
+ 
+
+10 
+
+© Sustainalytics 2016 
+
+Sustainalytics’ Opinion on Fibria’s Green Bond Framework 
+Importance of sustainable forest management and restoration of forests in Brazil 
+Sustainalytics  is  of  the  opinion  that  Fibria’s  green  bond  framework  is  impactful,  and  contributes  to 
+mitigating GHG emissions from the Agriculture, Forestry, and Land Use sector (AFOLU), specifically in the 
+Brazilian  context.  Sustainalytics  is  of  the  opinion  that  forest-dependent  companies  like  Fibria  are  key 
+contributors to progress Brazil’s ambitions to reduce forest degradation/deforestation and to reduce GHG 
+emissions from the AFOLU sector.  
+ 
+Land  use  change  and  forest  degradation/deforestation  is  the  main  source  of GHG  emissions  in  Brazil, 
+accounting for nearly 55% of country’s total emissions6. This highlights the need for sustainable forest 
+management and restoration of forests in Brazil, and forest-based  companies have an important role to 
+play in this regard.  
+ 
+Specifically, with respect to Fibria, managing forests sustainably in line with standards of international 
+certifications directly addresses  concerns of  forest  degradation.  Fibria is contributing to  reducing GHG 
+emissions from the AFOLU sector through carbon sequestration, as described in the section below.  
+ 
+Contribution of Fibria’s green bond framework in mitigating GHG emissions 
+The  contribution  of  sustainable  forest  management  and  restoration  of  forests  to  reducing  forest 
+degradation/deforestation and mitigating GHG emissions from the AFOLU sector is supported by the IPCC. 
+The IPCC has identified three primary strategies7 to achieve mitigation of GHG emissions in the AFOLU 
+sector: 
+ 
+
+(i)  Reduction/prevention of emissions to the atmosphere by conserving existing carbon pools in soils 
+or vegetation that would otherwise be lost or by reducing emissions of methane and other GHG 
+(ii)  Sequestration—enhancing the uptake of carbon in terrestrial reservoirs, and thereby removing 
+
+carbon dioxide from the atmosphere 
+
+(iii) Reducing  CO2  emissions  by  substituting  fossil  fuels  or  energy-intensive  products  for  biological 
+
+products 
+
+ 
+Of these three, sustainable forest management and restoration of forests contributes to reducing forest 
+degradation/deforestation  and  GHG  emissions  mitigation  through  increasing  forest  cover  and  carbon 
+sequestration.  Specifically,  Fibria’s  green  bond  framework  directs  proceeds  towards  (ii)  carbon 
+sequestration  and  (iii)  substitution  of  fossil  fuels  for  biological  products.  For  example,  sustainable 
+management of eucalyptus plantations will allow for an increase in carbon sequestration when converting 
+pastureland to forest, as will restoring native forest cover from degraded land. 
+ 
+Given  this  alignment  of  the  Fibria  green  bond  framework  with  recognized  GHG  emissions  mitigation 
+strategies,  the  strength  of  Fibria’s  sustainability  strategy,  its  set  carbon  sequestration  targets,  and  its 
+robust processes to mitigate environmental and social risks, Sustainalytics is of the opinion that Fibria’s 
+
+ 
+6 The SciDev.Net: http://www.scidev.net/global/policy-brief/brazil-climate-change-a-country-profile.html  
+7 IPCC assessment report: https://www.ipcc.ch/pdf/assessment-report/ar5/wg3/ipcc_wg3_ar5_chapter11.pdf  
+
+ 
+
+ 
+
+11 
+
+© Sustainalytics 2016 
+
+green  bond  framework  has  a  clear  impact  on  climate  change  mitigation,  and  is  aligned  with  Brazil’s 
+national efforts in this area.  
+ 
+Inclusion of Operational Expenditures (OPEX) 
+Sustainalytics recognizes that the use of proceeds will be allocated to OPEX (operational expenditures) 
+that is specific to eligible projects. Given the nature of the projects, Sustainalytics believes that OPEX will 
+be important to maintain projects and will contribute to sustaining positive environmental impacts. 
+ 
+Alignment with Green Bond Principles 
+Sustainalytics has determined that Fibria’s Green Bond Framework aligns with the four pillars of the ICMA 
+Green Bond Principles 2016. See Appendix 3 for details.  
+ 
+ 
+Conclusion 
+Through its green bond, Fibria aims to invest in projects that improve its environmental performance. In 
+alignment  with  Fibria’s  sustainability  strategy  and  long-term  sustainability  goals,  the  green  bond’s 
+proceeds will be allocated to projects focusing on: 1) sustainable forest management, 2) restoration of 
+native forests and conservation of biodiversity, 3) waste management, 4) sustainable water management, 
+and 5) generation of energy from renewable sources. Sustainalytics is of the opinion that eligible projects 
+will have a clear impact on climate change mitigation, and will contribute to achieving long-term goals 
+identified in  Fibria’s overall sustainability strategy.    The  company’s approach to selecting projects  and 
+managing  green  bonds  proceeds  is  credible,  and  its  reporting  on  the  use  of  proceeds,  with  key 
+performance indicators that capture environmental impact, is transparent.  
+ 
+Based on the above points, Sustainalytics considers Fibria’s Green Bond to be robust and credible.   
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+12 
+
+© Sustainalytics 2016 
+
+APPENDICES 
+ 
+Appendix 1: Documents Reviewed 
+Sustainalytics reviewed the following documents for the purposes of writing this report 
+ 
+
+Number 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+11  
+12 
+13 
+14 
+
+Document Name 
+Fibria’s website – accessed October 2016 
+Sustainability Policy  
+Risk Management Policy 
+Corporate Governance Policy 
+Statutes of the Sustainability Committee 
+2015 Sustainability Report 
+Code of Conduct 
+Greenhouse Gas Inventory report and Verification statement 
+FSC certification summaries 
+PEFC certification summaries 
+Summary of the forest management plans 
+Fibria’s answers to BM&FBOVESPA’s Corporate Sustainability Index 
+Investor Tour 2016 Materials 
+Policy on Fibria’s genetically modified eucalyptus (GM Eucalyptus) 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+13 
+
+© Sustainalytics 2016 
+
+Appendix 2: Sustainalytics’ Analysis of FSC and Cerflor (PEFC) Certifications 
+ 
+FSC  and  PEFC  are  both  based  on  rigorous  standards  and  on  a  multi-stakeholder  structure.  Both 
+organizations  are  in  line  with  international  norms  such  as  the  International  Labor  Organization  (ILO) 
+conventions, the Convention on Biological Diversity (CBD), and the Convention on International Trade in 
+Endangered Species of Wild Fauna and Flora (CITES). In addition to compliance with laws in the country 
+of certification, both schemes have a set of minimum requirements that companies are required to meet 
+to  obtain  and  maintain  certifications.  These  requirements  include  compliance  with  standards  around 
+sustainable management of forests, management of environmental impact of operations, preservation of 
+biodiversity, management of socio-economic and community relations, and sourcing of sustainable wood 
+(chain of custody). Furthermore, both FSC and PEFC require external annual audits to ensure compliance, 
+and achieve and maintain certification.  
+ 
+Despite these similarities, PEFC has faced certain criticisms from civil society actors. These are highlighted 
+below:  
+
+Type of organization: Since the FSC is an international labeling and certification system, it sets its 
+own global standards. The PEFC, in contrast, is not a standard setter, but a mutual recognition 
+scheme. The PEFC sets sustainability benchmarks according to international norms, and endorses 
+national certification schemes that comply with these benchmarks. A common criticism of this 
+model is that it allows for more flexibility in the interpretation of international PEFC benchmarks 
+as  per  regional,  cultural,  and  socio-economic  context,  and  results  in  the  endorsement  of  less 
+rigorous national certification schemes. However, the process for being endorsed by the PEFC is 
+thorough; any national certification system seeking to obtain PEFC endorsement must submit to 
+a comprehensive assessment process, including independent evaluation and public consultation. 
+This evaluation of compliance with international PEFC benchmarks is carried out by independent, 
+accredited certification organizations. 
+
+Indigenous People’s Rights: FSC and PEFC both identify indigenous rights as an important standard 
+in  forest  management.  Both  certification  schemes  require  that  forest  management  activities 
+consider and do not infringe on indigenous people’s rights, and the activities are carried out using 
+frameworks ensuring their free and informed consent.  A criticism of PEFC is that it requires only 
+engagement  with  indigenous  people  in  forest  management  decisions,  while  the  FSC  provides 
+performance-oriented targets,  and  requires forest managers  operating  on  indigenous  lands  to 
+obtain indigenous people’s consent through binding agreements.  
+
+Sourcing  wood  from  non-certified  sources:  Both  FSC  and  the  PEFC  have  established  standards 
+around sourcing wood from non-certified and controversial sources. FSC’s standards direct forest 
+managers to avoid wood harvested in violation of traditional and civil rights. A criticism of the 
+comparable  PEFC  standard  is  that  it  limits  identification  of  controversially  sourced  wood  to 
+situations where the local legislation is violated. However, PEFC standards explicitly reference the 
+violation of local, national, and international legislation with regards to worker’s and indigenous 
+people’s rights as being a controversial source of wood. 
+
+14 
+
+i. 
+
+ 
+ii. 
+
+ 
+
+iii. 
+
+ 
+
+ 
+
+ 
+
+© Sustainalytics 2016 
+
+Disclaimer 
+All rights reserved. No part of this second party opinion (the “Opinion”) may be reproduced, transmitted 
+or published in any form or by any means without the prior written permission of Sustainalytics.  
+  
+The Opinion was drawn up with the aim to explain why the analyzed bond is considered sustainable and 
+responsible. Consequently, this Opinion is for information purposes only and Sustainalytics will not 
+accept any form of liability for the substance of the opinion and/or any liability for damage arising from 
+the use of this Opinion and/or the information provided in it. 
+  
+As the Opinion is based on information made available by the client, Sustainalytics does not warrant that 
+the information presented in this Opinion is complete, accurate or up to date. 
+  
+Nothing contained in this Opinion shall be construed as to make a representation or warranty, express or 
+implied, regarding the advisability to invest in or include companies in investable universes and/or 
+portfolios. Furthermore, this Opinion shall in no event be interpreted and construed as an assessment of 
+the economic performance and credit worthiness of the bond, nor to have focused on the effective 
+allocation of the funds’ use of proceeds. 
+  
+The client is fully responsible for certifying and ensuring its commitments` compliance, implementation 
+and monitoring. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+20 
+
+© Sustainalytics 2016 
+
+SUSTAINALYTICS 
+ 
+Sustainalytics is the largest independent provider of sustainability 
+research, analysis, and services to investors. We serve over 250 
+institutional investors which include some of the world's largest asset 
+owners and asset managers. Through over 20 years of experience 
+serving the responsible investment (RI) market, we have gained a 
+reputation for providing high-quality ESG research solutions and 
+excellent client service. 
+
+Sustainalytics is headed by seasoned professionals in the field of 
+business, finance, and sustainability, with a wealth of experience in the 
+Responsible Investment area. After more than 20 years of local 
+experience and expertise in the Responsible Investment (RI) market 
+Sustainalytics has developed a comprehensive understanding of trends 
+and best practices and a solid process to assist organisations in 
+integrating ESG considerations into their policies and strategies. We 
+have worked with some of the world’s financial institutions including 
+pension plans, investment managers and banks providing customised 
+support to help them achieve their RI objectives. Clients include ABN 
+AMRO, APG, BBVA, BNP Paribas, Deutsche Bank, ING Bank, Lombard 
+Odier, Lloyds Bank, Triodos Bank, UBS and over 250 other financial 
+institutions and organisations. 
+
+Sustainalytics now has a staff of 250 employees globally, including over 
+120 analysts, with operations in Amsterdam, Boston, Bucharest, 
+Frankfurt, New York, Paris, London, Singapore, Sydney, Timisoara, and 
+Toronto, and representation in Brussels and Washington DC. 
+
+In 2015, Sustainalytics was named the Best 
+SRI or Green Bond Research Firm by 
+GlobalCapital. In December 2014, for the 
+third year in a row, Sustainalytics was 
+named best sustainable and responsible 
+investment research firm in the 
+Independent Research in Responsible 
+Investment (IRRI) Survey, conducted by 
+Thomson Reuters and SRI-CONNECT.  
+
+ 
+
+ 
+
+21 
+
+

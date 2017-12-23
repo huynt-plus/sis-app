@@ -1,0 +1,863 @@
+ 
+ 
+  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ NATIONAL AUSTRALIA BANK 
+
+LIMITED  
+
+SOCIAL BOND 
+
+ 
+
+ 
+
+FRAMEWORK OVERVIEW AND SECOND OPINION BY 
+
+SUSTAINALYTICS 
+
+March 15th, 2017  
+
+www.sustainalytics.com 
+ 
+www.sustainalytics.com 
+ 
+www.sustainalytics.com 
+
+Trisha Taneja (Toronto) 
+
+Catalina Secreteanu (Sydney) 
+
+Advisor, Advisory Services 
+trisha.taneja@sustainalytics.com 
+(+1) 647 317 3695 
+
+Associate Director, Institutional Relations 
+catalina.secreteanu@sustainalytics.com 
+(+61) 2 8015 5651 
+
+ 
+ 
+
+ 
+ 
+
+Vikram Puppala  
+
+Vikram Puppala  
+
+© Sustainalytics 2017 
+
+TABLE OF CONTENTS 
+
+1.  Preface 
+
+2. 
+
+Introduction 
+
+3.  Framework Overview 
+
+3.1  Use of Proceeds 
+3.2  Project Evaluation and Selection Process 
+3.3  Management of Proceeds 
+3.4  Reporting 
+
+4  Sustainalytics’ Opinion 
+
+Conclusion 
+
+ANNEXES 
+
+Annex 1: Alignment with Green Bond Principles 
+Annex 2: Employer of Choice for Gender Equality (EOCGE) Citation Criteria 
+Annex 3: Sustainalytics’ Controversy Assessment Methodology 
+Annex 4: NAB’s Overall ESG performance (as assessed by Sustainalytics) 
+
+SUSTAINALYTICS 
+
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+3 
+
+3 
+
+4 
+4 
+5 
+6 
+6 
+
+8 
+11 
+
+12 
+12 
+18 
+19 
+19 
+
+21 
+
+2 
+
+© Sustainalytics 2017 
+
+1. PREFACE 
+National Australia Bank Limited (NAB) is planning to issue a social bond to finance lending to organisations 
+that  are  leaders  in  fostering  workplace  gender  equality  in  Australia  (Social  Bond).  NAB  has  engaged 
+Sustainalytics to provide a second opinion on its Social Bond issuance and the bond’s social credentials. 
+As  part  of  this  engagement,  Sustainalytics  held  conversations  with  various  members  of  NAB’s 
+management team to understand the social impact of its lending and planned use of proceeds for the 
+Social Bond issuance. Sustainalytics also reviewed relevant public and internal documents, including the 
+methodology for the Workplace Gender Equality Agency (WGEA) Employer of Choice for Gender Equality 
+citation, which determined the eligibility criteria for the Social Bond proceeds. This document contains 
+two sections: Framework Overview – a summary of the NAB Social Bond framework; and Sustainalytics’ 
+Opinion – an opinion on the framework. 
+ 
+2. INTRODUCTION 
+The NAB Group is an international financial services group, that provides a comprehensive and integrated 
+range  of  financial  products  and  services,  with  over  10  million  customers  and  approximately  35,000 
+employees, operating approximately 1,000 branches and banking centres globally. The majority of the 
+NAB Group's financial services businesses operate in Australia and New Zealand, with branches located in 
+Asia, the United Kingdom and the United States. NAB was incorporated on 23 June 1893. 
+ 
+On its website,  NAB states  that its  approach to corporate responsibility  has the  objective of  “creating 
+shared  value  for  all  stakeholders.”  NAB  defines  shared  value  as  generating  financial  returns  for 
+shareholders,  and  contributing  to  environmental  sustainability  and  positive  impact  for  employees, 
+communities,  and  customers.  This  corporate  responsibility  approach  is  reflected  in  NAB’s  responsible 
+business management activities, and activities that support the community. NAB describes its responsible 
+business management activities as those that manage the Environmental, Social, and Governance (ESG) 
+risks  of  its  business  operations,  such  as  supply  chain  management,  stakeholder  engagement,  and 
+maintaining a diverse and inclusive workforce.  
+ 
+With  regards  to  maintaining  a  diverse  and  inclusive  workforce,  NAB  states  a  specific  commitment  to 
+“being  accountable  when  it  comes  to  gender  equality  in  the  workplace.”  It  cites  mentorship  and 
+networking programs for women in business, flexible working arrangements, and the implementation of 
+a  domestic  violence  support  policy  as  examples  of  initiatives  aimed  to  foster  gender  equality  in  the 
+workplace.  
+ 
+In line with its approach to corporate responsibility, and to further promote gender equality in Australian 
+workplaces,  NAB  is  planning  to  issue  a  social  bond. The  Social  Bond will  fund  organisations  that  have 
+demonstrated  leading  practices  to  foster  gender  equality  in  Australian  workplaces.    All  organisations 
+funded must be eligible as per the Use of Proceeds criteria described in the NAB Social Bond Framework 
+(Framework). The Framework is aligned with the International Capital Market Association (ICMA)’s Social 
+Bond Guidance and Green Bond Principles (GBP). Combined, the Social Bond Guidance and GBP speak to 
+the  social  impact  of  the  Social  Bond  proceeds  and  to  transparency  around  the  selection  process, 
+management of proceeds and allocation and impact reporting.  
+
+ 
+ 
+
+3 
+
+© Sustainalytics 2017 
+
+3. FRAMEWORK OVERVIEW 
+
+3.1  Use of Proceeds 
+Eligibility Criteria: The WGEA Employer of Choice Citation 
+Social Bond proceeds will be used by NAB to lend to organisations that have been awarded the Employer 
+of  Choice  for  Gender  Equality  citation  (EOCGE)  by  the  Workplace  Gender  Equality  Agency  (WGEA). 
+Organisations that have received the EOCGE citation are recognised by the WGEA as having demonstrated 
+leading practices that promote the achievement of gender equality in Australian workplaces. 
+ 
+The WGEA is an Australian government statutory agency created by the Workplace Gender Equality (WGE) 
+Act 2012. The agency is charged with promoting and improving gender equality in Australian workplaces. 
+It does so by working with employers to facilitate compliance with the reporting requirements under the 
+Workplace  Gender  Equality  Act  2012.  The  WGEA  also  awards  the  EOCGE  citation  to  recognize 
+organisations that have demonstrated leading practices that promote the achievement of gender equality 
+in Australian Workplaces. The  EOCGE citation  assesses  organisations  on 7 criteria, where  each criteria 
+contains  pre-requisite  indicators  that  demonstrate  leading  practice  in  the  area  of  workplace  gender 
+equality. While generally aligned with the reporting criteria of the Workplace Gender Equality Act, the 
+EOCGE citation requires organisations to demonstrate practices and commitments that are beyond legal 
+requirements of the Act. Annex 2 provides summary details on the EOCGE citation criteria.  
+ 
+Exclusionary Criteria 
+NAB has developed a list of exclusionary criteria for the proceeds of this Social Bond. These are 
+described below.  
+
+1.  Social Bond proceeds will not be allocated to financing any organisations through the Social 
+Bond proceeds, whose current principal industry and primary or predominant activities have 
+been assessed by NAB as being one or more of the following:  
+
+  Alcohol 
+  Gambling 
+  Tobacco 
+  Military Weapons 
+  Predatory Lending 
+  Fossil Fuels 
+  Palm Oil 
+  Transport of live cattle 
+  Whaling 
+
+2.  Social  Bond  proceeds  will  not  be  allocated  to  financing  any  organisations  that  are  involved  in 
+major environmental, social or governance controversies (Category 5 controversies), as assessed 
+by  Sustainalytics.  Organisations  to  which  proceeds  have  been  allocated  will  be  assessed  by 
+Sustainalytics for involvement in Category 5 controversies during the previous 12 months, as a 
+part  of  an  annual  compliance  review.  On  an  annual  basis,  NAB  will  reallocate  funding  from 
+
+4 
+
+ 
+
+ 
+
+ 
+ 
+
+© Sustainalytics 2017 
+
+identified  as  having 
+
+organisations 
+organisations.  
+ 
+See Annex 3 for details on Sustainalytics’ controversy assessment methodology.  
+ 
+
+involvement 
+
+in  Category  5  controversies  to  eligible 
+
+3.2   Project Evaluation and Selection Process 
+Selection of Eligible Loans by NAB 
+NAB will select organisations to finance and re-finance through Social Bond proceeds if the organisation 
+has a current EOCGE citation from the WGEA. If there is a material change to the role, powers or functions 
+of WGEA or the criteria for EOCGE citation, NAB may (having regard to the gender-equality alignment of 
+the Social Bonds) identify an alternative agency or citation to succeed WGEA or the EOCGE citation (as 
+applicable) for the purposes of identifying eligible borrowers.  Where NAB does not identify a successor 
+agency or citation, it may include persons or entities to be eligible borrowers by reference to internal 
+criteria for identifying persons or entities that are not inconsistent with the gender-equality alignment of 
+the Social Bonds.   
+ 
+WGEA  awards  the  EOCGE  citation  annually,  and  makes  the  complete  list  of  citation  holders  publicly 
+available  on  its  website.    The  selection  of  eligible  loans  will  be  done  on  behalf  of  NAB  by  a  NAB 
+Sustainability Investment Committee, comprised of members from NAB Treasury and NAB Institutional 
+Banking, with input from NAB’s Capital Financing ESG team.   
+ 
+WGEA Process for Selection of organisations for the EOCGE Citation 
+Selection  of  organisations  for  the  WGEA  EOCGE  is  based  on  a  two  step  process  that  evaluates  an 
+organisation’s: 
+
+(i)  compliance  with  the  Workplace  Gender  Equality  Act  through  a  mandatory  reporting 
+
+questionnaire; and  
+
+(ii)  successful  meeting  of  two  sets  of  pre-requisite  indicators  that  determine  leading  practice  in 
+
+promoting workplace gender equality.  
+
+ 
+These pre-requisite indicators are assessed both in the legally required compliance questionnaire and the 
+additional EOCGE citation questionnaire.  
+ 
+As a first step, the WGEA administers the compliance questionnaire, a mandatory reporting questionnaire 
+for all Australian organisations with over 100 employees. Organisations that meet a certain set of pre-
+requisite indicators in the compliance questionnaire are then invited by the WGEA to apply for a EOCGE 
+citation. These first set of pre-requisites in the compliance questionnaire are indicative of a minimum 
+standard expected from organisations that wish to demonstrate leadership in fostering gender equality 
+in the workplace.  
+ 
+As a second step, if all compliance related pre-requisites have been met, organisations are automatically 
+selected by the WGEA to complete the EOCGE questionnaire online and apply for the EOCGE citation. Not 
+all organisations selected by the WGEA choose to apply for the citation. The EOCGE questionnaire covers 
+a series of indicators under the seven criteria described in Annex 2. These indicators are assessed through 
+questions in a survey format. While all questions require reporting, the EOCGE questionnaire includes a 
+
+5 
+
+ 
+ 
+
+© Sustainalytics 2017 
+
+second set of pre-requisite indicators. These indicators are representative of leading practices expected 
+from organisations that wish to demonstrate leadership in fostering gender equality in the workplace. As 
+of  2016,  the  EOCGE  questionnaire  requires  76  such  indicators  that  demonstrate  leading  practices  in 
+workplace  gender  equality.  Organisations  meeting  these  pre-requisites  are  also  required  to  provide 
+substantiating  information  to  validate  their  claims.  All  organisations  that  have  fully  responded  to  the 
+EOCGE questionnaire, and that meet the second set of leading practice pre-requisites are chosen by the 
+WGEA as recipients of the EOCGE citation.  
+ 
+For  a  full  list  of  both  sets  of  pre-requisite  indicators  that  an  organisation  must  meet  to  demonstrate 
+leading practices in workplace gender equality, see the WGEA guide to the receiving the EOCGE citation: 
+https://www.wgea.gov.au/sites/default/files/2016-EOCGE-Guide-to-citation.pdf  
+ 
+
+3.3  Management of Proceeds  
+Proceeds from the Social Bond will be directed to distinct cost centres, where each distinct cost centre 
+represents a type of industry grouping that holds loans to EOCGE businesses. Within each cost centre, 
+proceeds  will  be  directed  towards  identified  and  earmarked  EOCGE  businesses.  Eligible  organisations 
+within each cost centre will be identified by tagging them with a note on the file. NAB confirms that its 
+Specialised Transaction Management Team, or any successor thereafter, will prepare a quarterly report 
+that serves as a control to monitor lending to eligible assets. The report lists the eligible counterparty and 
+allocated amount by cost centre. Unallocated proceeds will be temporarily invested in a separate bank 
+account,  cash,  bonds  issued  by  holders  of  the EOCGE  citation or  money market  instruments,  that are 
+separate from the NAB Treasury’s General Funds pool.  
+ 
+3.4   Reporting  
+Allocation Reporting 
+NAB confirms that it will, on an annual basis throughout the term of the Social Bond, disclose a list of 
+organisations and businesses to which it is allocating proceeds, and the aggregate amount allocated. This 
+list will include the borrower’s name, business description, business location, confirmation of the receipt 
+of the WGEA Employer of Choice for Gender Equality citation, and gross portfolio size. This reporting will 
+be published on the NAB website. NAB has confirmed that an external auditor will provide reasonable 
+assurance that processes, policies and systems for managing NAB’s eligible lending from the Social Bond 
+are in accordance with NAB’s Framework.  
+ 
+Compliance Review 
+In addition, NAB has committed to undertaking an annual compliance review of funded organisations with 
+Sustainalytics.  Sustainalytics  will  review  all  organisations/borrowers  to  which  proceeds  have  been 
+allocated, in order to determine whether they meet the eligibility criteria in the Framework. As a part of 
+the annual compliance review, Sustainalytics will also undertake a review and analysis of organisations 
+involvement  in  controversies.  Sustainalytics  will  provide  a  letter  stating  the  results  of  the  compliance 
+review, which NAB may disclose publicly on its website. The compliance review will take place annually 
+throughout the term of the Social Bond.  
+ 
+
+ 
+ 
+
+6 
+
+© Sustainalytics 2017 
+
+Impact Reporting 
+If  feasible,  NAB  intends  to  report  on  the  percentage  of  women  on  boards,  aggregated  to  an  average 
+number  at  the  level of the  allocated  portfolio.  NAB  intends  to  disclose  this metric  on  an  annual  basis 
+throughout the term of the Social Bond, on its website. If feasible, NAB will also develop case studies in 
+collaboration with WGEA to highlight impact and a particular leading practice of an eligible organisation. 
+If developed, such a case study would be publicly disclosed on NAB’s website.  
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+7 
+
+© Sustainalytics 2017 
+
+4  SUSTAINALYTICS’ OPINION 
+ 
+Advancing the U.N Sustainable Development Goals and aligning with Australian priorities 
+The  UN  Convention  on  the  Elimination  of  all  Forms  of  Discrimination  Against  Women  (CEDAW)  was 
+entered into force in September 1981 and signed by Australia in August 1983. In signing CEDAW, Australia 
+committed itself to being a society that promotes policies, laws, organisations, structures and attitudes 
+that  ensure  women  are  guaranteed  the  same  rights  as  men.  Since  signing  the  CEDAW,  Australia  has 
+developed  many  mechanisms  for  implementing  the  rights  protected  under  the  Convention  Sex 
+Discrimination Act 1984 (Cth) (SDA)1, which makes it unlawful to discriminate against someone on the 
+basis of gender, sexuality, marital status, family responsibilities or because they are pregnant. The SDA 
+has played an important role in changing public attitudes and helped advance gender equality in Australia.  
+ 
+More  recently,  the  Sustainable  Development  Goals  (SDGs)  were  set  in  September  2015  and  form  an 
+agenda for achieving sustainable development by the year 2030. These goals are widely considered to be 
+the next step to the Millennium Development Goals (MDG), which were time-bound to 2015. Unlike the 
+MDG’s, the SDGs emphasise the elimination of inequality and disparity in opportunity globally, in both 
+developed and developing countries. In particular, SDG 5 ‘to achieve gender equality and empower all 
+women and girls’ takes us far beyond the Millennium Development Goals (MDGs) and addresses many of 
+the important barriers to advancing women’s human rights: the persistence of discriminatory laws and 
+policies; alarming rates of violence against women and harmful practices; the lion’s share of unpaid care 
+work carried out by women and girls; and the unacceptably low number of women in decision-making 
+across all arenas, to mention a few. 
+ 
+In Australia, a great deal of momentum on gender parity has been created through the private sector. A 
+growing number of organisations are making policy changes, such as extending family and paternity leave 
+and increasing the number of women in boardrooms. However, despite positive outcomes, Australia’s 
+performance on the World Economic Forum’s global index measuring gender equality has steadily slipped 
+from their rank in 2006 as 15th overall to 36th in 2015.2 
+ 
+This drop in ranking is indicative of a need to further improve gender equality in Australia, especially given 
+the context of its international obligations under CEDAW, and the global agenda for development set by 
+the  SDGs.  By  financing  Australian  organisations  that  demonstrate  leading  practices  with  respect  to 
+workplace gender equality, NAB’s lending as described in this framework plays a key role in advancing the 
+Australian and global objective of achieving gender equality and empowerment for women. 
+ 
+Well positioned to address gender inequality in Australian workplaces  
+NAB is a leader within the banking industry in Sustainalytics’ Global Platform. The company ranks highest 
+amongst  industry  peers  based  on  its  overall  ESG  rating,  is  a  leader  in  environmental  and  social 
+performance, and an outperformer in the governance  category.  The company is notable for its  strong 
+disclosure on Human Capital measures, including detailed information on workforce composition, training 
+and employee engagement. As part of its reporting, the company discloses its remuneration by gender 
+ 
+1 https://www.legislation.gov.au/Series/C2004A02868  
+2 http://reports.weforum.org/global-gender-gap-report-2015/  
+
+8 
+
+ 
+ 
+
+© Sustainalytics 2017 
+
+and position. Although the company notes that there is a gender pay gap, it has ongoing initiatives to 
+reduce  and eventually eliminate the  gap. The company’s strong reporting is complimented by equally 
+strong programmes to attract, retain and develop its employees. For example, the company has enhanced 
+its benefits for new parents and increased its support for flexible work arrangements. Given its policies 
+and  programmes  aimed  at  creating  greater  gender  equality,  and  given  its  industry  leading  ESG 
+performance among its peers, Sustainalytics is of the opinion that NAB is well positioned to issue its first 
+Social Bond in this area. 
+ 
+Strength of the WGEA framework  
+Sustainalytics  assessed  the  EOCGE  citation  framework  that  determines  eligibility  of  organisations  for 
+funding  through  bond  proceeds,  and  determined  its  strengths  and  limitations.  Sustainalytics  is  of  the 
+opinion that the EOCGE citation framework assesses organisations on criteria that are comprehensive and 
+meaningful.  
+ 
+The strength of the WGEA EOCGE framework derives from the following three factors:  
+ 
+
+(i) 
+
+The EOCGE citation uses criteria that are meaningful and assess workplace gender equality in 
+a holistic manner 
+ 
+The combination of results-based criteria and process-based criteria contained in the EOCGE 
+citation ensure that it is a holistic measure of an organisation’s progress to create an equal 
+workplace.  The  EOCGE  assesses  organisations  on  criteria  that  demonstrate  results  in 
+achieving gender equality in the workplace, such as gender remuneration gap, and number 
+of  women  in  leadership  positions.  The  citation  also  assesses  organisations  on criteria that 
+demonstrate  the  organisation  has  processes  in  place  to  embed  gender  equality  in  the 
+workplace  over  the  long  term.  Three  such  process  based  criteria  include  employee 
+consultation, learning and development (for example, mentorship and career development 
+programs for women), and flexible working arrangements.  
+ 
+Most commonly, workplace gender equality is assessed solely through results based criteria, 
+often using the number of women on boards or in senior management as the primary metric. 
+However, results based metrics like the number of women in leadership positions serve only 
+as  a  signal  that  the  organisation  could  have  an  inclusive  workplace  and  environment. The 
+presence  of  women  in  leadership  positions  does  not,  by  itself,  imply  that  the  pathway  to 
+leadership is equitable, and that there are processes in place to allow women to progress to 
+leadership roles in a fair manner.  
+ 
+Process  based  criteria,  on  the  other  hand,  play  an  important  role  in  establishing  equal 
+opportunity in the workplace. Embedding processes, such as flexible working arrangements 
+and mentorship programs, is key to ensuring an equal chance of advancement for both men 
+and  women.  Such  processes  entrench  equal  opportunities  in  the  workplace,  and  are 
+important to ensure progress towards results. For example, flexible working arrangements 
+are  important  for  retention  of  women,  allowing  them  to  progress  to  senior  roles.  These 
+
+ 
+ 
+
+9 
+
+© Sustainalytics 2017 
+
+ 
+
+ 
+
+(ii) 
+
+(iii) 
+
+process-based criteria play a role in achieving results, like a high number women in leadership 
+positions.  
+ 
+Sustainalytics  is  of  the  opinion  that  this  combination  of  results-based  and  process-based 
+criteria ensures that EOCGE citation organisations are assessed on workplace gender equality 
+in a comprehensive and meaningful manner.  
+
+ 
+The EOCGE citation considers workplace gender equality an organisational priority through a 
+focus on accountability and targets 
+ 
+Sustainalytics  is  of  the  opinion  that  the  level  at  which  organisations  assign  ultimate 
+accountability for implementing their gender equality strategies, and the tracking of progress 
+of these strategies, are indicative of the priority they assign to achieving results.  
+ 
+The  EOCGE  citation  recognizes  the  importance  of  considering  workplace  gender  equality 
+initiatives  as  an  organisational  business  priority.  The  citation  assesses  if  accountability  for 
+workplace  gender  equality  lies  with  an  organisation’s  board,  CEO,  executive  or  senior 
+managers.  It  also  assesses  organisations  on  internal  targets  and  monitoring  of  progress 
+against those targets. Organisations that receive an EOCGE citation must demonstrate that 
+workplace  gender  equality  is  an  organisational  priority  through  having  a  formal  policy  to 
+support  gender  equality,  assigning  responsibility  for  the  implementation  of  that  policy  to 
+senior  leadership,  having  the  CEO  be  a  visible  champion  of  gender  equality,  and  tracking 
+progress on workplace gender equality internally. In Sustainalytics’ opinion, this is a strength 
+of the EOCGE framework.  
+ 
+
+The WGEA annually reviews and strengthens the EOCGE framework 
+ 
+WGEA regularly reviews the pre-requisites for achieving the EOCGE citation to assess if they 
+are  reflective  of  leading  practices  in  gender  equality.  The  WGEA  also  annually  makes 
+amendments  to  these  pre-requisites  in  line  with  new  legislation  and  constantly  evolving 
+industry best practices. For example, 10 new pre-requisites were added to achieve the EOCGE 
+citation in 2016. This ensures that the eligibility criteria for achieving the EOCGE citation is 
+constantly  strengthening,  and  that  the  bar  for  demonstrating  leading  practices  in  gender 
+equality  is  continually  being  raised.  Sustainalytics  is  of  the  opinion  that  such  self-
+strengthening criteria is indicative of best-practice, and is an important strength of the EOCGE 
+framework.  
+ 
+
+The WGEA EOCGE framework also has certain limitations. One such limitation is that it is not possible to 
+assess if EOCGE citation organisations align with a traditional ‘best-in-class’ approach. WGEA does not 
+track  the  ratio of organisations  that apply for the  EOCGE citation to those that apply  and successfully 
+achieve  the  citation.  Additionally,  it  can  be  challenging  to  understand  sustained  impact  at  the 
+organisational  level,  as  WGEA  does  not  systematically  track  how  often  an  organisations  achieves  the 
+
+ 
+ 
+
+10 
+
+© Sustainalytics 2017 
+
+EOCGE citation. Since application for the EOCGE citation is partly voluntary, and the criteria are continually 
+evolving, the loss of citation from one year to the next may not be indicative of failing standards. Finally, 
+the WGEA also does not track if organisations achieve the EOCGE citation through just meeting the pre-
+requisites in the citation application form, or through going above and beyond these required elements. 
+While the EOCGE pre-requisites themselves are beyond legal compliance, organisations that have gender 
+equality  initiatives  that  go  beyond  even  the  leading  practice  pre-requisites  are  not  identified. Despite 
+these  limitations,  Sustainalytics  is  of  the  opinion  that  the  EOCGE  citation  is  robust,  and  meaningfully 
+identifies organisations that have leading practices in workplace gender equality.  
+
+ 
+
+Alignment with the Social Bond Guidance and GBP 2016  
+NAB’s Social Bond is in alignment with the Social Bond Guidance with respect to Use of Proceeds, and 
+with the GBP pillars of Project Selection Process, Management of Proceeds, and Reporting.  Please see 
+Annex 1 for more details.  
+ 
+Conclusion  
+Sustainalytics’  assessment  of  the  WGEA  EOCGE  citation  concludes  that  the  Social  Bond’s  eligibility 
+criterion and the process to award the EOCGE citation is robust, and meaningfully identifies organisations 
+that have leading practices in workplace gender equality. The use of proceeds clearly seeks to achieve 
+positive outcomes as described in the Social Bond Guidance, and to advance the Sustainable Development 
+Goals. Additionally, NAB’s intention to transparently report on impact is aligned with market best practice. 
+Based on the above considerations, Sustainalytics is of the opinion that NAB’s Social Bond Framework is 
+credible, and will help to encourage greater workplace gender equality in Australia.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+11 
+
+© Sustainalytics 2017 
+
+Annex 2: Employer of Choice for Gender Equality (EOCGE) Citation Criteria 
+ 
+
+EOCGE criteria 
+
+Definition of criteria 
+
+Reporting on 
+criteria required 
+by WGE Act? 
+
+Leadership, 
+accountability, 
+and focus 
+
+This criterion assesses an organisation’s overall 
+strategies, policies and processes to achieve 
+gender equality. 
+
+Learning and 
+development 
+
+Gender 
+remuneration 
+gaps 
+
+Flexible working 
+arrangements 
+
+Employee 
+consultation 
+
+Preventing sex-
+based harassment 
+and 
+discrimination  
+
+Targets for 
+improving gender 
+equality 
+outcomes 
+
+ 
+
+This criterion assesses an organisation’s learning 
+and development strategies, policies and 
+processes aimed at building capability throughout 
+the organisation, as well as having career 
+development and leadership programs in place 
+for women and men. 
+This criterion assesses an organisation’s policies, 
+strategies and processes to address gender 
+remuneration equity and show progress in closing 
+any gender remuneration gaps over time. 
+This criterion assesses an organisation’s policies, 
+strategies and processes to encourage the use of 
+flexible working arrangements for women and 
+men at all levels of the organisation. 
+This criterion gives an indication of an 
+organisation’s culture in relation to gender 
+equality using feedback from workers via 
+anonymous survey questions. 
+This criterion assesses the way an organisation 
+educates all workers (including casual and 
+contract staff) on their rights and obligations 
+regarding sex-based harassment and 
+discrimination, with the aim of eliminating sex-
+based harassment and discrimination in the 
+workplace and promoting an inclusive culture 
+through education and skills-based training. 
+This criterion assesses whether an organisation 
+has set specific, measurable, achievable and time-
+framed numerical targets where the 
+representation of women in management and on 
+its governing body/board (where the organisation 
+has control over governing body/board 
+appointments) is less than forty per cent. 
+
+Yes 
+
+No 
+
+Yes 
+
+Yes 
+
+Yes 
+
+Yes 
+
+Yes 
+
+ 
+
+ 
+ 
+
+How is the EOCGE 
+criteria beyond legal 
+compliance? 
+Reporting on leading 
+practice indicators in 
+criteria is beyond legal 
+compliance. 
+ 
+Reporting on criteria 
+is beyond legal 
+compliance. 
+
+Reporting on leading 
+practice indicators in 
+criteria is beyond legal 
+compliance. 
+Reporting on leading 
+practice indicators in 
+criteria is beyond legal 
+compliance. 
+Reporting on leading 
+practice indicators in 
+criteria is beyond legal 
+compliance. 
+ 
+Reporting on leading 
+practice indicators in 
+criteria is beyond legal 
+compliance. 
+
+ 
+Reporting on leading 
+practice indicators in 
+criteria is beyond legal 
+compliance. 
+
+18 
+
+© Sustainalytics 2017 
+
+Annex 3: Sustainalytics’ Controversy Assessment Methodology 
+ 
+Controversies are an assessment of a company’s past involvement in incidents that had a negative impact 
+on  stakeholders,  and  that  pose  outstanding  risks  to  the  company.  Sustainalytics  analyses  companies’ 
+involvement in controversies based on several factors, including impact of the incident, recurrence and 
+pattern  of  incidence,  company  response,  and  managerial  responsibility.  After  analysis,  companies’ 
+involvement in controversies is classified on a hurricane scale of 1 to 5. Controversies are assessed as 
+Category 1 if they have a low impact on the environment and society, and pose negligible risks to the 
+company. Controversies are assessed as Category 5 if they have a severe impact on the environment and 
+society, and pose a serious risk to the company. Category 5 represents the most severe corporate conduct.  
+ 
+ 
+Annex 4: NAB’s Overall ESG performance (as assessed by Sustainalytics)  
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+19 
+
+© Sustainalytics 2017 
+
+Disclaimer 
+All rights reserved. No part of this second party opinion (the “Opinion”) may be reproduced, transmitted 
+or published in any form or by any means without the prior written permission of Sustainalytics.  
+  
+The Opinion was drawn up with the aim to explain why the analyzed bond is considered sustainable and 
+responsible. Consequently, this Opinion is for information purposes only and Sustainalytics will not 
+accept any form of liability for the substance of the opinion and/or any liability for damage arising from 
+the use of this Opinion and/or the information provided in it. 
+  
+As the Opinion is based on information made available by the client, Sustainalytics does not warrant that 
+the information presented in this Opinion is complete, accurate or up to date. 
+  
+Nothing contained in this Opinion shall be construed as to make a representation or warranty, express or 
+implied, regarding the advisability to invest in or include companies in investable universes and/or 
+portfolios. Furthermore, this Opinion shall in no event be interpreted and construed as an assessment of 
+the economic performance and credit worthiness of the bond, nor to have focused on the effective 
+allocation of the funds’ use of proceeds. 
+  
+The client is fully responsible for certifying and ensuring its commitments compliance, implementation 
+and monitoring. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+20 
+
+© Sustainalytics 2017 
+
+SUSTAINALYTICS 
+ 
+Sustainalytics  is  an  independent  ESG  and  corporate  governance  research,  ratings  and  analysis  firm 
+supporting  investors  around  the  world  with  the  development  and  implementation  of  responsible 
+investment  strategies. With 13 offices globally, Sustainalytics partners with institutional investors who 
+integrate  environmental,  social  and  governance  information  and  assessments  into  their  investment 
+processes.  Today,  the  firm  has  more  than  300  staff  members,  including  170  analysts  with  varied 
+multidisciplinary  expertise  of  more  than  40  sectors.  Through  the  IRRI  survey,  investors  selected 
+Sustainalytics as the best independent responsible investment research firm for three consecutive years, 
+2012 through 2014 and in 2015, Sustainalytics was named among the top three firms for both ESG and 
+Corporate Governance research. The firm was also named the Best SRI or Green Bond Research Firm by 
+Global Capital in 2015. For more information, visit www.sustainalytics.com  
+ 
+ 
+Sustainalytics 
+info@sustainalytics.com  
+www.sustainalytics.com  
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+21 
+
+

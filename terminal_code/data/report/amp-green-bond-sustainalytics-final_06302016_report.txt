@@ -1,0 +1,720 @@
+  
+ 
+  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+AMERICAN MUNICIPAL 
+
+POWER, INC. 
+
+MELDAHL HYDROELECTRIC 
+PROJECT REVENUE BONDS 
+SERIES 2016A GREEN BOND 
+
+ 
+ 
+ 
+FRAMEWORK OVERVIEW AND SECOND OPINION BY 
+
+ 
+
+ 
+
+SUSTAINALYTICS 
+
+June 30th, 2016 
+
+www.sustainalytics.com 
+ 
+www.sustainalytics.com 
+ 
+www.sustainalytics.com 
+
+Marion Oliver  
+
+Charlotte Peyraud  
+
+Manager, Advisory Services (Toronto) 
+marion.oliver@sustainalytics.com 
+(+1) 647 317 3644 
+
+Senior Advisor, Institutional Relations (New York) 
+
+charlotte.peyraud@sustainalytics.com 
+
+(+1) 646 518 0184 
+
+ 
+ 
+
+ 
+ 
+
+Vikram Puppala  
+
+Vikram Puppala  
+
+© Sustainalytics 2016 
+
+TABLE OF CONTENTS 
+
+FRAMEWORK OVERVIEW AND SECOND OPINION BY SUSTAINALYTICS 
+
+1.  Preface 
+
+2. 
+
+Introduction 
+
+3.  Framework overview 
+3.1  Use of Proceeds 
+3.2  Project Evaluation and Selection Process 
+3.3  Management of Proceeds 
+3.4  Reporting 
+
+4  SUSTAINALYTICS’ OPINION 
+
+Conclusion 
+
+APPENDICES 
+
+SUSTAINALYTICS 
+
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+1 
+
+3 
+
+3 
+
+3 
+3 
+4 
+4 
+4 
+
+6 
+6 
+
+8 
+
+16 
+
+2 
+
+© Sustainalytics 2016 
+
+1. PREFACE 
+ 
+American Municipal Power, Inc. (“AMP”), a non-profit wholesale power supplier and services provider, 
+has  engaged  Sustainalytics  to  review  its  planned  Meldahl  Hydroelectric  Project  Revenue  Bond,  Series 
+2016A Green Bond (“Green Bond”) and provide an opinion. As part of this engagement, Sustainalytics 
+held  conversations  with  AMP’s  treasury  and  sustainability  teams  to  understand  the  use  of  proceeds, 
+management of proceeds and reporting aspects of its Green Bond as well as sustainability strategy of 
+AMP. Sustainalytics also reviewed relevant public and internal documents and provided its opinion on the 
+Green Bond. This document contains two sections:  Framework Overview – a summary of AMP’s Green 
+Bond framework; and Sustainalytics’ Opinion – an opinion on the framework.   
+ 
+2. INTRODUCTION 
+ 
+AMP was founded in 1971 and is headquartered in Columbus, Ohio. The company purchases, generates, 
+manages,  and  sells  electric  capacity  and  energy  to  municipal  communities  in  Ohio,  Pennsylvania, 
+Michigan, Virginia, Kentucky, West Virginia, Indiana, Maryland, and Delaware.  
+ 
+AMP will use the proceeds from the approximately 100 million USD Green Bond to complete the financing 
+of  the  Meldahl  Hydroelectric  Project.  The  Meldahl  Project  is  a  105  MW  run-of-river  hydroelectric 
+generating  facility  which  went  into  commercial  operation  on  April  12,  2016  at  the  Captain  Anthony 
+Meldahl Dam on the Ohio River. The Meldahl Project diverts water from the existing U.S. Army Corps of 
+Engineers’ Meldahl Locks and Dam through bulb turbines to generate an average gross annual output of 
+approximately 555.562 million kWh. The site includes an intake approach channel, a reinforced concrete 
+powerhouse, and a tailrace channel. The powerhouse houses three horizontal 35-MW bulb-type turbine 
+and generating units with an FERC Licensed rated capacity of 105 MW at a gross head of 30 feet.1 
+  
+3. FRAMEWORK OVERVIEW 
+For this green bond issued by AMP a framework has been created that follows the four key pillars of the 
+Green Bond Principles (“GBP”): 
+
+  Use of Proceeds 
+  Selection Process 
+  Management of Proceeds 
+  Reporting 
+
+ 
+3.1   Use of Proceeds 
+The proceeds of the Green Bond will be allocated towards financing a run-of-river hydroelectric project.  
+ 
+The context: Reducing the company’s overall emissions profile is among AMP’s Sustainability Principles. 
+AMP recognizes that reductions of airborne emissions can be achieved through investing in zero-emission 
+
+ 
+1 http://www.amppartners.org/generation/hydro. 
+
+ 
+ 
+
+3 
+
+© Sustainalytics 2016 
+
+generation technologies such as hydroelectric and other renewables. AMP states that it is mindful that 
+greenhouse gas emissions will be limited at some point in the future, and therefore the company aims to 
+prudently  invest  in  projects  to  offset  carbon  dioxide  and  other  GHG  emissions  from  its  fossil  fuel 
+generation resources.2  
+ 
+Use of Proceeds: The proceeds of the Green Bond will be used to finance additional construction costs, 
+repay draws on a line of credit and fund a deposit to the parity common reserve account of the Meldahl 
+Project (“Meldahl Project”), a three-unit run-of-river hydroelectric generating facility constructed on the 
+Captain Anthony Meldahl Locks and Dam, an existing dam on the Ohio River. The project produces GHG-
+emission-free renewable energy that will reduce the company’s participating member’s overall emissions 
+profile.  
+ 
+3.2  Project Evaluation and Selection Process 
+AMP’s  management  sets  guidelines  and  priorities  for  all  projects,  including  renewable  energy 
+projects.  The selection of projects is based on the following considerations: 
+ 
+
+  The time period in which the expenditures are to be made; 
+  Expenditures that are eligible for reimbursement. These expenditures include design, engineering 
+
+and surveying that occur before the commencement of a project; 
+
+  Expenditures that have not been allocated to grants or other bond issues. 
+
+ 
+ 
+
+3.3      Management of Proceeds  
+The proceeds from the AMP Green Bonds will be held in a trust account and used to i) repay AMP’s line 
+of credit for the costs of construction allocable to the completion of the Meldahl Project, ii) fund a reserve 
+fund securing bonds issued for the Project, and iii) pay the costs of issuance for the bonds. Therefore, all 
+the funds will be allocated immediately. Under the Master Trust Indenture securing the bond issued for 
+the  Project,  including  the  Green  Bonds,  AMP  must  comply  with  various  requirements  in  order  for 
+expenses  related  to  the  Meldahl  Project  to  be  paid,  including  those  pertaining  to  the  verification  of 
+expenses, appropriate AMP signatories and the transfer of funds to a Depository, as well as to the Bond 
+Trustee.  Furthermore,  accounts  are  reconciled on  a monthly  basis  to  the  activity  that  occurred  in  the 
+account.   
+ 
+3.4    Reporting  
+AMP commits to provide reporting on the following KPIs for the Meldahl Project within the company’s 
+annual sustainability report and through quarterly update reports, both published on the company’s 
+website.   
+ 
+
+  Net renewable capacity (MW) 
+  Net annual renewable generation (MWh) 
+  Capacity factor (%) 
+
+ 
+2 AMP Sustainability Principles 2013. 
+
+ 
+ 
+
+4 
+
+© Sustainalytics 2016 
+
+  Annual GHG emissions avoided (Tons) 
+  SO2 emissions avoided (Tons) 
+  NOx emissions avoided (Tons) 
+  GHG emissions factor (lbs/MWh) 
+  SO2 emissions factor (lbs/MWh) 
+  NOx emissions factor (lbs/MWh) 
+  Market power fuel breakdown (%) 
+
+ 
+
+For an example of this KPI reporting for projected operations, please see Appendix A. 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+5 
+
+© Sustainalytics 2016 
+
+4  SUSTAINALYTICS’ OPINION 
+ 
+Commitment  to  renewable  energy  development:  In  2005,  AMP’s  Board  of  Trustees  adopted  the 
+company’s  Environmental  Stewardship  Principles.  The  principles  were  renamed  the  Sustainability 
+Principles in 2011, and continue to be revised to maintain their relevance, with the last revision by the 
+company’s Board of Trustees taking place in 2013. There are currently seven Sustainability Principles that 
+AMP uses to guide its approach to sustainability. These principles include a commitment to both providing 
+a balanced and sustainable power supply portfolio and reducing the company’s overall emissions profile. 
+To adhere to these commitments, AMP describes a number of investments in renewable energy, including 
+run-of-river hydroelectric, wind, solar, and landfill gas. In addition, AMP commits to publically reporting 
+GHG emissions avoidance data on an annually basis, demonstrating a commitment to transparency.  
+ 
+Large-scale run-of-river hydro with overall positive impact: Sustainalytics recognizes that the Meldahl 
+Project, which will result in electricity generation for AMP of 105 MW, does not fall within the generally 
+accepted  limit  for  small-scale  run-of-river  hydro  of  15  MW.  However,  because  the  Meldahl  Project  is 
+located at the existing Captain Anthony Meldahl Dam on the Ohio River, it will not result in the negative 
+environmental impacts, such as loss of wildlife habitat and aquatic biodiversity, that are often associated 
+with large-scale hydro development, which typically involves the construction of a new dam and reservoir. 
+Sustainalytics is therefore of the opinion that the Meldahl Project offers clear environmental benefits and 
+net positive impact. This view is in line with generally accepted standards.3 
+ 
+Alignment with Green Bond Principles 2016: Sustainalytics has determined that AMP’s Green Bond 
+aligns to the four pillars of the Green Bond Principles 2016. For detailed information please refer to 
+Appendix B: Green Bond Principles Green Bond/Green Bond Programme External Review Form. 
+ 
+ 
+Conclusion 
+ 
+The U.S. Environmental Protection Agency estimates that CO2 emissions from fossil fuel burning electricity 
+generating units amounts to roughly 31 percent of the United States’ overall CO2 emissions, the largest 
+single source of CO2 emissions for the country.4 By focusing on an area of such high environmental impact, 
+AMP is targeting carbon reduction efforts in an industry that would benefit significantly from mitigating 
+further negative environmental impacts. 
+ 
+AMP’s Green Bond will finance the completion of the Meldahl Project which provides GHG-emission-free 
+renewable energy to the municipalities that it serves. Although the Meldahl Project is considered large-
+scale  hydro,  the  construction  has  occurred  on  an  existing  dam,  and  has  therefore  avoided  any  of  the 
+negative  impacts  that  are  often  associated  with  large-scale  hydroelectric  development  projects. 
+Furthermore, the Meldahl Project has received the required environmental permitting under the Clean 
+
+ 
+3 For example, in the Climate Bond Standards large-scale hydroelectric projects greater than 20 MW are acceptable for green bonds if the 
+construction involves modifying existing large-scale hydro in temperate zones or involves the re-powering of existing large-scale hydro. 
+
+4 EPA website  https://www3.epa.gov/climatechange/ghgemissions/gases/co2.html. 
+
+6 
+
+ 
+ 
+
+© Sustainalytics 2016 
+
+Water Act and the Navigable Rivers and Harbors Act. Hence, investing in this Green Bond can be seen as 
+investing in renewable energy generation that results in a positive environmental impact. 
+ 
+AMP’s Green Bond follows the guidance provided by the Green Bond Principles 2016 and are in alignment 
+with its four components: the use of proceeds, process of project evaluation and selection, management 
+of proceeds and reporting. 
+ 
+The  above  two  points  should  provide  confidence  to  investors  that  AMP’s  Green  Bond  is  robust  and 
+credible. 
+ 
+
+ 
+ 
+
+7 
+
+© Sustainalytics 2016 
+
+2017 
+105 
+
+2018 
+105 
+
+2016 
+105 
+
+ APPENDICES 
+Appendix A: AMP Meldahl Project: Projected Operations 
+  
+Net Renewable Capacity 
+(MW) 
+Net Annual Renewable 
+Generation (MWh) 
+Capacity Factor (%) 
+Emissions Avoidance 
+Annual GHG emissions 
+avoided (Tons) 
+SO2 emissions avoided 
+(Tons) 
+NOx emissions avoided 
+(Tons) 
+
+555,562  
+60.4% 
+
+273,337  
+411 
+
+144,039  
+229 
+
+276,114  
+422 
+
+284,100  
+61.8% 
+
+555,562  
+60.4% 
+
+            
+
+           
+
+  
+
+          
+
+111 
+
+200 
+
+  
+
+  
+
+  
+
+273,337  
+411 
+
+275,003  
+417 
+
+194 
+
+186 
+
+186 
+
+          
+
+            
+
+           
+
+          
+
+          
+
+2019 
+105 
+
+2020 
+105 
+
+555,562  
+60.4% 
+
+555,562  
+60.4% 
+
+  
+
+          
+
+          
+
+ 
+
+ 
+
+ 
+
+PJM Market Power 
+Emissions Rate5 
+GHG emissions Factor 
+(lbs/MWh) 
+SO2 emissions Factor 
+(lbs/MWh) 
+NOx emissions Factor 
+(lbs/MWh) 
+
+PJM Market Power Fuel 
+Breakdown6 
+Coal 
+Oil 
+Natural Gas 
+Nuclear 
+Renewables/Other* 
+Totals 
+
+2016 
+
+2017 
+
+2018 
+
+2019 
+
+2020 
+
+1014 
+
+994 
+
+984 
+
+984 
+
+990 
+
+1.61 
+
+1.52 
+
+1.48 
+
+1.48 
+
+1.50 
+
+0.78 
+
+0.72 
+
+0.67 
+
+0.67 
+
+0.70 
+
+2016 
+
+2017 
+
+2018 
+
+2019 
+
+2020 
+
+41.0% 
+0.5% 
+21.0% 
+33.0% 
+4.5% 
+100.0% 
+
+39.0% 
+0.5% 
+23.0% 
+33.0% 
+4.5% 
+100.0% 
+
+38.0% 
+0.5% 
+24.0% 
+33.0% 
+4.5% 
+100.0% 
+
+38.0% 
+0.5% 
+24.0% 
+33.0% 
+4.5% 
+100.0% 
+
+38.5% 
+0.5% 
+23.0% 
+33.0% 
+5.0% 
+100.0% 
+
+ 
+5 PJM 2015 Emissions Report. 
+   PJM Evolution of Supply Managing the Evolving Fuel Mix in Markets and Operations.  
+6 PJM 2015 Emissions Report. 
+   PJM Evolution of Supply Managing the Evolving Fuel Mix in Markets and Operations 
+
+ 
+ 
+
+8 
+
+© Sustainalytics 2016 
+
+Appendix C: Documents Reviewed 
+ 
+Sustainalytics reviewed the following documents for the purposes of writing this report 
+ 
+
+Number  Document Name 
+1 
+2 
+3 
+4 
+5 
+
+AMP Draft POS Series 2016A, July 2016 
+AMP Draft 2015 Sustainability Report  
+AMP Internal Management of Funds Description  
+AMP Meldahl Project: Project Operations KPIs  
+AMP Sustainability Principles 2013 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+14 
+
+© Sustainalytics 2016 
+
+Disclaimer 
+All rights reserved. No part of this second party opinion (the “Opinion”) may be reproduced, transmitted 
+or published in any form or by any means without the prior written permission of Sustainalytics.  
+  
+The Opinion was drawn up with the aim to explain why the analyzed bond is considered sustainable and 
+responsible. Consequently, this Opinion is for information purposes only and Sustainalytics will not 
+accept any form of liability for the substance of the opinion and/or any liability for damage arising from 
+the use of this Opinion and/or the information provided in it. 
+  
+As the Opinion is based on information made available by the client, Sustainalytics does not warrant that 
+the information presented in this Opinion is complete, accurate or up to date. 
+  
+Nothing contained in this Opinion shall be construed as to make a representation or warranty, express or 
+implied, regarding the advisability to invest in or include companies in investable universes and/or 
+portfolios. Furthermore, this Opinion shall in no event be interpreted and construed as an assessment of 
+the economic performance and credit worthiness of the bond, nor to have focused on the effective 
+allocation of the funds’ use of proceeds. 
+  
+The client is fully responsible for certifying and ensuring its commitments` compliance, implementation 
+and monitoring. 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+
+15 
+
+© Sustainalytics 2016 
+
+SUSTAINALYTICS 
+Sustainalytics is the largest independent provider of sustainability 
+research, analysis, and services to investors. We serve over 250 
+institutional investors which include some of the world's largest asset 
+owners and asset managers. Through over 20 years of experience 
+serving the responsible investment (RI) market, we have gained a 
+reputation for providing high-quality ESG research solutions and 
+excellent client service. 
+
+Sustainalytics is headed by seasoned professionals in the field of 
+business, finance, and sustainability, with a wealth of experience in 
+the Responsible Investment area. After more than 20 years of local 
+experience and expertise in the Responsible Investment (RI) market 
+Sustainalytics has developed a comprehensive understanding of 
+trends and best practices and a solid process to assist organisations in 
+integrating ESG considerations into their policies and strategies. We 
+have worked with some of the world’s financial institutions including 
+pension plans, investment managers and banks providing customised 
+support to help them achieve their RI objectives. Clients include ABN 
+AMRO, APG, BBVA, BNP Paribas, Deutsche Bank, ING Bank, Lombard 
+Odier, Lloyds Bank, Triodos Bank, UBS and over 250 other financial 
+institutions and organisations. 
+
+Sustainalytics now has a staff of 250 employees globally, including 
+over 120 analysts, with operations in Amsterdam, Boston, Bucharest, 
+Frankfurt, New York, Paris, London, Singapore, Sydney, Timisoara, and 
+Toronto, and representation in Brussels and Washington DC. 
+
+In 2015, Sustainalytics was named the Best SRI or Green Bond 
+Research Firm by GlobalCapital. In 
+December 2014, for the third year in a 
+row, Sustainalytics was named best 
+sustainable and responsible investment 
+research firm in the Independent 
+Research in Responsible Investment (IRRI) 
+Survey, conducted by Thomson Reuters 
+and SRI-CONNECT.  
+
+ 
+ 
+
+16 
+
+

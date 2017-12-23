@@ -1,0 +1,657 @@
+ 
+ 
+  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+THE PROVINCE OF JUJUY 
+
+GREEN BOND 
+
+ 
+
+ 
+
+FRAMEWORK OVERVIEW AND SECOND PARTY 
+
+OPINION BY SUSTAINALYTICS 
+
+July 13, 2017 
+
+Ankita Shukla (Toronto) 
+Senior Advisor, Advisory Services 
+ankita.shukla@sustainalytics.com  
+(+1) 416 861 0403 
+
+Georgina Symons-Jones (London)  
+Manager, Institutional Relations 
+georgina.symonsjones@sustainalytics.com 
+(+44) 203 514 3124 
+
+www.sustainalytics.com 
+ 
+www.sustainalytics.com 
+ 
+www.sustainalytics.com 
+ 
+
+© Sustainalytics 2017 
+
+TABLE OF CONTENTS 
+
+1.  Preface 
+
+2.  Overview of Issuer 
+
+3.  Framework Overview 
+
+3.1  Use of Proceeds 
+3.2  Project Evaluation and Selection Process 
+3.3  Management of Proceeds 
+3.4  Reporting 
+
+4  Sustainalytics’ Opinion 
+
+Section 1: Sustainability Commitments of the Issuer 
+Section 2: Impact of Use of Proceeds 
+Conclusion 
+
+Appendix 1 
+
+Appendix 2 
+
+Sustainalytics 
+
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+3 
+
+3 
+
+4 
+4 
+5 
+6 
+6 
+
+7 
+7 
+9 
+10 
+
+11 
+
+12 
+
+18 
+
+2 
+
+© Sustainalytics 2017 
+
+1. PREFACE 
+ 
+La Provincia de Jujuy, a province in Argentina (hereinafter reffered to as “the Province of Jujuy”, or “the 
+Province”)  intends to issue  a  Green Bond  to  finance  the  300  MW  Cauchari solar park  project  and has 
+engaged Sustainalytics to provide a second party opinion on its Green Bond Framework. Sustainalytics’ 
+opinion  intends  to  provide  an  assessment  of  the  Green  Bond  Framework’s  alignment  with  the 
+transparency and reporting requirements of the Green Bond Principles1 as well as assess the Province’s 
+overall sustainability commitment and its alignment with the framework. 
+ 
+To come to this opinion, Sustainalytics reviewed several public and internal documents provided by the 
+Province of Jujuy. These documents were reviewed to understand the Province’s commitments, the use 
+of  proceeds,  management  of  proceeds  and  reporting  aspects  of  the  Green  Bond  to  be  issued.  This 
+document  contains  two  sections:  Framework  Overview  –  summary  of  the  the  Province’s  Green  Bond 
+Framework; and Sustainalytics’ Opinion – an opinion of the framework.   
+ 
+  
+2. OVERVIEW OF ISSUER 
+ 
+La Provincia de Jujuy is located in the northwest region of Argentina, bordering both Chile and Bolivia. 
+The Province is in the process of formalizing its “Green Jujuy: Carbon Neutral 2030” program to address 
+climate change and advance the provincial contribution of renewable energy. 2 The Province is 
+committed to: 
+
+  make a large contribution to reduce GHG emissions; 
+  generate ~50% of its energy demand from renewable sources in 2017; 
+ 
+
+increase its solar energy generation two-and-a-half times the province’s energy demand in 
+eight or nine years.3 
+
+ 
+Solar energy studies made throughout the country show that the northwest region of Argentina is one 
+of the most suitable sites for renewable energy generation because it has one of the highest solar 
+irradiation of the world (See Appendix 1). 
+ 
+In line with its commitment to increase its generating capacity of renewable energy, the Province is 
+issuing a Green Bond to finance a solar park project with a generating capacity of 300MW in the region 
+of Cauchari. 
+
+ 
+
+ 
+
+1 The Green Bond Principles are voluntary process guidelines that recommend transparency and disclosure and promote integrity in the 
+
+development of the Green Bond market. They provide issuers guidance on the key components involved in launching a credible Green Bond 
+and aid investors by ensuring availability of information necessary to evaluate the environmental impact of their Green bond investments. 
+
+2 www.paginacentral.com.ar/politica-jujuy/8029-campana-jujuy-verde-carbono-natural-
+
+2030&usg=ALkJrhjCmRNFWfv4dJSu9w2GEP7hPCGE3A   
+
+3 https://www.pv-tech.org/news/argentina-plans-3gw-of-solar-in-jujuy  
+
+3 
+
+ 
+ 
+
+© Sustainalytics 2017 
+
+3. FRAMEWORK OVERVIEW 
+ 
+The following section summarizes the Province of Jujuy Green Bond Framework which follows the four 
+key pillars of the Green Bond Principles (GBP) including: the use of proceeds, process for project selection, 
+management of proceeds, and reporting. 
+ 
+ 
+3.1   Use of Proceeds 
+ 
+The  proceeds of the  Green  Bond  will  be  allocated towards  financing  projects  that  meet  the  following 
+eligibility criteria. 
+ 
+3.1.1  Eligibility Criteria 
+ 
+RENEWABLE ENERGY 
+ 
+The Province will use Green Bond proceeds for expenditures related to the development of the Province 
+of  Jujuy’s  300MW  Cauchari  solar  park  project  which  consists  of:  Photovoltaic  Park  Cauchari  Solar  I 
+(100MW), Photovoltaic Park Cauchari Solar II (100MW), and Photovoltaic Park Cauchari Solar III (100MW). 
+ 
+Proceeds  may  be  used  towards  capital  and  operational  expenditures  allocated  to  acquisition, 
+development, operation and maintenance of the Cauchari solar park. Such expenditures may include: 
+
+1.  Project studies (e.g. technical solar energy potential reports) 
+2.  Environmental impact and Social impact reports 
+3.  Engineering design 
+4.  Construction  work  (including  electrical  installation,  related  building  structures,  supporting 
+
+facilities during construction phase, etc.) 
+
+5.  Acquisition of solar photovoltaic (PV) panels 
+6.  Acquisition of electrical equipment (e.g. transformers, cables, special illumination for obstacle, 
+
+etc.) 
+
+7.  Acquisition of (other) equipment (e.g. waterproofing materials, water pressure pipes, etc.) 
+8.  Commissioning expenses (costs of configuration, security, etc.) 
+9.  Capital contribution in the company/project investing in and/or operating the solar park 
+10. Taxes, fees and/or duties related to the import of goods and services for the direct benefit of 
+
+the construction and/or operation of the solar park 
+
+11. Legal counseling 
+12. Risk insurances 
+13. Project Management 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+4 
+
+© Sustainalytics 2017 
+
+3.2  Project Evaluation and Selection Process 
+ 
+Environmental Sustainability Objective of the Issuer 
+The Province has selected the solar park projects on its ability to contribute to the Green Jujuy: Carbon 
+Neutral 2030 program in order to advance the provincial contribution of renewable energy. Additionally, 
+the Cauchari solar project is expected to position the Province as a leader in solar PV installations within 
+Latin America. 
+ 
+Project Evaluation and Selection 
+The  Province  of  Jujuy’s  Energy  and  Mining  State  Company  (JEMSE)  is  in  charge  of  all  technical  and 
+environmental  obligations  of  the  project.  The  Cauchari  solar  park  project  was  approved  following  a 
+technical, legal, organizational, economic and financial feasibility study.  
+ 
+Cauchari was  selected as the  location of the solar park project  following a  feasibility study which had 
+considered the following factors: 
+
+1.  The availability of evacuation line and its capacity; 
+2.  The  radiation  levels  of  the  site  are  significantly  higher  than  other  locations  in  the  world  (See 
+
+Appendix 1); 
+
+3.  There are optimum conditions for stable and near constant production throughout the year; 
+4.  The availability of large tracts of land with no other alternative uses; 
+5.  The short distance to the evacuation line; 
+6.  The infrastructure already exists for operable logistics and communication throughout the year; 
+7.  The topography of the site that does not require significant soil movement or deforestation; 
+8.  The  low  surrounding  population  which  reduces  negative  impact  of  the  project  to  nearby 
+
+communities. 
+
+ 
+The  Cauchari Solar park project  has been awarded a tender for  a  20 year Power Purchase  Agreement 
+which was submitted following an extensive technical, legal and environmental feasibility analysis carried 
+out by the regulator (Wholesale Electricity Market Administration Company, CAMMESA). 
+ 
+Risk Mitigation 
+The  Province  has  undergone  various  impact  assessments,  received  land  use  permits  and  has  met  all 
+applicable environmental laws.  
+ 
+
+1.  Environmental Impact Assessment - the Province had conducted an EIA governed by Decree No. 
+5980 of - Environmental Impact Assessment and Technical Norms of Environmental Quality for 
+the  protection  of  the  atmosphere,  water  and  soil.  The  project  was  granted  environmental 
+feasibility on August  11, 2016, through resolution 182-SCA / 2016, 183-SCA / 2016, 184-SCA / 
+2016 issued by the Environmental Quality Secretariat of the Ministry of Environment, Province of 
+Jujuy. 
+ 
+
+2.  Land Use Permits - the project will be located in the Aboriginal Community, "Termas de Tuzgle - 
+Atacama Village", in the town of Puesto Sey. The Province has entered into an agreement with 
+the  Aboriginal Community  to  use  the  land  for  the  development of  a  solar  park,  for  which  the 
+
+5 
+
+ 
+ 
+
+© Sustainalytics 2017 
+
+project will pay to the community 2% of its net profit, will prioritize the adquisition of goods and 
+services from local vendors and has committed to support their development. 
+
+3.  National and Provincial Laws - all relevant national and provincial laws have been complied to. 
+Particular importance for application has been given to National Law 27.191 “Renewables Energy 
+for the Production of Electric Energy” and Provincial Law 5.904 “Promotion and Development of 
+Solar Energy”. 
+
+ 
+
+ 
+ 
+
+3.3        Management of Proceeds  
+
+ 
+The proceeds will be tracked and accounted for by the Minister of Finance of the Provincia of Jujuy to 
+finance projects that meet the Eligibility Criteria stated in Section 3.1.1. Proceeds from the bond issuance 
+will be transferred from the Paying Agent account (BNY Mellon) to a local USD account in Banco Nación 
+Argentina, Jujuy branch. The Province of Jujuy will be the beneficiary of this account. The funds will then 
+be transferred to a Jujuy’s Energy and Mining State Company (JEMSE) USD account located in the Jujuy 
+branch in either of the two banks: ICBC and Galicia. JEMSE will make all payments related to the project 
+on behalf of the each of the Special Purpose Vehicles: Cachauri I, Cachauri II and Cachauri III.  
+ 
+Pending allocation of the green bond proceeds to eligible green project, the net proceeds from the bond 
+may be used for cash, cash equivalents (time deposits) and short term securities issued by the National 
+Government. All instruments will be nominated in USD and for a period no longer than 360 days. 
+ 
+ 
+3.4    Reporting  
+ 
+Allocation Reporting 
+Annually, until the proceeds are fully allocated from the Green Bonds, the Province will provide disclosure 
+regarding the amount of Green Bond proceeds allocated to eligible projects. Disclosure on the allocation 
+of  the  bond  proceeds  will  be  included  in  JEMSE’s  financial  statements  which  will  be  available  on  the 
+Province’s website at the end of each fiscal year (http://prensa.jujuy.gob.ar/tag/jemse/). This disclosure 
+will  continue  until  such  time  as  the  proceeds  of  the  bonds  are  fully  expended.  Once  all  Green  Bond 
+proceeds  are  allocated  and  disclosure  regarding  such  allocation  is  made,  no  further  updates  will  be 
+provided. 
+ 
+Impact Reporting 
+The Province has committed to quantitatively disclosing the following:  
+
+1.  Net annual installed capacity in MW;  
+2.  Estimated GHG emissions avoided annually in tonnes of CO2 avoided. 
+
+ 
+Given that the project portfolio has already been defined, impact indicators will be static throughout the 
+life of the Green Bond. 
+
+ 
+
+ 
+ 
+
+6 
+
+© Sustainalytics 2017 
+
+4  SUSTAINALYTICS’ OPINION 
+ 
+Section 1: Sustainability Commitments of the Issuer 
+ 
+Contribution of framework to national renewable energy commitments 
+Argentina  has  been  running  an  energy  deficit  since  2011,  which  has  triggered  various  ambitious 
+government initiatives to install additional capacity with a focus on renewable energy growth. In 2016, 
+more than 60% of Argentina’s energy came from fossil fuels and only 2% from renewable energy, which 
+included 215 MW of installed wind power capacity and 15 MW of solar. 
+ 
+The Argentinian government had declared 2017 as the “Year of Renewable Energy”. This was supported 
+by a commitment to increase the share of renewable energy in total capacity from 2% in 2016 to 8% by 
+December 2017, and to 20% by December 2025, which is in line with Argentina’s commitment to the Paris 
+Agreement  to  combat  Climate  Change.  4  The  government  has  recently  established  various  legal 
+frameworks and programmes in order to achieve its reduction targets which include: 
+
+1.  Law  27.191,  published  on  31  March  2016,  which  is  the  main  policy  supporting  Argentina’s 
+
+development of renewables and establishes the country’s renewables mandate.  
+
+2.  Renewable Energy Plan 2016-2025 (RenovAr), which incorporates features such as government-
+sponsored project financing, guarantees supported by multilateral institutions, fiscal incentives, 
+and  put  options  allowing  project  owners  to  short-circuit  dispute  resolution  procedures  in  the 
+event of key default scenarios. 
+
+ 
+The government predicts that a reduction of 8% by the end of 2017 requires investments of approximately 
+$5 billion in order to install between 2,000 and 3,000 MW and between $15 billion and $20 billion in order 
+to install 10,000 MW by 20255. Under the RenovAR, the government awarded a total of 1,100 MW worth 
+of  new  renewable  energy  projects  in  2016.6  Of  the  400  MW  of  solar  electricity  projects  which  were 
+awarded, the Cauchari I, II, and III projects made up a combined capacity of 300 MW. 
+ 
+Based on a review of the Argentinian government’s recent actions, Sustainalytics is of the opinion that 
+the Cauchari project is aligned with, and will contribute towards, the country’s commitments to increase 
+the share of renewable energy in the country’s energy mix.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+4 http://www.business-sweden.se/contentassets/5060248bb36f40f99f89a93964c8ad73/get-on-the-grid-with-renewable-energy-
+
+opportunities-in-chile--argentina.pdf  
+
+5 http://www.reuters.com/article/argentina-energy-idUSL5N17B4HN  
+6 https://cleantechnica.com/2016/10/18/argentina-awards-400-mw-solar-1-1-gw-renewable-energy-auction/  
+
+7 
+
+ 
+ 
+
+© Sustainalytics 2017 
+
+Contribution of framework to provincial renewable energy commitments 
+The Province of Jujuy supports the Central Government’s measures to increase the share of renewable 
+energy.  As  per  internal  documents,  the  Province  aspires  to  demonstrate  the  technical  and  economic 
+feasibility  of  solar  PV  projects  in  Argentina  and  provide  inspiration  to  other  provinces  and  domestic 
+companies to develop cleaner and more sustainable power.  
+ 
+The  Province  promotes  the  use  of  solar  resources  within  the  province  by  implementing  short-  and 
+medium-  term  policies.  Recently,  the  Province  has  sanctioned  a  new  law  for  the  promotion  and 
+development  of  solar  energy  (Law  5.904),  which  establishes  the  creation  of  the  Jujuy  Province  Solar 
+Program  to  encourage  the  development  and  implementation  of  both  off-grid  and  grid-connected  PV 
+systems across the region. Additionally, the Province will adhere to the National Law 26.190 for the use 
+of Renewable Energy Sources destined for Electric Power and support targets outlined in National Law 
+27.191.7  
+ 
+Accordingly, the Province created targets to develop an installed capacity of 4,000 MWp of solar power 
+by 2032. The Province’s Cauchari project is the first stage of an energy strategic plan aimed at turning 
+Jujuy into the country’s leading solar power generator.8 
+ 
+Sustainalytics is of the opinion that the Cauchari solar park project is an important step in the governments 
+efforts to achieve its commitments and believes that the project will position the province as a leader in 
+solar energy within the country. 
+ 
+Well positioned to address common environmental and social risks associated with the project 
+The Province has conducted a feasibility study for each of the Cauchari projects which included both an 
+Environmental and Social Impact Assessments, as required by local regulation. The Impact Assessments 
+proposed a series of measures to mitigate negative impacts during the construction of the project which 
+included: socio-cultural and economic factors, handling of solar PV panels by contractors, use of fuels and 
+lubricants, landscape, floral, fauna, wastewater and solid waste management. These measures are further 
+detailed  in  the  Environmental  Management  Plan  for  each  of  the  three  projects  which  outlines  an 
+implementation and monitoring plan, timelines, and roles and responsibilities. 
+ 
+The feasibility study included a survey with nearby village respondents and found that the main benefits 
+perceived by the community include: employment generation, reliability of electricity, and reduced cost 
+of electricity. Respondents hope that these benefits will result in an improved quality of life. Additionally, 
+the feasibility study found that the sparsely populated surroundings will minimize possible interferences 
+during work execution and the negative impacts of the project on local communities. 
+ 
+Sustainalytics  recognizes  that  environmental  and  social  risks  are  associated  with  solar  development 
+projects,  however  is  of  the  opinion  that  the  Province’s  Environmental  and  Social  Assessment  in 
+conjunction with community dialog will allow the Province to manage and address such risks. 
+ 
+
+ 
+7 http://www.solarnews.es/america/2016/02/08/argentinean-government-plans-giant-solar-project/  
+8 Jujuy Energía y Minería Sociedad del Estado. Cauchari Solar Business Plan. September 2016. 
+
+8 
+
+ 
+ 
+
+© Sustainalytics 2017 
+
+Section 2: Impact of Use of Proceeds 
+ 
+Impact of the Cauchari solar park project 
+Sustainalytics is of the opinion that the Cauchari solar park project will contribute to (i) clean, affordable 
+energy requirements of the country, and (ii) socio-economic advancement of the local community. 
+ 
+The demand for electricity in Argentina has increased at a constant rate over the past 15 years, from 83.8 
+TWh in 2000 to 136.9 TWh in 2015 which corresponds to an increase in demand of 63.4%.9 According to 
+Argentina’s undersecretary for renewable energy, boosting renewable energy makes both environmental 
+and economic sense considering that for every 1,000 MW in renewable energy produced, the country 
+saves $300 million annually in liquid fuel, and reduces CO2 by 2 million tons, which is equivalent to taking 
+1 million cars off the road.10 
+ 
+Combined, the three solar projects in Cauchari are estimated to generate more than 660 GWh of clean 
+energy, which is equivalent to the consumption requirements of approximately 300,000 houses and 1.2 
+million individuals. The energy generated will prevent the emission into the atmosphere of 690.000 tons 
+of CO2 per year from thermal coal generation or 270.000 tons of CO2 from gas generation. 
+ 
+Argentina’s northwest states of Jujuy, Salta, Catamarca, La Rioja, San Juan and Mendoza has some of the 
+best insolation in the world boasting global horizontal irradiation (GHI) of 2,600 kWh/m211. As a result, 
+solar energy represents a significant opportunity to generate affordable clean power while meeting the 
+country’s electricity demands.  
+ 
+The  Cauchari  project  will  also  contribute  to  the  socio-economic  advancement  of  the  region  which  is 
+characterized as having low investments to date. The project is expected to stimulate the local economy 
+by creating approximately 600 jobs during  the construction of the project and approximately 100 jobs 
+during  its  ongoing  operation.  The  Province  has  entered  into  an  agreement  with  affected  aboriginal 
+communities to compensate the community with 2% of net profits to be used for local development. The 
+Ministry of Production and Industry Affairs is in the process of developing a Sustainability Plan to support 
+and guide the local community on allocation of profits. Profits are expected to be allocated towards two 
+main objectives: (i) develop local vendors for the supply of the plant’s operational needs and (ii) social 
+welfare, such as healthcare and education.  
+ 
+Alignment with the Sustainable Development Goals (SDGs) 
+The Sustainable Development Goals (SDGs) were set in September 2015 and form an agenda for achieving 
+sustainable  development  by  the  year  2030.  The  Province  of  Jujuy’s  Cauchari  solar  park  project  is 
+particularly  relevant  to  SDG  7,  Affordable  and  Clean  Energy,  which  includes  targets  to  increase 
+substantially the share of renewable energy in the global energy mix. Additionally, Sustainalytics believes 
+that  SDG  7  is  vital  in  achieving  many  of  the  other  SDGs,  including  combating  climate  change  and 
+eradicating poverty. 
+ 
+9 Wholesale Electricity Market Administration Company (CAMMESA); www.cammesa.com  
+10 http://www.ifc.org/wps/wcm/connect/news_ext_content/ifc_external_corporate_site/news+and+events/news/argentina-taps-into-its-
+
+renewable-energy-potential 
+
+11 https://www.greentechmedia.com/articles/read/argentina-wakes-up-to-the-opportunity-of-solar  
+
+9 
+
+ 
+ 
+
+© Sustainalytics 2017 
+
+ 
+Alignment with Green Bond Principles 2017  
+Sustainalytics has determined that the Province of Jujuy’s Green Bond Framework aligns to the four pillars 
+of  the  Green  Bond  Principles  2017.  For  detailed  information  please  refer  to  Appendix  2:  Green 
+Bond/Green Bond Programme External Review Form. 
+ 
+ 
+Conclusion 
+The Province  of Jujuy,  situated in  the  northwest  region of the country,  has vast  potential to generate 
+renewable energy through solar PV installations. The 300 MW Cauchari solar park project will contribute 
+to Argentina’s commitments to generate renewable energy and reduce carbon emissions. The Province’s 
+Green Bond Framework follows the guidance provided by the Green Bond Principles and is in alignment 
+with its four pillars – the use of proceeds, process of project evaluation and selection, management of 
+proceeds  and  reporting.  Additionally,  Sustainalytics  is  of  the  opinion  that  through  its  Environmental 
+Management  Plan,  the  Province  is  well  positioned  to  address  common social and  environmental  risks 
+associated with the Cauchari solar park project. Based on the above considerations, Sustainalytics is of 
+the view that the Province of Jujuy’s Green Bond is robust and credible. 
+ 
+ 
+  
+
+ 
+
+ 
+ 
+
+10 
+
+© Sustainalytics 2017 
+
+APPENDIX 1 
+Global Horizontal Irradiance (GHI) 
+ 
+The radiation reaching the earth's surface can be represented in a number of different ways. Global 
+Horizontal Irradiance (GHI) is the total amount of shortwave radiation received from above by a surface 
+horizontal to the ground. This value is of particular interest to photovoltaic installations and includes 
+both Direct Normal Irradiance (DNI) and Diffuse Horizontal Irradiance (DIF)12. 
+ 
+Argentina has exceptional solar resources in most of the north west of its territory, from Mendoza to 
+Jujuy, with an average annual global horizontal irradiance of more than 2,600KWh/m². 
+ 
+ 
+
+ 
+Source: http://www.alternativeenergyhq.com/best-solar-power-regions-worldwide.php   
+
+ 
+
+ 
+12 http://www.3tier.com/en/support/solar-prospecting-tools/what-global-horizontal-irradiance-solar-prospecting/  
+
+11 
+
+ 
+ 
+
+© Sustainalytics 2017 
+
+Disclaimer 
+All rights reserved. No part of this second party opinion (the “Opinion”) may be reproduced, transmitted 
+or published in any form or by any means without the prior written permission of Sustainalytics.  
+  
+The Opinion was drawn up with the aim to explain why the analyzed bond is considered sustainable and 
+responsible. Consequently, this Opinion is for information purposes only and Sustainalytics will not 
+accept any form of liability for the substance of the opinion and/or any liability for damage arising from 
+the use of this Opinion and/or the information provided in it. 
+  
+As the Opinion is based on information made available by the client, Sustainalytics does not warrant that 
+the information presented in this Opinion is complete, accurate or up to date. 
+  
+Nothing contained in this Opinion shall be construed as to make a representation or warranty, express or 
+implied, regarding the advisability to invest in or include companies in investable universes and/or 
+portfolios. Furthermore, this Opinion shall in no event be interpreted and construed as an assessment of 
+the economic performance and credit worthiness of the bond, nor to have focused on the effective 
+allocation of the funds’ use of proceeds. 
+  
+The client is fully responsible for certifying and ensuring its commitments` compliance, implementation 
+and monitoring. 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+17 
+
+© Sustainalytics 2017 
+
+SUSTAINALYTICS 
+ 
+Sustainalytics  is  an  independent  ESG  and  corporate  governance  research,  ratings  and  analysis  firm 
+supporting  investors  around  the  world  with  the  development  and  implementation  of  responsible 
+investment  strategies. With 13 offices globally, Sustainalytics partners with institutional investors who 
+integrate  environmental,  social  and  governance  information  and  assessments  into  their  investment 
+processes.  Today,  the  firm  has  more  than  300  staff  members,  including  170  analysts  with  varied 
+multidisciplinary  expertise  of  more  than  40  sectors.  Through  the  IRRI  survey,  investors  selected 
+Sustainalytics as the best independent responsible investment research firm for three consecutive years, 
+2012 through 2014 and in 2015, Sustainalytics was named among the top three firms for both ESG and 
+Corporate Governance research. The firm was also named the Best SRI or Green Bond Research Firm by 
+Global Capital in 2015. For more information, visit www.sustainalytics.com  
+ 
+ 
+Sustainalytics 
+info@sustainalytics.com  
+www.sustainalytics.com  
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+18 
+
+

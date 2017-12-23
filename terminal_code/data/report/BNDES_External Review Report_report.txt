@@ -1,0 +1,664 @@
+BANCO NACIONAL DE 
+DESENVOLVIMENTO 
+
+ECONÔMICO E  
+SOCIAL – BNDES 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+FRAMEWORK OVERVIEW AND SECOND OPINION BY 
+
+SUSTAINALYTICS 
+
+April 20th, 2017 
+
+www.sustainalytics.com 
+ 
+www.sustainalytics.com 
+ 
+www.sustainalytics.com 
+
+Trisha Taneja (Toronto, ON) 
+
+Charlotte Peyraud (New York)  
+
+Senior Advisor, Institutional Relations 
+
+charlotte.peyraud@sustainalytics.com 
+
+(+1) 646 518 0184 
+
+Advisor, Advisory Services 
+trisha.taneja@sustainalytics.com 
+(+1) 647 317 3695 
+ 
+ 
+ 
+ 
+
+© Sustainalytics 2017 
+ 
+
+TABLE OF CONTENTS 
+
+FRAMEWORK OVERVIEW AND SECOND OPINION BY SUSTAINALYTICS 
+
+1. 
+
+Introduction 
+
+2.  Overview of Issuer 
+
+3.  Framework overview 
+3.1  Use of Proceeds 
+3.2  Project Evaluation and Selection Process 
+3.3  Management of Proceeds 
+3.4  Reporting 
+
+4  SUSTAINALYTICS’ OPINION 
+
+Section 1: Sustainability Performance of the Issuer 
+Section 2: Impact of Use of Proceeds 
+Conclusion 
+
+APPENDICES 
+
+Appendix 1: Examples of eligible projects 
+Appendix 2: BNDES Categories for Classification of Environmental and Social Risks 
+Appendix 3: Green Bond/Green Bond Programme External Review Form 
+
+SUSTAINALYTICS 
+
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+1 
+
+3 
+
+3 
+
+4 
+4 
+4 
+4 
+5 
+
+6 
+6 
+8 
+9 
+
+10 
+10 
+10 
+11 
+
+17 
+
+2 
+
+© Sustainalytics 2017 
+ 
+
+1. INTRODUCTION 
+ 
+Banco Nacional de Desenvolvimento Econômico e Social – BNDES (BNDES), Brazil’s development bank, 
+has developed a green bond framework under which it is considering to issue a green bond (BNDES Green 
+Bond) and use the proceeds to finance and refinance expenditures related to new and existing renewable 
+energy projects in wind and solar energy power. Sustainalytics has been engaged to provide a Second 
+Party Opinion (SPO) on its framework. As part of this engagement, Sustainalytics held conversations with 
+various members of BNDES’ management team to understand the planned use of proceeds for the BNDES 
+Green Bond framework, and the framework’s transparency. Sustainalytics also reviewed relevant public 
+and  internal  documents.  This  document  contains  two  sections:  Framework  Overview  –  summary  of 
+BNDES’ Green Bond Framework; and Sustainalytics’ Opinion – an opinion on the framework. 
+ 
+ 
+2. OVERVIEW OF ISSUER 
+ 
+BNDES  is  a  wholly  owned  federal  government  company  supervised  by  Brazil’s  Ministry  of  Planning, 
+Development and Management. It provides long-term financing primarily in Brazil. BNDES’s Social and 
+Environmental Responsibility Policy1 sets principles and guidelines that cover all of BNDES’s activities. In 
+its Socio-environmental Policy2 BNDES commits to promoting eco-efficiency, the adoption of sustainable, 
+social and environmental processes and products, and the reduction of greenhouse gas (GHG) emissions. 
+In line with these policies, BNDES commits to: 
+ 
+
+o  advocating for and investing in projects which integrate economic, social and environmental 
+
+benefits; 
+respecting and promoting human rights; 
+
+o 
+o  managing stakeholder relationships in an ethical and transparent way;  
+o  observing international best practice. 
+
+ 
+BNDES’ social and environmental policies complement the company’s Mission, Vision and Values3 
+statement, which states a commitment to promoting Brazil’s sustainable development. To further this 
+objective, BNDES is planning to issue green notes to finance renewable energy projects in Brazil.  
+ 
+ 
+
+ 
+1 BNDES Social and Environmental Responsibility Policy, accessed April 4, 2017; 
+http://www.bndes.gov.br/SiteBNDES/bndes/bndes_en/Institucional/Social_and_Environmental_Responsibility/social_environmental_resp
+onsibility_policy.html  
+2 BNDES Socioenvironmental Policy, accessed April 4, 2017; 
+http://www.bndes.gov.br/SiteBNDES/bndes/bndes_en/Institucional/Social_and_Environmental_Responsibility/socioenvironmental_policy
+/  
+3 BNDES Mission, Vision and Values, accessed April 4, 2017; ; http://www.bndes.gov.br/wps/portal/site/home/quem-somos/governanca-
+controle/planejamento-corporativo/missao%2C-visao-e-valores  
+
+3 
+
+ 
+ 
+
+© Sustainalytics 2017 
+ 
+
+3. FRAMEWORK OVERVIEW 
+For the purpose of issuing green notes, BNDES has developed the following framework, which aims to 
+align  with  the  four  key  pillars  of  the  Green  Bond  Principles  (GBP):  use  of  proceeds,  project  selection 
+process, management of proceeds, and reporting. 
+ 
+3.1   Use of Proceeds 
+An amount equal to the net proceeds of the Notes (“Net Proceeds”) under the BNDES Green Bond  will 
+be allocated towards financing or refinancing new and existing renewable energy projects that meet the 
+following eligibility criterion: 
+ 
+
+  Expenditures  related  to  the  development,  construction,  or  expansion  of  facilities  for  new  and 
+existing solar and wind projects that (i) have had a disbursement made during the twenty-four 
+months preceding the issue date of the Notes or (ii) will be financed following the issue date of 
+the Notes and before the maturity date of the Notes.  
+ 
+
+ 
+3.2  Project Evaluation and Selection Process 
+BNDES’s Board of Executive Officers will approve a list of specific types of projects that meet the eligibility 
+criterion, and that are expected to be funded out of the Net Proceeds. BNDES may change projects and 
+find a substitute project that meets the eligibility criterion. If there is a need to replace a pending project 
+on the list of eligible projects, any new projects that meet the eligibility criterion must be approved jointly 
+by the Superintendents of the Energy Division, Public and Socio-environmental Management Division, and 
+Financial and International Division. 
+ 
+Additionally, BNDES guidelines require that all granting of financial support be subject to evaluation of 
+financial aspects as well as environmental and social aspects. BNDES has established an environmental 
+risk management system to comply with Brazilian federal and state legal and regulatory requirements. In 
+particular, borrowers must demonstrate compliance with Brazilian federal and relevant state legislation 
+and environmental licensing, which entails three separate stages: pre-licensing, implementation licensing, 
+and operational licensing. BNDES requires that licensing,  duly  issued by the competent environmental 
+authority, be presented.  
+ 
+ 
+
+3.3        Management of Proceeds  
+Prior to the allocation to eligible green projects, the Net Proceeds will be tracked by BNDES and will be 
+held in cash, cash equivalents or Brazilian government securities. Payment of principal and interest on the 
+Notes will be made from BNDES’ general resource and will not be linked to the performance of the eligible 
+green projects. The Energy Division will be responsible for the monitoring process of the Eligible Green 
+Projects. The tracking of the allocation of the net proceeds of the Notes will be managed by the Financial 
+and International Division. 
+ 
+
+ 
+ 
+
+4 
+
+© Sustainalytics 2017 
+ 
+
+BNDES has an internal system for tracking green funding secured for environmentally impactful initiatives. 
+Proceeds from the Notes will be tagged in internal systems by the source of financing, and will be labelled 
+as ‘green bond financing’, to be used only for eligible projects.  
+ 
+3.4    Reporting  
+During the term of the Notes, BNDES will make and keep readily available, on its website, information on 
+the  allocation  of  the  Net  Proceeds,  to  be  updated  annually  until  full  allocation.  This  information  will 
+include: 
+ 
+
+  Amounts allocated to eligible green projects and brief descriptions of the projects; 
+  Where feasible, relevant estimated impact metrics related to the eligble projects, including:  
+
+o  Net annual production of renewable energy in GWh; 
+o  Tonnes of CO2 equivalent avoided. 
+
+ 
+This reporting will include an assurance by BNDES auditors as to the allocation of the Net Proceeds to 
+eligible  projects  after  checking  the  tracking  and  monitoring  process  used  by  the  Financial  and 
+International Division within the allocating process. 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+5 
+
+© Sustainalytics 2017 
+ 
+
+4  SUSTAINALYTICS’ OPINION 
+ 
+Section 1: Sustainability Performance of the Issuer 
+ 
+Contribution of proceeds to issuer sustainability strategy 
+On its website, BNDES states that a large part of its mandate is to promote sustainable development in 
+Brazil  by  proactively  integrating  economic,  social  and  environmental  considerations  in  the  financial 
+services it extends to Brazilian private and public sector entities.4 In this context, BNDES considers itself 
+to be one of the financial agents engaged in facilitating the achievement of Brazilian Intended Nationally 
+Determined  Contributions  (INDCs),  including  the  objectives  to  (i)  achieve  45%  of  renewables  in  the 
+national energy mix by 2030, and (ii) expand use of renewable energy sources other than hydropower.5  
+ 
+In keeping with this mandate, BNDES has disclosed to Sustainalytics that, between 2003 and 2016, the 
+bank  approved  87  credits  corresponding  to  an  amout  of  R$28.5  billion  in  credit6  for  wind  power 
+generation projects. In terms of installed capacity, wind power received the most BNDES funding  with 
+10,761 MW in the reported period. Sustainalytics is of the opinion that this demonstrates a track record 
+of contributing to the organization’s mandate, and to Brazil’s renewable energy goals.   
+ 
+Overall,  in  Sustainalytics’  opinion  the  BNDES  notes  issued  under  this  framework,  furthers  BNDES’ 
+mandate,  and  contributes  to  growing  the  renewable  energy  sector  in  Brazil  in  alignment  with  the 
+country’s international obligations.  
+ 
+Well positioned to address common environmental and social risks associated with the projects 
+Sustainalytics  recognizes  that  BNDES  has  been  criticized  in  the  past  for  financing  renewable  energy 
+projects  with negative environmental and social impacts, especially with respect  to great hydropower 
+plants. In particular, BNDES has a controversy with respect to the Belo Monte dam project, financed by 
+BNDES  in  November  2012.  The  hydropower  project  was  criticized  for  displacing  people,  threatening 
+fragile ecosystems as well as the livelihoods of local farmers, fishermen, and indigenous communities.7 
+BNDES  has  noted  to  Sustainalytics  that  it  compensated  for  the  impacts  described  above  by  offering 
+resettlements, and investing in sanitation and social infrastructure aimed at indigenous people.  
+ 
+Sustainalytics notes that such risks of threatening biodiversity and displacing people are common to large-
+scale  hydropower  projects.  The  proceeds  of  the  BNDES  Green  Bond  will  not  fund  such  large-scale 
+hydropower projects.  
+ 
+It should be noted that there are also environmental and social risks of a much lower nature associated 
+with  wind  and  solar  projects.  Examples  of  such  risks  include  depletion  of  habitats,  and  poor  working 
+ 
+4 The BNDES, accessed April 18, 2017 from http://www.bndes.gov.br/SiteBNDES/bndes/bndes_en/Institucional/The_BNDES/  
+5 http://www4.unfccc.int/submissions/INDC/Published%20Documents/Brazil/1/BRAZIL%20iNDC%20english%20FINAL.pdf  
+6 BNDES confirmation to Sustainalytics. 
+7 Sustainalytics’ ESG research assesses BNDES to have a “Category 3” controversy level 3 (significant) with respect to the Belo Monte dam 
+project, financed by BNDES in November 2012 . Source: Sustainalytics ESG Research, retrieved on April 18, 2017 from 
+https://globalaccess.sustainalytics.com) 
+
+6 
+
+ 
+ 
+
+© Sustainalytics 2017 
+ 
+
+conditions of labourers. With respect to mitigating risks common to projects funded by notes proceeds, 
+Sustainalytics has assessed BNDES’ policies and internal risk mitigation governance processes; details of 
+the assessment are provided below.  
+ 
+Policies 
+Sustainalytics has reviewed BNDES’ Socioenvironmental Policy8 as well as its Social and Environmental 
+Responsibility Policy.9 Both policies  explicitly refer to respecting human rights. The Socieoenvironmental 
+Policy also contains guidelines for the organization to monitor and assess environmental and social (E&S) 
+impacts of BNDES’ operations, its partners, suppliers, and other organizations receiving financial support 
+from BNDES. The Socioenvironmental Policy also includes a specific guideline to undertake risk analysis 
+of beneficiaries  and projects,  and to consider E&S risks  as a strategic issue while  considering financial 
+support. Additionally, since 2014, BNDES has a sustainability committee for continuously assessing and 
+developing BNDES’s social-environmental guidelines. 
+ 
+Sustainalytics  is  of  the  opinion  that  these  policies,  and  the  existence  of  a  dedicated  sustainability 
+committee demonstrate an organizational commitment  to mitigating E&S risks of projects that BNDES 
+finances. 
+ 
+Governance and Process 
+BNDES’ commitments are reflected in an internal process to identify, screen, and mitigate E&S risks. Using 
+this  process,  BNDES  classifies  all  funded  projects  into  three  impact  categories  based  on  their  socio-
+environmental impact- A, B, C, where Category A carries the highest E&S risk. See Appendix 2 for a full 
+description of the categories. 
+ 
+Prior  to  financing  a  project,  BNDES  identifies  specific  E&S  risks,  and  beneficiaries  are  expected  to 
+demonstrate an E&S risk mitigation plan to BNDES. BNDES also requires that all borrowers demonstrate 
+compliance  with  the  applicable  federal  and  state  legislation  and environmental  licensing.  Before  each 
+disbursement, BNDES confirms if the environmental licenses are valid. After the last disbursement, the 
+borrower has six months to present the operational license of the project. 
+ 
+In addition, after BNDES’s assessment of the environmental and social risks of the Project, if BNDES deems 
+necessary (such as in the case of high-risk projects), it may require that beneficiaries obtain verification 
+from a qualified third-party. Such a verification demonstrates to BNDES that E&S risks are being mitigated 
+by the beneficiary as agreed upon. 
+ 
+ 
+ 
+ 
+ 
+
+ 
+8 BNDES Socioenvironmental Policy, accessed April 18, 2017 from: 
+http://www.bndes.gov.br/SiteBNDES/bndes/bndes_en/Institucional/Social_and_Environmental_Responsibility/socioenvironmental_policy/ 
+9 BNDES Social and Environemntal Responsibility Policy, accessed April 18, 2017 from: 
+http://www.bndes.gov.br/SiteBNDES/bndes/bndes_en/Institucional/Social_and_Environmental_Responsibility/social_environmental_responsi
+bility_policy.html 
+
+7 
+
+ 
+ 
+
+© Sustainalytics 2017 
+ 
+
+Sustainalytics is of the opinion that BNDES’ project risk assessment process has a number of strengths: 
+(i)  BNDES systematically considers environmental and social risks for each project in the funding 
+
+phase; 
+
+(ii)  Projects are categorized by risk level (A, B, C); high-risk projects may be subject to third-party 
+
+monitoring and verification; 
+
+(iii) BNDES requires that certain minimum environmental and social standards be met before 
+
+signing a project finance contract. 
+ 
+
+BNDES can further strengthen this process by subjecting all categories of projects (A, B, C) to monitoring 
+and third-party verification, and by having mechanisms to enforce compliance by the beneficiaries.  
+ 
+Overall,  in  Sustainalytics’  opinion,  BNDES  is  well  positioned  to  mitigate  E&S  risks  relevant  to  eligible 
+projects, based on its organizational commitment and strong E&S risk mitigation process.  
+ 
+ 
+Section 2: Impact of Use of Proceeds 
+ 
+Importance of Renewable Energy in Brazil 
+According to International Finance Corporation (IFC) analysis, Brazil has the largest power market in Latin 
+America and the country’s size, resources and proactive policies have made it the main renewable energy 
+market in the region and one of the top ten in the world.10 The Notes issue by BNDES would capitalize on 
+the climate-smart investment potential in Brazil, estimated at $1.3 trillion (IFC data), as well as contribute 
+to Brazil’s ten-year Energy Expansion Plan11.  
+ 
+Furthermore, the Notes contribute to the reduction of GHG emissions from energy generation. Brazil has 
+pledged an Intended Nationally Determined Contribution (INDC) with an emissions target of 1.3 GtCO2e 
+by 2025 and 1.2 GtCO2e by 2030, equivalent to 37% and 43% below 2005 emissions levels.12 Increasing 
+the share of renewables in the country’s primary energy mix would help reach this goal. 
+ 
+The Notes issued by BNDES will support the development of solar and wind renewable energy sources in 
+Brazil.  
+ 
+Advancement of U.N. Sustainable Development Goals 
+From an international development  agenda perspective, BNDES’ bond issue  contributes to the  United 
+Nations  Sustainable  Development  Goals  (SDG),  specifically  to  SDG  7  target  2:  “By  2030,  increase 
+substantially the share of renewable energy in the global energy mix”. Renewable energy provides viable 
+
+ 
+10 “Climate Investment Opportunities in Emerging Markets – An IFC Analysis”, accessed April 4, 2017 from: 
+http://www.ifc.org/wps/wcm/connect/51183b2d-c82e-443e-bb9b-68d9572dd48d/3503-IFC-Climate_Investment_Opportunity-Report-FINAL-
+11_6_16.pdf?MOD=AJPERES 
+11 Brazil 10 Year National Energy Expansion Plan, accessed April 18, 2017 from: http://www.epe.gov.br/PDEE/Forms/EPEEstudo.aspx 
+12 United Nations Framework Convention on Climate Change (UNFCCC): Government of Brazil INDC, accessed April 18, 2017 from: 
+http://www4.unfccc.int/submissions/INDC/Published%20Documents/Brazil/1/BRAZIL%20iNDC%20english%20FINAL.pdf 
+
+ 
+ 
+
+8 
+
+© Sustainalytics 2017 
+ 
+
+and cost-effective options for  expanding access  to the  energy poor, particularly for those  in rural and 
+remote  areas.  It  helps  reduce  dependence  on  imported  fuels  and  vulnerability  to  fossil  fuel  price 
+fluctuations. It also contributes to improving local air quality and reduces the energy sector’s dependence 
+on water for energy extraction and production, thus reducing conflicts with agriculture and other end-
+uses.13 
+ 
+Social Impact of Projects 
+Furthermore, BNDES’ green bond issue supports BNDES’s social mandate to contribute to job creation 
+and income generation.14 Global renewable energy employment increased by 5% in 2015 to reach 8.1 
+million,  and  it  continues  to  rise,  according  to  data  by  the  International  Renewable  Energy  Agency 
+(IRENA).15 IRENA’s data show that Brazil is one of the countries with the highest number of renewable 
+energy jobs.16 
+ 
+Alignment with Green Bond Principles 2016: Sustainalytics has determined that the BNDES Green Notes 
+align  with  the  four  pillars of the  Green  Bond Principles  2016.  For  detailed  information  please  refer to 
+Appendix 3: Green Bond/Green Bond Programme External Review Form. 
+ 
+ 
+Conclusion 
+BNDES’  green  bond  framework  is  transparent  and  provides  clarity  regarding  use  of  proceeds  and 
+outcomes of the green bond investments. Renewable energy is recognized by the GBP as an eligible green 
+project category, offering clear environmental benefits. In the context of Brazil’s renewable energy goals, 
+BNDES’ lending to solar and wind projects contributes to an important national priority and the country’s 
+transition to a low-carbon economy. Overall, Sustainalytics is of the opinion that the BNDES green bond 
+framework is credible and robust.  
+
+ 
+
+ 
+13 UNDP Support to the Implementation of the Sustainable Development Goals, accessed April 5, 2017; 
+http://www.undp.org/content/undp/en/home/librarypage/sustainable-development-goals/undp-support-to-the-implementation-of-the-2030-
+agenda/ 
+14 BNDES: Support for Social and Environmental Projects; accessed April 10, 2017; 
+http://www.bndes.gov.br/SiteBNDES/bndes/bndes_en/Institucional/Social_and_Environmental_Responsibility/support_for_social_environme
+ntal_projects.html 
+15 International Renewable Energy Agency (IRENA) Renewable Energy and Jobs - Annual Review 2016; 
+http://seforall.org/sites/default/files/IRENA_RE_Jobs_Annual_Review_2016.pdf 
+16 International Renewable Energy Agency (IRENA) Renewable Energy and Jobs - Annual Review 2016; 
+http://seforall.org/sites/default/files/IRENA_RE_Jobs_Annual_Review_2016.pdf 
+
+9 
+
+ 
+ 
+
+© Sustainalytics 2017 
+ 
+
+APPENDICES 
+ 
+Appendix 1: Examples of eligible projects 
+ 
+
+Project Name 
+
+Eligibility Criteria 
+
+Installed Capacity (MW) 
+
+São Clemente 
+
+Rio energy 1 (Itarema) 
+
+Chapada II 
+
+Wind 
+
+Wind 
+
+Wind 
+
+216.10 
+
+207.00 
+
+172.40 
+
+ 
+ 
+Appendix 2: BNDES Categories for Classification of Environmental and Social 
+Risks 
+ 
+
+Risk of Adverse Impact 
+
+impacts, 
+
+involving 
+
+Characterized  by  risks  directly  related  to  significant  adverse  social  and 
+environmental 
+large  greenfield  developments  or 
+enterprises in critical sectors or sensitive locations that generally require 
+more complex environmental studies. These are acharacterized by sector, 
+project type, and location in accordance with the criteria set out in Annex 
+1 to the Socioenvironmental Policy.  
+Characterized by reasonable socioenvironmental risks and those related to 
+local effects, involving the expansion or extension of enterprises that are 
+of limited social and environmental impacts, in a way that only some of 
+their  impacts  are  irreversible  or  involve  easily  identifiable  mitigating 
+measures,  possible  including  enterprises  whose  sector or  characteristics 
+are referred to in Annex 1 of the Socioenvironmental Policy. 
+Characterized  by  minimal  or  non-existent  environmental  risks.  Usually 
+encompassing  financial  operations  regarding  the  exportation  of  goods, 
+including aircrafts.  
+
+Environmental 
+Category 
+A 
+
+B 
+
+C 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+10 
+
+© Sustainalytics 2017 
+ 
+
+Disclaimer 
+All rights reserved. No part of this second party opinion (the “Opinion”) may be reproduced, transmitted 
+or published in any form or by any means without the prior written permission of Sustainalytics.  
+  
+The Opinion was drawn up with the aim to explain why the analyzed bond is considered sustainable and 
+responsible. Consequently, this Opinion is for information purposes only and Sustainalytics will not 
+accept any form of liability for the substance of the opinion and/or any liability for damage arising from 
+the use of this Opinion and/or the information provided in it. 
+  
+As the Opinion is based on information made available by the client, Sustainalytics does not warrant that 
+the information presented in this Opinion is complete, accurate or up to date. 
+  
+Nothing contained in this Opinion shall be construed as to make a representation or warranty, express or 
+implied, regarding the advisability to invest in or include companies in investable universes and/or 
+portfolios. Furthermore, this Opinion shall in no event be interpreted and construed as an assessment of 
+the economic performance and credit worthiness of the bond, nor to have focused on the effective 
+allocation of the funds’ use of proceeds. 
+  
+The client is fully responsible for certifying and ensuring its commitments` compliance, implementation 
+and monitoring. 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+16 
+
+© Sustainalytics 2017 
+ 
+
+SUSTAINALYTICS 
+ 
+Sustainalytics  is  an  independent  ESG  and  corporate  governance  research,  ratings  and  analysis  firm 
+supporting  investors  around  the  world  with  the  development  and  implementation  of  responsible 
+investment  strategies. With 13 offices globally, Sustainalytics partners with institutional investors who 
+integrate  environmental,  social  and  governance  information  and  assessments  into  their  investment 
+processes.  Today,  the  firm  has  more  than  300  staff  members,  including  170  analysts  with  varied 
+multidisciplinary  expertise  of  more  than  40  sectors.  Through  the  IRRI  survey,  investors  selected 
+Sustainalytics as the best independent responsible investment research firm for three consecutive years, 
+2012 through 2014 and in 2015, Sustainalytics was named among the top three firms for both ESG and 
+Corporate Governance research. The firm was also named the Best SRI or Green Bond Research Firm by 
+Global Capital in 2015. For more information, visit www.sustainalytics.com  
+ 
+Sustainalytics 
+info@sustainalytics.com  
+www.sustainalytics.com  
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+17 
+
+

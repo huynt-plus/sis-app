@@ -1,0 +1,698 @@
+ 
+ 
+  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+
+ STATE TREASURY OF THE 
+
+REPUBLIC OF POLAND 
+
+Represented by the Minister of Development and Finance 
+
+GREEN BOND FRAMEWORK 
+
+ 
+
+ 
+
+SECOND PARTY OPINION BY SUSTAINALYTICS 
+
+December 5th, 2016 
+
+Trisha Taneja (Toronto) 
+Advisor, Advisory Services 
+trisha.taneja@sustainalytics.com 
+(+1) 647 317 3695 
+
+Charlotte Peyraud (New York)  
+Senior Advisor, Institutional Relations 
+charlotte.peyraud@sustainalytics.com 
+(+1) 646 518 0184 
+
+www.sustainalytics.com 
+ 
+www.sustainalytics.com 
+ 
+www.sustainalytics.com 
+
+© Sustainalytics 2016 
+
+TABLE OF CONTENTS 
+
+ 
+
+1. 
+
+INTRODUCTION 
+
+2.  SUSTAINALYTICS’ OPINION 
+
+Section 1: Contribution of Use of Proceeds to European Union and Polish Energy and Climate 
+
+3 
+
+4 
+
+Change Targets 
+
+4 
+5 
+6 
+7 
+7 
+8 
+9 
+9 
+Section 3: Alignment of the Poland Green Bond Framework with the Green Bond Principles 2016  10 
+
+Section 2: Impact of Use of Proceeds 
+Renewable Energy Eligible Sector 
+Afforestation Eligible Sector 
+Clean Transportation Eligible Sector 
+Sustainable Agriculture Eligible Sector 
+National Parks Eligible Sector 
+Advancing the Sustainable Development Goals (SDGs) 
+
+APPENDICES 
+
+Appendix 1: Green Bond/Green Bond Programme External Review Form 
+
+SUSTAINALYTICS 
+
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+12 
+12 
+
+19 
+
+2 
+
+© Sustainalytics 2016 
+
+1. INTRODUCTION 
+ 
+The State Treasury of the Republic of Poland represented by the Minister of Development and Finance 
+(State Treasury of Poland) has developed a green bond framework in accordance with which it intends to 
+issue  green  bonds  that  will  fund  environmentally  beneficial  projects  in  Poland.  This  Green  Bond 
+Framework has been published in a separate document.1 The net proceeds of each green bond will be 
+used  to  refinance  or  finance,  in whole  or  in  part,  existing  (re-financing)  and  future  projects that  have 
+environmental benefits, that promote Poland’s progress in meeting its greenhouse gas (GHG) emission 
+reduction  commitments,  and  that  promote  the  country’s  transition  to  a  low-emissions  economy.  The 
+green bonds will fund projects in  six  eligible sectors, as defined in the Green Bond Framework. These 
+eligible sectors are-  
+ 
+
+1.  Renewable Energy 
+2.  Clean Transportation  
+3.  Sustainable Agricultural Operations 
+4.  Afforestation 
+5.  National Parks 
+6.  Reclamation of Heaps 
+
+ 
+ 
+The State Treasury of Poland has engaged Sustainalytics to provide a second-party opinion on The State 
+Treasury of the Republic of Poland represented by the Minister of Development and Finance Green Bond 
+Framework  (Poland  Green  Bond  Framework).  As  part  of  this  engagement  process,  Sustainalytics  held 
+conversations with the Ministry of Finance of Poland2. These conversations clarified the use of proceeds, 
+management  of  proceeds  and  reporting  aspects  of  the  Poland  Green  Bond  Framework  as  well  as  the 
+environmental  and  climate  change  targets  of  Poland.  Sustainalytics  also  reviewed  relevant  public 
+documents  and  non-public  documents  relating  to  the  eligible  projects  under  the  Poland  Green  Bond 
+Framework  to  provide  its  opinion  on  the  Poland  Green  Bond  Framework.  This  document  contains 
+Sustainalytics’ opinion on the Poland Green Bond Framework and should be read in conjunction with that 
+Framework. 
+ 
+
+ 
+
+ 
+1 The State Treasury of the Republic of Poland represented by the Minister of Development and Finance Green Bond Framework is publically 
+
+available on website: http://www.finanse.mf.gov.pl/en/web/wp/public-debt/international-bonds/issuance-procedures. 
+
+2 Sustainalytics held conversations with the Ministry of Finance as a representative of the State Treasury of the Republic of Poland.  
+
+3 
+
+ 
+ 
+
+© Sustainalytics 2016 
+
+2. SUSTAINALYTICS’ OPINION 
+ 
+The following section details Sustainalytics’ opinion on the Poland Green Bond Framework, and discusses 
+contribution of the use of proceeds to Polish and European climate change targets, environmental impact 
+of  the  eligible  sectors,  and  alignment  of  the  Poland  Green  Bond  Framework  with  the  Green  Bond 
+Principles 2016.  
+ 
+Section 1: Contribution of Use of Proceeds to European Union and Polish Energy 
+and Climate Change Targets 
+ 
+Sustainalytics has reviewed Poland’s climate change strategy and is of the opinion that, as a member of 
+the European Union (EU), Poland is committed to reducing its GHG emissions in line with the below 2°C 
+objective outlined in the  Paris Agreement  in December 2015.  As a member state of the  EU, Poland is 
+committed to the Intended Nationally Determined Contribution (INDC) of the EU. The EU INDC commits 
+all member states of the EU to a collective binding target of 40% reduction in GHG emissions by 2030, as 
+compared to 1990.3  
+ 
+To achieve the binding emission reduction commitments, the European Parliament and the Council have 
+set in place a directive for all member states (Directive 2009/28/EC) on the promotion of the use of energy 
+from  renewable  sources.  To  fulfill  its  obligations  under  this  directive,  Poland  established  its  National 
+Renewable Energy Action Plan (NREAP) in 2010.4 The NREAP sets a national binding target for Poland to 
+increase the share of renewable energy sources in final energy consumption to at least 15% by 2020. The 
+NREAP  outlines specific measures  that the country is implementing to achieve this target.  As of 2011, 
+Poland  had  established  the  percent  of  renewable  energy  sources  in  its  final  energy  consumption  at 
+roughly 10%5, demonstrating progress towards its target of 15% by 2020. 
+ 
+Poland’s NREAP also includes a target to build a 10% share of biofuels in the market for transport fuels by 
+2020. The NREAP specifies maximizing its  use of waste biomass to achieve this target  in a sustainable 
+manner. In the context of this target, the NREAP also includes an explicit objective to sustainably manage 
+forests and agricultural areas in order to obtain waste biomass for renewable energy use.  
+ 
+In addition to increasing its share of energy from renewable sources to meet its obligation to the collective 
+European  GHG  emissions  reduction  target,  Poland  is  also  well  positioned  to  reduce  GHG  emissions 
+through  the  creation  of  carbon  sinks.  Poland’s  National  Programme  for  the  Augmentation  of  Forest 
+Cover6, aims to increase  forest cover to 30%  by 2020 and to 33%  by 2050.7  Given that  the amount of 
+carbon dioxide (CO2) absorbed every year by forests (including soil and taking into account utilisation) is 
+
+ 
+3 http://www4.unfccc.int/Submissions/INDC/Published%20Documents/Latvia/1/LV-03-06-EU%20INDC.pdf. 
+4 http://www.iea.org/policiesandmeasures/pams/poland/name-25100-en.php. 
+5 http://www.lse.ac.uk/GranthamInstitute/legislation/countries/poland/. 
+6 The National Programme for the Augmentation of Forest Cover was prepared by the Forest Research Institute and recommended for 
+
+implementation by the Council of Ministers in 1995. This programme was also modified in 2002.  
+
+7 http://www.lasy.gov.pl/informacje/publikacje/in-english/forests-in-poland/forests-in-poland-2015. 
+
+ 
+ 
+
+4 
+
+© Sustainalytics 2016 
+
+estimated  at  39.5  million  tonnes  (roughly  equivalent  to  10.8  million  tonnes  of  carbon)8,  Poland’s 
+afforestation targets can play a significant role in meeting its GHG emissions reduction target. 
+ 
+Sustainalytics is of the opinion that being subject to a concrete, time bound, and binding European target 
+for reduction of GHG emissions, and formalizing that target through a national policy and corresponding 
+national targets, is indicative of the priority Poland assigns to achieving its climate change mitigation goals. 
+The  Poland  Green  Bond  Framework  (particularly  the  sectors  of  Renewable  Energy,  Afforestation,  and 
+Clean Transportation) clearly contributes to achieving Poland’s national and European targets.  
+ 
+Given Poland’s national and European targets, the country’s demonstrated progress towards the target 
+established by its NREAP, and alignment of the Poland Green Bond Framework to support future progress 
+towards these targets, Sustainalytics is of the opinion that the issuance of green bonds under the Poland 
+Green  Bond  Framework  is  a  step  that  will  help  Poland  achieve  its  objective  of  transitioning  to  a  low-
+emissions economy.   
+ 
+Section 2: Impact of Use of Proceeds 
+ 
+The Poland Green Bond Framework defines eligible projects in the following Eligible Sectors:  
+ 
+
+1.  Renewable Energy 
+2.  Clean Transportation  
+3.  Sustainable Agricultural Operations 
+4.  Afforestation 
+5.  National Parks 
+6.  Reclamation of Heaps 
+
+ 
+Overall,  Sustainalytics  is  of  the  opinion  that  the  proceeds  from  the  bond  will  have  clear  positive 
+environmental  impacts  and  contribute  to  achieving  Poland’s  environmental  targets  to  (i)  reduce  GHG 
+emissions as a member country of the EU, and (ii) increase its share of energy derived from renewable 
+sources.  
+ 
+Below, Sustainalytics has provided an opinion on the Framework criteria in the following Eligible Sectors:  
+Renewable Energy, Clean Transportation, Sustainable Agricultural Operations, Afforestation, and National 
+Parks.  
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+8 http://www.lasy.gov.pl/informacje/publikacje/in-english/forests-in-poland/forests-in-poland-2015 . 
+
+ 
+ 
+
+5 
+
+© Sustainalytics 2016 
+
+Renewable Energy Eligible Sector 
+The importance of promoting renewable energy use in Poland 
+The energy sector (including both supply and demand of energy) is the largest source of GHG emissions 
+in  Poland,  accounting  for 80.6%  of  the  country’s  GHG  emissions  in 2012.9  A  key  reason  for  this  is  the 
+carbon intensity of Poland’s energy mix; in 2011, coal accounted for 55% of Polish primary energy supply 
+and 92% of electricity generation.10 In the context of this high usage of coal and obligations to meet the 
+European  GHG  emissions  reduction  target,  efforts  to  diversify  Poland’s  energy  mix  and  promote  the 
+sustained use of renewable sources through the NREAP are particularly important.  
+ 
+In addition, Poland also has tremendous potential to increase its percent of renewable energy sources in 
+final energy consumption beyond the established target. For example, Poland’s technical potential for 
+installed renewable energy capacity (including from biomass, solar, wind, and small hydro) is estimated 
+at 940,100 MW11. Of this, Poland has achieved 8,241 MW (as of June 2016),12 leaving significant untapped 
+potential with respect to the use of energy from renewable sources.  
+ 
+Given the need to sustainably diversify Poland’s energy mix while contributing to European and national 
+GHG  emissions  reduction  targets,  and  Poland’s  significant  untapped  potential  for  installed  renewable 
+energy  capacity,  Sustainalytics  is  of  the  opinion  that  the  adoption  of  renewable  energy  is  a  highly 
+important issue for Poland. The State Treasury of Poland’s effort to promote the use of renewable energy 
+through its Green Bond Framework is a clear step in the right direction.  
+ 
+The use of biomass as a renewable energy source in Poland 
+Given the context of Poland’s target to build a 10% share of biofuels in the market by 2020, Sustainalytics 
+is of the opinion that generating energy from biomass is an important objective for the country to meet 
+its renewable energy targets.  
+ 
+Sustainalytics recognizes that the burning of viable biological material poses an environmental risk in the 
+use of biomass as a renewable energy source, as it may have greater negative than positive environmental 
+impact. However, Sustainalytics is of the opinion that Poland is well positioned to mitigate this risk, as its 
+NREAP specifies a reference to maximizing the use of waste biomass. Additionally, the State Treasury of 
+Poland has assured Sustainalytics that proceeds from all green bonds issued under this framework will 
+only be directed towards projects that use waste biomass for energy generation.  
+ 
+Sustainalytics also recognizes that biomass in Poland has been used extensively as a co-generator in coal 
+power plants. The use of biomass as a co-generator of energy in coal power plants has been criticized as 
+prolonging the country’s reliance on coal, and contributing to GHG emissions from coal power plants. The 
+State Treasury of Poland has assured Sustainalytics that no proceeds from any green bonds issued under 
+this framework will be directed towards using biomass for cogeneration in coal power plants.  
+
+ 
+9 https://unfccc.int/files/ghg_emissions_data/application/pdf/pol_ghg_profile.pdf  
+10 https://www.iea.org/countries/membercountries/poland/ ; 
+
+http://www.iea.org/publications/freepublications/publication/Poland2011_web.pdf  
+
+11 http://www.eurasia.undp.org/content/dam/rbec/docs/Poland.pdf. 
+12 https://www.ure.gov.pl/download/1/7982/daneOZEmocwww.pdf. 
+
+ 
+ 
+
+6 
+
+© Sustainalytics 2016 
+
+Afforestation Eligible Sector 
+The importance of afforestation in achieving European GHG emission reduction targets 
+The INDC submitted by the EU specifies that the one of the ways the collective emissions reduction target 
+will  be  reached  is  by  reducing  emissions  from  the  Land  Use,  Land  Use  Change  and  Forestry  (LULUCF) 
+sectors.13 Afforestation and maintaining forests can play a significant role in reducing GHG emissions as 
+forests  can  act  as  carbon  sinks  to  absorb  carbon  dioxide  (CO2)  from  the  atmosphere.  In  general,  the 
+amount  of  CO2  absorbed  every  year  by  forests  (including  soil  and  taking  into  account  utilisation)  is 
+estimated at 39.5 million tonnes (roughly equivalent to 10.8 million tonnes of carbon).14 
+ 
+Specifically, in Poland, the LULUCF sector plays an important role in reducing CO2 emissions. For example, 
+in  2012,  the  LULUCF  sector  was  responsible  for  decreasing  Poland’s  CO2  emissions  by  roughly  10%, 
+removing 34, 672 Gg of CO2 equivalent from the atmosphere through absorption.15 
+ 
+Poland’s National Programme for the Augmentation of Forest Cover16 aims to increase forest cover to 30% 
+by 2020 and to 33% by 2050.17 Given the role of forests in removing CO2 from the atmosphere through 
+absorption,  Poland’s  afforestation  targets  will  play  a  significant  role  in  meeting  its  GHG  emissions 
+reduction target. In this context, Sustainalytics is of the opinion that afforestation clearly has an important 
+role in reducing GHG emissions in Poland, and projects under this eligibility criterion will help to achieve 
+Poland’s afforestation and Poland (and European) emission reduction targets.  
+ 
+Clean Transportation Eligible Sector 
+Financing passenger and/or mass transit rail projects has the clear environmental impact of reducing GHG 
+emissions by reducing the number of cars in use. Using bond proceeds to finance rail infrastructure that 
+will be used for passenger and/or mass transit will encourage the reduction in use of cars. Sustainalytics 
+recognizes  that  some  rail  infrastructure  funded  through  bond  proceeds  may  also  be  used  for  freight 
+transportation, as The State Treasury of Poland  is unable to specify whether only passenger or freight 
+trains (or both) will operate on funded rail infrastructure.  
+ 
+However, The State Treasury of Poland has confirmed to Sustainalytics that all rail lines and associated 
+rail  infrastructure  exclusively  for  use  by  freight  transport  trains  will  not  be  funded  through  any  green 
+bonds issued under this framework. Additionally, The State Treasury of Poland has also confirmed that no 
+rail  lines  or  rail  infrastructure  funded  under  this  eligible  sector  will  be  dedicated  for  the  exclusive 
+transportation of fossil fuels. While the exact contents of freight transportation on the rail networks will 
+not always be known to the  State Treasury of Poland, the use of railway lines for passenger transport 
+ensures  that  the  positive  impact  of  reduction  in  GHG  emissions  through  a  reduction  in  cars  in  use  is 
+captured by funding eligible projects under this sector, and that the environmental risk associated with 
+the exclusive transportation of fossil fuels is mitigated.  
+ 
+
+ 
+13 http://www4.unfccc.int/Submissions/INDC/Published%20Documents/Latvia/1/LV-03-06-EU%20INDC.pdf. 
+14 http://www.lasy.gov.pl/informacje/publikacje/in-english/forests-in-poland/forests-in-poland-2015. 
+15 https://unfccc.int/files/ghg_emissions_data/application/pdf/pol_ghg_profile.pdf. 
+16 The National Programme for the Augmentation of Forest Cover was prepared by the Forest Research Institute and recommended for 
+
+implementation by the Council of Ministers in 1995. This programme was also modified in 2002.  
+
+17 http://www.lasy.gov.pl/informacje/publikacje/in-english/forests-in-poland/forests-in-poland-2015. 
+
+7 
+
+ 
+ 
+
+© Sustainalytics 2016 
+
+Additionally, The State Treasury of Poland has also confirmed that all rail lines funded under this eligibility 
+sector  will  be  existing  rather  than  new  build  projects,  eliminating  the  environmental  and  social  risks 
+associated with construction of new infrastructure.  
+ 
+The State Treasury of Poland has also confirmed that their existing rail transportation system includes 
+approximately 60% electrified railway lines and 40% diesel train based railway lines. For the first green 
+bond issued under this framework, proceeds will be used for electrification of diesel train based railway 
+lines, and modernization of railway lines to increase access to roads and capacity of lines.  Proceeds from 
+green  bonds  issued  under  this  framework  will  also  be  used  to  finance  electric  rolling  stock.  This 
+electrification of rail infrastructure and financing of electric rolling stock will have the clear environmental 
+impact of reducing GHG emissions through reducing use of fossil fuels. The State Treasury of Poland has 
+assured  Sustainalytics  that  no  proceeds  from  any  green  bonds  issued  under  this  framework  will  be 
+directed towards transportation activities that consume fossil fuels.   
+ 
+Overall,  Sustainalytics  is  of  the  opinion  that  proceeds  under  this  eligibility  criterion  will  have  clear 
+environmental  impact  by  increasing  the  use  of  passenger/mass  transit  and  thereby  reducing  GHG 
+emissions from cars, and by reducing GHG emissions through reducing the use of fossil fuels.  
+   
+Sustainable Agriculture Eligible Sector 
+The need for government funding for organic farming in Poland 
+As  per  the  United  Nations  Food  and  Agriculture  Organisation  (FAO),  organic  farming  has  the 
+environmental  impacts  of  improving  soil  quality  and  improving  the  quality  of  ground  water.18  Using 
+synthetic  pesticides  and  fertilizers,  as  is  common  in  agriculture,  often  results  in  the  run  off  of  these 
+chemicals  into  ground  water,  and  consequently  the  pollution  of  groundwater.  In  organic  farming, 
+chemical-based  fertilizers  and  pesticides  are  replaced  with  biological  fertilizers  such  as  compost  and 
+animal manure. This significantly reduces the risk of ground water pollution; in fact, organic farming can 
+be  prescribed  as  restorative  measure  to  reduce  groundwater  pollution.19  Additionally,  sustainable 
+agricultural and soil building practices  such as minimum tillage,  inter-cropping, and crop rotations  are 
+commonly used in organic farming. Such practices improve the build-up of soil flora and fauna, and soil 
+structure. Overall, the use of such practices creates more stable biological systems in soil and improves 
+soil quality.20 
+ 
+The  State  Treasury  of Poland  has  confirmed  that there  are  26,000 organic  farms  in Poland.  The  State 
+Treasury  has  also  confirmed  that  90%  of  these  farms  receive  government  subsidies.  Given  the 
+environmental impact of organic farming as outlined by the UN FAO, and the context of organic farms 
+being heavily dependent on government funding, Sustainalytics is of the opinion that proceeds allocated 
+to this eligibility criterion will create environmental impact where there is absence of alternative funding.  
+ 
+
+ 
+18  http://www.fao.org/organicag/oa-faq/oa-faq6/en/. 
+19  http://www.fao.org/organicag/oa-faq/oa-faq6/en/. 
+20 http://www.fao.org/organicag/oa-faq/oa-faq6/en/. 
+
+ 
+ 
+
+8 
+
+© Sustainalytics 2016 
+
+National Parks Eligible Sector 
+The importance of National Parks for Poland’s international/national obligations on biodiversity 
+Poland is a signatory to the Convention on Biological Diversity (CBD)21, and as a member state of the EU is 
+also  obligated  to  meet  EU  targets  on  biodiversity  set  in  the  EU  biodiversity  plan.22  In  line  with  these 
+commitments, Poland maintains a national biodiversity strategy and action plan, and regularly discloses 
+progress reports on meeting its CBD and EU biodiversity protection targets.23  
+ 
+In the Polish Act of Nature Conservation, National Parks are defined as “covering an area of outstanding 
+value for the environmental, scientific, social, cultural and educational [benefit], with an area of not less 
+than 1000 hectares, which is subject to the protection of all nature and landscape values.” In its progress 
+report  on  the  implementation  of the  CBD,  National Parks  in Poland are  confirmed as  being  protected 
+areas.24  Using  green  bond  proceeds  to  manage  National  Parks  has  a  clear  environmental  impact  of 
+protecting biodiversity, and also contributes to meeting Poland’s national and international commitments 
+in this area.  
+ 
+Additionally,  Sustainalytics  recognizes  that  education  and  environmental  awareness  activities  are 
+specifically mandated by Poland’s Environmental Protection Act (EPA). The State Treasury of Poland has 
+assured  Sustainalytics  that  green  bond  proceeds  allocated  to  this  eligibility  criterion  will  be  directed 
+towards  including  topics  of  environmental  awareness  and  protection  in  school  curriculums.  In  this 
+context, Sustainalytics is of the opinion that such educational activities will have an impact on protecting 
+biodiversity through creating increased awareness.  
+ 
+Overall, Sustainalytics is of the opinion funding the management of national parks through bond proceeds 
+will result in the protection of biodiversity, and contribute to Poland meeting its national and international 
+obligations in this area.  
+ 
+Advancing the Sustainable Development Goals (SDGs) 
+The  Sustainable  Development  Goals  (SDGs)  were  set  in  September  2015  through  a  multi-stakeholder 
+partnership, and form an agenda for achieving sustainable development by the year 2030. These goals 
+are widely considered to be the next step to the Millennium Development Goals (MDG), which were time-
+bound  to  2015.  Unlike  the  MDG’s,  the  SDGs  emphasize  the  elimination  of  inequality  and  disparity  in 
+opportunity globally, in both developed and developing countries. Poland’s Green Bond Framework aligns 
+with SDGs 7, 13, and 15, as described below.  
+ 
+Alignment with SDG 7: Affordable and Clean Energy  
+In particular, SDG 7 ‘Affordable and Clean Energy’ has targets associated with increasing substantially the 
+share of renewable energy in the global energy mix, and ensuring universal access to affordable, reliable, 
+and  modern  energy  services.  By  using  green  bond  proceeds  to  finance  projects  under  the  Renewable 
+
+ 
+21 https://www.cbd.int/countries/?country=pl. 
+22 http://ec.europa.eu/environment/nature/biodiversity/comm2006/pdf/profiles/pl.pdf. 
+23 https://www.cbd.int/doc/world/pl/pl-nr-05-en.pdf ; 
+
+http://ec.europa.eu/environment/nature/biodiversity/comm2006/pdf/profiles/pl.pdf. 
+
+24 https://www.cbd.int/doc/world/pl/pl-nr-05-en.pdf. 
+
+9 
+
+ 
+ 
+
+© Sustainalytics 2016 
+
+Energy eligibility criterion, The State Treasury of the Republic of Poland is advancing the abovementioned 
+targets of SDG 7.  
+ 
+Alignment with SDG 13: Climate Action  
+SDG  13  includes  a  target  that  specifies  integrating  climate  change  measures  into  national  policies, 
+strategies,  and  planning.  By  using  green  bond  proceeds  to  fund  renewable  energy  and  afforestation 
+projects that contribute to Poland’s NREAP and EU emission reduction targets, The State Treasury of the 
+Republic of Poland is advancing the abovementioned target of SDG 13.  
+ 
+Alignment with SDG 15: Life on Land 
+ SDG 15 has targets that specify substantially increasing afforestation and reforestation, and that specify 
+the  reduction  in  degradation  of  natural  habitats  and  halt  in  loss  of  biodiversity.  By  using  green  bond 
+proceeds to fund projects under the Afforestation and National Parks eligibility criteria, The State Treasury 
+of Poland is advancing the abovementioned targets of SDG 15.  
+ 
+Section 3: Alignment of the Poland Green Bond Framework with the Green 
+Bond Principles 2016 
+ 
+Sustainalytics  is  of  the  opinion  that  the  Poland  Green  Bond  Framework  is  robust,  credible,  and 
+transparent. The commitment of The State Treasury of Poland to disclose the relevant eligible sector (and 
+specific projects if possible) for each green bond issued at the time of (or prior to) issuance,25 in addition 
+to its annual reporting commitment, will allow for transparent disclosure of intended impact of each green 
+bond issued under the Poland Green Bond Framework.  
+ 
+Additionally, the crediting of proceeds to a separate account allows for clear segregation and tracking of 
+green  bond  proceeds.  The  State  Treasury  of  Poland  has  also  explicitly  addressed  the  risk  of  double 
+counting by committing to reconcile allocation to eligible sectors with its annual budget review. The State 
+Treasury of Republic of Poland has assured Sustainalytics that the budget will not allow for listing of the 
+same project twice, so reconciliation to budget will prevent double counting and funding of same project 
+twice.  This  approach  ensures  the  creation  of  additionality  with  each  green  bond  issued  under  this 
+framework.  
+ 
+The State Treasury of Poland’s commitment to reporting annually (or until full allocation of proceeds) on 
+allocation of proceeds, examples of eligible Green Projects, and balance of unallocated proceeds is in line 
+with industry norms. The State Treasury of Poland has also committed to disclosing environmental and 
+social impact of funded projects, when feasible, and to issue an attestation that confirms that proceeds 
+of all green bonds issued under this framework are used in conformance with the framework. Given the 
+public nature of the issuer, Sustainalytics is of the opinion that reporting for this framework is transparent. 
+ 
+
+ 
+25 Such disclosure will be made only if project review and evaluation has been completed and the allocation of proceeds has been determined 
+
+in advance of issuance (refer to Poland Green Bond Framework document). 
+
+10 
+
+ 
+ 
+
+© Sustainalytics 2016 
+
+Sustainalytics has determined that the Poland Green Bond Framework aligns to the four pillars of the 
+Green Bond Principles 2016. For detailed information please refer to Appendix 1: Green Bond/Green 
+Bond Programme External Review Form. 
+ 
+Conclusion 
+Sustainalytics  is  of  the  opinion  that  The  State  Treasury  of  the  Republic  of  Poland  represented  by  the 
+Minister  of  Development  and  Finance  Green  Bond  Framework  (Poland  Green  Bond  Framework)  will 
+contribute to achieving Polish and European GHG emission reduction targets, and will also contribute to 
+advancing the UN Sustainable Development Goals. Sustainalytics has determined that the Poland Green 
+Bond Framework is aligned with the four pillars of the Green Bond Principles 2016, and is transparent, 
+robust, and credible.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+11 
+
+© Sustainalytics 2016 
+
+DISCLAIMER 
+All rights reserved. No part of this second party opinion (the “Opinion”) may be reproduced, transmitted 
+or published in any form or by any means without the prior written permission of Sustainalytics.  
+  
+The Opinion was drawn up with the aim to explain why the analyzed bond is considered sustainable and 
+responsible. Consequently, this Opinion is for information purposes only and Sustainalytics will not 
+accept any form of liability for the substance of the opinion and/or any liability for damage arising from 
+the use of this Opinion and/or the information provided in it. 
+  
+As the Opinion is based on information made available by the client, Sustainalytics does not warrant that 
+the information presented in this Opinion is complete, accurate or up to date. 
+  
+Nothing contained in this Opinion shall be construed as to make a representation or warranty, express or 
+implied, regarding the advisability to invest in or include companies in investable universes and/or 
+portfolios. Furthermore, this Opinion shall in no event be interpreted and construed as an assessment of 
+the economic performance and credit worthiness of the bond, nor to have focused on the effective 
+allocation of the funds’ use of proceeds. 
+  
+The client is fully responsible for certifying and ensuring its commitments` compliance, implementation 
+and monitoring. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+18 
+
+© Sustainalytics 2016 
+
+SUSTAINALYTICS 
+ 
+Sustainalytics is the largest independent provider of sustainability 
+research, analysis, and services to investors. We serve over 250 
+institutional investors which include some of the world's largest asset 
+owners and asset managers. Through over 20 years of experience 
+serving the responsible investment (RI) market, we have gained a 
+reputation for providing high-quality ESG research solutions and 
+excellent client service. 
+
+Sustainalytics is headed by seasoned professionals in the field of 
+business, finance, and sustainability, with a wealth of experience in the 
+Responsible Investment area. After more than 20 years of local 
+experience and expertise in the Responsible Investment (RI) market 
+Sustainalytics has developed a comprehensive understanding of trends 
+and best practices and a solid process to assist organisations in 
+integrating ESG considerations into their policies and strategies. We 
+have worked with some of the world’s financial institutions including 
+pension plans, investment managers and banks providing customised 
+support to help them achieve their RI objectives. Clients include ABN 
+AMRO, APG, BBVA, BNP Paribas, Deutsche Bank, ING Bank, Lombard 
+Odier, Lloyds Bank, Triodos Bank, UBS and over 250 other financial 
+institutions and organisations. 
+
+Sustainalytics now has a staff of 250 employees globally, including over 
+120 analysts, with operations in Amsterdam, Boston, Bucharest, 
+Frankfurt, New York, Paris, London, Singapore, Sydney, Timisoara, and 
+Toronto, and representation in Brussels and Washington DC. 
+
+In 2015, Sustainalytics was named the Best 
+SRI or Green Bond Research Firm by 
+GlobalCapital. In December 2014, for the 
+third year in a row, Sustainalytics was 
+named best sustainable and responsible 
+investment research firm in the 
+Independent Research in Responsible 
+Investment (IRRI) Survey, conducted by 
+Thomson Reuters and SRI-CONNECT.  
+
+ 
+ 
+
+19 
+
+

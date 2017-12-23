@@ -1,0 +1,1515 @@
+ 
+
+ 
+ 
+  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+
+ YGRENE 
+
+GREEN USE OF PROCEEDS 
+
+SECURITIZED BOND 
+
+ 
+
+ 
+
+FRAMEWORK OVERVIEW AND SECOND OPINION BY 
+
+ 
+ 
+ 
+
+SUSTAINALYTICS 
+
+August 29th 2016 
+
+www.sustainalytics.com 
+ 
+ 
+www.sustainalytics.com 
+ 
+www.sustainalytics.com 
+
+Marion Oliver (Toronto) 
+
+Remco Slim (Amsterdam) 
+
+Charlotte Peyraud (New York) 
+
+Manager, Advisory Services 
+
+marion.oliver@sustainalytics.com  
+
+(+1) 647 317 3644 
+
+ 
+
+ 
+ 
+
+  
+
+Advisor, Advisory Services  
+remco.slim@sustainalytics.com  
+(+31) 20 205 00 03 
+ 
+
+Vikram Puppala  
+
+Manager,  
+
+Senior Advisor, Institutional Relations  
+charlotte.peyraud@sustainalytics.com  
+(+1) 646 518 0184 
+
+ 
+ 
+
+Vikram Puppala  
+
+© Sustainalytics 2016 
+
+Table of Contents 
+
+FRAMEWORK OVERVIEW AND SECOND OPINION BY SUSTAINALYTICS 
+
+1.  Preface 
+
+2. 
+
+Introduction 
+
+3.  Framework overview 
+3.1  Use of Proceeds 
+3.2  Project Evaluation and Selection Process  
+3.3  Management of Proceeds 
+3.4 Reporting 
+
+4.  SUSTAINALYTICS’ OPINION 
+
+Conclusion 
+
+APPENDICES 
+
+Appendix 1: YgreneWorks - California Residential Project Guidelines 
+Appendix 2: Eligible Measures List 
+Documents Reviewed 
+Appendix 3: Green Bond/Green Bond Programme External Review Form 
+
+ABOUT SUSTAINALYTICS 
+
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+2 
+
+2 
+
+4 
+4 
+6 
+6 
+6 
+
+8 
+8 
+
+9 
+9 
+10 
+15 
+16 
+
+23 
+
+1 
+
+© Sustainalytics 2016 
+
+1. PREFACE 
+Ygrene  Energy  Fund  Inc.  (“Ygrene”),  through  its  financing  programs  (“Programs”),  finances  energy 
+efficiency, renewable energy and water conservation projects on private residential and commercial real 
+property (“Qualified Improvements”). Ygrene intends to issue Green Bonds (also known as Green Use of 
+Proceeds Securitized Bond). This financing is enabled by the issuance and sale of notes secured by limited 
+obligation improvement bonds that are in turn secured by property tax liens on the improved properties 
+(collectively called Property Assessed Clean Energy or “PACE” bonds). Ygrene has engaged Sustainalytics 
+to  provide  an  independent  opinion  on  its  framework  and  on  the  environmental  credentials  of  the 
+issuance.  Sustainalytics  reviewed  several  relevant  documents,  the  planned  use  of  proceeds  and  held 
+conversations  with  various  members  of  Ygrene’s  management  team  to  understand  the  sustainability 
+impact of their business processes and planned use of proceeds. This document contains two sections: 
+Framework Overview – summary of the Ygrene framework; and Sustainalytics’ Opinion – an opinion of 
+the framework.  
+  
+2. INTRODUCTION 
+Ygrene  Energy  Fund  Inc.  is  a  finance  company  providing  clean  energy  funding  for  residential  and 
+commercial properties throughout the United States. Founded in 2010, Ygrene is headquartered in Santa 
+Rosa, California, and currently operates in three states (California, Florida, and Georgia). Ygrene’s business 
+model  is  based  on  providing  financing  for  real  property  improvement  projects  involving  Qualified 
+Improvements. It does so by partnering with local and regional governmental entities to administer and 
+fund their PACE programs. It is the PACE legislation that allows for the highly secure property tax liens 
+that make PACE such a successful model. 
+ 
+The PACE Process 
+PACE legislation lets cities, counties, joint powers authorities, interlocal districts and other governmental 
+entities (“Jurisdictions”) raise capital through issuance of PACE bonds. Through the purchase of the PACE 
+bonds, Ygrene provides the capital that enables property owners to carry out Qualified Improvements 
+projects. The property owners, that meet eligibility criteria, apply to the Program directly or through a 
+Certified Contractor and repay  the  financing via a special tax or assessment on their property tax bill.  
+Following receipt of approval by the property owner, Ygrene directly pays the Certified Contractors for 
+the installation of Qualified Improvements. Property owners can choose both the Certified Contractors 
+and the Qualified Improvement, both of which must be pre-approved by Ygrene. By virtue of this financing 
+structure,  property  owners  do  not  incur  upfront  payments  for  their  energy  and  water  efficient 
+improvements and are able to repay the financing over a much longer term than is customarily available 
+for such projects. Municipalities service this repayment as a part of their annual tax collection process, 
+and remit these tax payments via a trustee to the ultimate holder of the PACE bonds.  
+ 
+Securitization of PACE Bonds  
+Ygrene provides collateral in the form of a PACE bond portfolio, and uses the liens and tax payments to 
+back its securitizations. Hence, the PACE bonds held by Ygrene (or a closely held Ygrene SPE) become a 
+securitized PACE bond portfolio that in turn is secured by the property tax liens and PACE assessments 
+levied against  the  participating owners’ properties. Ygrene  is directly responsible for originating these 
+
+ 
+
+2 
+
+© Sustainalytics 2016 
+
+assessments,  80-90%  of  which  come  through  contractor  referrals.  A  contractor  certified  through  the 
+Program  (listed  on  the  website  or  provided  by  Ygrene  customer  service  representatives),  “Certified 
+Contractor” must be selected by the property owner to install the Qualifying Improvements. Fees charged 
+through the Program reimburse Ygrene and its Jurisdiction partners for administrative and underwriting 
+costs.  Ygrene’s  principal  source  of  revenue  accrues  from  the  difference  in  interest  rates  between  its 
+sources of capital and coupons on its funding activities. 
+ 
+Currently, Ygrene operates Programs in three states (California, Florida, and Georgia). In California, Ygrene 
+administers its YgreneWorks Clean Energy PACE funding program, established by a state wide joint powers 
+authority (Golden State Finance Authority). Ygrene’s Clean Energy Green Corridor Program  operates in 
+Florida through the Green Corridor interlocal district, by which Ygrene is contracted to administer and 
+fund  its  Florida  PACE  programs.  In  Georgia,  Ygrene  is  partnering  with  Invest  Atlanta,  the  City’s 
+development authority, to develop the Clean Energy Atlanta PACE Program. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+3 
+
+© Sustainalytics 2016 
+
+3. FRAMEWORK OVERVIEW 
+Ygrene  is  planning  to  securitize  PACE  bonds  to  create  “Green  Bonds”. The  proceeds  finance  Qualified 
+Improvements on residential and commercial property of Program participants. The PACE bonds acquired 
+from  the  issuers  by  Ygrene  through  its  YgreneWorks  Clean  Energy  PACE  funding,  Clean  Energy  Green 
+Corridor,  and  Clean  Energy  Atlanta  programs  have  been  confirmed  by  an  external  auditor  to  be  used 
+exclusively for financing of Qualified Improvements. The following sections summarize Ygrene’s Green 
+Bond Framework with respect to the use of proceeds, project selection, the management of proceeds, 
+and reporting. 
+ 
+3.1   Use of Proceeds 
+The proceeds of Green Bonds issued by Ygrene will be used to finance Qualified Improvements consisting 
+of products represented by the general categories outlined below. 
+ 
+1.  Energy Efficiency 
+
+Insulating Floor Coverings 
+
+  Envelope Sealing & Ventilation  
+  Cool Roofs & Wall Coatings 
+ 
+  Building Insulation & Weather Stripping 
+  Radiant Barriers 
+  HVAC Systems 
+  Air Filtration & Exhaust Systems 
+
+ 
+
+  High Efficiency Water Heating 
+  High Efficiency Lighting 
+  High Efficiency Controls 
+  High Efficiency Pool Equipment 
+  Windows, Doors & Skylights 
+  Shading Structures & Blinds
+
+2.  Renewable Energy (Photovoltaic, Solar Thermal & Wind Generation Equipment)  
+  Co-generation Systems 
+  Electric Vehicle Charging Stations 
+  Fuel Cell Power Systems 
+  Natural Gas Systems 
+  Wind Turbine Power Systems
+
+  Solar Inverters 
+  Solar Panels 
+  Solar Photovoltaic Systems 
+  Solar Pool Heating Systems 
+  Solar Water Heating Systems 
+  Advanced Energy Storage Systems 
+
+3.  Water Management 
+
+  Water Saving Landscaping 
+  Water Saving Irrigation Systems 
+  Smart Irrigation Controllers 
+  High Efficiency Fixtures 
+  Cisterns & Gray-water Systems 
+  Demand Hot Water Heaters 
+  Hot Water Pipe Insulation 
+  Artificial Turf 
+  High Efficiency Pumps & Motors 
+
+  Deionization equipment 
+  Filter upgrades 
+  Foundation drain water 
+ 
+  Pre-rinse spray valves 
+  Recycled water sources 
+ 
+
+Land Planning 
+
+Industrial-process water-use reduction 
+
+ 
+
+ 
+
+ 
+
+4 
+
+ 
+
+4.  Emerging Technology & Innovative Solutions 
+Ygrene can approve financing for Qualified Improvements that are not “off the shelf”.  These Qualified 
+Improvements may involve any measures that save energy or water, generate energy from renewable 
+sources, measurably improve the property’s ability to resist wind and storm damage, or provide charging 
+stations for electric vehicles.  Examples include: 
+ 
+
+  Energy Management and Demand 
+
+  Other fuel sources (emerging 
+
+Reduction Systems 
+
+  HVAC Zoning Control Systems 
+Industrial Equipment Controls 
+ 
+
+technologies) 
+
+  Co-generation (heat and energy) 
+  Agricultural Water Saving Systems
+
+ 
+3.1.1  Eligibility Criteria 
+To be funded through the Green Bonds, the Qualified Improvements must meet the following eligibility 
+criteria: 
+
+1. 
+2. 
+
+It must fall under one or more of the categories specified in the Use of Proceeds Section 3.1.  
+It must meet certain  product-specific eligibility criteria as defined in the  Eligible Measures List 
+attached hereto as Annex 1.  
+
+3.  Products are funded within the 24 months prior to the issuance of the bonds. 
+
+ 
+
+Ygrene’s  product-specific  eligibility  criteria  (as  outlined  in  Annex  1)  reference  third-party  efficiency 
+program standards and certified product directories, when available, and rely on internal and external 
+subject  matter  expertise  to  generate  relevant  standards  and  eligibility  specifications.  This  third-party 
+reference process ensures that products have met widely recognized standards of efficiency. 
+ 
+The third-party sources used by Ygrene programs include the following: 
+
+  California Building Energy Efficiency 
+
+Program (Title 24) 
+
+  American National Standards Institute 
+
+(ANSI)  
+
+  A/C, Heating & Refrigeration Institute 
+
+(AHRI) 
+
+  Building Performance Institute (BPI) 
+  California Energy Commission (CEC) 
+  California Plumbing Code 
+  National Plumbing Code 
+  National Electrical Code 
+  National Fuel Gas Code 
+
+ 
+
+  California Solar Initiative Program  
+  Energy Star Certification 
+  EPA Certified Wood Stoves 
+  Home Ventilation Institute 
+  National Electrical Code 
+  National Fuel Gas Code 
+  American Wind Energy Association 
+  Solar Rating and Certification Corporation 
+  WaterSense Qualification 
+  High Velocity Hurricane Zone (HVHZ) 
+  Florida Building Code 5th Edition 
+ 
+
+Int’l Building Codes w/GA Amendments 
+
+Eligible Projects 
+Any project that meets the above eligibility criteria, including the new and ongoing developments of 
+such projects, are eligible to be funded in whole or in part by an allocation of the green bond proceeds. 
+
+ 
+
+5 
+
+© Sustainalytics 2016 
+
+3.2  Project Evaluation and Selection Process 
+To  be  funded  through  the  proceeds  of  the  issuance  and  the  underlying  PACE  bonds,  the  Qualified 
+Improvements (a product or a bundle of products outlined in Annex 1) must meet the eligibility criteria 
+specified above in section 3.1. Ygrene administers the YgreneWorks Clean Energy PACE funding, Clean 
+Energy Green Corridor, and Clean Energy Atlanta programs. These programs have been confirmed by an 
+external  auditor  to  be  used  exclusively  for  financing  of  Qualified  Improvements.  Ygrene  is  directly 
+responsible for originating the Qualified Improvement projects. In this process, Ygrene ensures that the 
+Qualified Improvements meet Ygrene’s product specific eligibility criteria.  
+ 
+
+3.3        Management of Proceeds  
+The proceeds of the green bonds issued by Ygrene will be immediately allocated towards refinancing the 
+eligible projects. The Green Bonds are secured by the PACE bonds in the pool, an amount equal to or less 
+than the amount of the bond authorization.  Ygrene, or a Ygrene-controlled SPE, is the sole buyer of PACE 
+bonds issued by the partnering Jurisdictions. Therefore, the net proceeds arising from the issuance of the 
+Green Bonds are used to repay PACE bonds funding Qualified Improvements.  
+ 
+The process of Jurisdictions issuing PACE bonds and Ygrene or a Ygrene SPE purchasing the PACE bonds 
+occurs  simultaneously.  Purchase  of  the  PACE  bonds  is  made  using  funds  from  various  Ygrene  credit 
+facilities,  resulting  in  full  allocation  of  the  proceeds  to  the  PACE  bonds  that  are  backed  by  the 
+assessment/tax lien pool.   
+ 
+3.4 Reporting  
+Allocation Reporting 
+Ygrene will disclose the allocation of the PACE bonds to the Green Bonds in an aggregated way. Ygrene 
+has also confirmed that their external auditor will provide verification on allocation of bond proceeds to 
+eligible projects. Given that all proceeds will be allocated immediately, verification on allocation of bond 
+proceeds will be disclosed all at once at issuance of the Green Bonds. 
+ 
+Impact Reporting 
+Ygrene will report on estimated impact in an aggregated way in the following areas: 
+
+  Greenhouse Gas (GHG) emission reductions  
+  Energy savings  
+  Renewable energy generation 
+  Water savings 
+
+ 
+Ygrene imports data compiled from its administrative software system, the U.S. EPA eGRID Power Profiler 
+and  the  GHG  Equivalency  Calculator  into  a  private  label  virtual  audit  software  tool.    This  proprietary 
+system, developed by a California company and approved by Pacific Gas and Electric and the California 
+Energy Commission, calculates energy savings and emission reductions for all Ygrene originated projects. 
+Where applicable, Ygrene estimates both annual and lifetime metrics of the installed improvements. The 
+reporting process and associated metrics are listed below.   
+ 
+
+ 
+
+ 
+ 
+
+6 
+
+© Sustainalytics 2016 
+
+Greenhouse Gas (GHG) Emission Reductions   
+1.  Methodology 
+Aggregated GHG emission reductions will be reported for both energy efficiency and renewable energy 
+projects.  
+ 
+2.  Specific Impact Metrics 
+
+  Aggregated Annual Emission Reduction (Tons GHG) 
+  Aggregated Lifetime Emission Reduction (Tons GHG) 
+
+ 
+Energy Savings  
+1.  Methodology 
+Energy  savings  estimates  are  reported  for  each  energy  efficiency  home  improvement  project  and 
+aggregated  for  all  projects  incorporated  in  the  Green  Bond  at  issuance.  The  impact  model  used  to 
+calculate  home  energy  savings  is  Ygrene’s  proprietary  virtual  audit  tool,  derivative  of  a  methodology 
+developed for Pacific Gas and Electric and approved by the California Energy Commission, developed for 
+Ygrene by a Novato, CA company.  
+ 
+2.  Specific Impact Metrics 
+
+  Aggregated annual and lifetime kWh Savings 
+  Aggregated annual and lifetime Therm Savings 
+  Aggregated Annual Energy Savings (kWh-e & bill savings) 
+  Aggregated Lifetime Energy Savings (kWh-e & bill savings) 
+
+ 
+Renewable Energy Generation  
+1. Methodology 
+Renewable  energy  generation  estimates  are  reported  for  solar  photovoltaic  installation  projects.  The 
+aggregated  impact  estimates  derive  from  methodologies  used  by  the  National  Renewable  Energy 
+Laboratory's PV Watts Calculator. 
+ 
+2.  Specific Impact Metrics 
+
+  Aggregated Solar System Size (W) 
+  Aggregated Annual Energy Savings (kWh & bill savings) 
+  Aggregated Lifetime Energy Savings (kWh & bill savings) 
+
+ 
+Water Savings 
+1.  Methodology 
+Water savings estimates are reported for both indoor and outdoor water efficiency projects. This impact 
+model  derives  primarily  from  methodologies  used  by  the  U.S.  Environmental Protection  Agency (EPA) 
+WaterSense Program and the California Department of Water Resources. 
+ 
+2.  Specific Impact Metrics 
+
+  Aggregated Annual Water savings (gallons & bill savings) 
+  Aggregated Lifetime Water savings (gallons & bill savings) 
+
+ 
+
+ 
+ 
+
+7 
+
+© Sustainalytics 2016 
+
+ 
+
+4. SUSTAINALYTICS’ OPINION 
+ 
+Three innovative programs to promote home energy efficiency: Ygrene’s three financing programs: The 
+YgreneWorks Clean Energy PACE funding program (California), The Clean Energy Green Corridor Program 
+(Florida),  and  The  Clean  Energy  Atlanta  PACE  Program  (Georgia)  are  an  effective  way  to  promote  the 
+uptake of energy and water conservation products as well as renewable energy-generating products in 
+these  three  US  states.  PACE  incentivizes  home  owners  to  install  green  products  by  financing  their 
+installation  through  increased  home  property  taxes,  payable  over  an  extended  time  frame.  Hence, 
+homeowners do not have to pay for these energy efficiency renovations upfront, and associated costs are 
+often  offset  by  energy  savings.  Ygrene,  as a PACE  administrator,  offers  homeowners  financing  for  the 
+green investments which are paid back through an increase in property taxes. Therefore, Ygrene, with its 
+three  financing  programs,  is  promoting  and  helping  home  owners  install  green  projects  and  improve 
+home energy efficiency.  
+ 
+Alignment with  Green  Bond  Principles  2016:  Sustainalytics  has  determined  that  Ygrene’s  green  bond 
+Framework aligns to the four pillars of the Green Bond Principles 2016. For detailed information please 
+see Appendix 2: Green Bond/Green Bond Programme External Review Form. 
+ 
+Conclusion  
+Residential homes and commercial properties in the US are a significant source of the country’s overall 
+GHG  emissions.  In  2014,  the  United  States  Environmental  Protection  Agency  (EPA)  reported  that 
+commercial and residential homes contributed to 12% of total US greenhouse gas emissions. Additionally, 
+the EPA reported that indirect emissions from electricity used by homes and businesses have increased 
+by 27% since 1990, due to increasing electricity consumption for lighting, heating, air conditioning, and 
+appliances.1 Ygrene supports residential and commercial renewable energy, energy efficiency, and water 
+efficiency by providing financing to eligible improvement projects in California, Florida, and Georgia. Given 
+that total property tax assessments backing the PACE bonds will meet or exceed the proceeds of the green 
+bond, the capital raised through the issuance of the bond will be allocated entirely for energy or water 
+efficient home improvements, through the purchase of PACE bonds. Ygrene’s Green Bond framework is 
+aligned with the ICMA Green Bond Principles 2016. Sustainalytics is of the opinion that the green bond 
+Framework is robust, credible and effective in supporting energy efficiency projects for residential and 
+commercial properties in California, Florida, and Georgia. 
+ 
+Based  on  the  above  points,  Sustainalytics  considers  Ygrene’s  Green  Bond  Framework  to  be  robust, 
+credible and transparent. 
+ 
+ 
+ 
+ 
+
+ 
+
+1 https://www3.epa.gov/climatechange/ghgemissions/sources/commercialresidential.html.  
+
+ 
+
+ 
+ 
+
+8 
+
+© Sustainalytics 2016 
+
+APPENDICES 
+Appendix 1: YgreneWorks - California Residential Project Guidelines 
+ 
+In order to qualify for Ygrene funding, all projects must: 
+ 
+
+  Meet or exceed applicable local, state, and federal codes and standards; 
+ 
+
+In  California,  comply  with  Title  24,  Part  6,  Subchapters  1.  (General  Provisions);  2.  (Mandatory 
+Requirements  for  the  Manufacture,  Construction,  and  Installation  of  Systems,  Equipment  and 
+Building Components); 7. (Mandatory Features and Devices); and 9. (Additions and Alterations in 
+Existing Low-Rise Residential Buildings); 
+
+  Be installed by Ygrene-certified contractors or participating property owners; and 
+  Be installed in accordance with manufacturer recommendations. 
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+
+9 
+
+© Sustainalytics 2016 
+ 
+Appendix 2: Eligible Measures List 
+ 
+Alternative Energy Upgrades 
+
+ 
+
+PRODUCT TYPE 
+
+ELIGIBLE UPGRADE MEASURE 
+
+Alternative 
+Energy 
+
+Alternative  Energy Storage System 
+
+Co-generation System 
+
+Electric Vehicle Charging Station 
+
+Fuel Cell Power System 
+
+Hydrogen  Fuel Power System 
+
+Natural  Gas System 
+
+Wind Turbine Power System 
+
+Emerging Energy or Water Saving Technologies 
+
+Custom  Measures (with management approval) 
+Written  explanation  and assertion of energy savings required. 
+
+ 
+Renewable Generation Upgrades 
+
+ 
+
+PRODUCT TYPE 
+
+ELIGIBLE UPGRADE MEASURE 
+
+Solar 
+Photovoltaic 
+
+Solar Photovoltaic System 
+
+Solar Inverter (free-standing) 
+
+Emerging Energy Saving or Generating Technologies 
+
+Custom  Measures (with management approval). 
+Written  explanation  and assertion of energy savings required. 
+
+Solar Thermal 
+
+Solar Thermal Water Heating 
+
+Solar Thermal Pool Heating 
+
+Custom  Measures (with management approval) 
+Written  explanation  and assertion of energy savings required. 
+
+ 
+Energy Efficiency Upgrades 
+
+ 
+
+PRODUCT TYPE 
+
+ELIGIBLE UPGRADE MEASURE 
+
+High- 
+Efficiency 
+Lighting and 
+Appliances 
+
+Energy Efficiency Refrigeration System (Appliances must be built in and permanently fixed) 
+
+Indoor LED Lighting Fixture 
+
+Lighting Control System 
+
+Outdoor LED Lighting Fixture 
+
+Custom  Measures (with management approval). 
+Written  explanation  and assertion of energy savings required. 
+
+High- Efficiency 
+Pool Equipment 
+
+Automatic  Pool Cover 
+
+Electric Heat Pump Pool Heater 
+
+Gas Pool  Heater 
+
+Pool Pump and Motor 
+
+Custom  Measures (with management approval). 
+Written  explanation  and assertion of energy savings required. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+USEFUL  LIFE (YEARS) 
+
+10 
+
+20 
+
+20 
+
+20 
+
+20 
+
+20 
+
+20 
+
+Call 
+
+varies 
+
+USEFUL  LIFE (YEARS) 
+
+30 
+
+10 
+
+call 
+
+varies 
+
+20 
+
+20 
+
+varies 
+
+USEFUL  LIFE (YEARS) 
+
+25 
+
+20 
+
+20+ 
+
+20 
+
+varies 
+
+10 
+
+20 
+
+20 
+
+20 
+
+varies 
+
+10 
+
+ 
+
+PRODUCT TYPE 
+
+ELIGIBLE UPGRADE MEASURE 
+
+USEFUL  LIFE (YEARS) 
+
+Building 
+Envelope 
+
+Air Sealing 
+
+Cool Wall Coating 
+
+Insulation  – Attic 
+
+Insulation  – Exterior (walls only) 
+
+Electrical Wiring  Modernization  (must be in conjunction with energy efficiency projects and support 
+permit acquisition) 
+
+Insulation – Hot Water Pipe 
+
+Insulation  – Under-floor 
+
+Insulation  – Wall 
+
+Insulating Carpet and Padding (must show insulation rating) 
+
+Patio Covers 
+
+Radiant Barrier 
+
+Reflective Paint 
+
+Roofing - Cool (energy saving) 
+
+Roofing – Insulated 
+
+Roofing - Reflective (energy saving) 
+
+Weather Stripping 
+
+Custom  Measures (with management approval). 
+Written  explanation  and assertion of energy savings required. 
+
+Additional building openings to provide natural light 
+
+Heating, 
+Venting & Air 
+Conditioning 
+(HVAC) 
+
+Air Conditioner – Central 
+
+Air Conditioner – Mini-Split 
+
+Air Filtration System 
+
+Biomass/Wood Stove 
+
+Boiler 
+
+Duct Replacement 
+
+Duct Sealing 
+
+Evaporative Cooler 
+
+Fan – Ceiling 
+
+Fan – Whole House 
+
+Furnace – Electric 
+
+Furnace – Gas 
+
+Heat Pump - Geothermal 
+
+Heat Pump - Mini-Split 
+
+HVAC Systems 
+
+Hydronic Radiant Heating System 
+
+Pellet Stove 
+
+Ventilation System 
+
+Ventilator - Exhaust Fixture 
+
+Ventilator - Heat/Energy Recovery 
+
+Custom  Measures (with management approval). 
+Written  explanation  and assertion of energy savings required. 
+
+20 
+
+20 
+
+50+ 
+
+20 
+
+30 
+
+30 
+
+50+ 
+
+50+ 
+
+10 
+
+20 
+
+20 
+
+10 
+
+30 
+
+30 
+
+30 
+
+20 
+
+varies 
+
+50+ 
+
+20 
+
+20 
+
+20 
+
+20 
+
+20-40 
+
+20 
+
+20 
+
+20 
+
+20 
+
+20 
+
+20 
+
+20 
+
+20 
+
+20 
+
+20 
+
+20 
+
+20 
+
+25 
+
+25 
+
+25 
+
+varies 
+
+ 
+
+12 
+
+© Sustainalytics 2016 
+
+High- 
+Efficiency Water 
+Heating 
+
+Electric Heat Pump Storage Water Heater 
+
+Electric Tankless Water Heater 
+
+Gas Storage Water Heater 
+
+Gas Tankless  Water Heater 
+
+PRODUCT TYPE 
+
+ELIGIBLE UPGRADE MEASURE 
+Heating Water Circulating Pump 
+
+Indoor Water 
+Efficiency 
+
+Heating Water Controller 
+Core Plumbing System (to replace/repair leaks) 
+
+Recirculation Hot Water System 
+Demand Hot Water System 
+
+Whole House Water Manifold System 
+Demand Water Softener 
+
+Custom  Measures (with management approval). 
+Faucet Aerators 
+Written  explanation  and assertion of energy savings required. 
+High-efficiency  Faucet Fittings 
+
+ 
+
+High-efficiency Showerheads 
+
+PRODUCT TYPE 
+
+ELIGIBLE UPGRADE MEASURE 
+High-efficiency Toilets 
+
+Windows, 
+Doors  and 
+Skylights 
+
+Doors 
+High-efficiency Toilet Fixtures 
+
+Exterior Window Shading Device 
+Hot Water Delivery System 
+(must be permanently  secured to the interior of the property) 
+Recirculation Hot Water System 
+Interior Window and Door Blinds 
+Waterless Urinals 
+(must be sized to the windows and mounted permanently) 
+
+Custom  Measures (with management approval). 
+Interior Window Shutters (must be sized to the windows, movable and adjustable and permanently 
+Written  explanation  and assertion of energy savings required. 
+mounted) 
+
+Outdoor Water 
+Efficiency 
+
+Artificial Turf 
+Window  Shading Device - Exterior Awning 
+(must be permanently  secured to the exterior of the property) 
+Drip Irrigation System 
+
+Window  Shading Device - Exterior Shutter 
+Drought Tolerant Landscaping 
+(must be permanently  secured to the exterior of the property) 
+Gray Water System 
+Glass Doors  – Sliding 
+Gutters (only if part of water collections or part of eligible re-roof ) 
+Glass Doors  – French 
+Pavers (only  if replacing  grass or other watered features) 
+Light Tubes 
+Sewer Lateral 
+Skylights 
+Sewer Lateral Repair (must be repair of existing damaged and leaking pipes) 
+Windows 
+Trenchless Sewer Lateral Lines 
+Window Filming 
+Septic to Sewer Conversion (must comply with local codes, permitting and fee requirements) 
+Custom  Measures (with management approval). 
+Written  explanation  and assertion of energy savings required. 
+High-efficiency Sprinkler Nozzle 
+
+High-efficiency Irrigation Pump 
+
+High-efficiency Irrigation System 
+
+Irrigation Control System 
+
+Rainwater Catchment System 
+
+Weather-based Irrigation  Controller 
+
+Custom  Measures (with management approval). 
+Written  explanation  and assertion of energy savings required. 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+
+20 
+
+20 
+
+ 
+20 
+
+ 
+20 
+ 
+USEFUL  LIFE (YEARS) 
+20 
+
+ 
+
+20 
+20 
+
+20 
+20 
+
+20 
+20 
+
+varies 
+20 
+
+20 
+
+20 
+
+USEFUL  LIFE (YEARS) 
+50+ 
+
+50+ 
+50+ 
+
+10 
+20 
+
+20 
+10 
+20 
+
+varies 
+20 
+
+15 
+10 
+
+20 
+
+20 
+20 
+
+20 
+30 
+20 
+30 
+30 
+20 
+20 
+30 
+20+ 
+30 
+30 
+10 
+20+ 
+varies 
+
+10 
+
+20 
+
+20 
+
+20+ 
+
+20 
+
+20+ 
+
+varies 
+
+USEFUL  LIFE (YEARS) 
+
+20+ 
+
+20-30 
+
+20+ 
+
+20+ 
+
+20+ 
+
+20+ 
+
+20+ 
+
+20+ 
+
+varies 
+
+20 
+
+20 
+
+20+ 
+
+20 
+
+20 
+
+20 
+
+20 
+
+20 
+
+20 
+
+20+ 
+
+varies 
+
+20 
+
+25 
+
+25 
+
+20 
+
+20 
+
+20 
+
+20 
+
+20 
+
+varies 
+
+© Sustainalytics 2016 
+
+Water Conservation Upgrades 
+
+PRODUCT TYPE 
+
+ELIGIBLE UPGRADE MEASURE 
+
+Control 
+Systems 
+
+Building  Energy Efficient Management Control Systems 
+
+Elevator Motors and Controls (energy efficient) 
+
+HVAC Duct Zoning Control System (energy efficient) 
+
+HVAC Control  System 
+
+Industrial Process Equipment Motors and Controls (energy efficient) 
+
+Irrigation  Pumps and Controls (energy efficient) 
+
+Kitchen Exhaust Air Volume Control  System (energy efficient) 
+
+Lighting Control System (energy efficient) 
+
+Custom  Measures (with management approval). 
+Written  explanation  and assertion of energy savings required. 
+
+High-efficiency Lighting (classroom, office, industrial, etc.) 
+
+Occupancy Sensor Lighting 
+
+Lighting Control System 
+
+Refrigeration Case Lighting with Occupancy Sensors 
+
+High- 
+Efficiency 
+Lighting 
+
+SMART Parking  Lot  Fixtures 
+
+SMART Parking  Garage  Fixtures 
+
+SMART Pathway Lighting 
+
+SMART Wall  Pack Fixtures 
+
+Task Ambient Lighting 
+
+Wireless Lighting Controls 
+
+Custom  Measures (with management approval). 
+Written  explanation  and assertion of energy savings required. 
+
+Water 
+Efficiency 
+
+Cooling Condensate Reuse 
+
+Cooling Tower 
+
+Cooling Tower Controllers 
+
+Core Plumbing System (to replace/repair leaks) 
+
+Deionization Equipment 
+
+Industrial Process Water Reuse 
+
+Pre-rinse Spray Valves 
+
+Recycled Water Sources 
+
+Custom  Measures (with management approval) 
+Written  explanation  and assertion of energy savings required. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+© Sustainalytics 2016 
+
+Documents Reviewed 
+ 
+Sustainalytics reviewed the following documents for the purposes of writing this report 
+ 
+
+Number 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+
+Document Name 
+California Clean Energy PACE Program 
+California Clean Energy Program Hearing Report  
+Florida PACE Program 2010 
+Mello-Roos Amendment SB 555 2011 
+Ygrene Benefit to Cost Ratio Justification  
+Ygrene Clean Energy Corridor -Florida  
+Ygrene Contract for Homeowners 2015 
+Ygrene Finance Agreenment for Homeowners 2014 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+© Sustainalytics 2016 
+
+Disclaimer 
+All rights reserved. No part of this second party opinion (the “Opinion”) may be reproduced, transmitted 
+or published in any form or by any means without the prior written permission of Sustainalytics.  
+  
+The Opinion was drawn up with the aim to explain why the analyzed bond is considered sustainable and 
+responsible. Consequently, this Opinion is for information purposes only and Sustainalytics will not 
+accept any form of liability for the substance of the opinion and/or any liability for damage arising from 
+the use of this Opinion and/or the information provided in it. 
+  
+As the Opinion is based on information made available by the client, Sustainalytics does not warrant that 
+the information presented in this Opinion is complete, accurate or up to date. 
+  
+Nothing contained in this Opinion shall be construed as to make a representation or warranty, express or 
+implied, regarding the advisability to invest in or include companies in investable universes and/or 
+portfolios. Furthermore, this Opinion shall in no event be interpreted and construed as an assessment of 
+the economic performance and credit worthiness of the bond, nor to have focused on the effective 
+allocation of the funds’ use of proceeds. 
+  
+The client is fully responsible for certifying and ensuring its commitments` compliance, implementation 
+and monitoring. 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+© Sustainalytics 2016 
+
+ABOUT SUSTAINALYTICS 
+Sustainalytics is the largest independent provider of sustainability 
+research, analysis, and services to investors. We serve over 250 
+institutional investors which include some of the world's largest asset 
+owners and asset managers. Through over 20 years of experience 
+serving the responsible investment (RI) market, we have gained a 
+reputation for providing high-quality ESG research solutions and 
+excellent client service. 
+
+Sustainalytics is headed by seasoned professionals in the field of 
+business, finance, and sustainability, with a wealth of experience in the 
+Responsible Investment area. After more than 20 years of local 
+experience and expertise in the Responsible Investment (RI) market 
+Sustainalytics has developed a comprehensive understanding of trends 
+and best practices and a solid process to assist organisations in 
+integrating ESG considerations into their policies and strategies. We 
+have worked with some of the world’s financial institutions including 
+pension plans, investment managers and banks providing customised 
+support to help them achieve their RI objectives. Clients include ABN 
+AMRO, APG, BBVA, BNP Paribas, Deutsche Bank, ING Bank, Lombard 
+Odier, Lloyds Bank, Triodos Bank, UBS and over 250 other financial 
+institutions and organisations. 
+
+Sustainalytics now has a staff of 250 employees globally, including over 
+120 analysts, with operations in Amsterdam, Boston, Bucharest, 
+Frankfurt, New York, Paris, London, Singapore, Sydney, Timisoara, and 
+Toronto, and representation in Brussels and Washington DC. 
+
+In 2015, Sustainalytics was named the Best SRI or Green Bond Research 
+
+Firm by GlobalCapital. In December 2014, 
+for the third year in a row, Sustainalytics 
+was named best sustainable and 
+responsible investment research firm in 
+the Independent Research in Responsible 
+Investment (IRRI) Survey, conducted by 
+Thomson Reuters and SRI-CONNECT.  
+
+ 
+ 
+ 
+
+

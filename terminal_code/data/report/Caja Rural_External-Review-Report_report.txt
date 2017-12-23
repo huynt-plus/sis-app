@@ -1,0 +1,958 @@
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+CAJA RURAL DE NAVARRA  
+
+SUSTAINABILITY BOND 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+
+FRAMEWORK OVERVIEW AND SECOND OPINION BY 
+
+SUSTAINALYTICS 
+
+July 28, 2016 
+
+Trisha Taneja (Toronto) 
+
+Tim Langer (London) 
+
+Advisor, Advisory Services 
+
+Advisor, Institutional Relations 
+
+trisha.taneja@sustainalytics.com 
+
+tim.langer@sustainalytics.com 
+
+(+1) 647 317 3695 
+
+(+44) 20 3695 9528 
+
+ 
+
+ 
+
+ 
+
+ 
+
+www.sustainalytics.com 
+ 
+www.sustainalytics.com 
+ 
+www.sustainalytics.com 
+ 
+
+© Sustainalytics 2016 
+
+TABLE OF CONTENTS 
+
+FRAMEWORK OVERVIEW AND SECOND OPINION BY SUSTAINALYTICS 
+
+1. 
+
+Introduction 
+
+2.  Company profile 
+
+3.  Framework overview 
+3.1  Use of Proceeds 
+3.2  Project Evaluation and Selection Process 
+3.3  Management of Proceeds 
+3.4  Reporting 
+
+4. Sustainalytics’ Opinion 
+
+Conclusion 
+
+APPENDICES 
+
+Appendix 1: List of KPIs 
+Appendix 2: Alignment with Green Bond Principles 
+Appendix 3: European Union Framework for Rural Development Programmes 
+
+SUSTAINALYTICS 
+
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1 
+
+3 
+
+3 
+
+4 
+4 
+7 
+7 
+8 
+
+9 
+11 
+
+12 
+12 
+13 
+18 
+
+20 
+
+2 
+
+© Sustainalytics 2016 
+
+1. INTRODUCTION 
+ 
+Caja Rural de Navarra has engaged Sustainalytics to provide a second opinion on its sustainability bond 
+issuance and the bond’s environmental and social credentials.  As part of this engagement, Sustainalytics 
+held conversations with various members of Caja Rural de Navarra’s management team to understand 
+the  sustainability  impact  of  their  lending,  and  planned  use  of  proceeds  for  the  bond  issuance. 
+Sustainalytics  also  reviewed  relevant  public  and  internal  documents.  This  document  contains  two 
+sections: Framework Overview – summary of the Caja Rural de Navarra Sustainability Bond framework; 
+and Sustainalytics’ Opinion – an opinion on the framework. 
+ 
+2. COMPANY PROFILE 
+ 
+Caja Rural de Navarra is a cooperative, regional and retail focused bank that provides banking and financial 
+services in northern Spain: Basque Country, Navarre and La Rioja. It was established in 1910 as the central 
+institution for local co-operatives of the region; since 1946, it has evolved to become  a regional co-op 
+bank,  with  its  customers  now  based  both  in  rural  and  in  urban  areas.  Its  customer  segments  include 
+individuals, retailers, Small and Medium Enterprises (SMEs), large corporates, and institutions. It offers a 
+range of products and services- mortgage and consumer loans, financing for businesses, demand and time 
+savings products, investment services, guarantees, debit and credit cards, and also engages in insurance 
+brokerage activities.  
+ 
+Additionally,  Caja  Rural  de  Navarra  is  a  part  of  the  Caja  Rural  Group,  a  financial  group  for  Spanish 
+cooperative banking institutions, whose model is based on the European cooperative credit movement. 
+In its 2015 Annual Report, Caja Rural de Navarra discloses that as a cooperative bank that is a member of 
+the Caja Rural Group, it is subject to Spanish legal acts and the Caja Rural Group’s articles of association. 
+In accordance with these, Caja Rural de Navarra maintains a Social Welfare Fund, to which it donates ten 
+percent of its annual profits. The objective of  the Social Welfare Fund is to “promote the cooperative 
+model and foster relationships between cooperative entities,” and to develop social and environmental 
+initiatives that are beneficial to the community it serves.  These social and environmental standards also 
+serve  as  a  broad  sustainability  framework  for  Caja  Rural  de  Navarra’s  existing  portfolio  of  loans;  the 
+strategy for loan origination has priorities that are coherent and complementary with those of the Social 
+Welfare  Fund.  These  priorities  include  social  housing,  entrepreneurship,  sustainable  agriculture, 
+renewable  energy,  SMEs  and  micro  finance,  and  social  inclusion.  Additionally,  Caja  states  it  regularly 
+tracks its loans to ensure adherence to this sustainability framework. The tracking is based on internal 
+guidelines, or officially defined external criteria (as is the case with social housing and SME financing).  
+ 
+Furthermore, the legal structure of Caja Rural de Navarra is that of a “Credit cooperative,” i.e. borrowers 
+are also shareholders (“cooperative members”) of the bank. The borrowers are able to take part in the 
+corporate governance of Caja through a democratic, co-operative process managed through governing 
+bodies (General Assembly and Board of Directors). The borrowers’ inputs are then used to determine the 
+strategy of the bank, grounding it in an approach that engages stakeholders.  
+ 
+
+ 
+
+ 
+
+3 
+
+© Sustainalytics 2016 
+
+To maintain its identity as a European cooperative grounded in the success of local communities, and to 
+extend the track record of its Social Welfare Fund to its lending portfolio, Caja Rural de Navarra is planning 
+to issue a sustainability bond. The bond will finance lending to projects or activities focused on sustainable 
+agriculture, renewable energy, energy efficiency, sustainable forest management, waste  management, 
+social  housing,  education,  and  economic  inclusion  that  are  eligible  according  to  the  Use  of  Proceeds 
+criteria outlined in the Framework Overview.  
+ 
+ 
+3. FRAMEWORK OVERVIEW 
+ 
+Caja Rural de Navarra is issuing a sustainability bond to finance lending to projects or activities that are 
+focused on  environmental  sustainability  and  creating  social  impact  in  local  communities.  The  projects 
+funded through the bond will align with Caja’s internal sustainability principles as reflected in its Social 
+Welfare Fund, and its core identity as a local and regionally focused cooperative. The following section 
+summarises  Caja’s  sustainability  bond  framework,  including  the  use  of  proceeds,  process  for  project 
+selection, the management of proceeds, and reporting.   
+ 
+3.1   Use of Proceeds 
+ 
+The proceeds of the sustainability bond will be allocated towards lending to projects or activities that are 
+eligible as per the criteria specified below.  
+ 
+Eligibility Criteria 
+To be eligible for loans financed through the sustainability bond proceeds, the projects or activities funded 
+must meet one or more of the following eligibility criteria: 
+
+ 
+1.  CATEGORY: SUSTAINABLE AGRICULTURE 
+
+i. 
+
+ii. 
+
+iii. 
+
+iv. 
+
+Reduce  methane  or  Green  House  Gas  (GHG)  emissions  resulting  from  agriculture  or 
+livestock management. Examples of qualifying projects include management of manure 
+using bio-digesters, and the use of rangeland management techniques.  
+ 
+Develop or operate  agricultural, food production, or food processing facilities (such as 
+buildings and equipment) that have reduced GHG emissions.  
+
+Produce  or  use  equipment/technologies  that  decrease  the  GHG  emissions  of  core 
+agricultural inputs and processes, such as irrigation, warehousing, transportation, crop 
+protection, fertilizers, and animal feed.  
+
+Develop  or  operate  infrastructure/services/processes  that  reduce  waste  and  post-
+harvest  losses,  including  through  increasing  the  efficiency  of  food  resource  use.  An 
+example of such an activity is the repurposing of wasted human food as animal feed.  
+
+4 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+© Sustainalytics 2016 
+
+v. 
+
+Improve  or  reduce  the  depletion  of  existing  carbon  pools.  Examples  of  qualifying 
+projects/activities  include  reducing  fertilizer  use,  collecting  and  re-using  agricultural 
+waste, and rehabilitating degraded lands.  
+
+2.  CATEGORY: RENEWABLE ENERGY 
+
+i. 
+
+ii. 
+
+iii. 
+
+Generate  electricity  from  renewable  sources  such  as  solar  power,  wind  power, 
+geothermal, hydropower. 
+ 
+Develop, produce, or distribute bio-based fuels that achieve at least a 50% reduction in 
+GHG  emissions  as  compared  to  fossil  fuels  used  in  transport,  heating,  or  electricity 
+generation  
+
+Develop  or  operate  transmission  infrastructure  and  systems  that  (a)  facilitate  the 
+inclusion of renewable energy into the grid, (b) support the distribution of bio-fuels (same 
+emissions reduction criteria applies as above), (c) are wholly dedicated to energy from 
+renewable sources, or (d) improve existing systems to facilitate the integration of energy 
+from renewable sources into the grid 
+
+iv.  Manufacture components whose sole purpose is use in renewable energy technologies  
+
+3.  CATEGORY: ENERGY EFFICIENCY  
+
+i. 
+
+Develop  or  use  products/technologies  that  reduce  the  energy  consumption  of  the 
+underlying asset/system  
+ 
+
+ii.  Manufacture  components  whose  sole  purpose 
+
+is  use 
+
+in  energy  efficiency 
+
+products/technologies 
+
+4.  CATEGORY: SUSTAINABLE FOREST MANAGEMENT  
+
+i. 
+
+ii. 
+
+Execute  the  afforestation  (including  development  of  plantations)  of  non-forested  land 
+ 
+Reforest previously forested land  
+ 
+
+5.  CATEGORY: WASTE MANAGEMENT 
+
+i. 
+
+Develop or use technology/equipment that increases resource use efficiency to decrease 
+waste, or that reduces waste production  
+ 
+
+6.  CATEGORY: AFFORDABLE HOUSING  
+
+i. 
+
+ii. 
+
+Provide  social  housing  mortgages  to  disadvantaged  populations,  as  defined  by  the 
+requirements set by regional governments. These requirements can include criteria such 
+as income level, number of family members, number of aged/disabled people within the 
+family, relevant immigrant background of the family, violence experienced by women in 
+households, and single parent households.   
+ 
+Provide affordable housing in the form of old age residences to the elderly 
+
+5 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+© Sustainalytics 2016 
+
+7.  CATEGORY: SOCIAL INCLUSION 
+
+i. 
+
+ii. 
+
+iii. 
+
+Construct  cultural  facilities  such  as  community  centers  for  socially/economically 
+marginalized groups such as physically or mentally disabled populations. 
+ 
+Provide job training programmes or facilities to youth, unemployed, physically or 
+mentally disabled populations, or any other socially/economically marginalized groups 
+ 
+Improve the teaching and use of languages, including minority regional languages, 
+immigrant languages, and Spanish language learning activities for immigrants.  
+ 
+
+8.  CATEGORY: EDUCATION  
+
+i. 
+
+ii. 
+
+Construct buildings or lab facilities in schools. Examples of school buildings include (but 
+are not limited to) gyms, computer labs, libraries, vocational school buildings.  
+ 
+Construct university campus buildings or facilities at any public and non-profit university 
+campus.  
+ 
+
+9.  CATEGORY: ECONOMIC INCLUSION  
+
+i. 
+
+ii. 
+
+iii. 
+
+Provide microfinance loans or loans to increase financial inclusion that (a) are less than 
+EUR 25,000 in size, or (b) are granted to individuals through branches of Caja Rural de 
+Navarra  located  in  villages  with  a  population  below  3,000  and  with  average  annual 
+income below that of the regional average (EUR 18,2131) 
+ 
+Provide  micro  enterprise  financing  and  lending  to  micro-entrepreneurs,  as  per  the 
+definition specified by the European Union (EU). The EU defines a micro-enterprise as an 
+organisation  that  meets  two  of  the  following  three  criteria-  (a)  has  fewer  than  10 
+employees; (b) has a balance sheet below EUR 2 million; (c) has a turnover below EUR 2 
+million  
+ 
+Provide  financing  and  lending  to  Small  and  Medium  Enterprises  (SMEs),  as  per  the 
+definition specified by the EU. The EU defines a SME as an organisation that meets two 
+of the following three criteria- (a) have fewer than 250 employees; (b) have a balance 
+sheet below EUR 43 million; (c) have a turnover below EUR 50 million  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1Source : Navarra Statistical Institute http://www.navarra.es/AppsExt/GN.InstitutoEstadistica.Web/informacionestadistica.aspx?R=1&E=3 
+
+ 
+
+ 
+
+6 
+
+© Sustainalytics 2016 
+
+Exclusionary Criteria  
+Caja Rural de Navarra has developed a list of exclusionary criteria for the proceeds of this sustainability 
+bond. Caja Rural de Navarra commits itself to not knowingly be involved in financing any of the following 
+projects/activities through the proceeds of this sustainability bond: 
+ 
+
+1.  Large scale hydro projects (i.e. projects that generate greater than 20 MW of electricity) 
+2.  Technology and equipment for large scale hydro projects 
+3.  Transmission infrastructure and systems where 25% or more of electricity transmitted to the 
+
+grid is fossil-fuel-generated 
+
+4.  Agricultural or afforestation operations located on land designated as primary forest,  high 
+
+conservation value areas, or legally preserved areas 
+
+5.  Payday loans and predatory lending activities  
+6.  Lending to micro-enterprises or SMEs that (a) manufacture alcohol, or (b) are wholesalers of 
+
+alcoholic beverages  
+
+7.  Lending  to  micro-enterprises  or  SMEs  that  (a)  manufacture  tobacco  products,  or  (b)  are 
+
+wholesalers of tobacco products  
+
+8.  Lending to micro-enterprises or SMEs that own or operate gambling establishments/activities 
+9.  Lending to micro-enterprises or SMEs that are involved in (a) the manufacture of weapons 
+and small arms, or (b) the retail sale and distribution of weapons and small arms, or (c) the 
+production of products and services supporting the manufacture or retail sale of weapons 
+and small arms. 
+
+10.  Lending  to  micro-enterprises  or  SMEs  that  are  involved  in  the  extraction,  refining,  or 
+
+transportation of fossil fuels.  
+
+11.  Lending to micro-enterprises or SMEs that are involved in the production or refining of palm 
+
+oil.  
+
+ 
+ 
+
+3.2   Project Evaluation and Selection Process  
+ 
+The  loans  financed  through  the  proceeds  will  be  evaluated  for  financial  viability  by  the  Credit  Risk 
+department,  and  for  alignment  with  the  eligibility  criteria  by  the  Sustainability  Committee.    The 
+Sustainability  Committee  will  be  coordinated  by  the  Treasury  department,  and  will  consist  of 
+representatives  from  the  primary  departments  involved  in  lending  activities  (Corporate  department, 
+Institutional Clients department, Housing department, and the Risk department). 
+ 
+
+3.3   Management of Proceeds 
+ 
+The  proceeds  from  the  bond  will  be  placed  in  Caja  Rural  de  Navarra’s  treasury  and  managed  by  the 
+Treasury  and  Capital  Markets  department.  The  proceeds  from  the  bond  will  be  allocated  directly  to 
+existing or new loans. Caja has confirmed that at the time of issue, it expects to have a sufficient number 
+of existing loans to utilize the entire proceeds of the sustainability bond, and that this number of loans 
+also comply with the exclusionary criteria above established for the amount of the proceeds of the bond. 
+
+ 
+
+ 
+
+7 
+
+© Sustainalytics 2016 
+
+Caja has also disclosed that book liquidity of any potential unallocated funds will be managed in line with 
+the standard processes of the Treasury department. Liquidity will be managed mainly by investing in OECD 
+sovereigns and sub-sovereigns. 
+ 
+Caja Rural de Navarra has disclosed to Sustainalytics that its Treasury and Capital Markets department (in 
+collaboration  with  other  relevant  departments)  has  established  an  internal  process  to  manage  the 
+allocation of net proceeds to eligible loans. Caja’s internal system classifies and tags all sustainable loans 
+as either sustainable by the nature of the client, or sustainable by the purpose of the loan. Loans that 
+tagged  as  sustainable  by  their  particular  purpose  are  categorized  into  a  spreadsheet  where  each 
+sustainable loan is a separate line item, and each eligible category is marked by a separate column. Each 
+sustainable loan is then matched to an eligible category described under the Use of Proceeds section of 
+this framework (section 3.1). Loans that  are matched to multiple eligible categories will be assigned a 
+primary  eligible  category.  All  other  eligible  categories  will  not  be  used  for  allocation,  avoiding  any 
+duplicity.  The  rationale  for  selecting  the  primary  eligible  category  will  be  transparently  outlined  in  a 
+separate section in the ongoing reporting to investors. This reporting will also be publicly available on Caja 
+Rural de Navarra´s website. 
+ 
+ 
+3.4   Reporting 
+ 
+Allocation Reporting 
+Caja Rural de Navarra has confirmed that on an annual basis, it will disclose the allocation of proceeds to 
+each eligible category outlined in the framework. Specifically, it will disclose the following information- (i) 
+the outstanding amount of its loan book, disaggregated by eligible categories; (ii) the outstanding number 
+of loans, disaggregated by eligible categories; and (iii) number of borrowers (individuals and enterprises), 
+disaggregated by eligible categories.  
+ 
+This disclosure will be made in a separate section in the ongoing reporting to investors, which will also be 
+publicly available on Caja Rural de Navarra’s website.  Additionally, Caja Rural de Navarra has confirmed 
+that its annual report will include a special section on allocation of bond proceeds. This annual report will 
+be audited by the external auditor. 
+ 
+Impact Reporting 
+Where feasible, Caja Rural de Navarra has committed to reporting on Key Performance Indicators (KPIs) 
+in aggregate for each eligible category. This disclosure will be made in a separate section in the ongoing 
+reporting to investors, which will also be publicly available on Caja Rural de Navarra’s website. Please see 
+Appendix 1 for a full list of KPIs. Where feasible, Caja Rural de Navarra has committed to reporting on Key 
+Performance Indicators (KPIs) in aggregate for each eligible category. It has also committed to making its 
+best efforts to improve KPI reporting over time. At the date of issuing of this report, Caja Rural de Navarra 
+has confirmed the availability of most KPIs on Affordable Housing and Economic Inclusion. 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+8 
+
+© Sustainalytics 2016 
+
+4. SUSTAINALYTICS’ OPINION 
+ 
+The role of cooperative lending in advancing the Sustainable Development Goals through rural socio-
+economic development: The Sustainable Development Goals (SDGs) were set in September 2015 through 
+a multi-stakeholder partnership, and form an agenda for achieving sustainable development by the year 
+2030. These goals are widely considered to be the next step to the Millennium Development Goals (MDG), 
+which were time-bound to 2015.  Unlike the MDG’s, the SDGs emphasize the elimination of inequality 
+and disparity in opportunity globally, in both developed and developing countries. 
+ 
+In particular, the SDGs emphasize the importance of rural socio-economic development in achieving its 
+second  goal  of  “Zero  Hunger”.  This  goal  aims  to  “end  hunger,  achieve  food  security  and  improved 
+nutrition, and promote sustainable agriculture” by 2030.2 Key targets associated with this goal include 
+doubling  agricultural  productivity  of  small-scale  food  producers,  ensuring  sustainable  food  production 
+systems, strengthening capacity of  agricultural ecosystems to adapt to climate  change,  and increasing 
+investment in rural infrastructure.  
+ 
+Credit cooperatives play a significant role in promoting rural socio-economic development and advancing 
+the SDG described above.  The value of co-operatives is derived from their ability and willingness to offer 
+credit to financially excluded or underserved populations that do not have collateral to secure loans. Such 
+lending  fosters  both  economic  and  social  development  of  rural  or  underserved  regions  by  growing 
+economic activity, developing infrastructure, and creating social networks. 3 
+ 
+Caja Rural de Navarra’s lending to eligible projects described in the framework is focussed in the rural 
+towns of Navarra, La Rioja, and Alava provinces.  These towns have a population under 3,000 inhabitants, 
+an average annual income that is less than the regional average of EUR 18,213, and are traditionally not 
+served by other financial service providers due to their remote nature. By serving these rural and remote 
+towns, Caja Rural de Navarra is playing a key role in promoting their socio-economic development, and in 
+advancing the second “Zero Hunger” SDG. The Sustainable Agriculture eligibility criteria in particular is 
+well aligned with the targets of the second SDG described above.  
+ 
+Alignment  with  rural  development  priorities  in  Spain:  Of  the  total  land  area  covered  by  Spain 
+(approximately  505,991  km2),  80%  is  rural.  According  to  the  European  Commission’s  National  Rural 
+Development  Programme  (NRDP)  for  Spain,  Spanish  rural  areas  are  challenged  by  a  high  youth 
+unemployment  rate  of  over  50%,  making  socio-economic  development  of  rural  areas  an  important 
+national priority.4 
+ 
+
+ 
+2 Sustainable Development Goals https://sustainabledevelopment.un.org/?menu=1300  
+3 The Role of Co-operative Banking Systems in the European Union-27: An Analysis of the Spanish Case, 
+http://www.agriculturaits.czu.cz/pdf_files/vol_42_3_pdf/melian.pdf  
+4European Commission, Factsheet on 2014-2020 National Rural Development Programme for Spain, http://ec.europa.eu/agriculture/rural-
+development-2014-2020/country-files/es/factsheet_en.pdf  
+ 
+
+ 
+
+ 
+
+9 
+
+© Sustainalytics 2016 
+
+The NRDP for Spain is based on the European Union’s (EU) rural development framework that outlines 6 
+common European priorities for rural development (see Appendix 3 for details)5. Of these 6 European 
+priorities, 3 are particularly relevant to the regional context of Navarra and La Rioja. These 3 priorities are 
+reflected in the Regional Rural Development Programmes for Navarra and La Rioja, and are outlined in 
+Table 1.  
+ 
+Table 1: European rural development priorities relevant to regional context of Navarra and La Rioja 
+
+Rural Development Priority   
+Promoting  resource  efficiency  and  a  low-carbon  economy  in  agriculture  and 
+forestry 
+Increasing the use of innovative and efficient farm technologies to enhance the 
+competitiveness of rural agriculture 
+Restoration of agricultural and forestry ecosystems  
+
+Region  
+Navarra 
+
+Navarra, La Rioja 
+
+Navarra, La Rioja 
+
+ 
+As per the European Commission factsheet on Navarra’s Rural Development Programme, agriculture and 
+livestock  management  are  two  important  industries  for  the  region.6This  makes  increasing  the 
+competitiveness of the agricultural sector while simultaneously enhancing its sustainability an important 
+regional challenge for Navarra. A relevant example is the use of irrigation in agriculture; 13.5% of utilised 
+agricultural  area  in  Navarra  is  irrigated.  Shifting  to  more  efficient  irrigation  systems  is  an  important 
+objective  for  agriculture  in  Navarra  in  order  to  both  increase  competitiveness  and  maintain  resource 
+efficiency.7  Similarly, as 42.1% of Navarra is identified as forest area, sustainable forest management is 
+an important objective for the region. Given this scenario, using the bond proceeds to lend according to 
+the eligible categories of Sustainable Agriculture and Sustainable Forest Management is well aligned with 
+Navarra’s rural development priorities.  
+ 
+The rural development challenges faced by La Rioja also have a distinct context. In La Rioja, the small size 
+of farmlands (50% of the farms are sized at less than 5 hectares) poses a challenge to the competitiveness 
+of the agricultural sector.8 This has made promoting the use of innovative farm technologies a necessity. 
+In  addition,  La  Rioja  has  a  higher  proportion  of  ageing  population  than  the  national  and  EU  average, 
+marking the need for targeted social inclusion activities.9 Given this context, using the bond proceeds to 
+lend according to the categories of Sustainable Agriculture and Social Inclusion is well aligned with La 
+Rioja’s rural development priorities.  
+ 
+ 
+
+ 
+5 European Commission, 2014-202 Rural Development Framework, http://ec.europa.eu/agriculture/rural-development-2014-
+2020/index_en.htm  
+6 European Commission, Factsheet on 2014-2020 Rural Development Programme for Navarra; http://ec.europa.eu/agriculture/rural-
+development-2014-2020/country-files/es/factsheet-navarra_en.pdf  
+7 European Network for Rural Development, 2014-2020 Rural Development Programme for Navarra: Key facts & figures; 
+https://enrd.ec.europa.eu/sites/enrd/files/es_navarra_rdp_qnt_summary_v1.pdf     
+8 European Commission, Factsheet on 2014-2020 Rural Development Programme for La Rioja; http://ec.europa.eu/agriculture/rural-
+development-2014-2020/country-files/es/factsheet-rioja_en.pdf  
+9 European Commission, Factsheet on 2014-2020 Rural Development Programme for La Rioja; http://ec.europa.eu/agriculture/rural-
+development-2014-2020/country-files/es/factsheet-rioja_en.pdf  
+
+ 
+
+ 
+
+10 
+
+© Sustainalytics 2016 
+
+A track record of executing social and environmental initiatives in communities: As a credit cooperative 
+with origins in lending to traditionally underserved rural communities, Caja Rural de Navarra has a strong 
+track record of contributing to the economic and social development of the communities it serves.  This 
+is best exemplified by its Social Welfare Fund; Caja annually utilizes ten percent of its profits to develop 
+social and environmental initiatives that are beneficial to the local communities. These initiatives range 
+from promoting environmental awareness in schools, to funding programs that improve the quality of life 
+of socially or economically marginalized populations, such as the elderly. Such activities developed by the 
+Social  Welfare  Fund  that  are  targeted  to  marginalized  populations  demonstrate  that  Caja  Rural  de 
+Navarra’s approach to social impact is well aligned with industry norms such as Social Bond Guidance. 
+Additionally, Caja Rural de Navarra’s track record in managing the Social Welfare Fund also exhibits the 
+organization’s capacity to responsibly execute social and environmental projects in local communities. 
+Based on the above, Sustainalytics is of the opinion that Caja Rural de Navarra carries a low degree of 
+reputational  risk  with  regards  to  community  oriented  social  and  environmental  activities,  and  is  well 
+positioned to issue a sustainability bond.  
+ 
+Alignment with Green Bond Principles 2016 and Social Bond Guidance  
+Sustainalytics  is  of  the  opinion  that  Caja  Rural  de  Navarra’s  sustainability  bond  follows  the  guidance 
+provided by the Green Bond Principles 2016, and adheres to its four pillars. Please see Appendix 2 for 
+more details. In addition, Sustainalytics is of the opinion that Caja de Navarra’s sustainability bond is well 
+aligned with the 2016 Social Bond Guidance, due to (a) the nature of the social projects described in the 
+eligibility  criteria,  and  (b)  the  targeted  nature  of  the  towns  served,  and  the  targeted  nature  of  the 
+socially/economically  marginalized  communities  served  within  these  towns.    Given  the  remote  and 
+underserved nature of these rural towns, their lower level of average annual income, and the targeted 
+nature of Caja’s eligibility criteria that ensures the inclusion of marginalized groups, Sustainalytics is of the 
+opinion that Caja’s social lending activities are in line with market best-practices and can be expected to 
+provide a high level of impact to underserved communities. 
+ 
+Conclusion 
+By issuing a sustainability bond to finance socio-economic development of rural towns in Spain, Caja Rural 
+de Navarra is acting in accordance with its sustainability framework, and is capitalizing on its strong track 
+record of executing social and environmental initiatives in communities.  
+ 
+Sustainalytics is of the opinion that Caja Rural de Navarra’s sustainability bond framework is transparent 
+and  robust.  Given  the  national  and  regional  context  described  in  the  opinion,  the  eligibility  criteria 
+established  by  Caja  Rural  de  Navarra  for  the  proceeds  of  this  sustainability  bond  are  aligned  with 
+European, Spanish, and regional priorities  for rural  development. In particular, the promotion of rural 
+lending  through  the  eligibility  categories  of  Sustainable  Agriculture,  Sustainable  Forest  Management, 
+Economic Inclusion, and Social Inclusion can be considered an important step towards meeting the rural 
+development  challenges  of  Navarra  and  La  Rioja.  Additionally,  the  socio-economic  development 
+promoted by Caja’s lending in rural areas is an important step in advancing the SDG of Zero Hunger. The 
+Sustainable Agriculture eligibility category outlined in the framework is particularly well aligned with the 
+targets of the second SDG.  
+ 
+ 
+
+ 
+
+ 
+
+11 
+
+© Sustainalytics 2016 
+
+APPENDICES 
+Appendix 1: List of KPIs 
+ 
+
+Category 
+Sustainable Forest 
+Management 
+
+Social Housing 
+
+Education 
+
+Social Inclusion 
+
+ 
+ 
+ 
+Economic Inclusion 
+
+KPIs 
+Area of land reforested (hectares or acres) 
+Area of previously non-forested land that is forested (hectares or acres) 
+Number of mortgages provided as per regional government requirements 
+Number of disadvantaged families housed in social housing 
+Number of students served by the buildings/facilities constructed, as measured by 
+building/facility capacity  
+Unemployment rate in region where job training programmes are offered 
+Number of people enrolled in job training programmes  
+Number of people enrolled in language classes/programmes. This includes 
+programmes that promote learning or use of minority languages, or other cultural 
+inclusion programmes aligned with the eligibility criteria 
+Proportion of microfinance, micro-enterprise, and SME loans successfully repaid 
+Proportion of microfinance loan recipients with successful micro-businesses 
+Number of people employed by micro-enterprises or SMEs 
+Default rate of loan recipients  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+12 
+
+© Sustainalytics 2016 
+
+Appendix 3: European Union Framework for Rural Development Programmes10 
+ 
+Member States and regions draw up their rural development programmes based on the needs of their 
+territories and addressing at least four of the following six common EU priorities: 
+ 
+
+1.  Fostering knowledge transfer and innovation in agriculture, forestry and rural areas; 
+
+ 
+
+2.  Enhancing the viability and competitiveness of all types of agriculture, and promoting innovative 
+
+farm technologies and sustainable forest management; 
+ 
+
+3.  Promoting food chain organisation, animal welfare and risk management in agriculture; 
+
+ 
+
+4.  Restoring, preserving and enhancing ecosystems related to agriculture and forestry; 
+
+5.  Promoting resource efficiency and supporting the shift toward a low-carbon and climate-resilient 
+
+economy in the agriculture, food and forestry sectors; 
+
+6.  Promoting social inclusion, poverty reduction and economic development in rural areas. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+10European Commission, 2014-202 Rural Development Framework, http://ec.europa.eu/agriculture/rural-development-2014-
+2020/index_en.htm 
+
+ 
+
+ 
+
+18 
+
+© Sustainalytics 2016 
+
+Disclaimer 
+All rights reserved. No part of this second party opinion (the “Opinion”) may be reproduced, transmitted 
+or published in any form or by any means without the prior written permission of Sustainalytics.  
+ 
+The Opinion was drawn up with the aim to explain why the analyzed bond is considered sustainable and 
+responsible. Consequently, this Opinion is for information purposes only and Sustainalytics will not 
+accept any form of liability for the substance of the opinion and/or any liability for damage arising from 
+the use of this Opinion and/or the information provided in it. 
+ 
+As the Opinion is based on information made available by the client, Sustainalytics does not warrant that 
+the information presented in this Opinion is complete, accurate or up to date. 
+ 
+Nothing contained in this Opinion shall be construed as to make a representation or warranty, express or 
+implied, regarding the advisability to invest in or include companies in investable universes and/or 
+portfolios. Furthermore, this Opinion shall in no event be interpreted and construed as an assessment of 
+the economic performance and credit worthiness of the bond, nor to have focused on the effective 
+allocation of the funds’ use of proceeds. 
+ 
+The client is fully responsible for certifying and ensuring its commitments` compliance, implementation 
+and monitoring. 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+19 
+
+© Sustainalytics 2016 
+
+SUSTAINALYTICS 
+ 
+Sustainalytics is the largest independent provider of sustainability 
+research, analysis, and services to investors. We serve over 250 
+institutional investors which include some of the world's largest asset 
+owners and asset managers. Through over 20 years of experience 
+serving the responsible investment (RI) market, we have gained a 
+reputation for providing high-quality ESG research solutions and 
+excellent client service. 
+
+Sustainalytics is headed by seasoned professionals in the field of 
+business, finance, and sustainability, with a wealth of experience in the 
+Responsible Investment area. After more than 20 years of local 
+experience and expertise in the Responsible Investment (RI) 
+marketSustainalytics has developed a comprehensive understanding of 
+trends and best practices and a solid process to assist organisations in 
+integrating ESG considerations into their policies and strategies. We 
+have worked with some of the world’s financial institutions including 
+pension plans, investment managers and banks providing customised 
+support to help them achieve their RI objectives. Clients include ABN 
+AMRO, APG, BBVA, BNP Paribas, Deutsche Bank, ING Bank, Lombard 
+Odier, Lloyds Bank, Triodos Bank, UBS and over 250 other financial 
+institutions and organisations. 
+
+Sustainalytics now has a staff of 250 employees globally, including over 
+120 analysts, with operations in Amsterdam, Boston, Bucharest, 
+Frankfurt, New York, Paris, London, Singapore, Sydney, Timisoara, and 
+Toronto, and representation in Brussels and Washington DC. 
+
+In 2015, Sustainalytics was named the Best 
+SRI or Green Bond Research Firm by 
+GlobalCapital.In December 2014, for the 
+third year in a row, Sustainalytics was 
+named best sustainable and responsible 
+investment research firm in the 
+Independent Research in Responsible 
+Investment (IRRI) Survey, conducted by 
+Thomson Reuters and SRI-CONNECT.  
+
+ 
+
+ 
+
+20 
+
+

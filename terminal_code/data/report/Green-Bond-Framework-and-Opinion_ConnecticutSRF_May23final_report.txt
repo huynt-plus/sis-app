@@ -1,0 +1,944 @@
+ 
+
+ 
+ 
+  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+
+STATE OF CONNECTICUT 
+STATE REVOLVING FUND 
+
+ 
+
+ 
+
+FRAMEWORK OVERVIEW AND SECOND OPINION BY 
+
+ 
+ 
+ 
+
+SUSTAINALYTICS 
+
+May 23, 2017 
+
+Ankita Shukla (Toronto) 
+Senior Advisor, Advisory Services 
+ankita.shukla@sustainalytics.com  
+(+1) 416 861 0403 
+
+Charlotte Peyraud (New York)  
+Senior Advisor, Institutional Relations 
+charlotte.peyraud@sustainalytics.com 
+(+1) 646 518 0184 
+
+ 
+
+www.sustainalytics.com 
+ 
+www.sustainalytics.com 
+ 
+www.sustainalytics.com 
+ 
+
+© Sustainalytics 2017 
+
+TABLE OF CONTENTS 
+
+1.  Preface 
+
+2. 
+
+Introduction 
+
+3.  Framework Overview 
+
+3.1  Use of Proceeds 
+3.2  Project Evaluation and Selection Process 
+3.3  Management of Proceeds 
+3.4  Reporting 
+
+4  Sustainalytics’ Opinion 
+
+Conclusion 
+
+Appendices 
+
+Appendix A: Existing Eligible Projects 
+Appendix B: Green Bond/Green Bond Programme External Review Form 
+
+Sustainalytics 
+
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+3 
+
+3 
+
+4 
+4 
+5 
+6 
+6 
+
+7 
+8 
+
+9 
+9 
+11 
+
+18 
+
+2 
+
+© Sustainalytics 2017 
+
+1. PREFACE 
+ 
+The State of Connecticut (the “State”), under its State Revolving Fund (SRF) Programs, has developed a 
+green  bond  framework  under  which  it  is  issuing  a  green  bond  (2017A  Bond)  and  use  the  proceeds  to 
+provide  direct  reimbursement  to  projects  for  wastewater  treatment  and  drinking  water  projects.  The 
+State  has  engaged  Sustainalytics  to  provide  a  second  opinion  on  its  framework  and  the  projects’  
+environmental  credentials.  As  part  of  this  engagement,  Sustainalytics  held  conversations  with  various 
+members of State of Connecticut’s management team to understand the sustainability impact of their 
+processes and planned use of proceeds for the bond framework. Sustainalytics also reviewed relevant 
+public and internal documents. This document contains two sections: Framework Overview – summary 
+of  the  State  of  Connecticut’s  Green Bond  framework;  and  Sustainalytics’  Opinion  –  an opinion  on  the 
+framework.  
+ 
+  
+2. INTRODUCTION 
+ 
+The State of Connecticut’s State Revolving Fund (“SRF”) Programs provide a source of low interest loans 
+and other types of financial assistance to local entities for the construction, rehabilitation, expansion or 
+improvement of wastewater treatment or drinking water facilities. The SRF Programs consist of: 
+
+(1)  the Clean Water State Revolving Fund established by the State under the federal Clean Water Act, 
+
+executed by the State’s Department of Energy and Environmental Protection (DEEP) 
+
+(2)  the Drinking Water State Revolving Fund established by the State under the federal Safe Drinking 
+
+Water Act, executed by the State’s Department of Public Health 
+
+ 
+The goals of these laws are to improve water quality, protect the environment and protect public health 
+and  as  such,  the  State  of  Connecticut’s  SRF  bonds  are  statutorily  limited  to  funding  projects  that  are 
+assessed by the state to be environmentally impactful.   
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+3 
+
+© Sustainalytics 2017 
+
+3. FRAMEWORK OVERVIEW 
+For the purpose of issuing a green bond, the State of Connecticut has developed the following framework, 
+which addresses the four key pillars of the Green Bond Principles (GBP): use of proceeds, project selection 
+process, management of proceeds, and reporting. 
+ 
+3.1   Use of Proceeds 
+The  proceeds  of  the  green  bond  will  be  allocated  to  provide  direct  reimbursement  under  the  State 
+Revolving Fund (SRF) Programs that meet the eligibility criteria defined below. 
+
+3.1.1  Eligibility Criteria 
+ 
+
+1.  CLEAN WATER SRF PROGRAM: WASTEWATER TREATMENT INFRASTRUCTURE UPGRADES 
+
+The proceeds of the green bond will be allocated to provide direct reimbursement to capital expenditure 
+(CAPEX)  projects  that  (1)  result  in  water  quality  improvements  by  removing  nutrients  (nitrogen  and 
+phosphorus) and combined sewer overflow discharges into the surface waters of the State; (2) provide 
+rehabilitation of existing infrastructure in the wastewater collection system; or (3) eliminate groundwater 
+pollution caused by antiquated subsurface sewage disposal systems.  
+
+Eligible projects may include: 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+Upgrades to wastewater treatment plants to remove nutrients. 
+Removal of combined sewer  overflow  discharges  through sewer separation projects, off line 
+storage  projects  and  the  construction  of  a  wet  weather  treatment  process  at  wastewater 
+treatment plants. 
+Lining sanitary sewers to minimize groundwater from entering the sewer. 
+Rehabilitating sanitary sewer pump stations to improve reliability, energy efficiency and make 
+them more resilient to flooding from rain storms. 
+Constructing  new  septic  systems  to  replace  existing  septic  systems  that  are  polluting  the 
+groundwater. 
+
+ 
+Some of the CAPEX projects will include energy efficiency components. 
+ 
+
+2.  DRINKING WATER SRF PROGRAM: DRINKING WATER INFRASTRUCTURE UPGRADES 
+
+The proceeds of the green bond will be allocated to provide direct reimbursement to capital expenditure 
+(CAPEX)  projects  that  leads  to  safe  drinking  water  and  improved  reliability  of  safe  drinking  water 
+infrastructure.  
+
+Eligible projects may include: 
+
+  Upgrades to water treatment plants to improve drinking water quality, comply with federal Safe 
+
+Drinking Water Act requirements and increase reliability and efficiency of plant operations. 
+
+  Upgrades  to  water  storage  tanks  and  pump  stations  to  increase  reliability,  efficiency, 
+
+sustainability and reduce water loss. 
+
+ 
+
+ 
+
+4 
+
+© Sustainalytics 2017 
+
+  Rehabilitation  or  replacement  of  groundwater  wells  to  replace  contaminated  or  diminished 
+
+sources and improve the efficiency of water treatment and pumping equipment. 
+
+  Replacement or rehabilitation of water mains which have exceeded their useful service  life to 
+reduce the probability of main breakage and/or water leakage and improve the efficiency of water 
+treatment and pumping equipment. 
+Installation  or  replacement  of  back-up  power  systems  to  ensure  the  delivery  of  a  safe  and 
+sufficient drinking water supply to consumers during power outages. 
+
+ 
+
+  Consolidation  of  public  water  systems  and  interconnections  between  public  water  systems  to 
+provide  for  increased  resiliency,  efficiency  and  cost-effective  delivery  of  water  services. 
+  
+
+Please  refer  to  Appendix A  for  a  list  of  existing  eligible  projects  that will  be  directly  reimbursed  upon 
+closing of the 2017A Bonds.  
+ 
+3.2  Project Evaluation and Selection Process 
+ 
+The  Department  of  Energy  and  Environmental  Protection  (DEEP)  is  established  to  carry  out  the 
+environmental  policy of  the  State,  including  conserving,    improving  and  protecting  the  State’s  natural 
+resources and environment and mitigating water, land and air pollution, administers the State’s SRF Clean 
+Water Program. The State’s Department of Public Health (DPH) is the State agency that carries out the 
+public health policy of the State, including the use and protection of the State’s drinking water resources. 
+DEEP and DPH administer priority systems to determine eligibility for Loans under the SRF Programs. 
+ 
+DEEP  biennially  prepares  the  Priority  List  of  eligible  water  quality  projects  identifying  wastewater 
+treatment projects that are eligible for assistance from the Clean Water Program (DEEP Priority List). DPH 
+annually  prepares  the  Project  Priority  List  identifying  drinking  water  projects  that  are  eligible  for 
+assistance from the Drinking Water Program (DPH Priority List)1. In order to qualify for funding under the 
+SRF Programs, a project must be listed on either DEEP's or DPH's Priority List as well as meet the eligibility 
+criteria  detailed  above  in  section  3.1.  Once  a  project  is  placed  on  the  Priority  List,  the  potential  loan 
+recipient must file an application for financial assistance for such project. The application must pass four 
+levels of approval:  
+
+(1)  evaluation and enforcement, which determines if the proposed project (i) addresses the needs 
+cited by DEEP/DPH, (ii) complies with regulatory and statutory requirements, and (iii) complies 
+with  the eligibility criteria detailed in section 3.1. DEEP, Bureau of Water Protection and Land 
+Reuse are the departments responsible for evaluating compliance with eligibility criteria for the 
+Clean  Water  Fund.  DPH,  Drinking  Water  Section  is  the  department  responsible  for  evaluating 
+compliance with eligibility criteria for the Drinking Water Fund ;  
+
+(2)  project administration, which determines project eligibility for funding in accordance with State 
+
+and federal regulations;  
+
+(3)  environmental  review,  which  involves  the  preparation  of an  environmental  assessment  of  the 
+
+project; and 
+
+(4)  credit review, which analyzes an applicant's ability to repay the Loan. 
+
+ 
+1 http://www.ct.gov/dph/lib/dph/drinking_water/pdf/Final_2017_IUP.pdf 
+
+ 
+
+ 
+
+5 
+
+© Sustainalytics 2017 
+
+3.3        Management of Proceeds  
+
+ 
+The State will track the net proceeds of the 2017A Bonds and confirm that such proceeds are used for 
+eligible  green  qualified  projects.  The  proceeds  of  the  2017A  Bonds  will  be  used  to  provide  direct 
+reimbursement to projects eligible under the SRF Programs. The net proceeds of the 2017A Bonds will be 
+deposited in the Bond Proceeds Fund and will be expended only for the purposes of the SRF Programs. 
+Pending such expenditures, the net proceeds will be invested in accordance with the State’s investment 
+policy.  
+ 
+A Financial Administrator, appointed by the Treasurer, is given responsibility to manage and coordinate 
+the various financial components of the SRF Programs on a day-to-day basis. 
+ 
+
+3.4    Reporting  
+
+ 
+Commencing  with  the  delivery  of  the  Clean  Water  State  Revolving  Fund  Program  Annual  Report  and 
+Drinking Water State Revolving Fund Annual Report for the fiscal year ending June 30, 2017, the State will 
+provide reporting on an annual basis. Such reporting will include the Borrowers, a brief project description 
+for each of the projects funded with the 2017A Bonds and the amount of 2017A Bond proceeds spent on 
+such projects, but only until the proceeds of the 2017A Bonds have been fully expended. Such information 
+will be  posted to the  Electronic Municipal Market  Access (EMMA) website of the  Municipal Securities 
+Rulemaking Board, accessible at www.emma.msrb.org, on an annual basis on or before the date eight months 
+after the close of the fiscal year for which such information is being provided. Once the State has fully 
+expended all of the proceeds of the 2017A Bonds, the State will no longer report such information to the 
+holders of the 2017A Bonds as the information will remain unchanged.  However, as stated above, the 
+information will always be available in the published Clean Water State Revolving Fund Program Annual 
+Reports and the Drinking Water State Revolving Fund Annual Reports available on the Treasurer’s website 
+and EMMA.  
+ 
+When possible, the State of Connecticut will report quantitative and/or qualitative impacts resulting from 
+eligible  projects  which may  include:  reduction  in  treated  water  leakage, volume  of  water/wastewater 
+collected/stored/treated, and improvements in water quality through nutrient removal. This information 
+will be gathered and the impact will be reported on a best effort basis. 
+ 
+As  the  program  progresses,  DEEP  will  gather  information  regarding  the  amount  of  Combined  Sewer 
+Overflows eliminated from the construction of eligible projects and will monitor the amount of nutrients 
+discharged  from  wastewater  treatment  plants.  Once  these  projects  are  completed,  DEEP  will  then 
+reassess and, when feasible, report on the water quality improvements made by eligible projects funded 
+by the Clean Water SRF.  
+ 
+The DPH will continue to report on the beneficial public health impacts and improved operational 
+efficiencies of each project.  
+
+ 
+
+ 
+
+ 
+
+ 
+
+6 
+
+© Sustainalytics 2017 
+
+4  SUSTAINALYTICS’ OPINION 
+ 
+Effects of Climate Change on the State of Connecticut’s Water Management Practices: 
+According  to  the  Intergovernmental  Panel  on  Climate  Change  (IPCC),  wastewater  management  is  “an 
+important sustainable development goal because it can lead directly to improved health, productivity of 
+human resources, and better living conditions”2.  
+ 
+Wastewater treatment and stormwater management are projected to become increasingly difficult due 
+to climate change and the associated changes in temperatures, precipitation patterns, sea level rise and 
+storm-related  damages.  The  U.S.  Environmental  Protection  Agency  (EPA)  has  stipulated  that  rising 
+temperatures and shifting rainfall patterns are likely to increase the intensity of both floods and droughts3. 
+In  a  report  issued  by  Connecticut  Governor’s  Steering  Committee  on  Climate  Change,  the  ability  of 
+wastewater facilities to adapt to climate change was identified as critical to future water quality within 
+Connecticut as extreme precipitation events will put additional pressure on storm sewer systems4.  
+ 
+The water infrastructure improvement projects financed under the State of Connecticut State Revolving 
+Fund  are  expected  to  provide  multiple  opportunities 
+for  climate  change  mitigation  and 
+adaptation. Upgraded  facilities  will  help  climate  change  mitigation  by  controlling  water  pollution, 
+increasing  energy  efficiency  and  reducing  GHG  emissions.  Treatment  and  reuse  of  wastewater  and 
+stormwater  will  serve  as  effective  climate  adaptation  measures,  as  improved  sewer  systems  prepare 
+residents for floods and new water collection and treatment systems increase water availability during 
+droughts. 
+ 
+With  respect  to  climate  change  adaptation,  Sustainalytics  has  reviewed  documents  from  the  State  of 
+Connecticut that  confirm that the State conducts studies to identify risks posed by climate change. In its 
+2016 priority list, the State discloses that in 2013, Public Act No. 13-15 was passed. This act requires all 
+wastewater  improvement  projects  that  may  be  affected  by  sea  level  rise  due  to  climate  change  to 
+consider  ways  to mitigate  this  impact  of  climate  change  in  the  project’s  design.  All  Clean  Water  Fund 
+projects require an assessment of the risk to existing wastewater infrastructure from climate change, and 
+an  evalutation  of  alternatives  for  remedial  actions.  Sustainalytics  is  of  the  opinion  that  basing  the 
+adaptation eligibility criterion on specific risk studies strengthens the impact of the use of proceeds, as it 
+establishes a clear case that the adaptation infrastructure is being funded as a direct response to climate 
+change risks. 
+ 
+State Revolving Funds (SRFs) can be used to make the State of Connecticut more resilient to a changing 
+climate. By providing critical support for a variety of drinking water and wastewater projects, the State is 
+able to adapt and mitigate the effects of climate change on water supply. 
+ 
+ 
+ 
+
+ 
+2 https://www.ipcc.ch/publications_and_data/ar4/wg3/en/ch12s12-3-4.html 
+3 https://www.epa.gov/sites/production/files/2016-09/documents/climate-change-ct.pdf 
+4 http://www.ct.gov/deep/lib/deep/climatechange/connecticut_climate_preparedness_plan_2011.pdf  
+
+ 
+
+ 
+
+7 
+
+© Sustainalytics 2017 
+
+Importance of State Revolving Fund in the State of Connecticut: 
+The large magnitude of the country’s needs reflect the challenges confronting water systems as they deal 
+with an infrastructure network that has aged considerably since these systems were constructed, in many 
+cases, 50 to 100 years ago5.  
+ 
+In 2013, the EPA released a study showing that $384 billion in improvements are needed for the nation’s 
+drinking water infrastructure through 2030 for systems to continue providing safe drinking water to 297 
+million  Americans6.  Based  on  these  results,  the  State  of  Connecticut  had  been allocated  1.01%  of the 
+above-mentioned  amount  between  2014-2017.  Furthermore,  the  U.S.  EPA  Clean  Watershed  Needs 
+Survey, reported to Congress in 2012, estimated that the overall need for improvements in Connecticut 
+to meet the goals of the federal Clean Water Act was approximately $4.6 billion, including treatment plant 
+construction and improvements, and combined sewer overflow correction needs7. 
+ 
+Together, the Clean Water State Revolving Fund and the Drinking Water State Revolving Fund are enabling 
+the State of Connecticut to provide low-interest loans and grants to improve water infrastructure in order 
+to protect public health and improve the quality of water resources. 
+ 
+Alignment  with  Green  Bond  Principles  2016:  Sustainalytics  has  determined  that  the  State  of 
+Connecticut’s Green Bond Framework aligns to the four pillars of the Green Bond Principles 2016. For 
+detailed information please refer to Appendix B: Green Bond/Green Bond Programme External Review 
+Form. 
+ 
+Conclusion 
+ 
+By  providing  direct  reimbursement  to projects  in wastewater treatment and  drinking water,  the State 
+aims  to  improve  water  conservation  and  manage  climate  change  risks  by  addressing  system 
+vulnerabilities.  Such  actions  are  recognized  by  the  Intergovernmental  Panel  on  Climate  Change  as 
+effective climate mitigation and adaptation measures. 
+ 
+The State of Connecticut’s approach to selecting projects and managing green bond proceeds is robust, 
+and its reporting on the use of proceeds is transparent. The State’s SRF green bond follows the guidance 
+provided  by the  Green  Bond  Principles  and  is  in alignment  with  its  four  pillars  –  the  use  of  proceeds, 
+process of project evaluation and selection, management of proceeds and reporting. Based on the above 
+considerations,  Sustainalytics  is  of  the  view  that  the  State  of  Connecticut’s  green  bond  is  robust  and 
+credible.  
+
+ 
+
+ 
+5 http://www.waterworld.com/articles/2009/03/epa-survey-reveals-huge-drinking-water-infrastructure-needs.html 
+6 https://www.epa.gov/sites/production/files/2015-07/documents/epa816f13001.pdf 
+7 http://www.ott.ct.gov/debtreports/2016CleanWaterFundAnnualReport.pdf 
+
+ 
+
+ 
+
+8 
+
+© Sustainalytics 2017 
+
+APPENDICES 
+ 
+Appendix A: Existing Eligible Projects 
+ 
+
+CLEAN WATER & DRINKING WATER 
+
+SRF GRRF ACCOUNT GREEN BONDS DISBURSEMENTS THROUGH 4/30/17 
+
+ 
+
+Recipient 
+
+ 
+ Program  
+
+ 
+Project # 
+
+Project Description 
+
+ 
+
+ 
+
+ Disbursements  
+
+Bethel 
+
+Drinking Water 
+
+2016-7040  Construction of atmospheric storage tank  
+
+$1,035,108.14 
+
+Bridgeport 
+
+Clean Water 
+
+628-C 
+
+Bridgeport 
+
+Clean Water 
+
+681-C 
+
+Combined sewer elimination  
+CSO storm water pump station & combined sewer 
+separation 
+
+Bristol 
+
+Clean Water 
+
+Cheshire 
+
+Clean Water 
+
+GNH WPCA 
+
+Clean Water 
+
+GNH WPCA 
+
+Clean Water 
+
+640-DC 
+
+618-DC 
+
+441-C 
+
+676-C 
+
+Upgrade to water pollution control facility 
+
+Upgrade to water pollution control facility 
+
+Upgrade to water pollution control facility 
+
+Inflow and infiltration rehabilitation 
+
+Killingly 
+
+Clean Water 
+
+524-DC 
+
+Reconstruction of the pump station 
+
+Marlborough  Clean Water 
+
+687-C 
+
+Sewer system installation 
+
+Drinking Water 
+
+2013-7015  Franklin Avenue, Hartford water main replacement 
+
+Drinking Water 
+
+2013-7021  Albany Avenue, Hartford water main replacement 
+
+Drinking Water 
+
+2014-7029  Pump station upgrades 
+
+Drinking Water 
+
+2014-7030  Reservoir #6 Water Treatment Plant improvements 
+
+Drinking Water 
+
+2014-7031  Storage basin improvements 
+
+Drinking Water 
+
+2014-7032  North storage basin site prep for construction 
+
+Drinking Water 
+
+2016-7033 
+
+Drinking Water 
+
+2016-7035 
+
+Drinking Water 
+
+2016-7042 
+
+Drinking Water 
+
+2016-7043 
+
+Drinking Water 
+
+2016-7044 
+
+Water treatment plant valve replacement & water 
+main replacement 
+Farmington Avenue, Hartford water main 
+replacement 
+
+Jerome Avenue, Bloomfield water main replacement 
+Center and Fairmont area, Hartford water main 
+replacement 
+Hamilton and Park area, Hartford water main 
+replacement 
+
+Drinking Water 
+
+2016-7045  Wethersfield area water main replacement 
+
+MDC 
+
+MDC 
+
+MDC 
+
+MDC 
+
+MDC 
+
+MDC 
+
+MDC 
+
+MDC 
+
+MDC 
+
+MDC 
+
+MDC 
+
+MDC 
+
+ 
+
+ 
+
+             
+
+154,887.57  
+
+141,041.67 
+
+3,686,836.85 
+
+136,754.44 
+
+3,772,413.59 
+
+157,455.78 
+
+298,638.38 
+
+1,134,747.95 
+
+620,161.53 
+
+438,720.44 
+
+493,875.13 
+
+248,574.45 
+
+123,760.84 
+
+262,604.07 
+
+1,501,319.95 
+
+2,203,261.94 
+
+825,335.44 
+
+1,121,155.29 
+
+2,731,046.68 
+
+1,356,531.28 
+
+9 
+
+© Sustainalytics 2017 
+
+MDC 
+
+MDC 
+
+MDC 
+
+MDC 
+
+MDC 
+
+Meriden 
+
+Meriden 
+
+Clean Water 
+
+Clean Water 
+
+Clean Water 
+
+215-C 
+
+652-C 
+
+657-C 
+
+Clean Water 
+
+686-C 
+
+Clean Water 
+
+692-C 
+
+Sanitary sewer improvements and reduce inflow and 
+infiltration 
+
+Upgrade to water pollution control facility 
+
+Hartford  waste water treatment plant upgrades 
+Relocate ductbanks & install geotech monitoring 
+points SHCST 
+Construction of the South Hartford conveyance and 
+storage tunnel (SHCST) 
+
+Drinking Water 
+
+2014-7034  Water filtration plant and pump station upgrades 
+
+Drinking Water 
+
+2016-7041  Water main replacement 
+
+Middletown  Clean Water 
+
+487-DC 
+
+Pump station and force main installation 
+
+New Britain  Drinking Water 
+
+2015-7038  Storage tank replacement 
+
+New London  Drinking Water 
+
+2013-7025 
+
+Intake pump station installation 
+
+Norwich 
+
+Norwich 
+
+Drinking Water 
+
+2014-7036  Water storage tank pump and drives upgrades 
+
+Drinking Water 
+
+2015-7037  Design for water and gas system improvements 
+
+Old Saybrook  Clean Water 
+
+673-C 
+
+Decentralized wastewater management system 
+
+SCCRWA 
+
+Drinking Water 
+
+2017-7050  Water treatment plant generator replacement 
+
+Southington  Drinking Water 
+
+2016-7039 
+
+Install 1.0 million gallon water storage tank & booster 
+station 
+
+Tarrifville 
+
+Drinking Water 
+
+2016-7048  Water storage tank replacement 
+
+Thompson 
+
+Clean Water 
+
+Torrington 
+
+Clean Water 
+
+661-DC 
+
+695-DC 
+
+Phosphorus removal system upgrade at water 
+pollution control facility 
+
+East basin sewer system rehabilitation project 
+
+Total Disbursements to be Reimbursed to SRF GRRF Account through 4/30/17 
+
+ 
+
+  
+
+ 
+
+ 
+
+2,575,084.94 
+
+21,803,122.18 
+
+23,161,721.49 
+
+226,937.11 
+
+15,842,232.14 
+
+1,240,105.13 
+
+1,417,223.16 
+
+1,474,458.19 
+
+782,183.02 
+
+1,229,458.80 
+
+1,033,170.50 
+
+1,528,015.52 
+
+1,154,540.49 
+
+1,878,485.74 
+
+3,135,113.06 
+
+920,890.52 
+
+425,216.06 
+
+918,660.74 
+
+    
+$103,190,850.20  
+
+10 
+
+© Sustainalytics 2017 
+
+Disclaimer 
+All rights reserved. No part of this second party opinion (the “Opinion”) may be reproduced, transmitted 
+or published in any form or by any means without the prior written permission of Sustainalytics.  
+  
+The Opinion was drawn up with the aim to explain why the analyzed bond is considered sustainable and 
+responsible. Consequently, this Opinion is for information purposes only and Sustainalytics will not 
+accept any form of liability for the substance of the opinion and/or any liability for damage arising from 
+the use of this Opinion and/or the information provided in it. 
+  
+As the Opinion is based on information made available by the client, Sustainalytics does not warrant that 
+the information presented in this Opinion is complete, accurate or up to date. 
+  
+Nothing contained in this Opinion shall be construed as to make a representation or warranty, express or 
+implied, regarding the advisability to invest in or include companies in investable universes and/or 
+portfolios. Furthermore, this Opinion shall in no event be interpreted and construed as an assessment of 
+the economic performance and credit worthiness of the bond, nor to have focused on the effective 
+allocation of the funds’ use of proceeds. 
+  
+The client is fully responsible for certifying and ensuring its commitments` compliance, implementation 
+and monitoring. 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+17 
+
+© Sustainalytics 2017 
+
+SUSTAINALYTICS 
+ 
+Sustainalytics  is  an  independent  ESG  and  corporate  governance  research,  ratings  and  analysis  firm 
+supporting  investors  around  the  world  with  the  development  and  implementation  of  responsible 
+investment  strategies. With 13 offices globally, Sustainalytics partners with institutional investors who 
+integrate  environmental,  social  and  governance  information  and  assessments  into  their  investment 
+processes.  Today,  the  firm  has  more  than  300  staff  members,  including  170  analysts  with  varied 
+multidisciplinary  expertise  of  more  than  40  sectors.  Through  the  IRRI  survey,  investors  selected 
+Sustainalytics as the best independent responsible investment research firm for three consecutive years, 
+2012 through 2014 and in 2015, Sustainalytics was named among the top three firms for both ESG and 
+Corporate Governance research. The firm was also named the Best SRI or Green Bond Research Firm by 
+Global Capital in 2015. For more information, visit www.sustainalytics.com  
+ 
+ 
+Sustainalytics 
+info@sustainalytics.com  
+www.sustainalytics.com  
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+18 
+
+

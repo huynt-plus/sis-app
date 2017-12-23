@@ -1,0 +1,847 @@
+ 
+ 
+  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+
+ RENOVATE AMERICA  
+
+GREEN BOND 
+
+ 
+
+HERO GREEN BOND FRAMEWORK 
+
+ 
+
+ 
+
+FRAMEWORK OVERVIEW AND SECOND OPINION BY 
+
+ 
+ 
+ 
+
+SUSTAINALYTICS 
+
+April 14th, 2017 
+
+www.sustainalytics.com 
+ 
+www.sustainalytics.com 
+ 
+www.sustainalytics.com 
+
+Trisha Taneja (Toronto) 
+Advisor, Advisory Services 
+trisha.taneja@sustainalytics.com 
+(+1) 647 317 3695 
+
+Charlotte Peyraud (New York) 
+Senior Advisor, Institutional Relations 
+charlotte.peyraud@sustainalytics.com  
+(+1) 646 518 0184 
+ 
+ 
+
+ 
+ 
+
+© Sustainalytics 2017 
+
+TABLE OF CONTENTS 
+
+FRAMEWORK OVERVIEW AND SECOND OPINION BY SUSTAINALYTICS 
+
+1. 
+
+Introduction 
+
+2.  Overview of Issuer 
+
+3.  Framework overview 
+3.1  Use of Proceeds 
+3.2  Project Evaluation and Selection Process 
+3.3  Management of Proceeds 
+3.4  Reporting 
+
+4. Sustainalytics’ Opinion 
+
+Conclusion 
+
+Appendices 
+
+Appendix 1 – HERO Program Residential Eligible Product List 
+Appendix 2 –Impact Statistics for HERO Funding Notes 2017-1 
+Appendix 3: Green Bond/Green Bond Programme External Review Form 
+
+SUSTAINALYTICS 
+
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+1 
+
+3 
+
+3 
+
+5 
+5 
+5 
+7 
+7 
+
+9 
+10 
+
+11 
+11 
+21 
+22 
+
+28 
+
+2 
+
+© Sustainalytics 2017 
+
+ 
+
+1. INTRODUCTION 
+ 
+Renovate America, Inc. (“Renovate America”) developed a green bond framework under which it intends to issue 
+multiple series of green notes (the “Senior Notes,” “Bonds” or “HERO Green Bonds”) through its ABS platform 
+called Home Energy Renovation Opportunity (“HERO”) Funding. The Senior Notes are secured by a pool of limited 
+obligation improvement bonds called Property Assessed Clean Energy (“PACE”) bonds, the proceeds of which are 
+used to finance energy efficiency, renewable energy and water conservation projects and products. The HERO 
+Green  Bond  Framework  is  consistent  with  the  current  Green  Bond  Principles  2016  (“GBP”)  as  held  by  the 
+International Capital Market Association (“ICMA”). 
+ 
+Renovate  America  has  engaged  Sustainalytics  to  provide  a  second-party  opinion  on  the  HERO  Green  Bond 
+Framework  and  the  framework’s  environmental  credentials.  As  a  part  of  this  engagement,  Sustainalytics 
+reviewed relevant public and internal documents, and held conversations with various members of Renovate 
+America’s management team to understand the environmental impact of the planned use of proceeds for the 
+Bonds project selection process based on established eligibility criteria and transparency of the management of 
+issued Green Bonds. This document contains two sections: (1) Framework Overview – summary of the Renovate 
+America HERO Green Bond Framework, and (2) Sustainalytics’ Opinion – an opinion on the framework.  
+ 
+ 
+2. OVERVIEW OF ISSUER 
+ 
+Overview 
+Renovate America is a technology-focused finance company headquartered in San Diego, California, with over 
+650 full-time employees. Founded in 2009, it partners with local governments to administer the financing process 
+for home improvement projects involving installation of energy efficiency, renewable energy and water efficiency 
+products through its HERO program. The HERO program received a Climate Leadership Certificate for Innovative 
+Partnerships by the U.S. Environmental Protection Agency (EPA) in March 2016. The HERO program operates 
+under California’s PACE legislation, which allows homeowners to finance renewable energy, energy efficiency 
+and water efficiency renovations through voluntary property tax assessments. Renovate America is retained by 
+local municipalities to establish and administer their PACE programs. As of March 2017, Renovate America has 
+financed over 2.27 billion USD in PACE funding for 93,000 residential property owners. 
+ 
+The PACE Process 
+The HERO program has been providing homeowners with the opportunity to finance solar, energy and water 
+efficiency  and  renewable  energy  improvements  at  no  upfront  cost.  Enabled  by  PACE  legislation,  local 
+governments raise capital through issuances of limited obligation municipal bonds or PACE bonds. The proceeds 
+from  these  bonds  are  administered  by  the  HERO  program  and  are  used to enable  homeowners to carry  out 
+renewable energy, energy and water efficiency home improvements. The HERO program pays the contractors 
+directly  for  the  installation  of  water  efficient,  energy  efficient  or  renewable  energy  generating  products  in 
+consumer homes. Homeowners, through the HERO technology platform, choose both the contractors and the 
+eligible products to be installed on their properties. By virtue of the PACE financing structure, homeowners do 
+not  incur  upfront  payments  for  their  energy  and  water  efficient  home  improvements.  Instead,  homeowners 
+repay  the  financing  for  their  green  renovations  through  property  tax  payments.  Municipalities  collect  this 
+
+3 
+
+ 
+ 
+
+© Sustainalytics 2017 
+
+repayment as a part of their annual tax collection process, and remit these tax payments to PACE bondholders 
+via a trustee.  In July 2016, the White House issued a statement announcing executive actions to support the 
+expansion of PACE financing. The Federal Housing Administration (FHA) also issued guidance on July 19, 2016 
+confirming  that  properties  with  PACE  assessments  can  be  purchased  and  refinanced  with  FHA  mortgage 
+insurance, subject to certain requirements being met. 
+ 
+Securitization of PACE Bonds through the Issuer 
+The Notes issued by Renovate America are secured by a pool of PACE bonds. The PACE bonds in turn are secured 
+by the voluntary PACE assessments levied against the homeowners’ properties. Renovate America facilitates and 
+manages the origination of these PACE assessments on behalf of the PACE bond issuers.  
+ 
+Renovate  America  has  more  than  8,000  registered  licensed  contractors  participating  in  its  HERO  program. 
+Renovate  America  provides  these  contractors  with  training  programs  on  marketing  and  eligible  equipment 
+criteria, access to financing and marketing data, and tracking capabilities. All registration and administration fees 
+charged are split between other partners and service providers of the PACE program (i.e. municipalities, legal 
+consultants, public  finance consultants etc.). Renovate  America’s principal source  of revenue  stems from the 
+difference in interest rates between its provision of funds to the PACE bond issuers for their PACE programs and 
+borrowing activities and origination fees. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+4 
+
+© Sustainalytics 2017 
+
+3. FRAMEWORK OVERVIEW 
+ 
+Renovate  America  has  developed  the  HERO  Green  Bond  Framework,  which meets  the  four  key  pillars of the 
+Green Bond Principles: use of proceeds, project selection process, management of proceeds, and reporting. 
+ 
+3.1   Use of Proceeds 
+The proceeds of the Green Bonds will be or has been allocated towards home improvement projects funded 
+through the HERO program that meet the following criteria. 
+ 
+3.1.1  Eligibility Criteria 
+To be eligible to be funded by the proceeds, the projects funded must fall within the following product 
+categories: 
+ 
+
+1.  Renewable & Alternative Energy Products  
+
+a.  Solar Photovoltaic Systems 
+b.  Solar Thermal 
+c.  Advanced Energy Storage System - Electric Vehicle Charging Station 
+d.  Stationary Fuel Cell Power System 
+
+ 
+2.  Energy Efficiency Products 
+
+a.  High-Efficiency Heating, Ventilation, and Air Conditioning (HVAC) 
+b.  Building Envelope (Insulation, Cool Roofing, Air Sealing, etc.) 
+c.  High-Efficiency Lighting 
+d.  High-Efficiency Pool Equipment 
+e.  High-Efficiency Water Heating 
+f.  Windows, Doors, and Skylights 
+
+ 
+
+3.  Water Efficiency Products 
+
+Indoor Water Efficient Fixture & Fittings 
+
+a. 
+b.  Outdoor Water Efficient Landscaping 
+
+ 
+
+Improvements that are required for the installation of product types falling into one or more of the previous 3 
+categories are also eligible to be funded. 
+
+ 
+
+3.2  Project Evaluation and Selection Process 
+Renovate America selects projects for funding through Green Bond proceeds by assessing if the project falls 
+under one or more of the three eligibility criteria specified above in Section 3.1.1. The project must fall under 
+one or more of the three eligibility criteria to be refunded through Bond proceeds. 
+ 
+ In addition, projects selected for refunding through Bond proceeds must also meet the following criteria: 
+ 
+
+1.  The project must meet certain product specific eligibility criteria, as outlined in Appendix 1. The 
+
+products that are used for the project must meet the product-specific eligibility criteria detail the 
+
+ 
+ 
+
+5 
+
+© Sustainalytics 2017 
+
+minimum product performance, installation values, and/or qualification requirements for each product 
+type. 
+
+2.  The  used  product’s  energy/water  efficiency  or  renewable  energy  generation  performance  must  be 
+measurable  and  verifiable  for  its  installed  application  in  a  broad  variety  of  single-family  residential 
+property settings. 
+
+3.  The  used  product’s  energy  efficiency/water  efficiency/energy  generation  must  be  achieved  through 
+
+4. 
+
+broadly available, non-proprietary technology that is offered by more than one manufacturer. 
+If the cost of a qualified product for a project is significantly greater than their conventional/standard 
+efficiency  counterpart,  the  incremental  cost  incurred  will  be  offset  by  direct  savings  (i.e.  utility  bill 
+reduction)  or  indirect  savings  (i.e.  property  value  increase,  induced  economic  impact,  etc.)  within  a 
+reasonable period of time. 
+
+ 
+The HERO product specific eligibility criteria (as outlined in Appendix 1) for the projects outlined above reference 
+third-party efficiency program standards and certified product directories (when available) that rely on internal 
+and  external  subject matter  expertise  to  generate  relevant  standards  and  eligibility  specifications.  This  third-
+party reference process ensures that products have met a nationally recognized standard of efficiency and have 
+submitted the necessary performance documentation in order to be listed in the directories. 
+ 
+The third-party sources used for the HERO eligibility specifications are prioritized as follows: 
+•  American National Standards Institute 
+•  ASTM International 
+•  Air Conditioning Heating and Refrigeration Institute 
+•  Building Performance Institute 
+•  California Energy Commission 
+•  California Self Generation Incentive Program 
+•  California Solar Initiative Program 
+•  California Title 24, Section 6 Building Efficiency Standards 
+•  Cool Roof Rating Council 
+•  Home Ventilating Institute 
+• 
+•  National Fenestration Rating Council 
+•  Underwriters Laboratory 
+•  U.S. Department of Energy (DOE) Appliance Certification Database 
+•  U.S. Department of Energy (DOE) ENERGY STAR Product Directory 
+•  U.S. Environmental Protection Agency (EPA) WaterSense Product Directory 
+•  SoCal Water Smart Program 
+•  Solar Rating and Certification Corporation 
+ 
+Product Catalogue  
+The HERO program uses a custom database (product catalogue) that aggregates product records and associated 
+details (i.e. manufacturer, brand, model, performance specifications, etc.) from the third-party reference sources 
+listed  above.  Aggregated  product  records  are  then  filtered  on  the  defined  eligibility  specifications  for  each 
+product type and flagged as being eligible or not eligible for HERO financing. The product catalogue includes over 
+1.3 million eligible product records that are available to contractors and property owners for their projects and 
+is updated on a daily basis to ensure that records are consistent with the third-party product directories. 
+ 
+
+International Association of Plumbing and Mechanical Officials 
+
+ 
+ 
+
+6 
+
+© Sustainalytics 2017 
+
+In addition to the HERO product eligibility specifications, all product specifications and installation quality must 
+meet or exceed applicable local, state, and/or federal permitting, codes, and standards.  
+ 
+As  the  program  administrator  of  the  HERO  program,  Renovate  America  receives  applications  for  potential 
+projects through contractor referrals or directly from interested homeowners. Each contractor is assessed if they 
+are  licensed  and  bonded  by  the  California  Contractors  State  License  Board,  and  if  they  are  registered  with 
+Renovate  America  to  participate  in  the  HERO  program.  In  this  process,  Renovate  America  ensures  that  the 
+projects meet the program criteria and product specific eligibility criteria.   
+ 
+ 
+
+3.3        Management of Proceeds  
+The  Green  Bonds  are  secured  by  PACE  bonds,  which  are  in  turn  backed  by  PACE  assessments  in  the  pool. 
+Renovate America, through one of its affiliates, is the sole buyer of PACE Bonds issued by the PACE bond issuers. 
+The net proceeds from the issuance of the HERO Senior Notes are used to acquire PACE bonds. The purchase of 
+the PACE bonds is made using the proceeds from the Senior Notes, resulting in full allocation of the proceeds to 
+the PACE bonds that are backed by the PACE assessment pool. The transaction of issuing the Senior Notes and 
+purchasing the PACE bonds by Renovate America (through one of its affiliates) occurs at the same time. 
+ 
+   Reporting  
+3.4 
+Allocation Reporting 
+As all of the initial proceeds will be allocated immediately, verification of allocation of the Green Bond proceeds 
+will  be  disclosed  at  time  of  issuance  of  the  Senior  Notes  in  the  offering  memorandum  and  any  subsequent 
+purchases will involve only PACE bonds that meet the PACE bonds eligibility criteria.   
+ 
+Impact Reporting 
+Renovate America utilizes a proprietary calculation model to estimate the environmental impacts of the projects 
+related to PACE bonds. Renovate America reports on estimated impact in the following areas: 
+
+  Water savings,  
+  Energy savings,  
+  Renewable energy generation, and  
+  Greenhouse Gas (GHG) emission reductions.  
+
+ 
+Renovate America calculates the estimated impact in each of these areas using proprietary forecasting models 
+that are largely derived from relevant third-party sources. Each model is customized for inputs that are specific 
+to  the  property  being  assessed,  taking  into  account  the  location  of  house,  the  year  built,  the  number  of 
+occupants, climate zone, etc. Where applicable, Renovate America reports on both annual and life-time metrics 
+of  the  installed  improvements.  The  impact  reporting  methodology,  its  original  third-party  source,  and  the 
+associated metrics are listed below. 
+ 
+Water Savings 
+
+1.  Methodology 
+
+Water savings estimates are reported for both indoor and outdoor water efficiency projects. This impact 
+model derives primarily from methodologies used by the U.S. Environmental Protection Agency (EPA) 
+WaterSense  Program,  the  California  Department  of  Water  Resources,  and  the  California  Institute  for 
+Public Policy. 
+
+ 
+ 
+
+7 
+
+© Sustainalytics 2017 
+
+2.  Specific Impact Metrics 
+
+a.  Annual Water savings (gallons & bill savings) 
+b.  Lifetime Water savings (gallons & bill savings) 
+
+ 
+Energy Savings  
+
+1.  Methodology 
+
+Energy savings estimates are reported for each energy efficiency home improvement project. The impact 
+model used to calculate home energy savings derives from calculation methodologies used by the U.S. 
+Department of Energy (DOE).  
+
+2.  Specific Impact Metrics 
+
+a.  Annual kWh Savings 
+b.  Annual Therm Savings 
+c.  Annual Energy Savings (kWh-e & bill savings) 
+d.  Lifetime Energy Savings (kWh-e & bill savings) 
+
+ 
+Greenhouse Gas (GHG) Emission Reduction  
+
+1.  Methodology 
+
+GHG emission reductions are reported for both energy efficiency projects and projects that generate 
+renewable  energy.  The  impact  model  used  to  calculate  GHG  emission  reduction  derives  from 
+methodologies used by the U.S. EPA eGRID Power Profiler, and the GHG Equivalency Calculator. 
+
+2.  Specific Impact Metrics 
+
+a.  Annual Emission Reduction (Tons GHG) 
+b.  Lifetime Emission Reduction (Tons GHG) 
+
+ 
+
+Renewable Energy Generation  
+
+1.  Methodology 
+
+Renewable  energy  generation  estimates  are  reported  for  solar  photovoltaic  installation  projects.  The 
+impact  model  used  to  calculate  renewable  energy  generation  estimates  derives  from  methodologies 
+used by the National Renewable Energy Laboratory's PV Watts Calculator. 
+
+2.  Specific Impact Metrics 
+
+a.  Sum of Solar System Size (W) 
+b.  Annual Energy Savings (kWh & bill savings) 
+c.  Lifetime Energy Savings (kWh & bill savings) 
+
+ 
+See Appendix 2 for figures on the estimated environmental impacts of the underlying projects funded by the 
+proceeds of the HERO 2017-1 Notes.  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+8 
+
+© Sustainalytics 2017 
+
+ 
+ 
+4. SUSTAINALYTICS’ OPINION 
+ 
+HERO Program- an innovate program that contributes to climate change mitigation  
+The HERO program is an effective way to promote the uptake of energy and water efficiency products as well as 
+renewable energy-generating products in the U.S. PACE incentivizes home owners to install green products by 
+financing their installation through increased home property taxes, payable over an extended time frame. Hence, 
+homeowners do not have to pay for these energy efficiency renovations upfront, and energy savings often offset 
+associated costs. 
+ 
+Renovate America, as a PACE program administrator, offers homeowners financing for the green investments 
+which are paid back through additional property taxes. In addition, the HERO program simplifies installation of 
+these green improvements by offering homeowners an innovative technology platform where the homeowners 
+can  select  green  improvements  products  offered  at  fair  market  value,  select  contractors  (usually  local),  and 
+benefit from strong consumer protection mechanisms. By leveraging the PACE program, Renovate America, with 
+its  HERO  program,  is  promoting  and  helping  home  owners  install  green  projects  and  improve  home  energy 
+efficiency. 
+ 
+Use of credible third party standards 
+The  HERO  program  bases  its  products’  eligibility on  two  sets  of  criteria—HERO program-specific  criteria,  and 
+product-specific criteria. The product-specific criteria are based on credible third-party efficiency standards and 
+certified product directories.  The HERO program ensures compliance to the eligibility criteria through an internal 
+review process for product selection.  
+ 
+Transparent collection and reporting of impact data 
+Renovate  America  collects  and  documents  performance  on  estimated  impact  metrics  for  each  PACE 
+assessment/product  installation.  Sustainalytics  has  reviewed  Renovate  America’s  reporting  file,  and  is  of  the 
+opinion that the issuer has a robust system in place to transparently disclose estimated impacts related to every 
+Bond  issued  under  this  framework.  Impact  reporting  for  the  first  issuance  under  the  HERO  Green  Bond 
+Framework (Series 2017-1) is detailed in Appendix 2.  
+ 
+Advancing the U.N. Sustainable Development Goals  
+The Sustainable Development Goals (SDGs) were set in September 2015 through a multi-stakeholder partnership, 
+and form an agenda for achieving sustainable development by the year 2030. These goals are widely considered 
+to be the next step to the Millennium Development Goals (MDG), which were time-bound to 2015. Unlike the 
+MDG’s, the SDGs emphasize the elimination of inequality and disparity in opportunity globally, in both developed 
+and developing countries. In particular, SDG 7 ‘Affordable and Clean Energy’ has targets associated with doubling 
+the rate of energy efficiency, increasing substantially the share of renewable energy in the global energy mix, 
+and  ensuring  universal  access  to  affordable,  reliable,  and  modern  energy  services.  Through  incentivizing 
+homeowners  to  install  energy  efficient  and  renewable  energy  generating  products,  Renovate  America  is 
+contributing to all the above mentioned targets, and to the advancement of the SDGs.  
+ 
+Alignment with Green Bond Principles 2016  
+
+ 
+ 
+
+9 
+
+© Sustainalytics 2017 
+
+Sustainalytics has determined that Renovate America’s HERO Green Bond Framework aligns with the four pillars 
+of  the  Green  Bond  Principles  2016.  For  detailed  information  please  refer  to  the  Green  Bond/Green  Bond 
+Programme External Review Form at the end of this document. 
+ 
+ 
+Conclusion 
+All  proceeds  from  all  Green  Bonds  issued  under  the HERO  Green  Bond  Framework  will  be  allocated  towards 
+residential home improvements in the areas of renewable energy, energy efficiency and water efficiency through 
+the purchase of PACE bonds. Sustainalytics is of the opinion that the framework is aligned with the four pillars of 
+the ICMA Green Bond Principles 2016. The criteria that are used for projects that are refinanced by the Green 
+Bonds  are comprehensive and the  selection processes are diligent.  Renovate  America’s rigorous approach to 
+quantifying and reporting estimated impact provides transparency to investors regarding the impact of projects 
+funded  by  the  Green  Bond.  Sustainalytics  is of  the opinion  that  the  HERO  Green  Bond  Framework  is  robust, 
+credible and effective in supporting energy efficiency projects for residential properties in the U.S. 
+ 
+
+ 
+ 
+
+10 
+
+© Sustainalytics 2017 
+
+APPENDICES 
+Appendix 1 – HERO Program Residential Eligible Product List   
+
+ 
+ 
+
+ 
+
+11 
+
+© Sustainalytics 2017 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+12 
+
+© Sustainalytics 2017 
+
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+
+13 
+
+© Sustainalytics 2017 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+
+14 
+
+© Sustainalytics 2017 
+
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+
+15 
+
+© Sustainalytics 2017 
+
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+
+16 
+
+© Sustainalytics 2017 
+
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+
+17 
+
+© Sustainalytics 2017 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+18 
+
+© Sustainalytics 2017 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+19 
+
+© Sustainalytics 2017 
+
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+
+20 
+
+© Sustainalytics 2017 
+
+Appendix 2 –Impact Statistics for HERO Funding Notes 2017-1  
+ 
+As is explained in Section 3.4 on Impact Reporting, Renovate America utilizes proprietary forecasting models to 
+estimate the environmental impacts of the projects related to PACE Bonds. The following tables show 
+environmental impact figures which are estimated from the projects funded by the first issuance under this 
+framework (series 2017-1).  
+ 
+
+Impact Statistics HERO Funding Notes 2017-1  
+
+Environmental Impact 
+
+Impact Metrics 
+
+Annual Water Savings (Gal) 
+
+Lifetime Water Savings (Gal) 
+
+Annual Water Bill Savings (USD) 
+
+Lifetime Water Bill Savings (USD) 
+
+Annual kWh Savings 
+
+Annual Therm Savings 
+
+Annual Energy Savings (kWh-e) 
+
+Impact Figures 
+
+62,443,524 
+
+1,092,405,540 
+
+281,291 
+
+11,040,110 
+
+27,473,655 
+
+1,078,389 
+
+59,081,249 
+
+Lifetime Energy Savings (kWh-e) 
+
+1,060,247,432 
+
+Annual Energy Bill Savings (USD) 
+
+Lifetime Energy Bill Savings (USD) 
+
+Annual Emission Reduction (Tons) 
+
+Lifetime Emission Reduction (Tons) 
+
+7,861,795 
+
+284,336,088 
+
+15,347 
+
+280,487 
+
+21 
+
+Water Savings 
+ 
+ 
+ 
+
+Energy Savings 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Greenhouse Gas (GHG) Emission  
+Reduction 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+© Sustainalytics 2017 
+
+SUSTAINALYTICS 
+ 
+Sustainalytics is an independent ESG and corporate governance research, ratings and analysis firm supporting 
+investors  around  the  world  with  the  development  and  implementation  of  responsible  investment  strategies. 
+With 13 offices globally, Sustainalytics partners with institutional investors who integrate environmental, social 
+and governance information and assessments into their investment processes. Today, the firm has more than 
+300  staff  members,  including  170  analysts  with  varied  multidisciplinary  expertise  of  more  than  40  sectors. 
+Through  the  IRRI  survey,  investors  selected  Sustainalytics  as  the  best  independent  responsible  investment 
+research firm for three consecutive years, 2012 through 2014 and in 2015, Sustainalytics was named among the 
+top three firms for both ESG and Corporate Governance research. The firm was also named the Best SRI or Green 
+Bond Research Firm by Global Capital in 2015. For more information, visit www.sustainalytics.com  
+ 
+Sustainalytics 
+info@sustainalytics.com  
+www.sustainalytics.com  
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+28 
+
+

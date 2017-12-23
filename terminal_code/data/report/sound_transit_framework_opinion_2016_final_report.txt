@@ -1,0 +1,927 @@
+ 
+ 
+  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+CENTRAL PUGET SOUND 
+
+REGIONAL TRANSIT 
+
+AUTHORITY GREEN BONDS 
+
+ 
+
+FRAMEWORK OVERVIEW AND SECOND-PARTY 
+
+OPINION BY SUSTAINALYTICS 
+
+ 
+
+November 28th, 2016 
+
+FRAMEWORK OVERVIEW and SECOND-PARTY 
+
+OPINION BY SUSTAINALYTICS 
+
+November 28th, 2016 
+
+FRAMEWORK OVERVIEW and SECOND-PARTY 
+
+OPINION BY SUSTAINALYTICS 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+www.sustainalytics.com 
+ 
+www.sustainalytics.com 
+ 
+www.sustainalytics.com 
+
+Ankita Shukla (Toronto) 
+Senior Advisor, Advisory Services 
+ankita.shukla@sustainalytics.com  
+(+1) 416 861 0403 
+
+Charlotte Peyraud (New York)  
+Senior Advisor, Institutional Relations 
+charlotte.peyraud@sustainalytics.com 
+(+1) 646 518 0184 
+
+November 28th, 2016 
+
+© Sustainalytics 2016 
+
+TABLE OF CONTENTS 
+
+1.  PREFACE 
+
+2. 
+
+INTRODUCTION 
+
+3.  SOUND TRANSIT GREEN BONDS OVERVIEW 
+
+Use of Proceeds 
+Green Eligibility Criteria 
+Projects Selection Process 
+Management of Proceeds 
+Reporting 
+
+4.  SUSTAINALYTICS’ OPINION 
+
+Conclusion 
+
+APPENDICES 
+
+SUSTAINALYTICS 
+ 
+
+ 
+ 
+  
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+2 
+
+2 
+
+3 
+3 
+3 
+4 
+4 
+4 
+
+5 
+8 
+
+9 
+
+19 
+
+1 
+
+© Sustainalytics 2016 
+
+1. PREFACE 
+The Central Puget Sound Regional Transit Authority (Sound Transit) plans to issue a series of green bonds 
+and has engaged Sustainalytics to review and provide an opinion on the bonds’ green credentials.  As part 
+of  this  engagement,  Sustainalytics  reviewed  relevant  public  and  internal  documents  and  held 
+conversations with Sound Transit’s  treasury team to understand  the  use of proceeds, management  of 
+proceeds  and  reporting  aspects  of  its  green  bonds,  as  well  as  Sound  Transit’s  progress  since  its  2015 
+inaugural green bond. This report contains two sections: (1) Framework Overview – summary of Sound 
+Transit’s Green Bonds framework; and (2) Sustainalytics’ Opinion – an opinion on the framework. 
+
+ 
+2.   INTRODUCTION 
+Created  in  1993,  Sound  Transit  is  a  special-purpose  municipal  corporation,  responsible  for  the 
+construction  and  operation  of  high-capacity  public  transportation  systems  serving  the  Greater  Seattle 
+area encompassing the greater part of three counties including King, Pierce and Snohomish. Sound Transit 
+plans, builds and operates express bus, light-rail and commuter train services, with an annual ridership of 
+nearly 35 million in 2015, representing an increase of nearly two million from 20141. 
+ 
+Sound  Transit  adopted  its  initial  “System  Plan”  in  1996,  which  incorporated  commuter  rail,  light  rail, 
+express  bus,  community  connections  (such  as  transit  centers,  park-and-ride  lots  and  transit  access 
+improvements), high-occupancy vehicle facilities and other improvements. The agency’s three primary 
+transportation modes are detailed below: 
+ 
+Link Light Rail: Light electric rail travels 20 miles connecting a number of key economic centers of the 
+Puget Sound region including the international airport, downtown Seattle, University of Washington and 
+other major job centers and residential areas. The Tacoma Link light travels 1.6 miles through downtown 
+Tacoma. With the opening of 3 new stations in 2016, average weekday ridership has grown 75% from 
+April 2016 – September 2016 compared to April 2015 – September 20152. 
+ 
+Sounder Commuter Train: An 83-mile commuter train service that connects the cities of Seattle, Everett, 
+Tacoma  and  Lakewood.  Sounder  commuter  rail  uses  diesel-powered  locomotives  and  multi-level 
+passenger coach trains that run mostly on BNSF Railway Company railroad freight tracks. 
+ 
+ST  Express  Bus:  ST  Express  buses  travel  between  major  communities  in  King,  Pierce  and  Snohomish 
+counties. ST Express also works to integrate its projects with other transit agencies in order to create an 
+efficient transportation system throughout the entire region. 
+ 
+ 
+
+ 
+
+ 
+
+1 Sound Transit 2015 Sustainability Progress Report—Appendix 
+2 Sound Transit. Quarterly Ridership Report http://www.soundtransit.org/ridership   
+
+ 
+ 
+
+2 
+
+© Sustainalytics 2016 
+
+Sound Transit System’s Expansion Plans 
+Sound  Transit  has  initiated  three  comprehensive  transportation  development  plans.  The  Ten-Year 
+Regional Transit System Plan (Sound Move) was implemented in 1996 and is currently near completion. 
+In  2008,  voters  approved  Sound  Transit  2  (ST2)  as  a  second  phase  of  the  System  Plan  to  finance  the 
+expansion of the transportation network, which is currently under development.  
+ 
+In November 2016, Puget Sound voters approved the third comprehensive transportation development 
+plan. The Sound Transit 3 (ST3) System Plan, a 25-year mass transit expansion plan, will finance 62 new 
+miles of light rail including 37 new stations, increase the capacity of the Sounder Commuter Rail, expand 
+Bus Rapid Transit and improve the speed and reliability of the ST Express bus service. The plan is expected 
+to cost $53.8 billion in total and is expected to be financed with a combination of sales tax, rental car tax 
+and motor vehicle tax proceeds, property tax, federal, state and local grants and loans, bond proceeds, 
+fares and other operating revenues, as well as interest earnings on money from such sources. 
+ 
+Sound Transit’s Series 2015 Green Bonds 
+Sound Transit issued nearly $1 billion in green bonds in September 2015. Proceeds from the bond were 
+used to finance or refinance projects that adhere to Sound Transit’s Sustainability Plan, which include: 
+reducing  car  trips  by  carrying  more  transit  riders,  supporting  smart  regional  growth,  fostering  transit-
+oriented development and improved transit access, designing and building greener projects and operating 
+fleets and facilities more efficiently3. Sustainalytics provided the second party opinion for the Series 2015, 
+dated July 27, 20154. 
+
+ 
+3. SOUND TRANSIT GREEN BONDS OVERVIEW 
+Use of Proceeds 
+Sound Transit plans to raise approximately $480 million of bond proceeds (subject to market conditions) 
+by issuing green bonds to reimburse Sound Transit’s recent capital expenditures under the three transit 
+modes.  Appendix  A  provides  a  list  of  projects  and  their  estimated  expenditures  that  are  eligible  for 
+reimbursement under the Green Eligibility Criteria. Sound Transit plans to report the final list of projects 
+and actual allocated amounts when the bond proceeds are fully allocated. 
+ 
+In addition, a nominal amount from the proceeds will be used to pay for cost associated with the issuance 
+of green bonds. 
+ 
+Green Eligibility Criteria 
+The  projects  that  fall  under  the  following  green  categories  are  eligible  for  reimbursement  from  the 
+proceeds of the bond and eligible for green designation. 
+
+ 
+
+3 Sound Transit. 2015 Green Bond Annual Report.  
+
+http://www.soundtransit.org/sites/default/files/20160919-green-bond-annual-report-2015.pdf  
+
+4 Sustainalytics Second Party Opinion. 
+
+http://www.sustainalytics.com/sites/default/files/sound_transit_green_bonds_sustainalytics_review.pdf  
+
+3 
+
+ 
+ 
+
+© Sustainalytics 2016 
+
+  Transit  Line  New  Build/  Expansion  /  Extension:  Includes  the  planning,  permitting,  design  and 
+
+construction of new build, extension or expansion of transit system.  
+
+  Transit Operations, Maintenance and Improvements: Includes 
+
+o  Operations  related  projects  such  as  fare  collection  systems,  communication  systems, 
+
+signaling, transit centers etc. 
+
+o  Maintenance  related  project  such  as  storage, 
+
+layover,  maintenance  facilities, 
+
+o 
+
+maintenance related electronic and electrical systems, refurbishments etc. 
+Improvements related projects that, enhance commuter experience (safety and comfort) 
+such  as  signage,  noise  reducing  walls  etc.,  and/or  increase  access  to  transit  such 
+pedestrian bridges, car and bike parking, HOV lane and track improvements etc.  
+
+  Transit Planning and Evaluation: Planning, assessment and analysis relating to transit including 
+environmental assessments, capital investments evaluation, evaluation of transit alternatives etc.  
+
+ 
+Projects Selection Process 
+Sound Transit’s Treasury and Bond Counsel set guidelines and priorities for the project selection for 
+green bonds. The projects were selected based on the following considerations:  
+
+  The projects satisfy at least one of the requirements of the Green Eligibility Criteria; 
+  The time period in which the expenditures were made; 
+  Preliminary expenditures that are eligible for reimbursement. These expenditures include 
+design, engineering and surveying that occur before the commencement of a project; and 
+
+  Expenditures that have not been allocated to grants or other bond issues.  
+
+ 
+Management of Proceeds 
+At the time of the financial close of the green bonds transaction, it is expected that all the green bonds 
+proceeds  will  be  used  to  reimburse  Sound  Transit  for  approximately  $480  million  (subject  to  market 
+conditions) of eligible capital expenditures and to pay associated cost of issuance. Given that the monies 
+will have already been spent on transit projects, there will not be any bond proceeds to manage over 
+time. In the event that any bond proceeds are not used for reimbursement, they will be spent on Link light 
+rail eligible expenditures. 
+ 
+Reporting  
+Sound Transit publishes an Annual Green Bond Report that reports on the final use of proceeds and the 
+agency’s environmental and sustainability progress and results. As well, Sound Transit plans to report the 
+final list of projects and actual allocated amounts when the bond proceeds are fully allocated. 
+
+In  addition,  Sound  Transit  publishes  an  annual  sustainability  progress  report  highlighting  the 
+environmental  benefits  of  transit  in  its  region  of  operation.  This  includes,  how  operating  the  system 
+benefits regional air quality and greenhouse gas (GHG) emission savings per year. Sound Transit follows a 
+methodology  developed  by  the  American  Public  Transportation  Association  (APTA)  and  The  Climate 
+Registry to account for savings from transit ridership, measured as carbon dioxide equivalents (CO2e)5.  
+
+ 
+5 American Public Transportation Association. Quantifying Greenhouse Gas Emissions from Transit. 
+
+https://www.apta.com/resources/standards/Documents/APTA%20SUDS-CC-RP-001-09.pdf 
+
+4 
+
+ 
+ 
+
+© Sustainalytics 2016 
+
+4. SUSTAINALYTICS’ OPINION 
+A sustainability-focused agency:  
+Sustainalytics has reviewed Sound Transit’s 2015 Sustainability Progress Report and is of the opinion that 
+Sound Transit is a sustainability-focused organization. Based on the agency’s environmental commitments 
+and internal processes to manage environmental impacts, Sound Transit is well positioned to issue green 
+bonds.  
+ 
+In 2015, the agency met 14 out of 15 of its sustainability targets which align with the green bonds issued 
+in 2015 including: advancing sustainability in early planning and design, reducing construction pollution, 
+increasing revenue fleet fuel efficiency, and reducing vehicle pollution. Sound Transit’s 2016 targets focus 
+on integrating the agency’s eight sustainability priorities into the Sound Transit 3 (ST3) system expansion 
+plan, design and construction. The agency’s sustainability priorities are provided in Appendix B.   
+ 
+Sound Transit has maintained an ISO 14001 certified Environmental & Sustainability Management System 
+(ESMS)  since  2007  with  environmental  objectives  and  targets  that  are  measurable,  meaningful  and 
+understandable. The ESMS provides the management system for implementing the sustainability goals. 
+The ESMS is managed by an intra-agency Steering Committee which indicates a longer-term commitment 
+to sustainability, oversight and overall transparency regarding sustainability goals. The agency reports that 
+its Sustainability Division coordinates across the agency to set sustainability goals and annually monitor, 
+measure and report on progress. 
+  
+With  the  passage  of  ST3,  Sound  Transit  will  continue  to  implement  its  Sustainability  Plan  goals  and 
+integrate sustainability approaches into all aspects of agency activities, consistent with Board-adopted 
+policy. The ST3 Plan re-affirms that Sound Transit’s ongoing sustainability efforts include its commitment 
+to implementing green building and infrastructure. 
+ 
+Finally, Sound Transit showed its commitment to sustainability by issuing nearly $1 billion in green bonds 
+in September 2015. The issuance was the world’s largest municipal sale of such bonds, which earned the 
+organization Environmental Finance’s Municipal Bond of the Year award for 20166. 
+ 
+Environmental impact of mass transit:  
+Sound  Transit  offers  a  low  carbon  alternative  to  commuting  by  road  in  the  system  area.  Major 
+environmental accomplishments achieved by Sound Transit include: (1) saving more GHG emissions than 
+it emits resulting in a net positive environmental impact, (2) reducing the energy required to move each 
+passenger and (3) reducing air pollution emissions. 
+ 
+Firstly, Sound Transit is able to save more GHG emissions than it emits. In 2015, the region avoided 2.2 
+tons of emissions for every ton of GHG that it emitted as a result of mode shift and related congestion 
+
+ 
+6 Sound Transit. 2015 Green Bond Annual Report. http://www.soundtransit.org/sites/default/files/20160919-green-bond-annual-report-
+
+2015.pdf  
+
+ 
+ 
+
+5 
+
+© Sustainalytics 2016 
+
+relief benefits7. The data for land-use benefits are not yet as robust as for the other two metrics. Regional 
+GHG emission savings from Sound Transit in 2014 are indicated in the table below8. 
+ 
+
+ 
+
+ 
+The expansion of the Link light rail will further reduce GHG emissions in the system area through mode 
+shift  and  congestion  benefits.  The  proceeds  of  green  bonds  are  allocated  primarily  to  Link  light  rail 
+expansion  which  has  shown  a  significant  increase  in  ridership  recently  and  has  resulted  in  positive 
+environmental impacts.  
+ 
+Secondly, energy efficiency has improved per passenger and passenger mile travelled (PMT). Though fleet 
+energy use across Sound Transit’s three modes has gradually increased by 7% since 2011 due to increases 
+in service, energy use per passenger mile travelled has decreased by 16%9.  
+ 
+Thirdly, air pollution from Sound Transit operations decreased as a result of improved emissions control 
+technologies on newer ST Express buses and upgrades to Sounder commuter rail engines. Sound Transit 
+monitors  criteria  air  pollutants  (CAPs)  which  include  particulate  matter  (PM10),  volatile  organic 
+compounds, nitrogen oxides, carbon monoxides (CO) and sulfur dioxides. The agency reports that it has 
+been able to reduce such CAPs since 2011 - PM10 was reduced by 21% and CO by 3%10. 
+ 
+Growing regional demand for mass transit: 
+Sound Transit’s annual ridership was nearly 35 million in 2015  representing a 49%  growth since 2010. 
+Sound Transit ridership showed strong growth in 2015 with a 14.6% increase for the Sounder commuter 
+rail, 3.6% increase for the ST Express and 5.1% increase for the Link light rail. More recently, Link light rail 
+ridership showed a sharp increase during the second quarter, with a 75% growth compared to the same 
+period of last year11. This growth was largely due to the opening of the University Link extension in March 
+2016 which connected light rail from downtown to the University of Washington.  
+ 
+The  recent  increase  in  ridership  is  an  indication  that  Sound  Transit  is  successfully  addressing  regional 
+demand  for  public  transportation.  The  region’s  population  is  expected  to  grow  by  approximately  1.7 
+million people by 2040 which will further increase the demand for service in the region by an estimated 
+
+ 
+7 Sound Transit 2015 Sustainability Progress Report—Appendix 
+8 Sound Transit 2014 Sustainability Progress Report—Appendix 
+9 Sound Transit 2015 Sustainability Progress Report—Appendix 
+10 Sound Transit 2015 Sustainability Progress Report—Appendix 
+11 Sound Transit. Quarterly Ridership Report. http://www.soundtransit.org/ridership  
+
+ 
+ 
+
+6 
+
+© Sustainalytics 2016 
+
+40%12. Sound Transit’s transport infrastructure will last for decades, which means that such development 
+will have long-lasting impacts on the regions urban development as well as climate.  
+ 
+Alignment with the Sustainable Development Goals (SDGs): 
+The Sustainable Development Goals (SDGs) were set in September 2015 and form an agenda for achieving 
+sustainable development by the year 2030. These goals are widely considered to be the next step to the 
+Millennium  Development  Goals  (MDG),  which  were  time-bound  to  2015.  Sound  Transit’s  sustainable 
+transport development is essential to achieving most, if not all, of the proposed SDGs. According to the 
+UN Division for Sustainable Development (DSD), although sustainable transport is not represented by a 
+standalone SDG, it is mainstreamed across several SDGs and targets, especially those related to health, 
+energy, infrastructure and cities and human settlements13. 
+ 
+However, of particular importance for Sound Transit under the Green Bond Principles (GBP) is SDG 11 
+Sustainable  Cities,  which  includes  a  target  to  providing  access  to  safe,  affordable,  accessible  and 
+sustainable  transport  systems  for  all,  notably  by  expanding  public  transport.  The  SDG  recognize  the 
+fundamental role of cities in fighting climate change and achieving a sustainable future. Under the Central 
+Puget  Sound  Regional  Transit  Authority  Green  Bond  Framework,  eligible  green  projects  contribute 
+towards  the  promotion  of  sustainable  city  infrastructure  and  are  aligned  with  SDG  11.2  Sustainable 
+Transport under Sustainable Cities.  
+ 
+Alignment with Green Bond Principles 2016:  
+Sustainalytics has determined that the Central Puget Sound Regional Transit Authority Green Bond 
+Framework aligns to the four pillars of the International Capital Markets Association (ICMA) Green Bond 
+Principles 2016 - the use of proceeds, process of project evaluation and selection, management of 
+proceeds and reporting 14. For detailed information please refer to Appendix D: Green Bond/Green Bond 
+Programme External Review Form. 
+ 
+ 
+
+ 
+
+ 
+12 Puget Sound Regional Council. Vision 2040. http://www.psrc.org/assets/1775/V2040execsumm.pdf  
+13 UN Sustainable Development Goals: https://sustainabledevelopment.un.org/topics/sustainabletransport   
+14 International Capital Market Association (ICMA), Green Bond Principles, 2016. 16 June 2016: http://www.icmagroup.org/Regulatory-Policy-
+
+and-Market-Practice/green-bonds/green-bond-principles/  
+
+7 
+
+ 
+ 
+
+© Sustainalytics 2016 
+
+Conclusion 
+The transport sector is responsible for one quarter of energy-related GHG emissions worldwide15. There 
+are also enormous opportunities presented by sustainable transport: saving hundreds of thousands of 
+lives every year through improved road safety and reduced air pollution, and reducing carbon emissions 
+by  7  gigatons16.  Since  the  transport  sector  has  the  fastest  rate  of emission  increase,  including  it  in  an 
+effective policy response to climate change is essential to keep the global temperature increase below 
+two-degree  Celsius.  Considering  its  importance,  ICMA  Green  Bond  Principles  recognizes  clean 
+transportation as an eligible green project category offering clear environmental benefits. 
+ 
+Through Sound Transit’s green bonds, the agency aims to support projects that will provide low-carbon 
+public transit to Central Puget Sound commuters and thereby reducing the overall GHG emissions within 
+the system area.  Sustainalytics  is of the opinion that  Central Puget Sound Regional Transit Authority’s 
+green bond framework is credible and robust and provides clarity regarding the outcomes of the green 
+bond investments.  
+
+ 
+
+ 
+
+ 
+15 UN Sustainable Development Goals: https://sustainabledevelopment.un.org/topics/sustainabletransport  
+16 International Energy Agency: Energy Technology Perspectives: www.iea.org/etp 
+
+ 
+ 
+
+8 
+
+© Sustainalytics 2016 
+
+APPENDICES 
+ 
+Appendix A: Eligible Projects 
+ 
+
+Project Code 
+
+Project Category 
+
+Project Name 
+
+Project Description 
+
+Transit 
+Operations, 
+Maintenance 
+and 
+Improvements 
+
+Sounder 
+Maintenance Base 
+
+Sounder Evaluating operations and maintenance cost 
+efficiencies associated with commuter rail operations and 
+maintenance facilities  
+Commuter Rail Maintenance Base 
+
+Transit Planning 
+and Evaluation 
+
+Positive Train 
+Control 
+
+Federally mandated systems that will significantly reduce 
+the probability of accidents 
+
+Puyallup Station 
+Improvements 
+
+Sounder Commuter Rail Access improvements with 
+parking, pedestrian access improvements bike storage and 
+access 
+
+Approximate 
+Bond Eligible 
+Amount 
+
+          805,000  
+
+      33,590,000  
+
+          939,000  
+
+300004 
+
+300011 
+
+300017 
+
+300018 
+
+300021 
+
+300026 
+
+3X206 
+
+400007 
+
+400008 
+
+400009 
+
+ 
+ 
+
+Transit 
+Operations, 
+Maintenance 
+and 
+Improvements 
+
+Transit 
+Operations, 
+Maintenance 
+and 
+Improvements 
+
+Transit Line New 
+Build/ Expansion 
+/ Extension 
+
+Transit Line New 
+Build/ Expansion 
+/ Extension 
+
+Transit Line New 
+Build/ Expansion 
+/ Extension 
+
+Transit Line New 
+Build/ Expansion 
+/ Extension 
+
+Transit Line New 
+Build/ Expansion 
+/ Extension 
+
+Transit 
+Operations, 
+Maintenance 
+and 
+Improvements 
+
+Sumner Station 
+Improvements 
+
+Sounder Commuter Rail Access improvements with 
+parking, pedestrian access improvements bike storage and 
+access 
+
+        4,207,000  
+
+Tacoma Trestle 
+Track & Signal 
+
+Sounder Yard 
+Expansion 
+
+Sounder Commuter Rail Design and construction of 
+additional track, bridge and platforms along .65 miles of 
+track baselined in 2015 
+
+Sounder Commuter Rail Increase Track Capacity at the 
+layover facility in Lakewood with drainage and electrical 
+improvements 
+
+      23,616,000 
+
+        5,366,000  
+
+Mukilteo Station-S 
+Platform 
+
+Sounder Commuter Rail Construction of south platform 
+opened March 2016 
+
+        4,693,000  
+
+First Hill Streetcar 
+
+Built by ST owned and operated by King County Metro - 
+Opened January 2016 
+
+      41,923,000  
+
+Tacoma Link 
+Expansion 
+
+2.4 miles, 6 new stations extended the existing Tacoma 
+Link  
+
+        3,173,000  
+
+Link O&M Facility 
+East 
+
+Operations and Maintenance Facility to support the fully 
+built out ST2 program 
+
+        5,786,000 
+
+9 
+
+© Sustainalytics 2016 
+
+400032 
+
+4X100 
+
+4X115 
+
+4X200 
+
+4X420 
+
+4X445 
+
+4X600 
+
+5X387 
+
+Transit Line New 
+Build/ Expansion 
+/ Extension 
+
+Transit Line New 
+Build/ Expansion 
+/ Extension 
+
+Transit Line New 
+Build/ Expansion 
+/ Extension 
+
+Transit Line New 
+Build/ Expansion 
+/ Extension 
+
+Transit Line New 
+Build/ Expansion 
+/ Extension 
+
+Transit Line New 
+Build/ Expansion 
+/ Extension 
+
+Transit Line New 
+Build/ Expansion 
+/ Extension 
+
+Transit Line New 
+Build/ Expansion 
+/ Extension 
+
+ST1 LRV Fleet 
+Expansion 
+
+Light Rail Vehicle Procurement that will support the needs 
+of the entire ST2 program 
+
+          879,000  
+
+Northgate Link 
+Extension 
+
+4.3 miles, 3 stations connecting the University of 
+Washington Station to Northgate  
+
+Lynnwood Link 
+Extension 
+
+8.5 miles, 4 stations extending from Northgate to 
+Lynnwood 
+
+    448,181,000 
+
+      26,114,000  
+
+University Link 
+Extension 
+
+3.15 miles. 2 stations extending light rail from downtown 
+to the University of Washington - Opened March 2016 
+
+    203,203,000  
+
+S 200th Link 
+Extension 
+
+1.6 miles, 1 station from Sea Tac Airport to the Angle Lake 
+Station - Opened September 2016 
+
+    131,317,000  
+
+Federal Way Link 
+Extension 
+
+7.6 miles, 3 stations from Angle Lake to the Federal Way 
+Transit Center  
+
+        6,946,000  
+
+East Link 
+
+14 Miles, 10 stations connects downtown Seattle with 
+Bellvue  
+
+    269,710,000 
+
+REX I-90 2 Way 
+Trans& HOV III 
+
+Preparing I-90 for the East Link Extension 
+
+      99,879,000 
+
+Grand Total 
+
+  
+
+  
+
+ 1,310,327,000 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+10 
+
+© Sustainalytics 2016 
+
+ 
+Appendix B: Sound Transit’s 2016 Sustainability Targets 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+11 
+
+© Sustainalytics 2016 
+
+Appendix C: Sound Transit’s Environmental Policy 
+ 
+
+ 
+
+ 
+ 
+
+12 
+
+© Sustainalytics 2016 
+
+Disclaimer 
+All rights reserved. No part of this second party opinion (the “Opinion”) may be reproduced, transmitted 
+or published in any form or by any means without the prior written permission of Sustainalytics.  
+  
+The Opinion was drawn up with the aim to explain why the analyzed bonds are considered sustainable 
+and responsible. Consequently, the Opinion is for information purposes only and Sustainalytics will not 
+accept any form of liability for the substance of the opinion and/or any liability for damage arising from 
+the use of the Opinion and/or the information provided in it. 
+  
+As the Opinion is based on information made available by the client, Sustainalytics does not warrant that 
+the information presented in the Opinion is complete, accurate or up to date. 
+  
+Nothing contained in the Opinion shall be construed as to make a representation or warranty, express or 
+implied, regarding the advisability to invest in or include companies in investable universes and/or 
+portfolios. Furthermore, the Opinion shall in no event be interpreted and construed as an assessment of 
+the economic performance and credit worthiness of the bonds, nor to have focused on the effective 
+allocation of the funds’ use of proceeds. 
+  
+The client is fully responsible for certifying and ensuring its commitments` compliance, implementation 
+and monitoring. 
+ 
+
+ 
+
+ 
+ 
+
+18 
+
+© Sustainalytics 2016 
+
+SUSTAINALYTICS 
+ 
+Sustainalytics is the largest independent provider of sustainability 
+research, analysis, and services to investors. We serve over 250 
+institutional investors which include some of the world's largest asset 
+owners and asset managers. Through over 20 years of experience 
+serving the responsible investment (RI) market, we have gained a 
+reputation for providing high-quality ESG research solutions and 
+excellent client service. 
+
+Sustainalytics is headed by seasoned professionals in the field of 
+business, finance, and sustainability, with a wealth of experience in the 
+Responsible Investment area. After more than 20 years of local 
+experience and expertise in the Responsible Investment (RI) market 
+Sustainalytics has developed a comprehensive understanding of trends 
+and best practices and a solid process to assist organisations in 
+integrating ESG considerations into their policies and strategies. We 
+have worked with some of the world’s financial institutions including 
+pension plans, investment managers and banks providing customised 
+support to help them achieve their RI objectives. Clients include ABN 
+AMRO, APG, BBVA, BNP Paribas, Deutsche Bank, ING Bank, Lombard 
+Odier, Lloyds Bank, Triodos Bank, UBS and over 250 other financial 
+institutions and organisations. 
+
+Sustainalytics now has a staff of 250 employees globally, including over 
+120 analysts, with operations in Amsterdam, Boston, Bucharest, 
+Frankfurt, New York, Paris, London, Singapore, Sydney, Timisoara, and 
+Toronto, and representation in Brussels and Washington DC. 
+
+In 2015, Sustainalytics was named the Best 
+SRI or Green Bond Research Firm by 
+GlobalCapital. In December 2014, for the 
+third year in a row, Sustainalytics was 
+named best sustainable and responsible 
+investment research firm in the 
+Independent Research in Responsible 
+Investment (IRRI) Survey, conducted by 
+Thomson Reuters and SRI-CONNECT.  
+ 
+
+ 
+ 
+
+19 
+
+

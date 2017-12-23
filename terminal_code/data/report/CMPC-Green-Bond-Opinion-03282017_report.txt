@@ -1,0 +1,493 @@
+IMPORTANT NOTICE: EMPRESAS CMPC S.A. 
+
+ 
+ANY PERSON READING THIS OPINION  IS DEEMED TO REPRESENT AND WARRANT THAT 
+SUCH PERSON IS EITHER (1) A QUALIFIED INSTITUTIONAL BUYER WITHIN THE MEANING 
+OF  RULE  144A  UNDER  THE  UNITED  STATES  SECURITIES  ACT  OF  1933,  AMENDED  
+(THE  “SECURITIES  ACT”)  OR  (2)  A  NON-U.S.  PERSON  (WITHIN  THE  MEANING  OF 
+REGULATION S UNDER THE SECURITIES ACT) OUTSIDE THE UNITED STATES. 
+ 
+IMPORTANT: You must read the following before continuing. This Opinion is not an offer to sell, or 
+the solicitation of an offer to buy, securities in the United States or any other jurisdiction, or to any person 
+to whom, it would not be lawful to make such an offer. If an offer of securities is made, it shall be pursuant 
+to a definitive offering memorandum prepared by or on behalf of Empresas CMPC S.A. 
+ 
+
+ 
+
+© Sustainalytics 2017 
+
+ 
+ 
+  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+
+CMPC 
+
+GREEN BOND 
+
+ 
+
+ 
+
+SECOND PARTY OPINION BY SUSTAINALYTICS 
+
+March 17, 2017 
+
+Ankita Shukla (Toronto) 
+Senior Advisor, Advisory Services 
+ankita.shukla@sustainalytics.com  
+(+1) 416 861 0403 
+
+Charlotte Peyraud (New York)  
+Senior Advisor, Institutional Relations 
+charlotte.peyraud@sustainalytics.com 
+(+1) 646 518 0184 
+
+1 
+
+www.sustainalytics.com 
+ 
+www.sustainalytics.com 
+ 
+www.sustainalytics.com 
+ 
+www.sustainalytics.com 
+ 
+
+ 
+ 
+
+© Sustainalytics 2017 
+
+TABLE OF CONTENTS 
+
+1. 
+
+Introduction 
+
+2.  Overview of Issuer 
+
+3.  Sustainalytics’ Opinion 
+
+Conclusion 
+
+APPENDIX 
+
+Appendix 1: CMPC’s Proposed Project List and Example KPIs 
+Appendix 2: Sustainalytics’ Analysis of FSC and Cerflor (PEFC) Certifications 
+Appendix 3: Green Bond/Green Bond Programme External Review Form 
+
+SUSTAINALYTICS 
+
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+3 
+
+3 
+
+4 
+6 
+
+7 
+7 
+8 
+9 
+
+15 
+
+2 
+
+© Sustainalytics 2017 
+
+1. INTRODUCTION 
+ 
+Empresas CMPC S.A. (CMPC) intends to issue a green bond and has engaged Sustainalytics to provide a 
+second  party  opinion  on  its  green  bond  issuance  and  the  bond’s  environmental  credentials.  The  net 
+proceeds of CMPC’s green bond will be used to refinance  or finance,  in whole or in part, existing (re-
+financing) and future projects that further sustainable practices in CMPC’s operations. The green bonds 
+will fund projects in five eligibility criteria, which are –  
+
+1.  Sustainable Forestry 
+2.  Sustainable Water Management 
+3.  Preservation of Biodiversity and Restoration of High Conservation Value Forests 
+4.  Pollution Prevention and Control 
+5.  Energy Efficiency 
+
+Sustainalytics’  opinion  intends  to  provide  an  assessment  of  the  green  bond’s  alignment  with  the 
+transparency  and  reporting  requirements  of  the  Green  Bond  Principles.1  To  come  to  this  opinion, 
+Sustainalytics reviewed public and internal documents provided by  CMPC and held conversations with 
+members from CMPC’s Sustainability, Environment, and Finance teams. These conversations were held 
+to understand CMPC’s sustainability initiatives, and to understand the use and management of proceeds 
+for the issuance of a green bond. 
+  
+2. OVERVIEW OF ISSUER 
+ 
+CMPC is an integrated forestry, pulp and paper company with manufacturing facilities in eight countries 
+of  Latin  America  and  customers  in  more  than  45  countries.  CMPC  operates  through  three  segments: 
+Forestry and Pulp, Paper, and Tissue.  
+ 
+
+(i)  The Forestry and Pulp segment is involved in the manufacture of cellulose pulp and solid lumber 
+products, including sawn lumber, remanufactured products, and plywood sheets and panels. This 
+segment has 628,000 hectares of forest plantations, primarily pine and eucalyptus covering an 
+area of approximately 471,000 hectares located in Chile, 58,000 hectares in Argentina, and 99,000 
+hectares in Brazil. The Pulp segment produces and markets bleached softwood and hardwood 
+Kraft  pulp;  and  operates  a  biomass  electric  energy  production  plant  with  a  capacity  of 
+approximately 90 megawatts located in Nacimiento.  
+
+(ii)  The Paper  segment  engages  in  the manufacture  and  marketing of elaborated paper  products, 
+such as corrugated cardboard boxes, bags or industrial sacks, and molded pulp trays, as well as 
+paper for corrugation, wrapping, construction, lamination, and industrial use, as well as recycled 
+paper products.  
+
+ 
+1 The Green Bond Principles are voluntary process guidelines that recommend transparency and disclosure and promote integrity in the 
+development of the Green Bond market. They provide issuers guidance on the key components involved in launching a credible Green Bond 
+and aid investors by ensuring availability of information necessary to evaluate the environmental impact of their Green bond investments. 
+
+3 
+
+ 
+ 
+
+© Sustainalytics 2017 
+
+(iii) The  Tissue  segment  produces  and  sells  tissue  products  comprising  toilet  paper,  paper  towels, 
+paper  napkins,  and  facial  tissues;  sanitary  products  consisting  of  baby  diapers,  wipes,  adult 
+diapers, and sanitary napkins; and specialized hygiene products for consumption in institutions 
+and public places.  
+
+ 
+Empresas CMPC S.A. was founded in 1920 and is headquartered in Santiago, Chile.  
+ 
+3. SUSTAINALYTICS’ OPINION 
+ 
+Section 1: Assessment of CMPC’s Sustainability Strategy 
+ 
+Contribution of CMPC’s Use of Proceeds towards its Sustainability Strategy: 
+CMPC  focuses  on  five  priority  areas  within  its  environmental  agenda:  (1)  develop  certified  renewable 
+forest  plantations,  (2)  replace  fossil  fuels  with  biomass,  (3)  efficient  use  of  energy,  water  and  raw 
+materials,  (4)  certified  industrial  processes  and  (5)  waste  paper  recycling.  These  priority  areas  are 
+supported  by  objectives  for  the  2015-2017  period  which  is  further  detailed  within  the  company’s 
+Sustainable Development Report 2015. Particular emphasis is placed on: supplying industrial processes 
+with  100%  certified  wood  from  renewable  plantations,  increasing  biomass-based  energy  generation, 
+increasing efficiency on electric and thermal energy use, and reducing water consumption and the volume 
+of effluent. Sustainalytics is of the opinion that  CMPC’s Use of Proceeds correspond to the company’s 
+priority areas and short-term objectives.  
+ 
+Well Positioned to Mitigate Environmental and Social Risks: 
+Sustainalytics recognizes that the eligible projects defined in CMPC’s Use of Proceeds are exposed to both 
+environmental and social risks. However, Sustainalytics is of the opinion that CMPC is well positioned to 
+mitigate these risks, based on:  
+ 
+
+Mitigation  of  environmental  risks  from  operations  through  CMPC’s  Internal  Management 
+Systems 
+Eucalyptus plantations are a fast way of generating wood fibers, but have been criticized for 
+their  negative  impact  on  water  resources  and  biodiversity.  Moreover,  the  pulp  and  paper 
+industry demands large amount of fresh water, produces large amounts of wastewater and 
+is  associated  with  high  energy  requirements.   CMPC  has  demonstrated  a  commitment  to 
+mitigating  such  environmental risks in its operations.  The company’s environmental policy 
+outlines an approach to managing the environmental impacts of its business by committing 
+to: (a) precautionary approach for environmental challenges, (b) keeping a detailed inventory 
+of the environmental impacts of each of its operations, (c) conducting environmental audits, 
+and  (d)  promoting  research  and  development  (R&D)  of  environmentally  sustainable 
+technology in the forestry sector2. CMPC has a comprehensive Environmental Policy in place 
+
+(i) 
+
+ 
+
+2 Sustainable Development Report 2015, p.69:  
+
+http://s21.q4cdn.com/798526818/files/doc_downloads/doc_sustainabiity-devp/15%C2%BA-
+V%C2%BAB%C2%BA_RDS_CMPC-2015_ingl%C3%A9s.pdf  
+
+4 
+
+ 
+ 
+
+© Sustainalytics 2017 
+
+ 
+
+(ii) 
+
+and have implemented a certified ISO 14001 Environmental Management System in several 
+of its operation divisions. 
+
+Mitigation of negative environmental and social Impacts from forestry through FSC and PEFC 
+Certification 
+The  Forest  Stewardship  Council  (FSC)  is  considered  to  be  the  best  certification  system  to 
+ensure environmentally responsible, socially beneficial and economically viable management 
+of  forests  in  the  industry3.  Studies  have  also  shown  that  forests  which  are  FSC  certified 
+mitigate social risks by providing more benefits to communities than uncertified forests by 
+establishing  more  effective  and  better  organized  institutions  for  communication  with 
+communities and equitable financial support to development projects4. While FSC and PEFC 
+are  both  based  on  rigorous  standards  and  are  aligned  with  international  norms,  PEFC  has 
+faced  certain  criticisms  from  civil  society  organizations  (See  Appendix  2  for  Sustainalytics’ 
+assessment  of  the  relative  strengths  and  weaknesses  of  FSC  and  PEFC  certifications). 
+However, nearly 100% of CMPC’s forests have both FSC and PEFC certification, lessening the 
+risk of proceeds being directed towards exclusively PEFC-certified forests.  
+ 
+
+Sustainalytics has found no evidence of major environmental or social controversies  related to CMPC. 
+Additionally, the company does not use genetically-modified (GM) seedlings in eucalyptus plantations and 
+has committed that no green bond proceeds will be allocated to GM eucalyptus related activities. Based 
+on the aforementioned details, Sustainalytics believes that CMPC is well positioned to mitigate common 
+environmental and social risks from eligible projects.  
+ 
+Section 2: Opinion on CMPC’s Green Bond Framework 
+ 
+Impacts of CMPC’s Use of Proceeds  
+CMPC  lists  sustainable  forestry,  sustainable  water  management,  preservation  of  biodiversity  and 
+restoration of high conservation value forests, pollution prevention and control, and energy efficiency as 
+project  areas  that  would  be  funded  by  the  proceeds  of  the  green  bond  (See  Appendix  1  for  CMPC’s 
+Proposed Project List and Example KPIs).  
+ 
+Water is essential in CMPC’s plantations as well as its industrial process to manufacture pulp and paper. 
+In  addition  to  water  consumption,  water  quality  is  also  an  issue  as  paper mills may  discharge  various 
+pollutants in surrounding water bodies, which causes damage to aquatic ecosystems and threatens the 
+health of people that live near the mill. Sustainable water management is a key ESG issue for CMPC and 
+the  company  plans  to  allocate  proceeds  of  the  green  bond  to  (a)  reduce  water  consumption  in  its 
+industrial  processes  and  (b)  improve  water  quality.  The  company  also  focuses  on  research  and 
+development  to  further  innovate  its  operations.  One  specific  study  to  reduce  the  company’s  water 
+
+ 
+3 WWF Global: http://wwf.panda.org/about_our_earth/deforestation/forest_sector_transformation/forest_certification/  
+4 The Center for International Forestry Research (CIFOR): http://wwf.panda.org/?219250/Remarkable-social-progress-when-forests-are-FSC-
+certified---new-study-confirms  
+
+ 
+ 
+
+5 
+
+© Sustainalytics 2017 
+
+consumption involves understanding the variability in the use of water for different varieties of eucalyptus 
+species. 
+ 
+According to The Food and Agriculture Organization of the United Nations (FAO)5, the forest area in Chile, 
+including indigenous forest and plantation forest has been increasing by 18.5 % between 1997 and 2014, 
+and reaching 15.9 million hectares which represents 21% of Chile’s total area (75.7 milliones hextares). 
+Incidentally,  private  plantations,  within the  same  period  grew  from 1.9  million hectares  to 2.4 million 
+hectares. The native forests in Chile are established and managed by both state and private players. It is 
+important to note that two-thirds of native forest belongs to private players and the rest to the state. 
+Therefore, companies such CMPC have an important  role  in establishing  and managing  native  forests. 
+Using  the  proceeds  of  the  green  bond  to  better  manage  native  forests  is  a  positive  use  of  the  bond 
+proceeds. 
+ 
+Within its operations, transportation accounts for a significant portion of CMPC’s energy usage. Among 
+its efforts to improve energy efficiency, the company plans to allocate proceeds from the green bond to 
+replace pulpwood truck transportation with more energy efficient barges. Studies have found that barge 
+transportation is estimated to be 3.7 times more fuel efficient than transportation by truck, which in turn 
+could lead to reduced GHG emissions and less air pollution6.   
+ 
+Sustainalytics is of the opinion that, by funding projects that result in sustainable forestry and provide 
+energy  and  water  efficiency  solutions  within  the  pulp  and  paper  industry,  the  company  is  effectively 
+creating  positive  environmental  impact  within  its  operations.  In  addition,  using  the  bond  proceds  for 
+sustainable forest management of eucalyptus and radiata pine plantations certified by FSC is aligned with 
+industry best practices and green bond market norms. 
+ 
+Alignment with Green Bond Principles 2016: Sustainalytics has determined that the CMPC Green Bond 
+Framework aligns to the four pillars of the Green Bond Principles 2016. For detailed information please 
+refer to Appendix 3: Green Bond/Green Bond Programme External Review Form. 
+ 
+Conclusion 
+Through this green bond, CMPC aims to support projects that focus on sustainable forestry, sustainable 
+water  management,  preservation  of  biodiversity  and  restoration  of  high  conservation  value  forests, 
+pollution prevention and control, and energy efficiency. By focusing on such high environmental impact 
+areas of the agriculture and forestry industry, CMPC is targeting its efforts to mitigate further negative 
+environmental impacts. CMPC’s Green Bond Framework is in alignment with market best practices and 
+norms such as the Green Bond Principles. CMPC’s approach to track and report the use of proceeds will 
+further ensure investors of funds are properly managed by the company. In addition, CMPC will have an 
+annual compliance review to ensure that the project selected for the  bond are incompliance with the 
+bond’s eligibility criteria. All of these elements make this green bond robust and credible. 
+
+ 
+5 FAO Chile Case Study  http://www.fao.org/documents/card/en/c/8b9135c0-85cc-41ab-a0c5-e12e5c63b148/ 
+6 Truck or Barge: Comparative Analysis of Short Sea Shipping and Trucking in the Lower Mainland Transportation Corridor”, Fred Mandl, Angie 
+Leung, Sarah Weber, BCIT SITE Centre for Applied Research, November 15, 2013; 
+http://www.metrovancouver.org/boards/RegionalPlanning/RPL-April_24_2015-Agenda.pdf and  
+http://business.tenntom.org/why-use-the-waterway/shipping-comparisons/  
+
+6 
+
+ 
+ 
+
+APPENDIX 
+Appendix 1: CMPC’s Proposed Project List and Example KPIs 
+ 
+
+ 
+
+ 
+
+GB CategoryProjectsProposed KPIs*Energy EfficiencyExpenditures related to projects that increase energy efficiency, such as projects that replace pulpwood truck transportation with more energy efficient barges.GWh/Adt reduction; Ton of Fuel Oil/m3 transported, Ton FO/Adt; Ton of CO2 emissions avoided, tons CO2/yearReduction of liquid/solid waste. M3/day; Avoided PM emissions, ton/year; TRS reduction, Nm3/hExpenditures related to pollution and prevention control, such as systems reducing the environmental impact of our operations, including liquid and solid waste prevention and control projects; gas capture and incineration in production facilitiesPreservation of Biodiversity and Restoration of High Conservation Value Forests Expenditures related to the restoration and conservation of existing native forests, the protection and identification of endangered flora and fauna and the preservation and restoration of High Conservation Value Forests Land area restored (Ha). Number of visitors to Jorge Alessandri Park. Monitored Ha, number of species under conservation programs.Pollution Prevention and ControlSustainable Water ManagementExpenditures related to sustainable water management projects, such as the reduction of water consumption in industrial processes, systems facilitating reuse of water in industrial processes and the development and installation of technologies and systems that improve the quality of treated water; reduction of organic content and volume of effluent;Cubic meter of water saved, reduced or reused, m3/year. Reduction of fiber content in effluent, mg/l or percent. Reduction of DBO in effluent, mgO2/ltSustainable ForestryExpenditures related to sustainable forest  management for eucalyptus and radiata pine plantations certified by FSC, CERTFOR (PEFC) or equivalent certification, such as the acquisition, planting, maintenance of seedlings up to harvest and the development of hybridswithout genetic manipulation to improve the productivity of plantations while reducing waterconsumption and increasing CO2 capture;Ha/year. CO2 emissions avoided through planted forests, ton CO2/year. Maintenance of FSC; Certfor (PEFC) or equivalent internationally recognized certification; Less water consumption m3/year, improved CO2 sequestration ton CO2/year* acronyms and(cid:160)abbreviationsVAP: vapour.Ton: tonnem3: cubic meterdB: decibelCO2: carbon dioxideCaO: Calcium oxide "quicklime"TRS: Total Reduced SulphurNox: nitrogen oxidesMP: Particule matterSO2: Sulfur DioxideHa: HectareH20: WaterFO: Fuel OilADT: Air Dry TonneMWh: Mega Watt© Sustainalytics 2017 
+
+Appendix 2: Sustainalytics’ Analysis of FSC and Cerflor (PEFC) Certifications 
+ 
+FSC and PEFC are both based on rigorous standards and on a multi-stakeholder structure. Both 
+organizations are in line with international norms such as the International Labor Organization (ILO) 
+conventions, the Convention on Biological Diversity (CBD), and the Convention on International Trade in 
+Endangered Species of Wild Fauna and Flora (CITES). In addition to compliance with laws in the country 
+of certification, both schemes have a set of minimum requirements that companies are required to 
+meet to obtain and maintain certifications. These requirements include compliance with standards 
+around sustainable management of forests, management of environmental impact of operations, 
+preservation of biodiversity, management of socio-economic and community relations, and sourcing of 
+sustainable wood (chain of custody). Furthermore, both FSC and PEFC require external annual audits to 
+ensure compliance, and achieve and maintain certification. Despite these similarities, PEFC has faced 
+certain criticisms from civil society actors. These are highlighted below:  
+
+i. 
+
+ii. 
+
+iii. 
+
+Type of organization: Since the FSC is an international labeling and certification system, it sets 
+its  own  global  standards.  The  PEFC,  in  contrast,  is  not  a  standard  setter,  but  a  mutual 
+recognition  scheme.  The  PEFC  sets  sustainability  benchmarks  according  to  international 
+norms, and endorses national certification schemes that comply with these benchmarks. A 
+common criticism of this model is that it allows for more flexibility in the interpretation of 
+international  PEFC  benchmarks  as  per  regional,  cultural,  and  socio-economic  context,  and 
+results  in  the  endorsement  of  less  rigorous  national  certification  schemes.  However,  the 
+process for being endorsed by the PEFC is thorough; any national certification system seeking 
+to obtain PEFC endorsement must submit to a comprehensive assessment process, including 
+independent  evaluation  and  public  consultation.  This  evaluation  of  compliance  with 
+international  PEFC  benchmarks  is  carried  out  by  independent,  accredited  certification 
+organizations. 
+Indigenous  People’s  Rights:  FSC  and  PEFC  both  identify  indigenous  rights  as  an  important 
+standard in forest management. Both certification schemes require that forest management 
+activities consider and do not  infringe on indigenous people’s rights, and the  activities are 
+carried out using frameworks ensuring their free and informed consent.  A criticism of PEFC 
+is that it requires only engagement with indigenous people in forest management decisions, 
+while the FSC provides performance-oriented targets, and requires forest managers operating 
+on indigenous lands to obtain indigenous people’s consent through binding agreements.  
+Sourcing wood from non-certified sources: Both FSC and the PEFC have established standards 
+around sourcing wood from non-certified and controversial sources. FSC’s standards direct 
+forest managers to avoid wood harvested in violation of traditional and civil rights. A criticism 
+of  the  comparable  PEFC  standard  is  that  it  limits  identification  of  controversially  sourced 
+wood to situations where the local legislation is violated. However, PEFC standards explicitly 
+reference the violation of local, national, and international legislation with regards to worker’s 
+and indigenous people’s rights as being a controversial source of wood. 
+
+ 
+
+8 
+
+ 
+
+ 
+ 
+
+© Sustainalytics 2017 
+
+Disclaimer: Sustainalytics 
+All rights reserved. No part of this second party opinion (the “Opinion”) may be reproduced, transmitted 
+or published in any form or by any means without the prior written permission of Sustainalytics.  
+  
+The Opinion was drawn up with the aim to explain why the analyzed bond is considered sustainable and 
+responsible. Consequently, this Opinion is for information purposes only and Sustainalytics will not 
+accept any form of liability for the substance of the opinion and/or any liability for damage arising from 
+the use of this Opinion and/or the information provided in it. 
+  
+As the Opinion is based on information made available by the client, Sustainalytics does not warrant that 
+the information presented in this Opinion is complete, accurate or up to date. 
+  
+Nothing contained in this Opinion shall be construed as to make a representation or warranty, express or 
+implied, regarding the advisability to invest in or include companies in investable universes and/or 
+portfolios. Furthermore, this Opinion shall in no event be interpreted and construed as an assessment of 
+the economic performance and credit worthiness of the bond, nor to have focused on the effective 
+allocation of the funds’ use of proceeds. 
+  
+The client is fully responsible for certifying and ensuring its commitments` compliance, implementation 
+and monitoring. 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+14 
+
+© Sustainalytics 2017 
+
+SUSTAINALYTICS 
+ 
+Sustainalytics  is  an  independent  ESG  and  corporate  governance  research,  ratings  and  analysis  firm 
+supporting  investors  around  the  world  with  the  development  and  implementation  of  responsible 
+investment  strategies. With 13 offices globally, Sustainalytics partners with institutional investors who 
+integrate  environmental,  social  and  governance  information  and  assessments  into  their  investment 
+processes.  Today,  the  firm  has  more  than  300  staff  members,  including  170  analysts  with  varied 
+multidisciplinary  expertise  of  more  than  40  sectors.  Through  the  IRRI  survey,  investors  selected 
+Sustainalytics as the best independent responsible investment research firm for three consecutive years, 
+2012 through 2014 and in 2015, Sustainalytics was named among the top three firms for both ESG and 
+Corporate Governance research. The firm was also named the Best SRI or Green Bond Research Firm by 
+Global Capital in 2015. For more information, visit www.sustainalytics.com  
+ 
+ 
+Sustainalytics 
+info@sustainalytics.com  
+www.sustainalytics.com  
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+
+15 
+
+

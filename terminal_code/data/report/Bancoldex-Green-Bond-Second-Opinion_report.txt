@@ -1,0 +1,720 @@
+ 
+ 
+  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+
+ BANCO DE COMERCIO 
+EXTERIOR DE COLOMBIA 
+
+(BANCOLDEX)  
+
+GREEN BOND FRAMEWORK 
+
+ 
+
+ 
+
+SECOND PARTY OPINION BY SUSTAINALYTICS 
+
+June 29th, 2017 
+
+www.sustainalytics.com 
+ 
+www.sustainalytics.com 
+ 
+www.sustainalytics.com 
+ 
+
+Catarina da Silva (Amsterdam) 
+
+Charlotte Peyraud (New York) 
+
+Senior Advisor, Advisory Services 
+catarina.dasilva@sustainalytics.com 
+(+31) 20 205 0045 
+ 
+ 
+ 
+ 
+
+Senior Advisor, Institutional Relations 
+charlotte.peyraud@sustainalytics.com 
+(+1) 646 518 0184 
+
+ 
+ 
+
+Vikram Puppala  
+
+Manager,  
+
+© Sustainalytics 2017 
+
+TABLE OF CONTENTS 
+
+1. 
+
+INTRODUCTION 
+
+2.  SUSTAINALYTICS’ OPINION 
+
+Section 1: Assessment of Bancóldex’s Environmental Strategy 
+Section 2: Impact of the use of proceeds 
+Section 3: Sustainalytics Opinion on the Green Bond Framework 
+Conclusion 
+
+APPENDICES 
+
+Appendix 1: Project portfolio 
+Appendix 2: Green Bond External Review Form 
+
+SUSTAINALYTICS 
+
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+3 
+
+4 
+4 
+6 
+9 
+10 
+
+11 
+11 
+12 
+
+18 
+
+2 
+
+© Sustainalytics 2017 
+
+1. INTRODUCTION 
+ 
+Banco  de  Comercio  Exterior  de  Colombia  S.A.  (Bancóldex)  is  a  state  owned  development  bank  that 
+provides financial solutions to support the growth of Colombian companies of all sizes and industries. 1 
+Bancóldex  also  provides  non-financial  solutions  that  aim  to  promote  innovation  and  environmental 
+stewardship amongst Colombian companies.  
+ 
+Bancóldex has developed a Green Bond Framework2 in accordance with which it intends to issue a green 
+bond.  The net proceeds of the green bond will be used to finance or refinance, in whole or in part, existing 
+and  future  projects  that  promote  sustainable  development  in  Colombia  and  the  transition  to  a  low-
+carbon, climate-resilient economy. Proceeds of the bond will be directed towards five categories:  
+
+1.  Pollution  control  and  resource  efficiency  (including  waste  management  and  wastewater 
+
+treatment) 
+
+2.  Sustainable transport 
+3.  Energy efficiency 
+4.  Renewable energy 
+5.  Sustainable buildings 
+
+ 
+A list of projected allocations per eligibility criterion that will be considered for refinancing purposes is 
+provided in Appendix 1. 
+ 
+Bancóldex has engaged Sustainalytics to provide a second-party opinion on the Bancóldex Green Bond 
+Framework.3 As part of this engagement process, Sustainalytics held conversations with various members 
+of Bancóldex’s team, including the treasury department, legal department, commercial department, and 
+risk  vice-presidency.  These  conversations  clarified  the  use  of  proceeds,  management  of  proceeds  and 
+reporting aspects of the green bond as well as the environmental and social corporate policy of Bancóldex. 
+Sustainalytics  also  reviewed  relevant  public  documents  and  non-public  information  relating  to  the 
+analysis  of  eligible  projects  under  Bancóldex’s  Green  Bond  Framework.  Following  this  engagement 
+between Bancóldex and Sustainalytics, some elements of the Green Bond Framework were clarified to 
+ensure an alignment with the level of disclosure expected by ICMA’s Green Bond Principles, 2017.4 
+ 
+This document contains Sustainalytics’ opinion on the Bancóldex Green Bond Framework and should be 
+read in conjunction with that framework. 
+ 
+ 
+
+ 
+1 Except for excluded activities, defined in Bancoldex’s Environmental and Social Management Policy 
+(https://www.bancoldex.com/documentos/4603_Formato_de_información_ambiental_y_social.pdf - section F) 
+2 https://www.bancoldex.com/informacion-emisiones/prospecto-bonos-2014.aspx 
+ 
+3 https://www.bancoldex.com/informacion-emisiones/prospecto-bonos-2014.aspx 
+4 “The Green Bond Principles 2017”, dated 2 June 2017, issued by the International Capital Market Association (ICMA) 
+
+ 
+
+ 
+
+3 
+
+© Sustainalytics 2017 
+
+2. SUSTAINALYTICS’ OPINION 
+ 
+Section 1: Assessment of Bancóldex’s Environmental Strategy 
+ 
+Contribution of the green bond to Bancóldex’s environmental strategy  
+As  highlighted  in  the  framework  document,  Bancóldex  has  an  explicit  commitment  to  contribute  to 
+sustainable  development 
+in  Colombia  through  financial  products  and  services.  Bancóldex  has 
+implemented an Environmental and Social Corporate Policy with the following three pillars5:  
+
+a)  Eco-efficiency,  which  defines  the  internal  actions  implemented  to  reduce  the  environmental 
+
+impact of Bancóldex´s operations;  
+
+b)  Management of environmental and social risks, through which Bancóldex identifies and classifies 
+
+the social and environmental risk of its portfolio;  
+
+c)  Green  financial  and  non-financial  product  design,  privileging  investments  for  mitigation  and 
+
+adaptation to climate change, while generating social benefits;  
+
+ 
+Specifically, the green product design pillar seeks to support the Colombian business sector to become 
+more  competitive  while  making  a  responsible  use  of  natural  resources  and  striving  for  a  positive 
+environmental impact.6 In line with this commitment, Bancóldex has been implementing green financial 
+instruments  that  seek  to  catalyse  investments  that  reduce  greenhouse  gas  emissions,  such  as  the 
+incorporation of clean technologies in Bogota’s Mass Transportation System, financing a fleet of electric 
+taxis, and supporting renewable energy investments and energy efficiency at the national level. 
+ 
+Following an assessment of several projects that may be financed with the proceeds from the green bond, 
+Sustainalytics is confident that the issuance of Bancóldex’s green bond aligns with these commitments 
+and will support the bank’s Environmental and Social Corporate Policy.  
+ 
+Well positioned to manage social and environmental risks associated with the financed projects 
+By offering financing services, banks are exposed to risks associated with controversial companies and/or 
+projects  they  may  finance.  To  reduce  exposure  and  prevent  negative  impacts,  banks  are  expected  to 
+implement social and environmental risk assessments for projects that they choose to finance.  
+ 
+In  line  with  this  expectation,  Bancóldex  implemented  an  Environmental  and  Social  Risk  Management 
+System  (ESMS)  for  second-tier  banking  activities  in  2013,  with  the  support  of  the  Inter-American 
+Development Bank (IADB).  This system allows Bancóldex to identify the environmental and social risks of 
+credit  operations,  to  have  a  more  comprehensive  profile  of  its  clients  in  the  portfolio,  and  to  make 
+investment decisions in a more informed way. This assessment includes five stages:  
+a)  verification of the coherence of the information provided by the enterprise,  
+
+ 
+5 https://www.bancoldex.com/Modelo-de-gestion-ambiental-Bancoldex/Politica-AmbSocial.aspx 
+6  For  instance,  according  to  its  2016  Annual  Report,  Bancoldex  has  ‘Sustainable  Development  Products”,  which  are  an  alternative  financing 
+product that supports investment  in environmental monitoring systems, and is focused on mitigating the negative  effects of the business 
+activity on the environment. This credit line seeks to encourage companies to have a stronger sustainability approach, so that they are more 
+competitive  in  markets  that  have  higher  environmental  standards  and  are  able  to  offer  goods  and  services  with  added  value  in  terms  of 
+environmental protection and care. 
+
+ 
+
+ 
+
+4 
+
+© Sustainalytics 2017 
+
+b)  initial categorization of the level of risk associated with the credit operation,  
+c) 
+
+identification  of  environmental  and  social  risks,  that  are  not  being  avoided,  mitigated  or 
+compensated, 
+
+d)  definitive categorization, 
+e)  monitoring  measures  aimed  at  controlling  and  mitigating  risks  that  are  not  being  avoided, 
+
+mitigated or compensated. 
+
+ 
+According to this information, Bancóldex assigns one of the following socio-environmental risk categories 
+to the credit operation: High Risk (Category A), Medium Risk (Category B), or Low Risk (Category C).  
+ 
+In 2016, Bancóldex requested the International Finance Corporation (IFC) to evaluate its Environmental 
+and  Social  Risk  Management  System.  IFC  considered  Bancóldex´s  ESMS  as  “developed”  and  provided 
+additional  recommendations.  As  part  of  its  continuous  improvement  process,  Bancóldex  is  currently 
+implementing some adjustments to address the improvements areas identified during the evaluation.  
+ 
+Sustainalytics recognizes that several development projects such as those to be financed and refinanced 
+by the bond can generate environmental and social risks. Material risks might include wastewater and 
+liquid waste generation, solid waste production, air pollution, noise nuisance, and health and safety risks. 
+Of the portfolio of projects that may be refinanced, Bancóldex discloses that the vast majority (81%) has 
+a  risk  category  of  ‘B’  according  to  IADB’s  risk  classification,7  meaning  that  projects  or  operations may 
+“cause mostly local and short-term negative environmental and associated social impacts, and for which 
+effective mitigation measures are readily available.”8 
+ 
+Overall, given the level of assessment required in Bancóldex’s Environmental and Social Risk Management 
+System, the exclusionary criteria (which identify activities that cannot be financed by Bancóldex due to 
+associated risks), and the due diligence performed at project level, Sustainalytics is of the opinion that 
+Bancóldex is well positioned to identify, manage and address environmental and social risks associated 
+with the projects financed. 
+ 
+Collaborating with other stakeholders locally and internationally 
+Bancóldex  collaborates  with  different 
+its 
+locally  and 
+environmental management and to promote sustainable development and mitigate climate change. In 
+Sustainalytics’ view, this level of engagement also demonstrates the bank’s commitment to best practices. 
+For example, Bancóldex is a member of the:  
+
+internationally,  to  strengthen 
+
+initiatives, 
+
+• 
+
+• 
+
+• 
+
+“Protocolo Verde”, an agreement between the financial sector and the Colombian government 
+that seeks to join efforts to promote sustainable development in Colombia; 
+International Development Finance Club (IDFC) 
+SISCLIMA  initiative,  a  space  for  public-private  dialogue  to  achieve  coherence  and  joint 
+opportunities for the financing of Colombia’s climate change mitigation efforts. 
+
+ 
+7 IADB’s risk classification model has been used in Bancoldex’s framework as it is a model recognized by several investors worldwide. Bancoldex’s 
+socio-environmental risk categorization is considered to be stricter than IADB’s system, classifying as High Risk (Catgeory A) several projects 
+that  are  perceived  as  Medium  Risk  (Category  B)  by  IADB.  Bancoldex  has  engaged  with  Sitawi  to  map  and  categorize  the  eligible  projects 
+according to IADB’s risk categories.  
+
+8 http://www.iadb.org/en/topics/sustainability/project-categories,8736.html 
+
+ 
+
+ 
+
+5 
+
+© Sustainalytics 2017 
+
+ 
+Based on the analysis of Bancóldex’s Environmental and Social Corporate Policy, its Environmental and 
+Social  Risk  Management  System,  and  the  bank’s  public  commitments  to  promote  sustainable 
+development, Sustainalytics believes that Bancóldex is well positioned to issue a green bond. 
+ 
+ 
+Section 2: Impact of the use of proceeds 
+ 
+Impact from Use of Proceeds 
+Proceeds of the bond will be directed towards five categories:  
+
+1.  Pollution  control  and  resource  efficiency  (including  waste  management  and  wastewater 
+
+treatment) 
+
+2.  Sustainable transport 
+3.  Energy efficiency 
+4.  Renewable energy 
+5.  Sustainable buildings 
+
+ 
+Overall,  Sustainalytics  is  of  the  opinion  that  the  proceeds  from  the  green  bond  will  have  clear 
+environmental  benefits,  contributing  to  achieving  Colombia’s  environmental  targets  to  reduce  GHG 
+emissions  and  improving  natural  resource  efficiency.  As  highlighted  in  the  framework  document,  the 
+projects  financed  with  the  proceeds  of  the  green  bond  will  contribute  to  Colombia’s  commitments 
+established  in  the  Paris  Agreement,  according  to which  the  Colombian  government  intends to  reduce 
+greenhouse-gas emissions by 20% by 2030, as stated in its Intended Nationally Determined Contribution 
+(INDC), as well as  to  reach  the  objectives  established  in  the  National Development Plan 2014  –  2018, 
+specifically with regards to “Green Growth Strategies”.9 Specific objectives established by the Colombian 
+government include:  
+
+(i) 
+(ii) 
+
+(iii) 
+
+move towards sustainable and low-carbon growth; 
+protect  and  ensure  the  sustainable  use  of  natural  resources  and  improve  environmental 
+quality and governance; and  
+achieve resilient growth and reduce vulnerability to climate change risks.  
+
+ 
+Below, Sustainalytics provides an opinion on the impact of the Bancóldex’s green bond eligibility criteria, 
+considering the local context and focusing on the analysis of some of the projects financed over the past 
+years by Bancóldex.10  
+ 
+Importance of water efficiency and wastewater treatment in Colombia’s context 
+Among the projects analysed by Sustainalytics and that have been included in Bancóldex’s green bond 
+portfolio, there were several examples related to wastewater treatment and reducing water pollution, 
+
+ 
+9 https://www.minagricultura.gov.co/planeacion-control-
+
+gestion/Gestin/Plan%20de%20Acci%C3%B3n/PLAN%20NACIONAL%20DE%20DESARROLLO%202014%20-
+%202018%20TODOS%20POR%20UN%20NUEVO%20PAIS.pdf  
+
+10 Bancoldex has shared with Sustainalytics the environmental and social assessment of several projects that it has implemented in previous 
+years and that are part of the current eligible project portfolio. Analysed projects finance initiatives of Colombian companies that meet the 
+green bond eligibility criteria. 
+
+ 
+
+ 
+
+6 
+
+© Sustainalytics 2017 
+
+such as the construction and operation of a wastewater treatment plant in Cartagena, water treatment 
+equipment for a plant in Medellin, and water treatment equipment and biodigestors to process organic 
+waste generated by livestock farming companies.  
+ 
+Technically,  water  is  abundant  in  Colombia.  However,  due  to  extreme  variability  in  annual  rainfall, 
+pollution  from  industrial  and  agricultural  activities,  and  inadequate  infrastructure  resulting  in  unequal 
+distribution, the country is also susceptible to water stress and draughts. According to a report by Stratfor, 
+a  geopolitical  intelligence  platform,  regulations  aimed  at  mitigating  pollution  exist  but  are  often  not 
+coordinated  or  enforced.  Therefore,  pollution  remains  an  issue  for  Colombia’s  water  supply.11  In  this 
+context,  Sustainalytics  considers  that  projects  that  improve  water  efficiency,  treat  wastewater,  and 
+reduce  water  pollution  will  provide  a  positive  contribution  to  support  companies  complying  with 
+environmental legislation, protect the country’s clean water resources, and allow for clean water supply.   
+ 
+Importance of providing clean transportation for 6 million passengers in Bogota 
+The IFC states that, in Bogotá, public and private transport systems consume 67% of energy and that there 
+are more than 1.5 million vehicles in the city, along with bus rapid transit (BRT) systems and an extensive 
+network of bike lanes.12 The TransMilenio, a BRT system13 that was developed by Bogota’s bus operator 
+in 2012, resulted in improved public transportation for 6 million passengers.  
+ 
+Even  though  an  important  part  of  the  BRT’s  fleet  is  still  fuelled  by  diesel  and  natural  gas  technology, 
+Bancóldex’s green bond will support the efforts to transition towards low-carbon transportation by only 
+financing the acquisition of hybrid and electric vehicles for public or private transportation of passengers 
+or cargo. Sustainalytics recognizes that hybrid vehicles, despite still being partly dependent on fossil fuels, 
+qualify as a transition solution towards a low-carbon economy and can therefore be financed with the 
+proceeds from a green bond. In addition, according to 2016 sample projects disclosed by Bancóldex to 
+Sustainalytics, Bancóldex has also financed the first electric taxi fleets in Bogota. Overall Sustainalytics 
+considers that these expenditures support a transition to clean transport technologies that, in addition to 
+contributing to GHG emissions targets, will also reduce air pollution and improve the air quality in Bogota.  
+ 
+Positive impact of renewable energy and energy efficiency projects in Colombia 
+Colombia’s  government  intends  to  reduce  greenhouse-gas  emissions  by  20%  by  2030,  and  energy 
+efficiency projects are expected to represent an important contribution to this target. According to the 
+analysed green bond portfolio, Bancóldex has supported projects such as: 
+
+Financing solar energy panels and batteries for energy storage; 
+Energy monitoring systems; 
+
+• 
+•  Acquisition of more energy efficient technologies, leading to a reduction of energy consumption;  
+• 
+
+Improving lighting systems, generating an increase of 50-80% in energy efficiency; 
+Improving industrial processes in order to increase energy efficiency;  
+Cogeneration, producing energy from industrial heat. 
+
+• 
+
+• 
+
+• 
+
+ 
+11 Stratfor, (2016)  https://www.stratfor.com/analysis/colombia-abundant-water-brings-no-security. 
+12 International Finance Corporation, https://www.ifc.org/wps/wcm/connect/51183b2d-c82e-443e-bb9b-68d9572dd48d/3503-IFC-
+
+Climate_Investment_Opportunity-Report-Dec-FINAL.pdf?MOD=AJPERES . 
+
+13 The BRT system consists of fleet management and real-time monitoring via information technology with more efficient bus routing and 
+
+lower GHG emissions. 
+
+ 
+
+ 
+
+7 
+
+© Sustainalytics 2017 
+
+ 
+Sustainalytics raised two questions related to the impact of energy efficiency projects. These have been 
+clarified by Bancóldex: 
+
+o  Energy  efficiency  equipment  labelling:  Sustainalytics  recognizes  that,  with  respect  to 
+investments  in  energy  efficiency,  best  practice  in  the  green  bond  market  is  to  invest  in 
+technologies  that  ensure  a  minimum  of  20-30%  performance  improvement  in  energy 
+efficiency. Bancóldex has clarified that energy efficiency labelling is not yet widely used for 
+products  in  Colombia,14  but  that,  nonetheless,  according  to  information  available  on  each 
+project financed, average gains surpass the recommended threshold.  
+
+o  Replacing old power systems using high efficiency motors powered by natural gas in industrial 
+processes: Sustainalytics considers that projects that use natural gas are ‘less-brown’, and do 
+not  qualify  as  ‘green’  (given  that  they  prolong  dependency  on  fossil  fuel  technology). 
+Bancóldex ensured to Sustainalytics that these projects: (i) represent best efforts in the local 
+industrial  context,  (ii)  provide  an  important  contribution  to  energy  efficiency  efforts  in 
+industrial processes in Colombia, and (iii) will only be included when there is a clear net GHG 
+emissions  reduction.  Given  this  clarification,  Sustainalytics  has  a  positive  view  on  the 
+contribution of these efforts to improve energy efficiency. Furthermore, overall, these projects 
+represent only 3% of the current project portfolio eligible for refinancing. 
+
+ 
+Contribution  of  sustainable  buildings  to  greenhouse  gas  emissions  targets  and  sustainable  resource 
+consumption  
+Buildings in Latin America consume 21% of treated water and 42% of electricity, and are responsible for 
+25% of carbon emissions.15 In 2015, Colombia launched an important green building initiative, which was 
+translated into a new green building code announced by Colombia’s Housing Minister in June of that year. 
+The plan, which aims to promote water and energy efficiency in new buildings, has received support from 
+both the IFC and Switzerland’s State Secretariat for Economic Affairs (SECO),16 and it is being replicated 
+by other countries in the region. This initiative is of great importance for Colombia given that the country 
+is highly urbanized, with 48.2 million inhabitants, 75% of whom live in cities. The IFC estimates almost 
+USD 8 billion will be invested in new low-carbon buildings in Colombia by 2020. 
+ 
+The  new  building  code,  officially  implemented  in  2016,  calls  for  a  balanced  used  of  resources  in  new 
+buildings, leading to: 
+
+• 
+
+In a first phase of the program: 15% water and energy-use savings for commercial buildings, and 
+savings of 10% for residential buildings; 
+
+ 
+14 Since September 2016 the energy efficiency label developed by the Ministry of Mines and Energy (MINMINAS) will gradually become 
+required for various products starting with refrigerators, washing machines and air conditioning equipment. Next year the label will be 
+required for cooking houseware, water heaters and commercial refrigeration sets as well (Ministry of Mines and Energy 
+(2016).https://www.minminas.gov.co/web/ingles/noticias?idNoticia=23815191) 
+
+15 
+
+http://www.ifc.org/wps/wcm/connect/news_ext_content/ifc_external_corporate_site/news+and+events/news/greeninglam_one+building+
+at+a+time 
+
+16 International Finance Corporation, https://www.ifc.org/wps/wcm/connect/51183b2d-c82e-443e-bb9b-68d9572dd48d/3503-IFC-
+
+Climate_Investment_Opportunity-Report-Dec-FINAL.pdf?MOD=AJPERES  
+
+ 
+
+ 
+
+ 
+
+8 
+
+© Sustainalytics 2017 
+
+• 
+
+By 2021: buildings are expected to consume up to 45% less water and energy, and this will reduce 
+construction sector emissions by 28%, contributing to Colombia’s GHG emissions target. 
+
+With respect to the sustainable buildings eligibility criterion, Sustainalytics recognizes that there is a very 
+low degree of penetration of green building certifications initiatives in Colombia. Notably, there are only 
+105  LEED-certified  buildings  in  the  country.17  Given  this  context,  Sustainalytics  is  of  the  opinion  that 
+supporting sustainable building projects that are aligned with the Colombian government’s green building 
+code will result in a significant overall impact in Colombia’s context.  
+ 
+Alignment with the Sustainable Development Goals (SDGs) 
+Sustainalytics  is  confident  that  given  the  eligibility  criteria  defined  in  the  Bancóldex  Green  Bond 
+Framework, the selected projects will provide a positive contribution, in particular to the following SGDs: 
+SDG 6 Clean water and sanitation, in particular to targets related to improving water quality by 
+reducing pollution and increasing water efficiency;  
+SDG 7: Ensure access to affordable, reliable, sustainable and modern energy for all, specifically 
+contributing to targets related to increasing renewable energy and energy efficiency; 
+SDG 11 Sustainable Cities, specifically targets to (i) reduce the adverse per capita environmental 
+impact of cities, including by paying special attention to air quality and municipal and other waste 
+management, and (ii) providing access to safe, affordable, accessible and sustainable transport 
+systems for all, notably by expanding public transport. 
+
+• 
+
+• 
+
+• 
+
+ 
+ 
+Section 3: Sustainalytics Opinion on the Green Bond Framework 
+ 
+Use of Proceeds 
+Overall, Sustainalytics views Bancóldex’s eligibility criteria for the use of proceeds under its green bond 
+framework as credible and robust. All of the use of proceeds categories are recognized as eligible by the 
+Green Bond Principles (GBP) 2017. For considerations on the impact of the use of proceeds please see 
+Section 2 of this document.  
+ 
+Process for Project Evaluation and Selection  
+Bancóldex communicates transparently about how the eligibility criteria for the use of proceeds aligns 
+with  the  bank’s  strategy  and  with  Colombia’s  sustainable  development  priorities.  Bancóldex’s  eligible 
+projects are evaluated and selected by a dedicated Green Bond Committee that includes team members 
+from different departments such as risk management and treasury. Sustainalytics considers this to be in 
+line with recommended market practice. This Committee will ensure that selected projects are aligned 
+with the eligibility criteria defined in the green bond framework, and will assess the impacts associated 
+with projects classified as ‘Risk Category A’. Sustainalytics’ views on Bancóldex’s Environmental and Social 
+Risk Management System have been provided in Section 1 of this document. Overall, Sustainalytics is of 
+the opinion that Bancóldex is well positioned to identify, manage and address environmental and social 
+risks associated with the projects financed. 
+ 
+ 
+
+ 
+17 http://www.gbig.org/places/336  
+
+ 
+
+ 
+
+9 
+
+© Sustainalytics 2017 
+
+Reporting 
+Throughout  the  term  of  the  bond,  Bancóldex  will  disclose  annually  the  allocated  proceeds,  providing 
+information  about  the  number  of  beneficiaries,  the  average  loan  value,  and  the  allocation  per  use  of 
+proceeds category. The information will be externally verified by an auditor, and published in the report 
+“Use of Resources of the Green Bond”. This is in line with best market practice.  
+With  regard  to  impact  reporting,  Bancóldex  will  publish  up  to  four  case  studies  to  display  the 
+environmental  impact  of  selected  projects.  Bancóldex  specifies  that  selected  projects  will  be 
+representative with respect to financing and environmental impact, and impact will be aligned with the 
+metrics defined in the green bond framework. Sustainalytics recognizes Bancóldex’s ongoing efforts, and 
+recommends that the issuer strive for greater transparency with respect to impact reporting. 
+ 
+Alignment with Green Bond Principles 2017:  
+Sustainalytics has determined that the Bancóldex Green Bond Framework aligns to the four pillars of the 
+Green Bond Principles 2017, as detailed in Appendix 2: Green Bond External Review Form. 
+ 
+Conclusion 
+Bancóldex, a Colombian development bank, intends to issue a green bond to finance or refinance existing 
+and future projects in Bancóldex’s portfolio, that promote sustainable development in Colombia and the 
+transition  to  a  low-carbon,  climate-resilient  economy.  The  net  proceeds  of  the  green  bond  will  be 
+allocated  towards  the  following  eligible  categories:  (i)  Pollution  control  and  resource  efficiency;  (ii) 
+Sustainable transport; (iii) Energy efficiency; (iv) Renewable energy; and (v) Sustainable buildings. 
+ 
+Bancóldex has an explicit commitment to contribute to sustainable development in Colombia through its 
+financial products and services. Sustainalytics is of the opinion that the proceeds from the green bond will 
+have clear environmental benefits and contribute to: achieving commitments established in Bancóldex’s 
+Environmental and Social Corporate Policy; achieving Colombia’s commitments established in the Paris 
+Agreement to reduce greenhouse-gas emissions by 20% by 2030; and advancing SDGs 6, 7 and 11. With 
+respect to investments in the energy efficiency category, some activities related to replacing old power 
+systems  in  industrial  processes  using  high  efficiency  motors  powered  by  natural  gas,  do  not,  in 
+Sustainalytics’ view, qualify as ‘green’. Nonetheless, Sustainalytics has a positive view on the contribution 
+of these efforts to improve energy efficiency in the local context. 
+  
+Furthermore,  after  analysing  the  Bank’s  Environmental  and  Social  Risk  Management  System, 
+Sustainalytics  is  confident  that  Bancóldex  is  well  positioned  to  identify,  manage  and  address 
+environmental and social risks associated with the projects financed. 
+ 
+Bancóldex’s eligible projects are evaluated and selected by a dedicated Green Bond Committee, and the 
+Bank  communicates  transparently  about  the  portfolio  that  is  eligible  for  refinancing.  While  allocation 
+reporting will be disclosed annually and is externally verified, Sustainalytics recommends that the issuer 
+strive for greater transparency with respect to impact reporting. 
+ 
+Based on the above, Sustainalytics is confident that Bancóldex is well positioned to issue a Green Bond 
+and that the Bancóldex Green Bond Framework is transparent and in alignment with the four pillars of 
+ICMA’s Green Bond Principles 2017.  
+
+ 
+
+ 
+
+10 
+
+© Sustainalytics 2017 
+
+  
+APPENDICES 
+ 
+Appendix 1: Project portfolio 
+ 
+Considering the eligibility and exclusionary criteria, Bancóldex has identified a portfolio which includes 
+117  projects  that  could  receive  allocations  from  its  green  bond  issuance.  This  portfolio  amounts  to 
+approximately USD 50,0 million (COP 145.439 million) million as of May 26, 2017, representing 79% of the 
+use of proceeds of the green bond at the time of issuance. 
+ 
+Below a distribution of the project portfolio per eligibility criteria is presented. 
+ 
+
+ 
+
+ 
+
+11 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+© Sustainalytics 2017 
+
+SUSTAINALYTICS 
+ 
+Sustainalytics is the largest independent provider of sustainability 
+research, analysis, and services to investors. We serve over 250 
+institutional investors which include some of the world's largest asset 
+owners and asset managers. Through over 20 years of experience 
+serving the responsible investment (RI) market, we have gained a 
+reputation for providing high-quality ESG research solutions and 
+excellent client service. 
+
+Sustainalytics is headed by seasoned professionals in the field of 
+business, finance, and sustainability, with a wealth of experience in the 
+Responsible Investment area. After more than 20 years of local 
+experience and expertise in the Responsible Investment (RI) market 
+Sustainalytics has developed a comprehensive understanding of trends 
+and best practices and a solid process to assist organisations in 
+integrating ESG considerations into their policies and strategies. We 
+have worked with some of the world’s financial institutions including 
+pension plans, investment managers and banks providing customised 
+support to help them achieve their RI objectives. Clients include ABN 
+AMRO, APG, BBVA, BNP Paribas, Deutsche Bank, ING Bank, Lombard 
+Odier, Lloyds Bank, Triodos Bank, UBS and over 250 other financial 
+institutions and organisations. 
+
+Sustainalytics now has a staff of 250 employees globally, including over 
+120 analysts, with operations in Amsterdam, Boston, Bucharest, 
+Frankfurt, New York, Paris, London, Singapore, Sydney, Timisoara, and 
+Toronto, and representation in Brussels and Washington DC. 
+
+In 2015, Sustainalytics was named the Best 
+SRI or Green Bond Research Firm by 
+GlobalCapital. In December 2014, for the 
+third year in a row, Sustainalytics was 
+named best sustainable and responsible 
+investment research firm in the 
+Independent Research in Responsible 
+Investment (IRRI) Survey, conducted by 
+Thomson Reuters and SRI-CONNECT.  
+
+ 
+
+ 
+
+18 
+
+

@@ -1,0 +1,606 @@
+ 
+ 
+  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+LINK REIT GREEN BOND 
+
+FRAMEWORK OVERVIEW AND SECOND OPINION BY 
+
+ 
+
+SUSTAINALYTICS 
+
+ 
+
+July 14, 2016 
+
+www.sustainalytics.com 
+
+Vikram Puppala (Toronto) 
+
+Trisha Taneja (Toronto) 
+
+Dominic Chan (Singapore) 
+
+Associate Director, Advisory Services 
+
+Advisor, Advisory Services 
+
+vikram.puppala@sustainalytics.com 
+
+trisha.taneja@sustainalytics.com 
+
+(+1) 647 317 3694 
+
+ 
+
+(+1) 647 317 3695 
+
+ 
+
+Responsible Investment Adviser, Institutional Relations 
+dominic.chan@sustainalytics.com   
+(+65) 3158 3796 
+
+© Sustainalytics 2016 
+
+TABLE OF CONTENTS 
+
+FRAMEWORK OVERVIEW AND SECOND OPINION BY SUSTAINALYTICS 
+
+1.  PREFACE 
+
+2. 
+
+INTRODUCTION 
+Link REIT’s Sustainability Framework 
+Green Initiatives 
+
+3.  FRAMEWORK OVERVIEW 
+
+3.1 Use of Proceeds 
+
+Eligibility Criteria 
+
+3.2 Project Evaluation and Selection Process 
+3.3 Management of Proceeds 
+3.4 Reporting 
+
+4.  SUSTAINALYTICS’ OPINION 
+
+Conclusion 
+
+APPENDICES 
+
+Appendix 1: Adherence to the Green Bond Principles 2016 
+Appendix 2: External Certifications and Ratings 
+
+About Sustainalytics 
+ 
+
+ 
+ 
+  
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+0 
+
+2 
+
+2 
+2 
+3 
+
+4 
+4 
+4 
+4 
+4 
+5 
+
+6 
+7 
+
+8 
+8 
+13 
+
+15 
+
+1 
+
+© Sustainalytics 2016 
+
+1. PREFACE 
+Link  Real  Estate  Investment  Trust  (“Link  REIT”)  plans  to  issue  a  Green  Bond  (“Green  Bond”)  and  has 
+engaged Sustainalytics to review and provide an opinion on the bond’s green credentials.  As part of this 
+engagement, Sustainalytics reviewed relevant public and internal documents and held conversations with 
+Link REIT to understand the use of proceeds, management of proceeds and reporting aspects of its Green 
+Bonds, as well as Link REIT’s sustainability plan for its own operations. This report contains two sections: 
+Framework Overview – summary of Link REIT’s Green Bond framework; and Sustainalytics’ Opinion – an 
+opinion on the framework. 
+ 
+2.   INTRODUCTION 
+Link REIT is the first real estate investment trust listed in Hong Kong, and currently Asia’s largest REIT and 
+one of the world’s largest retail focused REITs in terms of market capitalisation. Wholly owned by private 
+and institutional investors, with 100% free float, Link REIT has been listed on The Stock Exchange of Hong 
+Kong Limited since 25 November 2005 (HKEx stock code: 823). In 2014, Link REIT became a constituent 
+stock of the Hang Seng Index. 
+ 
+Link REIT’s overarching goal is to offer tenants, shoppers, and communities vibrant centres for modern 
+living. These in turn provide unitholders with a prudently growing business and steadily increasing total 
+return. As at 31 March 2016, the portfolio owned by Link REIT, spanning Hong Kong, Beijing and Shanghai, 
+consists of properties with approximately 10 million square feet of retail space, around 72,000 car park 
+spaces, and a project under development in Hong Kong, as well as properties with about 1.8 million square 
+feet of retail and office space in Mainland China. 
+ 
+The investment strategy of Link REIT is to invest in sustainable retail and commercial properties (excluding 
+hotels and serviced apartments) in Hong Kong and other overseas jurisdictions. Link REIT’s business model 
+provides a full range of growth drivers encompassing: 
+ 
+
+a)  Asset enhancement to properties with further income growth potential; 
+b)  Asset management of the entire portfolio; 
+c)  Acquisition of quality assets with both income and capital growth potential; 
+d)  Capital recycling through disposal of non-core assets; 
+e)  Property development to design, build and hold new properties; and 
+f)  Re-development of existing properties for long-term sustainable growth. 
+
+ 
+Link REIT’s Sustainability Framework  
+Link  REIT's  Sustainability  Framework  comprises  seven  elements  -  Staff,  Corporate  Governance, 
+Environment, Asset/Brand, Tenants, Community and Economy.  The sustainability framework provides 
+the  structure  to  deliver  Link  REIT’s  strategic  priorities  and  help  guide  its  environmental,  social  and 
+governance  contributions.  In  the  Environment  aspect  of  the  sustainability  framework,  Link  REIT’s 
+objective  is  to  minimise  its  environmental  footprint.  In  line  with  that  objective,  it  has  identified  and 
+implemented the following set of Green Initiatives. 
+ 
+
+ 
+ 
+
+2 
+
+© Sustainalytics 2016 
+
+Green Initiatives 
+1.  Energy Efficiency 
+Link REIT manages its energy efficiency through its Link Energy Management Programme (LEMP).  Link 
+REIT has set a “30/20” vision which aims to reduce total energy consumption by 30% by 2020 using 2010 
+as a baseline.  To achieve this, Link REIT has identified projects such as energy efficient lighting, chiller 
+replacement and variable speed drives to improve energy efficiency to which the proceeds of the Notes 
+may be applied. 
+ 
+2.  Greenhouse Gas (“GHG”) Emissions 
+With buildings accounting for over 60% of Hong Kong’s GHG emissions, Link REIT is committed to taking a 
+comprehensive  account  of  and  reducing  its  GHG  emissions  including  Scopes 1, 2  and  3.   This  includes 
+raising awareness and aligning GHG reduction strategies with stakeholders throughout Link REIT’s value 
+chain as well as retrofitting existing buildings to third party verified green building standards.   
+ 
+3.  Water Management 
+Link  REIT  has  begun  to  explore  reducing  its  water  consumption  by  adopting  and  implementing  storm 
+water management, grey water reuse and water efficient technologies in its shopping centres. 
+ 
+4.  Waste Management 
+With the impending introduction of waste tariffs in Hong Kong, treatment and disposal of waste  could 
+result in significant additional operating costs. In light of this, Link REIT initiated a study to measure and 
+quantify the daily total amount of waste produced from its properties. In 2014/15 Link REIT completed a 
+comprehensive  waste  audit,  which  established  a  baseline  to  monitor  performance  of  future  waste 
+reduction strategies.  The pilot phase selected seven properties, to assess total waste production and to 
+examine practical and responsible options of minimising waste streams. Link REIT aims to reduce waste 
+to landfill by 40% by the year 2022.  
+ 
+5.  Low Carbon Transportation 
+Link  REIT  promotes  low  carbon  transportation  by  integrating  properties  with  public  transportation 
+infrastructure  and  encouraging  the  use  of  zero-carbon  modes  of  transportation  such  as  bicycles  and 
+electric vehicles by installing bicycle racks and electric vehicle charging stations. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+3 
+
+© Sustainalytics 2016 
+
+3.  FRAMEWORK OVERVIEW 
+3.1 Use of Proceeds 
+The net proceeds of the issuance of Notes will be used to refinance or fund, in whole or in part, existing 
+and future projects that are eligible as per the criteria specified below.  
+ 
+Eligibility Criteria  
+ In order for net proceeds of the Note to be allocated to a project, the project must meet one or more of 
+the following eligibility criteria:  
+
+ 
+
+1.  Any project for an existing or new building that has received, or expects to receive, certification 
+according to third party verified green building standards including a) Hong Kong BEAM - Silver, 
+Gold or Platinum; or b) LEED Silver, Gold or Platinum1. Building project types can include: 
+
+a.  Building developments and redevelopments 
+b.  Renovations to existing buildings 
+c.  Tenant improvements 
+
+ 
+
+2.  Projects which result in achieving, based on third-party assessment, at least a 15% improvement 
+
+in energy efficiency or, a NABERS Shopping Centres rating equal to or greater than 32 or similar 
+rating scheme to an equivalent rating level; 
+ 
+
+3.  Projects such as those that reduce waste to landfill, improve water efficiency, promote adoption 
+of low carbon transportation including electric vehicles, and improve climate change resilience. 
+
+ 
+3.2 Project Evaluation and Selection Process 
+The eligible green projects are selected by Link REIT’s sustainability team together with the treasury team 
+in  accordance  with  Link  REIT’s  Sustainability  Framework,  Green  Initiatives  and  the  eligibility  criteria 
+outlined above.  
+ 
+3.3 Management of Proceeds 
+As  long  as  the  Notes  are  outstanding,  Link  REIT’s  internal  records  will  show  the  allocation  of  the  net 
+proceeds of the  Notes to existing and future  eligible  green  projects. Pending the  allocation of the  net 
+proceeds of the Notes to existing and new eligible green projects, the net proceeds will be used to repay 
+
+ 
+
+1 Please see Appendix 2 for details on all external certifications and ratings (HK-BEAM, LEED, and NABERS)  
+
+2 NABERS is an Australian national rating system for measuring energy efficiency, water usage, waste management, and indoor environmental 
+quality of a building or tenancy and its impact on the environment. NABERS, Link REIT, and CBRE (an external consultant hired by Link REIT) 
+engaged in the first pilot to assess the suitability of using the NABERS rating for shopping centers outside Australia. CBRE applied the NABERS 
+methodology to Link REIT’s assets in Hong Kong, with the objective of testing and establishing a framework for NABERS at shopping centers in 
+markets outside Australia. Initial results have indicated that the Australian methodology is not directly applicable to Hong Kong’s environment, 
+and will need to be adjusted accordingly. Link REIT has been discussing this adjustment directly with NABERS, and with its consultant CBRE. 
+Given that this methodology may not be directly applicable to the Hong Kong context, Link REIT has concluded that a target NABERS rating 3 
+is the most feasible to include in the use of proceeds eligibility criterion. 
+
+4 
+
+ 
+ 
+
+© Sustainalytics 2016 
+
+amounts of outstanding debt. Link REIT will not hold any unallocated proceeds as cash; this is consistent 
+with the cash management practices for REITs.  
+ 
+3.4 Reporting  
+Allocation Reporting 
+Throughout  the  life  of  the  Notes,  Link  REIT  will  make  and  keep  readily  available  through  Link  REIT’s   
+integrated annual report, and on a dedicated page of Link REIT’s corporate sustainability website, up to 
+date information on the allocation of the net proceeds, to be renewed annually until full allocation and as 
+necessary  thereafter  in  the  event  of  new  developments.  This  information  will  contain  at  a  minimum: 
+ 
+
+1.  The list of eligible green project categories and amounts allocated to these categories;  
+2.  The balance amount of unallocated note proceeds; and 
+3.  A selection of project examples financed by the net proceeds of the Note.  
+
+ 
+
+ 
+By  including  this  information  in  Link  REIT’s  integrated  annual  report,  the  allocation  of  net  proceeds 
+receives an external review from an independent third party. 
+ 
+ 
+Impact Reporting  
+include  qualitative  and  (if  reasonably  practicable)  quantitative 
+Where  feasible,  Link  REIT  will 
+environmental  performance  indicators  on  the  eligible  green  projects.    Link  REIT  will  disclose  impact 
+reporting on its corporate sustainability website. Performance indicators may change from year to year 
+and may include some of the following indicators: 
+ 
+
+1.  List of eligible buildings that received third party verified green building certification; 
+2.  Energy consumption reduced per square foot; 
+3.  Greenhouse gas emissions reduced by an eligible green project; 
+4.  Water consumption reduced; and  
+5.  Amount of waste sent to landfill reduced 
+
+ 
+
+ 
+ 
+
+5 
+
+© Sustainalytics 2016 
+
+4. SUSTAINALYTICS’ OPINION 
+Importance of green real estate in climate change mitigating in Hong Kong:  
+Hong Kong is a service-based city and does not have energy-intensive industries. As per the Hong Kong 
+Government’s  Environmental  Protection  Department  (EPD),  the  burning  of  fossil  fuels  to  generate 
+electricity  is  Hong  Kong’s  major  contributor  of  greenhouse  gases,  accounting  for  some  68%  of  total 
+emissions in the city3. Since 1997, the Hong Kong government banned the construction of new coal-fired 
+generating units in favour of natural gas, which emits less greenhouse gas per unit of electricity produced. 
+Nonetheless, the major source of power generation in Hong Kong remains fossil fuels. Although the two 
+main power companies in Hong Kong are exploring the feasibility of developing large-scale offshore wind 
+farms,  it  is  estimated  to  meet  merely  1  to  2%  of  total  electricity  demand  by  2020.  Therefore,  energy 
+conservation becomes top priority. With buildings accounting for 89% of the total electricity consumption 
+at end-use level in Hong Kong (and 60% of GHGs), promoting energy efficiency in buildings is an effective 
+way to achieve energy conservation and help address climate change.  Given this scenario, it is clear that 
+real estate companies have  a  large  role to play in Hong Kong in mitigating climate  change. Link  REIT’s 
+efforts to improve energy efficiencies of its properties is a step in the right direction. 
+ 
+Importance of waste reduction and water management in Hong Kong: 
+According to the Hong Kong Government’s EPD4, with the continued growth in waste levels, Hong Kong is 
+expected to exhaust its existing landfills by 2020 if waste levels continue to increase at current levels. In 
+2013, the Hong Kong Government is released the Blueprint for Sustainable Use of Resources 2013-2022, 
+which aims to reduce the Municipal Solid Waste (MSW) disposal rate by 40% on a per capita basis by 20225 
+by expanding recycling, levying duties on waste and improving waste-related infrastructure. Waste is a 
+major issue in Hong Kong and so is water management. 
+ 
+The annual per capita consumption of water in Hong Kong is 172.1 m3, making it one of the highest water 
+consumers  per  capita  when  compared  to  other  advanced  cities  such  as  Paris,  London,  Singapore,  or 
+Melbourne6. Hong Kong does not have any significant agricultural or industrial users, and over 50% of its 
+water is for domestic use. However, Hong Kong has few natural lakes and rivers, inadequate groundwater 
+sources and extreme seasonable variations in rainfall. Hong Kong relies on mainland China for 70-80% of 
+its water, which comes from the Dongjiang River, a major tributary to the Pearl River, 83 km north of Hong 
+Kong. The Dongjiang River also serve as a major supplier of fresh water to seven other cities including the 
+heavy industrial and commercial centres of Guangzhou, Shenzhen, and Dongguan which means that Hong 
+Kong will face increasing competition for water. In addition, this region is water stressed and in the near 
+future, Hong Kong may find itself subject to a cap on water or even decreasing total supply of water from 
+Dongjiang River.  
+ 
+
+ 
+
+3 http://www.epd.gov.hk/epd/english/climate_change/hkactions.html 
+
+4 http://www.epd.gov.hk/epd/english/environmentinhk/waste/waste_maincontent.html 
+
+5 http://www.enb.gov.hk/en/files/WastePlan-E.pdf 
+
+6 http://chinawaterrisk.org/resources/analysis-reviews/8-things-you-should-know-about-hong-kong-water/ 
+
+6 
+
+ 
+ 
+
+© Sustainalytics 2016 
+
+Established  environmental  targets:    Link  REIT  discloses  a  number of  environmental  priorities  that  are 
+aligned with addressing major issues facing Hong Kong, including energy efficiency, greenhouse gas (GHG) 
+emission reduction, water and waste management and low carbon transportation. In March 2014, the 
+company achieved its target to reduce energy consumption by 20% from a 2010 baseline. It now plans to 
+reduce energy consumption by 30% from the 2010 baseline by 2020. In 2015 Link REIT completed a waste 
+audit  of  their  entire  portfolio,  which  established  a  baseline  to  monitor  performance  of  future  waste 
+reduction strategies.  Link REIT aims to reduce waste to landfill by 40% by the year 2022. With regard to 
+water consumption, Link REIT plans to identify and implement water reduction initiatives. Establishing 
+environmental targets and implementing initiatives that help meet these targets indicates a longer-term 
+commitment to environment and overall transparency regarding its environmental goals.  
+ 
+Link REIT’s Green Bond Framework: Link REIT’s Green Bond Framework is aligned with the 2016 Green 
+Bond Principles with regard to use of proceeds, project selection process, management of the bond and 
+reporting (see Appendix 1 for details). Link REIT’s commitment to have a third party such as HK-BEAM or 
+LEED certify its green buildings  and obtain a third party (NABERS) energy efficiency rating will provide 
+confidence that green initiatives have been successfully implemented. The majority of the Green Bond 
+funds will be used for upcoming HK-BEAM GOLD and LEED-GOLD Certified buildings. For existing buildings, 
+considering the building and site constraints in Hong Kong, Link REIT would target at least LEED SILVER 
+certification. It is to be noted that Link REIT has one existing building that is HK-BEAM Platinum certified. 
+With regard to reporting, Link REIT’s commitment to provide, on a best efforts basis, GHG emissions and 
+energy consumption reductions, is in line with industry best practice.  An assurance from an independent 
+third party about fund allocation further adds transparency to the Green Bond. 
+ 
+Conclusion 
+Overall, Link REIT’s Green Bond framework is transparent and provides clarity regarding the outcomes of 
+the Green Bond investments. Furthermore, the projects that are expected to be funded using the Green 
+Bond proceeds are in line with the climate change mitigation priorities of Link REIT as well as that of Hong 
+Kong. 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+
+7 
+
+© Sustainalytics 2016 
+
+Appendix 2: External Certifications and Ratings  
+ 
+Building Environmental Assessment Method (HK-BEAM) 
+HK-BEAM is a voluntary, third party building certification process, developed in 2009 by BEAM Society 
+Limited, providing an independently certified performance rating for a building in clearly defined terms. 
+BEAM covers all types of new and existing buildings: residential, commercial, institutional, and industrial. 
+It  embraces  and  endorses  exemplary  practices  in  the  planning,  design,  construction,  commissioning, 
+management and operation of buildings in the context of Hong Kong’s densely populated, predominantly 
+high-rise cityscape. New buildings that are planned, designed, built and commissioned to the standards 
+set under BEAM Plus for New Buildings are safe, healthy, comfortable and efficient buildings that sustain 
+the quality of life and workplace productivity, whilst minimising the depletion of natural resources and 
+reducing environmental loadings. Existing buildings managed and operated to the standards set under 
+BEAM Plus for Existing Buildings can maintain high level performance over the life of the buildings.   
+ 
+BEAM is owned and operated by BEAM Society Limited, an independent non-profit organisation whose 
+membership is drawn from many professional and interest groups in Hong Kong’s building construction 
+and real estate  sectors. Following initial funding from The Real Estate Developers Association of Hong 
+Kong (REDA), BEAM development is funded from assessment fees with voluntary support from the efforts 
+of BEAM Society’s members and associates, and the professional supporting team. 
+ 
+Leadership in Energy and Environmental Design (LEED) 
+LEED is a voluntary, third party building certification process developed by the U.S. Green Building Council 
+(“USGBC”), a non-profit organization. The USGBC developed the LEED certification process to (i) evaluate 
+the environmental performance from a whole-building perspective over a building’s life cycle, (ii) provide 
+a  definitive  standard  for  what  constitutes  a  “green  building,”  (iii)  enhance  environmental  awareness 
+among  architects  and  building  contractors,  and  (iv) encourage  the  design  and  construction of energy-
+efficient, water-conserving buildings that use sustainable or green resources and materials. 
+ 
+National Australian Built Environment Rating System (NABERS) 
+NABERS is a national rating system that measures the environmental performance of Australian buildings, 
+tenancies  and  homes.  Put  simply,  NABERS  measures  the  energy  efficiency,  water  usage,  waste 
+management and indoor environment quality of a building or tenancy and its impact on the environment. 
+ 
+It does this by using measured and verified performance information, such as utility bills, and converting 
+them  into  an  easy  to  understand  star  rating  scale  from  one  to  six  stars.  For  example,  a  6-star  rating 
+demonstrates  market-leading  performance,  while  a  1-star  rating  means  the  building  or  tenancy  has 
+considerable scope for improvement. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+13 
+
+ 
+ 
+
+© Sustainalytics 2016 
+
+Disclaimer 
+All rights reserved. No part of this second party opinion (the “Opinion”) may be reproduced, transmitted 
+or published in any form or by any means without the prior written permission of Sustainalytics.  
+  
+The Opinion was drawn up with the aim to explain why the analysed bond is considered sustainable and 
+responsible. Consequently, this Opinion is for information purposes only and Sustainalytics will not 
+accept any form of liability for the substance of the opinion and/or any liability for damage arising from 
+the use of this Opinion and/or the information provided in it. 
+  
+As the Opinion is based on information made available by the client, Sustainalytics does not warrant that 
+the information presented in this Opinion is complete, accurate or up to date. 
+  
+Nothing contained in this Opinion shall be construed as to make a representation or warranty, express or 
+implied, regarding the advisability to invest in or include companies in investable universes and/or 
+portfolios. Furthermore, this Opinion shall in no event be interpreted and construed as an assessment of 
+the economic performance and credit worthiness of the bond, nor to have focused on the effective 
+allocation of the funds’ use of proceeds. 
+  
+The client is fully responsible for certifying and ensuring its commitments` compliance, implementation 
+and monitoring. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+14 
+
+© Sustainalytics 2016 
+
+ABOUT SUSTAINALYTICS 
+Sustainalytics is the largest independent provider of 
+sustainability research, analysis, and services to investors. 
+We serve over 250 institutional investors which include 
+some of the world's largest asset owners and asset 
+managers. Through over 20 years of experience serving the 
+responsible investment (RI) market, we have gained a 
+reputation for providing high-quality ESG research 
+solutions and excellent client service. 
+
+Sustainalytics is headed by seasoned professionals in the 
+field of business, finance, and sustainability, with a wealth 
+of experience in the Responsible Investment area. After 
+more than 20 years of local experience and expertise in the 
+Responsible Investment (RI) market Sustainalytics has 
+developed a comprehensive understanding of trends and 
+best practices and a solid process to assist organisations in 
+integrating ESG considerations into their policies and 
+strategies. We have worked with some of the world’s 
+financial institutions including pension plans, investment 
+managers and banks providing customised support to help 
+them achieve their RI objectives. Clients include ABN 
+AMRO, APG, BBVA, BNP Paribas, Deutsche Bank, ING Bank, 
+Lombard Odier, Lloyds Bank, Triodos Bank, UBS and over 
+250 other financial institutions and organisations. 
+
+Sustainalytics now has a staff of 250 employees globally, 
+including over 120 analysts, with operations in Amsterdam, 
+Boston, Bucharest, Frankfurt, New York, Paris, London, 
+Singapore, Sydney, Timisoara, and Toronto, and 
+representation in Brussels and Washington DC. 
+
+In 2015, Sustainalytics was 
+named the Best SRI or Green 
+Bond Research Firm by 
+GlobalCapital. In December 
+2014, for the third year in a row, 
+Sustainalytics was named best 
+sustainable and responsible 
+investment research firm in the 
+Independent Research in 
+Responsible Investment (IRRI) 
+
+Survey, conducted by Thomson Reuters and SRI-CONNECT.  
+
+ 
+ 
+
+15 
+
+

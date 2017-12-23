@@ -1,0 +1,1023 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ ICADE GREEN BOND 
+
+FRAMEWORK 
+
+ 
+
+ 
+
+SECOND OPINION BY SUSTAINALYTICS 
+
+August 2017 
+
+ 
+ 
+
+Catarina da Silva (Amsterdam) 
+
+Senior Associate, Advisory Services 
+catarina.dasilva@sustainalytics.com 
+(+31) 20 205 0045 
+ 
+ 
+ 
+ 
+
+Trisha  Taneja (Toronto) 
+
+Associate, Advisory Services 
+
+www.sustainalytics.com 
+ 
+www.sustainalytics.com 
+ 
+www.sustainalytics.com 
+ 
+www.sustainalytics.com 
+trisha.taneja@sustainalytics.com 
+ 
+www.sustainalytics.com 
+ 
+www.sustainalytics.com 
+ 
+www.sustainalytics.com 
+
+(+1) 647 317 3695 
+ 
+ 
+ 
+ 
+
+Floriana Cau (Paris) 
+
+Associate, Institutional Relations 
+floriana.cau@sustainalytics.com 
+(+33) 18 488 0644 
+ 
+ 
+ 
+ 
+
+© Sustainalytics 2017 
+ 
+
+TABLE OF CONTENTS 
+
+1. 
+
+Introduction 
+
+2.  Sustainalytics’ opinion 
+
+Section 1: Sustainalytics’ Opinion on the Icade’s Green Bond Framework 
+Section 2: Sustainability Performance of the Issuer 
+Section 3: Contextual Impact of Use of Proceeds 
+Conclusion 
+
+Appendices 
+
+Appendix I: Overview and comparison of Real Estate Certification Schemes 
+Appendix II: Documents reviewed 
+Appendix III: Sustainalytics’ ESG Assessment of Icade 
+Appendix IV: Green Bond External Review Form 
+SUSTAINALYTICS 
+
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+2 
+
+3 
+3 
+4 
+6 
+8 
+
+9 
+9 
+11 
+12 
+13 
+20 
+
+1 
+
+© Sustainalytics 2017 
+ 
+
+1. INTRODUCTION 
+
+ 
+Founded in 1954, Icade S.A. (Icade) is a real estate investor and developer entirely based in France. With 
+a  commercial  and  healthcare  property  portfolio  of  EUR  9.7  billion  (as of  12/31/16)  and  as  a  property 
+developer (2016 revenue of EUR 1.005 million), Icade is a significant player in the Greater Paris area and 
+major French cities. Icade is listed on Euronext Paris as a French Listed Real Estate Investment Company 
+(SIIC). 
+ 
+Icade’s Corporate Social Responsibility (CSR) strategy has a strong focus on innovation in the real estate 
+sector and on being a leader in environmental performance with the aim of fostering the emergence of 
+tomorrow's greener, smarter and more responsible cities. In alignment with its CSR strategy, Icade has 
+developed a Green Bond Framework1 in accordance with which it intends to issue a green bond. Proceeds 
+of the bond will be used to finance or refinance: 
+ 
+
+1. Investments in construction and/or  renovation of Green Buildings  that meet each of the eligibility 
+
+criteria defined below: 
+(i)  HQE certification (construction or renovation) ‘Very Good’ minimum level and/or BREEAM ‘Very 
+
+Good’ minimum level certification,  
+
+(ii) Distance to public transport not exceeding 400m (bus, train, tram, metro, river shuttle, private 
+
+bus shuttle); and  
+
+(iii) Existing or planned set up of a Green Lease Committee (“Comité Bail Vert”)  with its tenants, 
+with a specific action plan regarding energy, carbon, waste and water, subject to acceptance by 
+the  tenant  (for  properties  under  the  Environmental  Appendix  regulation,  i.e.  commercial 
+properties >2,000 sq.m.)  
+
+ 
+
+ 
+
+ 
+
+ 
+
+2. Investments in energy efficiency and energy transition projects 
+
+   (i) Energy efficiency equipment projects that reach a minimum threshold of 20% in energy savings 
+(in kWhPE/sq.m/year), and/or 20% CO2 emissions reduction (in kg CO2 eq/sq.m/year), compared 
+to  the  existing  situation 
+(theoretical  performance  calculation  based  on  technical 
+documentation provided by equipment suppliers). 
+
+   (ii) Renewable energy production projects that  fall under the following technology categories: solar 
+(photovoltaic  power  system,  solar  thermal  energy  in  urban  areas),  wind  (in  urban  areas)  or 
+geothermal energy solutions, in order to reach Icade’s goal of 20% of renewable energy in its 
+property assets’ energy mix by 2020. 
+
+    (iii) Eco-mobility projects that include electric vehicle (EV) charging stations and any infrastructure 
+promoting the use of low-carbon transport solutions in urban areas, such as electric vehicles 
+and bicycles.   
+
+ 
+The targeted investments are part of Icade’s Commercial Property Investment Division.  
+ 
+
+ 
+1 Available at http://www.icade.fr/en/finance/financing/bond-issue 
+
+ 
+
+ 
+
+2 
+
+© Sustainalytics 2017 
+ 
+
+Icade has engaged Sustainalytics to provide a second opinion on its Green Bond Framework and on the 
+framework’s  environmental  credentials.  As  part  of  this  engagement  process,  Sustainalytics  held 
+conversations with various members of Icade’s CSR, Management and Treasury teams to understand the 
+environmental  impact  of  their  activities,  the  planned  use  of  proceeds,  management  of  proceeds  and 
+reporting  aspects  of  Icade’s  green  bond.  Following  this  engagement,  some  elements of  Icade’s  Green 
+Bond Framework were clarified to ensure an alignment with the level of disclosure expected by ICMA’s 
+Green Bond Principles 2017.2 Sustainalytics also reviewed relevant public and internal documents. 
+ 
+This document contains Sustainalytics’ opinion on Icade’s Green Bond Framework and should be read in 
+conjunction with that framework. 
+ 
+ 
+
+2. SUSTAINALYTICS’ OPINION  
+
+ 
+Section 1: Sustainalytics’ Opinion on the Icade’s Green Bond Framework 
+Overall, Sustainalytics is of the opinion that Icade’s Green Bond Framework is credible and robust and 
+aligns with four pillars of the Green Bond Principles 2017. In addition, Sustainalytics views the following 
+elements of the Icade Green Bond Framework positively:  
+ 
+
+•  A dedicated Green Bond Committee for project selection and evaluation.  
+
+Icade’s  eligible  projects  and  assets  are  evaluated  and  selected  by  a  dedicated  Green  Bond 
+Committee comprising the the Chief Financial Officer, the Head of Investor Relations, the Finance 
+department,  the  Property  Investment  department,  the  Portfolio  Management,  the  Corporate 
+Social Responsibility department and the Environmental Transition department. 
+  
+Sustainalytics is of the opinion that having a dedicated committee with ‘C-level’ involvement is a 
+best practice among green bond issuances. 
+ 
+
+•  Strong commitment to allocation and impact reporting.  
+
+Icade has a strong commitment to allocation and impact reporting. Icade will provide a list of the 
+projects  financed  and  an  external  auditor  will  verify  annually  both  the  allocated  proceeds  to 
+eligible  green  projects  and  the  remaining  balance  of  unallocated  proceeds  (i.e.  allocation 
+reporting), as well as validate the conformity of the assets with the eligibility criteria (commonly 
+known as annual compliance review). 
+  
+Additionally, Sustainalytics considers that the impact reporting framework provides transparent 
+impact  information  as  well  as  a  good  insight  into  the  financed  assets.  Sustainalytics  is  of  the 
+opinion  that  this 
+issuances,  and  aligned  with 
+recommendations by the Green Bond Principles. 
+
+is  a  best  practice  among  green  bond 
+
+ 
+
+ 
+2 “The Green Bond Principles 2017”, dated 2 June 2017, issued by the International Capital Market Association (ICMA) 
+
+ 
+
+ 
+
+3 
+
+© Sustainalytics 2017 
+ 
+
+•  Sustainalytics  is  of  the  opinion  that  Green  Lease  Committees  that  promote  engagement  with 
+
+tenants, go beyond market practice and exemplify Icade’s leadership in this sector. 
+ 
+
+Alignment with the Green Bond Principles 2017 
+Sustainalytics has determined that Icade’s Green Bond aligns with the four pillars of ICMA’s Green Bond 
+Principles, 2017. An analysis of the alignment of these four pillars is available in Appendix IV: Green Bond 
+External Review Form. 
+ 
+ 
+Section 2: Sustainability Performance of the Issuer 
+ 
+Contribution of the proceeds of the green bond to Icade’s sustainability strategy  
+Icade has a comprehensive CSR strategy that is centred around three pillars: 
+
+1)  Developing solutions that include new habits and lifestyles in partnership with local authorities 
+
+and communities; 
+
+2)  Stepping up energy transition and saving resources; 
+3)  Promoting the development of employee expertise, workplace well-being and diversity. 
+
+ 
+In order to achieve its sustainability vision for the second pillar, Icade has defined important commitments 
+related to sustainable buildings, energy efficiency, water and waste reduction, and promoting biodiversity 
+and eco-mobility. Below, Sustainalytics describes how the Icade Green Bond contributes to furthering the 
+advancement of several of these areas.  
+ 
+Sustainable Buildings – Certifications and labels 
+Icade  demonstrates  its  commitment  to  sustainable  building  through  its  membership  in  key  industry 
+initiatives  such  as  France  Green  Building  Council  (GBC)  and  Association  pour  la  Haute  Qualité 
+Environnementale  (HQE).  As  of  fiscal  year  2016,  60%  of  the  office  floor  area  of  Icade’s  Commercial 
+Property  Investment  Division  were  HQE-  and/or  BREEAM-certified.  This  represents  a  substantial 
+improvement  over  the  fiscal  year  of  2016  (this  percentage  was  41%  in  FY  2015)  showing  Icade’s 
+commitment to green building certification. Furthermore, the company has set the following targets for 
+green building certifications: 
+
+• 
+
+• 
+
+Increase the surface areas of certified offices (HQE or BREEAM) in operation by +5% per year 
+through to 2020; 
+100% HQE-certified (High Environmental Quality) for new offices starting in 2018. 
+
+ 
+According to the Icade’s 2016 CSR Report, the company is well on track to achieve these targets, and the 
+proceed from Icade’s Green Bond will also positively contribute to this effort.   
+ 
+Energy efficiency and greenhouse gas (GHG) emissions 
+Given Icade’s operational focus in France, energy efficiency and GHG emissions are also material to the 
+company.  Icade  embraces  energy  efficiency  as  one  of  its  focus  areas.  To  this  effect,  the  company 
+
+ 
+
+ 
+
+4 
+
+© Sustainalytics 2017 
+ 
+
+implements  measures  such  as  the  deployment  of  Energy  Performance  Contracts3  and  Green  Lease 
+Committees,4  and  replacement  of  less  efficient  and  high-energy  heating  equipment.  Sustainalytics 
+considers  that  Icade’s  Energy  Performance  Contracts  and  Green  Lease  Committees  that  promote 
+engagement with tenants demonstrate the company’s leadership in this sector. Furthermore, Icade has 
+established a minimum threshold of 20% energy efficiency improvement and/ or 20% carbon emissions 
+reduction for eligible investments, providing an extra assurance of a positive impact associated with these 
+projects.  
+ 
+Icade has clarified to Sustainalytics that all the projects included under ‘renewable energy production’ 
+refer to projects developed by Icade and integrated in its real estate projects.  
+ 
+In  addition,  Icade  has  several  targets  that  show  its  commitment  to  improve  its  energy  use  and  GHG 
+emissions overall performance: 
+
+• 
+
+• 
+
+• 
+
+• 
+
+• 
+
+Reduce by 40% its CO2 emissions related to the operation of its commercial properties between 
+2011 and 2020; 
+Reduce by 12% those related to the construction of new properties, between 2015 and 2020; 
+Reduce energy consumption by 30% of its commercial properties between 2011 and 2020;  
+Reach 20% of renewable energy in the energy mix of the assets by 20205;  
+Reach 90% of Green Lease Committees by the end of 2017. 
+
+ 
+Sustainalytics is of the opinion that projects funded by the proceeds of the green bond will contribute to 
+achieving these targets and are well aligned with the company’s overall strategy with respect to reducing 
+energy use and GHG emissions.   
+ 
+Other environmental issues: Eco-mobility, Water and Biodiversity 
+In addition to the above-mentioned material issues, Icade’s CSR strategy also targets other environmental 
+areas  for  which  real  estate  has  an  important  environmental  impact.  In  this  light,  Icade  commits  to 
+reducing its water consumption by 25% between 2011 and 2020, and to promote eco-mobility by: 
+
+i)  Equipping 100% of the offices and parks with charging terminals for electric vehicles by 2018; 
+
+and 
+
+ii)  Investing in projects that are located within a 400-meter distance from public transport, starting 
+
+in 2016.  
+
+ 
+Sustainalytics considers that Icade’s Green Bond proceeds will also contribute to meeting these targets. 
+ 
+
+ 
+3 Energy Performance Contracts give building operations managers quantitative targets for reducing energy consumption. 
+4 According to Icade’s 2016 CSR Report, a building’s environmental performance largely depends on the behavior of its users, hence Icade pledges 
+to  work  with  users  to  help  them  reduce  their  energy  consumption  and  expenses  in  the  form  of  Green  Lease  Committees.  Icade  has  set  up 
+Committees enabling the property owner and the tenant(s) to exchange best practices and formulate an action plan, with quantifiable targets, 
+for the consumption of energy, carbon, water and waste production. 
+5 The 20% target will be reached by using a mix of own energy production and purchasing green certificates from energy providers. 
+ 
+
+ 
+
+ 
+
+5 
+
+© Sustainalytics 2017 
+ 
+
+Sustainalytics would finally highlight Icade’s efforts to preserve biodiversity in its properties. Biodiversity 
+assessments are systematically performed for new constructions and Icade has a target to reach a net 
+positive impact on biodiversity for 25% of its of properties and new construction projects by 20206.  
+ 
+Contribution of the green bond to Icade’s sustainability strategy 
+Overall, Sustainalytics considers that Icade’s Green Bond strongly aligns with the company’s CSR strategy, 
+namely with the second pillar focusing on stepping up energy transition and saving resources, by financing 
+key activities that will allow Icade to improve its environmental performance and achieve defined goals 
+in several environmental areas. 
+ 
+Well positioned to mitigate common Environmental and Social risks associated with green buildings 
+As real estate company operating only in France, Icade’s projects follow French regulation which includes 
+obligations  to  mitigate  or  avoid  material  environmental  and  social  risks.  Legal  obligations  include  for 
+instance: soil depollution, environmental and technological risks related to the project and protection of 
+historic  or  natural  sites.  Furthermore,  HQE-  and  BREEAM-certified  projects  increase  the  scope  of  this 
+assessment as they require: 
+
+- An impact assessment on local populations (neighbourhood); 
+- An impact assessment on noise and visual negative impacts; 
+- Air, water and electromagnetic quality studies; 
+- Waste management practices and use of local materials; 
+- Biodiversity protection. 
+
+ 
+ 
+Given  the  contribution  of  the  Icade  Green  Bond  to  the  company’s  comprehensive  CSR  strategy,  its 
+demonstrated  performance  on  defined  targets,  and  Icade’s  processes  to  detect  and  avoid  common 
+environmental and social risks, Sustainalytics is of the opinion that the company is well positioned to issue 
+a green bond. Furthermore, Icade rates as one of the leading companies in the Real Estate Industry in 
+terms of ESG performance, as per Sustainalytics’ ESG research universe. 7 
+ 
+ 
+Section 3: Contextual Impact of Use of Proceeds 
+ 
+Importance of sustainable real estate in France 
+With  an  increasing  rate  in  urban  development,  the  real  estate  sector  has  one  of  the  most  significant 
+environmental footprints in terms of consumption of natural resources, and is a growing contributor to 
+
+ 
+6 Similarly to a positive energy building which produces more energy than it uses, a construction  site with net positive biodiversity observes 
+marked improvements in biodiversity over time as a result of initiatives taken in key areas affecting biodiversity such as the proportion of green 
+space, the sustainable management of these spaces (the absence of pesticides, ecological mowing, etc.), artificial night-time lighting that is not 
+harmful to local wildlife, sound water management and monitoring animal and plant life. In practice, expert ecologists establish a baseline for 
+the monitoring indicators on these crucial topics and will be responsible for measuring them over time. Obtaining positive feedback from these 
+indicators, and thus improving the site’s biodiversity compared with the starting point, is the goal. This progression is what determines the net 
+positive impact. Icade has already established the baselines on several Commercial Property Investment Division sites and will measure its first 
+biodiversity indicators in 2017. 
+7 Information as per July 2017; For further details please refer to Appendix III.  
+ 
+
+ 
+
+ 
+
+6 
+
+© Sustainalytics 2017 
+ 
+
+CO2  emissions.  In  addition,  the  real  estate  sector  has  other  environmental  impacts,  including  waste 
+production, pollution, use of water and consumption of other natural resources. 
+ 
+In France, the real estate sector accounts for 43% of final energy consumption8 and 25% of greenhouse 
+gas  emissions.  In  light  of  this,  and  in  alignment  with  France’s  Paris  Agreement9  pledge,  the  French 
+government has engaged with the real estate sector to reach the government’s objectives in reducing 
+greenhouse gas emissions, as put forward by the Grenelle Laws and the Sustainable Building Plan10. The 
+Grenelle Law 2 states that “all buildings must have their energy consumption reduced by more than 38% 
+before  2020”.  The  awareness  around  the  importance  of  green  buildings  and  quality  certification  of 
+buildings by independent third parties contributes to this objective of the Grenelle Law 2. Additionally, 
+the European Union has reviewed its ‘Energy Efficiency Directive’ and ‘Energy Performance of Buildings 
+Directive’, the EU's main legislation covering the reduction of the energy consumption of buildings, and 
+setting European targets for energy efficiency. Given that about 35% of the EU's buildings are over 50 
+years  old11,  energy  efficiency  measures  represent  an  important  part  of  the  required  investments  to 
+achieve those targets.  
+  
+Given  this  context,  Sustainalytics  is  of  the  opinion  that  Icade’s  Green  Bond  provides  an  important 
+contribution to addressing priorities of France and the French Government to reduce its carbon emissions 
+and improve energy efficiency, allowing the country to achieve European and international targets on 
+climate change.  
+ 
+Assessing the impact of green building certifications 
+Icade is striving to increase the areas of offices and new buildings with green building certification, namely 
+HQE certification and BREEAM . Overall Sustainalytics considers these certification schemes to be credible 
+and ensure an integration of social and environmental considerations during all stages of a building’s life 
+cycle. Appendix I shows a comparison between these certification schemes and LEED.  
+ 
+However, Sustainalytics notes that the majority of BREEAM indicators are tradable and without minimum 
+requirements,  meaning  that  buildings  can  receive  the  same  certification  based  on  the  fulfilment  of 
+different indicators. Sustainalytics considers that this weakness is partly overcome in Icade’s framework 
+as the company commits to transparent reporting, disclosing energy consumption and carbon footprint 
+on a portfolio level, regardless of the certification used. Furthermore, to be eligible for the use of proceeds 
+from Icade’s Green Bond, buildings need to achieve a minimum of BREEAM ‘very good’ or HQE ‘very good’, 
+providing  assurance  to  investors  that  those  assets  are  well  aligned  with  green  building  expectations. 
+Sustainalytics  recommends  Icade  to  keep  striving  to achieve  the  highest  levels of  certifications  within 
+those schemes, as certifications can be obtained with different (lower) levels of performance. As of July 
+
+ 
+8 Policy measure fact sheet – France, European Construction Sector Observatory, European Commission, September 2016 
+9 Parties to the UN Climate Change Conference (COP21), which took place in Paris, France, in December 2015, agreed to a deal to keep global 
+warming below 2°C (the “Paris Agreement”). To achieve this target, the World Bank estimates that a 36% reduction in total CO2 emissions in the 
+real estate sector is required by 2030. 
+10 http://www.planbatimentdurable.fr/ 
+11 Energy Statistics, European Commission, https://ec.europa.eu/energy/en/topics/energy-efficiency/buildings, accessed in April 2017 
+ 
+
+ 
+
+ 
+
+7 
+
+© Sustainalytics 2017 
+ 
+
+2017, Icade has clarified that 100% of the assets identified to be eligible, are at least HQE ‘excellent’ or 
+‘exceptional’, in alignment with best practices. 
+ 
+Lastly,  Icade  has  clarified  to  Sustainalytics  that  the  certifications  obtained  will  be  focused  on  the 
+construction phase of the assets, and that there is a minimum risk that the assets would lose the assigned 
+certification during the term of the bond12, as it could potentially be the case of ‘in-use’ certification that 
+needs  to  be  renewed  annually.  In  case  an  eligible  asset  would  lose  its  certification,  Icade  commits  to 
+replacing it by another asset that complies with the eligibility criteria.  
+ 
+ 
+Conclusion 
+Icade,  one  of  the  leading  companies  in  the  Real  Estate  Industry  in  terms  of  ESG  performance,  as  per 
+Sustainalytics’ ESG research universe, developed a Green Bond Framework for the future issuance of a 
+Green Bond. The proceeds will be allocated towards financing or refinancing: 
+
+(i) 
+
+(ii) 
+
+the construction and/or renovation of green buildings (i.e. buildings that received a minimum 
+of HQE ‘very good’ and/or BREEAM ‘very good’ certification, are located within 400m of public 
+transport and for which there is an existing or planned set up of a Green Lease Committee); 
+and 
+investments in energy efficiency and energy transition projects, including energy efficiency 
+equipment projects, renewable energy production projects and eco-mobility projects. 
+
+ 
+Sustainalytics is of the opinion that the use of third party green building certification schemes ensures the 
+integration  of  environmental  and  social  considerations,  and  Icade  commits  to  certification  levels  that 
+represent  a  good  performance  level.  Sustainalytics  recommends  Icade  to  keep  striving  to  achieve  the 
+highest  levels  of  certifications  within  those  schemes.  In  addition,  Icade  will  ensure  high  level  of 
+transparency  in  terms of the  environmental performance  of the financed assets, including key impact 
+metrics such as energy consumption and emissions avoided.  
+ 
+Overall,  Icade’s  Green  Bond  Framework  aligns  with  the  Green  Bond  Principles  2017,  displaying  best 
+practices in process selection and evaluation, and allocation and impact reporting. Additionally, Icade’s 
+Green  Bond  Framework  fully  aligns  with  the  company’s  CSR  strategy  (namely  with  the  second  pillar 
+focusing on stepping up energy transition and saving resources) and will support Icade in achieving several 
+environmental targets that are important both to the company and to the French real estate context.  
+ 
+Based on the above, Sustainalytics is confident that Icade is well positioned to issue a Green Bond and 
+Icade’s Green Bond Framework is transparent, credible, and in alignment with the four pillars of ICMA’s 
+Green Bond Principles 2017.  
+ 
+
+ 
+
+ 
+12 Construction certifications are related to the building materials and equipment used. Hence, unless there is a dramatic change of the structure 
+of  the  building,  HQE  and  BREEAM  construction  certification  will  be  maintain  continuously  during  the  bond  for  every  asset.  
+Losing a construction certification, would imply demolishing or renovating heavily a major part of the building. Since all the assets to be financed 
+with  Icade’s  Green  Bond  are  new  buildings  or  equivalent  new  buildings  (recently  refurbished  and  certified)  it  is  very  unlikely  that  a  major 
+refurbishment would affect the certification.  
+
+ 
+
+ 
+
+8 
+
+© Sustainalytics 2017 
+ 
+
+APPENDICES 
+Appendix I: Overview and comparison of Real Estate Certification Schemes13 
+ 
+
+ 
+
+HQE 
+
+BREEAM 
+
+LEED 
+
+BREEAM (Building Research 
+Establishment Environmental 
+Assessment Method) was first 
+published by the Building 
+Research Establishment (BRE) in 
+1990. 
+Based in the UK.  
+Used for new, refurbished and 
+extension of existing buildings. 
+ 
+
+Leadership in Energy and 
+Environmental Design (LEED) is a 
+US Certification System for 
+residential and commercial 
+buildings used worldwide. LEED 
+was developed by the non-profit 
+U.S. Green Building Council 
+(USGBC) and covers the design, 
+construction, maintenance and 
+operation of buildings. 
+
+The Haute Qualité 
+Environnementale or HQE 
+(High Quality Environmental 
+standard) is a standard for 
+green building in France, 
+based on the principles of 
+sustainable development first 
+set out at the 1992 Earth 
+Summit. The standard was 
+launched in 2005 and is 
+controlled by HQE and 
+certificate is issued by 
+Cerway/ Certivea/ Cerqual. 
+Pass  
+Good   
+Very good  
+Excellent  
+Exceptional 
+Global management system 
+ 
+
+Background 
+
+Certification 
+levels 
+
+Areas of 
+Assessment: 
+Environmental 
+Project 
+Management 
+
+Pass  
+Good  
+Very Good 
+Excellent 
+Outstanding 
+Management (Man) addresses 
+various aspects: project 
+management, deployment, 
+minimal environmental 
+disturbance worksite and 
+stakeholder engagement. 
+
+Certified  
+Silver  
+Gold  
+Platinum 
+
+Integrative process, which 
+requires, from the beginning of 
+the design process, the 
+identification and creation of 
+synergies between the various 
+project stakeholders regarding 
+the construction choices and the 
+technical systems. 
+Energy and atmosphere  
+Sustainable Sites  
+Location and Transportation 
+Materials and resources  
+Water efficiency  
+Indoor environmental quality  
+Innovation in Design  
+Regional Priority 
+
+Areas of 
+Assessment: 
+Environmental 
+Performance 
+of the Building 
+
+•  Energy 
+•  Environment (Site, 
+
+Components, Worksite, 
+Water, Waste, 
+Maintenance)  
+
+•  Comfort (Hydrothermal, 
+
+Acoustic, Visual, Olfactory)   
+
+•  Health (Spaces quality, Air 
+
+Quality, Water Quality) 
+
+Energy  
+Land Use and Ecology  
+Pollution 
+Transport  
+Materials  
+Water 
+Waste 
+Health and Wellbeing  
+Innovation 
+
+ 
+13   Based on information provided in the analysed certification initiatives and a comparison study: 
+- BREEAM: BREEAM International 2013 
+- HQE: HQE 2013 Non-Residential, updated in October 2014 
+- LEED: LEED Green Building Design + Construction V4 
+International environmental certifications for the design and construction of non-residential buildings - The positioning of HQE certification 
+relative to BREEAM and LEED, France GBC and Alto Ingenierie, June 2015 
+ 
+
+ 
+
+ 
+
+9 
+
+© Sustainalytics 2017 
+ 
+
+Requirements 
+
+Performance 
+display 
+
+Accreditation 
+
+Qualitative 
+considerations 
+
+•  Principles of Equivalence 
+
+Prerequisites (independent of 
+level of certification) + Points-
+based performance level: 
+Performing and High 
+Performing 
+ 
+The Prerequisite level is 
+obtained when all the 
+minimum requirements for a 
+target are met, while the 
+Performing and High 
+Performing levels are 
+obtained based on a 
+percentage of points given per 
+target, allowing for flexibility.  
+ 
+Based on the total number of 
+stars obtained per area, an 
+overall HQE level is then 
+given. 
+ 
+Environmental certificates are 
+assigned at all stages of the 
+building life cycle, and on-site 
+audits are required.  
+ 
+
+HQE Construction Certification 
+Referent 
+ HQE Operations Certification 
+Advisor 
+HQE certification has the most 
+number of targets concerning 
+individuals. The “Comfort” 
+and “Health” related themes 
+are the most developed in this 
+scheme. 
+The HQE scheme recognises 
+European and international 
+standards (in particular the 
+ISO and ASHRAE standards). 
+
+Prerequisites depending on the 
+levels of certification + Credits 
+with associated points  
+ 
+This number of points is then 
+weighted by item14 and gives a 
+BREEAM level of certification, 
+which is based on the overall 
+score obtained (expressed as a 
+percentage). Majority of 
+BREEAM issues are flexible, 
+meaning that the client can 
+choose which to comply with to 
+build their BREEAM 
+performance score.  
+ 
+BREAAM has two stages/ audit 
+reports: a ‘BREEAM Design 
+Stage’ and a ‘Post Construction 
+Stage’, with different 
+assessment criteria.  
+ 
+
+Prerequisites (independent of 
+level of certification) + Credits 
+with associated points  
+ 
+These points are then added 
+together to obtain the LEED 
+level of certification 
+ 
+There are several different 
+rating systems within LEED. Each 
+rating system is designed to 
+apply to a specific sector (e.g. 
+New Construction, Major 
+Renovation, Core and Shell 
+Development, Schools-/Retail-
+/Healthcare New Construction 
+and Major Renovations, Existing 
+Buildings: Operation and 
+Maintenance).  
+ 
+
+ 
+
+ 
+
+BREEAM  International  Assessor 
+BREEAM  AP  BREEAM 
+In  Use 
+Assessor 
+
+LEED AP BD+C  
+LEED AP O+M 
+
+Widely recognised 
+internationally, and strong 
+assurance of overall quality. 
+
+Used in more than 70 countries: 
+Good adaptation to the local 
+normative context. 
+Predominant environmental 
+focus. 
+BREEAM certification is less 
+strict (less minimum thresholds) 
+than HQE and LEED 
+certifications. 
+ 
+
+ 
+14 BREEAM weighting: Management 12%, Health and wellbeing 15%, Energy 19%, Transport 8%, Water 6%, Materials 12.5%, Waste 7.5%, Land 
+Use and ecology 10%, Pollution 10% and Innovation 10%. One point scored in the Energy item is therefore worth twice as much in the overall 
+score as one point scored in the Pollution item 
+
+ 
+
+ 
+
+10 
+
+© Sustainalytics 2017 
+ 
+
+ 
+Appendix II: Documents reviewed 
+ 
+Sustainalytics reviewed the following documents for the purposes of writing this report: 
+ 
+
+Number  Document Name 
+1 
+2 
+3 
+4  
+
+Icade’s website – www.icade.fr 
+Icade 2016 Registration Document – includes 2016 Corporate Social Responsibility Chapter 
+CDP Climate Change Report 2016 - France and Benelux edition, CDP, October 2016 
+Industry Agenda: Environmental Sustainability Principles for the Real Estate Industry, World Economic 
+Forum, January 2016 
+Policy  measures  fact  sheet  –  France,  European  Construction  Sector  Observatory,  European 
+Commission, September 2016 
+France’s Sustainable Building Plan -  http://www.planbatimentdurable.fr/ 
+International environmental certifications for the design and construction of non-residential buildings 
+- The positioning of HQE certification relative to BREEAM and LEED, France GBC and Alto Ingenierie, 
+June 2015 
+Energy Statistics, European Commission 
+EU's 2030 policy framework - http://www.eceee.org/policy-areas/2030-policy-framework  
+Sustainalytics’ ESG Assessment – Icade S.A., accessed in May 2017 
+
+5 
+
+6 
+7 
+
+8 
+9 
+10 
+
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+11 
+
+© Sustainalytics 2017 
+ 
+
+Appendix III: Sustainalytics’ ESG Assessment of Icade  
+ 
+ESG Summary 
+
+ 
+Environment 
+
+  
+
+ 
+
+ 
+
+  
+
+ 
+
+12 
+
+© Sustainalytics 2017 
+ 
+
+ 
+Disclaimer 
+All  rights  reserved.  No  part  of  this  second  opinion  (the  “Opinion”)  may  be  reproduced,  transmitted  or 
+published in any form or by any means without the prior written permission of Sustainalytics.  
+  
+The Opinion was drawn up with the aim to explain why the analyzed bond is considered sustainable and 
+responsible. Consequently, this Opinion is for information purposes only and Sustainalytics will not accept 
+any form of liability for the substance of the opinion and/or any liability for damage arising from the use 
+of this Opinion and/or the information provided in it. 
+  
+As the Opinion is based on information made available by the client, Sustainalytics does not warrant that 
+the information presented in this Opinion is complete, accurate or up to date. 
+  
+Nothing contained in this Opinion shall be construed as to make a representation or warranty, express or 
+implied,  regarding  the  advisability  to  invest  in  or  include  companies  in  investable  universes  and/or 
+portfolios. Furthermore, this Opinion shall in no event be interpreted and construed as an assessment of 
+the  economic  performance  and  credit  worthiness  of  the  bond,  nor  to  have  focused  on  the  effective 
+allocation of the bonds’ proceeds. 
+  
+The client is fully responsible for certifying and ensuring its commitments` compliance, implementation 
+and monitoring. 
+
+ 
+
+ 
+
+ 
+
+19 
+
+© Sustainalytics 2017 
+ 
+
+SUSTAINALYTICS 
+ 
+Sustainalytics  is  an  independent  ESG  and  corporate  governance  research,  ratings  and  analysis  firm 
+supporting  investors  around  the  world  with  the  development  and  implementation  of  responsible 
+investment  strategies. With 13 offices globally, Sustainalytics partners with institutional investors who 
+integrate  environmental,  social  and  governance  information  and  assessments  into  their  investment 
+processes.  Today,  the  firm  has  more  than  300  staff  members,  including  170  analysts  with  varied 
+multidisciplinary  expertise  of  more  than  40  sectors.  Through  the  IRRI  survey,  investors  selected 
+Sustainalytics as the best independent responsible investment research firm for three consecutive years, 
+2012 through 2014 and in 2015, Sustainalytics was named among the top three firms for both ESG and 
+Corporate Governance research. The firm was also named the Best SRI or Green Bond Research Firm by 
+Global Capital in 2015. For more information, visit www.sustainalytics.com  
+ 
+Sustainalytics 
+info@sustainalytics.com  
+www.sustainalytics.com  
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+20 
+
+

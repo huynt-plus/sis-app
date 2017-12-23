@@ -1,0 +1,610 @@
+ 
+ 
+  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+UNIVERSITY OF VERMONT 
+
+ 
+
+MEDICAL CENTER 
+
+GREEN BOND 
+
+ 
+
+ 
+ 
+
+FRAMEWORK OVERVIEW AND SECOND OPINION BY 
+
+SUSTAINALYTICS 
+
+ 
+ 
+ 
+
+July 4, 2016 
+
+www.sustainalytics.com 
+ 
+www.sustainalytics.com 
+ 
+www.sustainalytics.com 
+
+Vikram Puppala (Toronto) 
+
+Charlotte Peyraud (New York) 
+
+Associate Director, Advisory Services 
+vikram.puppala@sustainalytics.com 
+(+1) 647 317 3694 
+
+Senior Advisor, Institutional Relations  
+Charlotte.peyraud@sustainaytics.com 
+(+1) 646 518 0184 
+
+ 
+ 
+
+Vikram Puppala  
+
+Manager,  
+
+ 
+ 
+
+Vikram Puppala  
+
+Manager,  
+
+© Sustainalytics 2016 
+
+TABLE OF CONTENTS 
+
+FRAMEWORK OVERVIEW AND SECOND OPINION BY SUSTAINALYTICS 
+
+1.  Preface 
+
+2. 
+
+Introduction 
+
+3.  Framework Overview 
+
+3.1  Use of Proceeds 
+3.2  Project Evaluation and Selection Process 
+3.3  Management of Proceeds 
+3.4  Reporting 
+
+4. Sustainalytics’ Opinion 
+
+Conclusion 
+
+Appendices 
+
+Appendix 1: Adherence to the Green Bond Principles 2016 
+Appendix 2: University of Vermont Medical Center Commitment to Practicing Environmental 
+
+Stewardship 
+
+Appendix 2: LEED Score Card for Inpatient Facility 
+
+About Sustainalytics 
+
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+1 
+
+3 
+
+3 
+
+3 
+4 
+4 
+5 
+6 
+
+7 
+8 
+
+9 
+9 
+
+14 
+16 
+
+18 
+
+2 
+
+© Sustainalytics 2016 
+
+1. PREFACE 
+ 
+The  University  of  Vermont  Medical  Center  (UVMMC)  has  engaged  Sustainalytics  to  provide  a  second 
+opinion on its green bond issuance and the bond’s environmental credentials.  As part of this engagement, 
+Sustainalytics held conversations with various members of The UVM Medical Center’s management team 
+to understand the sustainability impact of their business processes and planned use of proceeds for the 
+bond  issuance.  Sustainalytics  also  reviewed  relevant  public  and  internal  documents.  This  document 
+contains  two  sections:  Framework  Overview  –  summary  of  The  UVMMC  Green  Bond  framework;  and 
+Sustainalytics’ Opinion – an opinion on the framework.  
+ 
+2. INTRODUCTION 
+ 
+The  University  of  Vermont  Medical  Center  is  part  of  a  five-hospital  network  that  serves  patients  in 
+Vermont and northern New York. It is the primary referral center for these regions, serving a population 
+of  more  than  1  million  people.  Dating  back  to  the  1800s,  The  UVM  Medical  Center  is  a  non-profit 
+organization based in Burlington, VT, that has a mission “to improve the health of the people in [served] 
+communities by integrating patient care, education, and research in a caring environment.”  
+ 
+UVMMC is a mission-driven organization and is striving to be the greenest healthcare organization in the 
+country.  UVMMC’s  environmental  policy,  as  published  in  its  signed  commitment  to  the  community, 
+includes adherence to the following principles: Conservation and Sustainable Use of Natural Resources, 
+Emissions  Reductions,  Waste  Reduction,  Energy  Conservation,  Product  Stewardship,  Sustainable  Food 
+Procurement,  and  Upstream  Management  System  (education  about  root  causes  of  environmental 
+problems).  In  accordance  with  its  commitment,  the  organization  maintains  a  multi-year  Sustainability 
+Strategic Plan, and discloses performance on the plan in annual reports.  
+ 
+To achieve one of the objectives of its 2016-2020 Sustainability Strategic Plan, UVM Medical Center is 
+planning to issue  a green bond  to finance  the construction of a seven-level inpatient building sized at 
+approximately 180,000 square feet. The seven-story building will host four floors of 32 single-occupancy, 
+medical-surgical  single  rooms,  and  will  have  a  total  of  128  inpatient  rooms.  The  inpatient  facility  is 
+registered  to  achieve  a  Leadership  in  Energy  and  Environmental  Design  (LEED)  Silver  certification.   
+UVMMC has also established energy and water conservation targets for the new building, namely a 25% 
+reduction in water consumption and a  35%  reduction in energy use  as compared to existing inpatient 
+facilities.   
+ 
+3. FRAMEWORK OVERVIEW 
+ 
+UVMMC  is  issuing  a  green  bond  that  aims  to  fund  the  construction  of  a  LEED-certified  inpatient  bed 
+facility. This project aligns with UVMMC’s 2016-2020 Sustainability Strategic Plan, and with the ‘Energy 
+Conservation’ principle of its environmental policy.  The following section summarizes UVMMC’s green 
+bond  framework  including  the  use  of  proceeds,  process  for  project  selection,  the  management  of 
+proceeds, and reporting. 
+
+3 
+
+ 
+ 
+
+© Sustainalytics 2016 
+
+ 
+3.1  Use of Proceeds 
+
+ 
+
+All proceeds of the bond will be allocated to the construction of a seven-level inpatient building sized at 
+approximately 180,000 square feet. The seven-story building will host four floors of 32 single-occupancy, 
+medical-surgical single rooms, and will have a total of 128 inpatient rooms. UVMMC is seeking a LEED 
+certification for the inpatient facility, and is aiming to secure a LEED Silver certification. 
+ 
+While UVMMC has successfully achieved LEED Gold certification in the past, LEED Silver was chosen as 
+the  designation  for  this  inpatient  facility  keeping  in mind  two  key  considerations.  The  first  is  that  the 
+inpatient facility will be  built  on an existing site,  and will use  the  energy infrastructure  of the existing 
+central plant. While the new facility itself will be energy efficient, and will qualify for LEED points based 
+on its efficiency, UVMMC is not improving the efficiency of the existing central plant infrastructure as a 
+part of this project. Additionally, UVMMC has also disclosed that this inpatient facility will be the first new 
+building to be certified under the LEED for Healthcare (LEED-HC) construction rating system. Given this 
+scope,  and  the  scale  of  the  project,  UVMMC  concluded  that  LEED  Silver  would  be  the  most  feasible 
+designation.  
+ 
+
+ 
+
+3.2  Project Evaluation and Selection Process 
+ 
+The inpatient bed facility was selected as the recipient of green bond  proceeds based on the facility’s 
+registration  to  achieve  LEED  Silver  certification.  LEED  is  an  internationally  recognized  green  building 
+certification that provides a standardized measure of sustainability in building design and construction. 
+LEED  certification  evaluates  the  sustainability  of  a  building  by  assigning  points  for  performance  in  the 
+following key areas:  
+ 
+
+  Sustainable Sites  
+  Water Efficiency 
+  Energy and Atmosphere  
+  Materials and Resources 
+ 
+ 
+  Regional Priority   
+
+Indoor Environmental Quality 
+Innovation in Design 
+
+ 
+LEED  Silver  certification  requires  a  building  to  achieve  between  50  and  59  points  to  demonstrate 
+performance  in  the  areas  outlined  above.  These  points  are  tracked  in  a  LEED  scorecard.  Given  that 
+UVMMC will not know the status of its application for LEED Silver certification until after the building’s 
+completion, they have hired an external sustainability consultant to track progress towards certification 
+during the design and construction phase of the building. The external sustainability consultant- Thornton 
+Tomasetti  (TT)  -  has  completed  a  LEED  Silver  risk  assessment  for  UVMMC’s  inpatient  facility.  The  risk 
+assessment discloses that UVMMC is on track to achieve 55 points. Based on this assessment, UVMMC 
+has disclosed to Sustainalytics that they feel comfortable meeting LEED Silver certification requirements. 
+
+ 
+ 
+
+4 
+
+© Sustainalytics 2016 
+
+Additionally, UVMMC has set performance targets in two of the abovementioned areas (Water Efficiency 
+and Energy and Atmosphere), which also align with Green Project categories outlined by the International 
+Capital  Market  Association’s  Green  Bond  Principles  (GBP).  These  performance  targets  include  a  25% 
+reduction in water consumption and a 35%  reduction in energy use  as compared to existing inpatient 
+facilities. UVMMC has also modelled the energy performance of its new inpatient facility using the metric 
+of Energy Use Intensity (EUI). The EUI expresses a building’s energy use as a function of its size or other 
+characteristics by dividing the total energy consumed by the building in one year (kBtu) by the total gross 
+floor area of the  building (square feet). It is a metric developed by the U.S. Environmental Protection 
+Agency’s Energy Star program. UVMMC estimates that its new inpatient building will achieve an EUI that 
+is 47% less than the EUI of existing buildings (estimated to be 143 kBtu/square foot/year). UVMMC’s LEED 
+registration certificate and LEED Project Checklist also reflect its commitment to its stated performance 
+targets.  
+ 
+
+3.3        Management of Proceeds  
+
+ 
+The  green  bond  will  be  issued  by  the  Vermont  Educational  and  Health  Buildings  Financing  Agency 
+(VEHBFA). However, the entity using the bond proceeds to implement the eligible project will be UVMMC.  
+The total cost of the inpatient building is expected to be approximately $190 million, and is being financed 
+through  a  combination  of  working  capital,  fundraising,  and  short-  and  long-term  debt.  The  value  of 
+UVMMC’s green bond is expected to be lower than the value of the green asset being financed, i.e. the 
+proceeds from the bond will only account for a part of the total cost of the building.  
+ 
+The proceeds from the green bond will be held in a liquid, money market account managed by UVMMC’s 
+finance  department.  Part  of  the  bond  proceeds  will  be  used  to  reimburse  UVMMC  for  building 
+construction costs already incurred. The rest will be allocated directly to construction of the building. 
+ 
+A  requisition  process  will  be  followed  before  bond  proceeds  are  used  to  pay  for  construction  costs. 
+UVMMC will send a requisition to VEHBFA (the issuer of the bond), requesting the release of bond funds 
+to pay for construction costs. The requisition details what the cost is for and to whom the cost should be 
+paid. VEHBFA confirms that the requisition is for the construction of the building, approves the request, 
+and sends the requisition to the bond trustee for payment utilizing bond proceeds. UVMMC has noted 
+that requests to use bond proceeds for financing costs unrelated to the new inpatient facility would be 
+declined  in  the  requisition  phase.  UVMMC  is  confident  that  the  requisition  process  described  above 
+provides  sufficient  assurance  that  bond  proceeds  are  directed  exclusively  towards  the  building  and 
+construction of the inpatient facility. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+
+5 
+
+© Sustainalytics 2016 
+
+3.4    Reporting  
+ 
+Allocation Reporting 
+The proceeds of the Bonds expended on the inpatient building will be tracked by UVMMC. UVMMC has 
+disclosed that their external auditor will provide additional assurance on allocation of bond proceeds by 
+performing testing on payments made using the proceeds, and confirming adherence to the requisition 
+process.  
+ 
+Additionally, UVMMC has confirmed that they will annually disclose the amount of the proceeds of the 
+Series 2016B Bonds that have been expended to date on the inpatient building to the Municipal Securities 
+Rulemaking  Board’s  Electronic Municipal Market  Access  System  (EMMA).  This disclosure  will continue 
+until such time as the proceeds of the Bonds are fully expended. Once all the net proceeds of the Bonds 
+to be expended on the inpatient building have been spent, no further updates on the use of such proceeds 
+will be provided.  
+ 
+Impact Reporting 
+UVMMC maintains consistent documentation that tracks progress towards LEED Silver certification. One 
+such  document  is  the  LEED  status  report,  published  quarterly  by  UVMMC  on  its  website.  This  report 
+details the status of the LEED scorecard, i.e. the current number of points UVMMC’s inpatient facility has 
+achieved under each of the six key areas tracked by LEED certification. In addition, UVMMC will report on 
+its success in achieving LEED silver certification to the Municipal Securities Rulemaking Board’s EMMA.  
+ 
+Additionally, UVMMC has established energy and water conservation targets for the new inpatient bed 
+facility. More specifically, UVMMC is targeting a 25% reduction in water consumption and a 35% reduction 
+in energy use as compared to existing inpatient facilities.  UVMMC has committed to reporting on these 
+established  targets  after  one  year  of  occupancy  of  the  inpatient  facility  (currently,  the  building  is 
+scheduled to be complete and ready for occupancy in July 2019). UVMMC has confirmed that after twelve 
+months of occupancy, they will complete a measurement and verification process to determine whether 
+the  energy  and  water  efficiency  targets  set  for the  inpatient  facility  have  been  met.  Measurement  of 
+energy and water use will be accomplished through metering capability that will be installed as a part of 
+the project, and the measured results will be benchmarked against UVMMC’s peers (i.e. existing inpatient 
+facilities across the country or New England). UVMMC will then disclose the performance of the inpatient 
+facility against the established efficiency targets on their website.  
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+
+6 
+
+© Sustainalytics 2016 
+
+4. SUSTAINALYTICS’ OPINION 
+ 
+A  strong  environmental  commitment:  UVMMC  is  an  organization  with  a  strong  environmental 
+commitment,  as  seen  by  its  policy  and  its  2016-2020  Sustainability  Program  Strategic  Plan.  UVMMC’s 
+policy  includes  a  commitment  not  only  to  improve  its  own  environmental  performance  through  the 
+sustainable  use  of  resources  and  the  reductions  of emissions  and  waste,  but  also  to  promote  greater 
+environmental  responsibility  in  the  community  and  educate  its  workforce  on  environmental  issues. 
+Additionally, UVMMC has a strong five-year sustainability strategic plan that outlines specific objectives 
+against its environmental commitments. The plan also lays out measurable targets for its objectives, and 
+assigns responsibility for each of these targets to the relevant department leaders. Senior management 
+is responsible for monitoring the overall progress towards the broader environmental commitments.   
+ 
+In issuing a green bond to construct its new inpatient facilities as a LEED-certified energy efficient building, 
+UVMMC  is  realizing  the  environmental  commitment  outlined  in  its  2016-2020  Sustainability  Strategic 
+Plan.  UVMMC  has  also  has  a  track  record  of  constructing  green  buildings;  it  has  achieved  LEED  Gold 
+certification for The Glen and Rosemarie Wright Mother-Baby Unit and the Hinesburg Family Medicine 
+Building. Given its strong environmental policy, integration of the policy in organizational actions through 
+its  Sustainability  Strategic  Plan,  and  past  performance,  Sustainalytics  is  of  the  opinion  that  UVMMC 
+regularly considers the environmental impact of its operations, and is well positioned to issue a green 
+bond. 
+   
+Impact of LEED certification on Climate Change 
+Energy efficient buildings are explicitly recognized by the ICMA Green Bond Principles as offering clear 
+environmental  benefits.  Buildings  are  a  significant  contributor to  Green  House  Gas  (GHG)  and  carbon 
+emissions. For example, in the US, buildings account for 38% of all carbon dioxide emissions, 73% of all 
+national electricity consumption, and 13.6% of all potable water consumption. Improving their energy 
+efficiency is a robust way to mitigate the effects of climate change.  LEED certification is an independent 
+verification of a building’s energy and resource efficiency; for example, LEED Gold certified buildings can 
+generate up to 34% less GHG emissions than the average commercial building.  
+ 
+Adherence to the Green Bond Principles 2016  
+UVMMC’s  green  bond  follows  the  guidance  provided  by  the  Green  Bond  Principles  2016,  and  is  in 
+alignment with its four pillars. Please see Appendix 1 for more details.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+7 
+
+© Sustainalytics 2016 
+
+Conclusion 
+By issuing a green bond to finance the construction of its new, LEED Silver certified, inpatient building, 
+UVMMC  is  acting  in  accordance  with  its  environmental  policy,  and  objectives  in  its  2016-2020 
+Sustainability  Strategic  Plan.  It  is  aiming  to  reduce  GHG  emissions  through  energy  efficiency,  and 
+sustainably use resources through reducing water consumption.  
+ 
+UVMMC is selecting this project as the recipient of green bond proceeds as it is registered to achieve LEED 
+Silver certification. It has also established clear energy and resource efficiency targets for the building. 
+Given that the LEED process requires consistent documentation to track progress towards certification, 
+UVMMC  has  committed  to  transparently  reporting  on  its  efficiency  targets,  on  its  progress  towards 
+certification, and on its achievement of LEED certification. UVMMC's green bond follows the guidance 
+provided by the Green Bond Principles 2016 (see Appendix 1), and is in alignment with its four pillars, 
+which address the use of proceeds, process of project evaluation and selection, management of proceeds, 
+and reporting. Based on the above considerations, Sustainalytics is of the view that UVMMC’s green bond 
+is robust and credible. 
+
+ 
+
+ 
+ 
+
+8 
+
+© Sustainalytics 2016 
+
+Appendix 2: University of Vermont Medical Center Commitment to Practicing 
+Environmental Stewardship  
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+14 
+
+ 
+ 
+
+© Sustainalytics 2016 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+15 
+
+ 
+Appendix 2: LEED Score Card for Inpatient Facility  
+ 
+
+ 
+
+Disclaimer 
+All rights reserved. No part of this second party opinion (the “Opinion”) may be reproduced, transmitted 
+or published in any form or by any means without the prior written permission of Sustainalytics.  
+  
+The Opinion was drawn up with the aim to explain why the analyzed bond is considered sustainable and 
+responsible. Consequently, this Opinion is for information purposes only and Sustainalytics will not 
+accept any form of liability for the substance of the opinion and/or any liability for damage arising from 
+the use of this Opinion and/or the information provided in it. 
+  
+As the Opinion is based on information made available by the client, Sustainalytics does not warrant that 
+the information presented in this Opinion is complete, accurate or up to date. 
+  
+Nothing contained in this Opinion shall be construed as to make a representation or warranty, express or 
+implied, regarding the advisability to invest in or include companies in investable universes and/or 
+portfolios. Furthermore, this Opinion shall in no event be interpreted and construed as an assessment of 
+the economic performance and credit worthiness of the bond, nor to have focused on the effective 
+allocation of the funds’ use of proceeds. 
+  
+The client is fully responsible for certifying and ensuring its commitments` compliance, implementation 
+and monitoring. 
+ 
+
+ 
+ 
+
+© Sustainalytics 2016 
+
+ABOUT SUSTAINALYTICS 
+Sustainalytics is the largest independent provider of sustainability 
+research, analysis, and services to investors. We serve over 250 
+institutional investors which include some of the world's largest 
+asset owners and asset managers. Through over 20 years of 
+experience serving the responsible investment (RI) market, we have 
+gained a reputation for providing high-quality ESG research 
+solutions and excellent client service. 
+
+Sustainalytics is headed by seasoned professionals in the field of 
+business, finance, and sustainability, with a wealth of experience in 
+the Responsible Investment area. After more than 20 years of local 
+experience and expertise in the Responsible Investment (RI) market 
+Sustainalytics has developed a comprehensive understanding of 
+trends and best practices and a solid process to assist organisations 
+in integrating ESG considerations into their policies and strategies. 
+We have worked with some of the world’s financial institutions 
+including pension plans, investment managers and banks providing 
+customised support to help them achieve their RI objectives. Clients 
+include ABN AMRO, APG, BBVA, BNP Paribas, Deutsche Bank, ING 
+Bank, Lombard Odier, Lloyds Bank, Triodos Bank, UBS and over 250 
+other financial institutions and organisations. 
+
+Sustainalytics now has a staff of 250 employees globally, including 
+over 120 analysts, with operations in Amsterdam, Boston, 
+Bucharest, Frankfurt, New York, Paris, London, Singapore, Sydney, 
+Timisoara, and Toronto, and representation in Brussels and 
+Washington DC. 
+
+In 2015, Sustainalytics was named the 
+Best SRI or Green Bond Research Firm 
+by GlobalCapital. In December 2014, for 
+the third year in a row, Sustainalytics 
+was named best sustainable and 
+responsible investment research firm in 
+the Independent Research in 
+Responsible Investment (IRRI) Survey, 
+conducted by Thomson Reuters and 
+SRI-CONNECT.  
+
+ 
+ 
+
+18 
+
+

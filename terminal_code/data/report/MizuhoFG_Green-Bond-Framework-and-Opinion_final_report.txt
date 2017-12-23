@@ -1,0 +1,837 @@
+ MIZUHO FINANCIAL  
+
+GROUP, INC.   
+GREEN BOND 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+FRAMEWORK OVERVIEW AND SECOND OPINION BY 
+
+SUSTAINALYTICS 
+
+September 25, 2017 
+
+Trisha Taneja (Toronto) 
+
+Associate, Advisory Services 
+trisha.taneja@sustainalytics.com 
+(+1) 647 317 3695 
+ 
+ 
+ 
+ 
+
+Wakako Mizuta  (Tokyo) 
+
+www.sustainalytics.com 
+ 
+www.sustainalytics.com 
+ 
+www.sustainalytics.com 
+Associate, Advisory Services 
+ 
+wakako.mizuta@sustainalytics.com 
+www.sustainalytics.com 
+ 
+(+81) 3 4589 4886 
+ 
+www.sustainalytics.com 
+ 
+ 
+ 
+www.sustainalytics.com 
+ 
+ 
+
+James Hawrylak (Tokyo) 
+
+Director, Institutional Relations 
+james.hawrylak@sustainalytics.com 
+(+81) 3 4589 4886 
+
+  
+
+Manager,  
+
+Advisory Services (Toronto) 
+
+© Sustainalytics 2017 
+ 
+
+Table of Contents 
+
+1. 
+
+Introduction 
+
+2.  Overview of Issuer 
+
+3.  Framework overview 
+
+3.1  Use of Proceeds Eligibility Criteria 
+3.2  Project Evaluation and Selection Process 
+3.3  Management of Proceeds 
+3.4  Reporting 
+
+4.  Sustainalytics’ Opinion 
+
+Section 1: Sustainalytics’ Opinion on the Green Bond Framework 
+Section 2: Sustainability Performance of the Issuer 
+Section 3: Impact of Use of Proceeds 
+Conclusion 
+
+APPENDICES 
+
+Appendix 1: Sustainalytics assessment of the strength of the Equator Principles 
+Appendix 2: Green Bond/Green Bond Programme External Review Form 
+
+SUSTAINALYTICS 
+
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+3 
+
+3 
+
+4 
+4 
+5 
+6 
+6 
+
+7 
+7 
+9 
+10 
+11 
+
+12 
+12 
+13 
+
+20 
+
+2 
+
+© Sustainalytics 2017 
+ 
+
+1. INTRODUCTION 
+ 
+Mizuho Financial Group, Inc. (Mizuho FG) has developed a green bond framework (“Mizuho Green Bond 
+Framework”) under which it intends issue multiple green bonds and use the proceeds to finance projects 
+related to the three categories: 1) Renewable Energy, 2) Clean Transportation, and 3) Pollution Prevention 
+and Control.  Mizuho FG has engaged Sustainalytics to provide a second-party opinion on its framework 
+and the framework’s environmental credentials.  
+ 
+As  part  of  this  engagement,  Sustainalytics  held  conversations  with  various  members  of  Mizuho  FG’s 
+management team to understand the sustainability impact of their business processes and planned use 
+of  proceeds,  as  well  as  management  of  proceeds  and  reporting  aspects  of  the  Mizuho  Green  Bond 
+Framework. Sustainalytics also reviewed relevant public documents and non-public information.  
+ 
+This  document  contains  two  sections:  Framework  Overview-  a  summary  of  the  Mizuho  Green  Bond 
+Framework; and Sustainalytics’ Opinion- an opinion on the framework.  
+ 
+2. OVERVIEW OF ISSUER  
+Mizuho FG is a Japanese bank holding company that is the ultimate parent of the Mizuho Group, one of 
+the  largest  financial  groups  in  the  world.  The  Group  provides  a  broad  range  of  financial  services  in 
+domestic and overseas markets. 
+ 
+As  a  global  financial  group,  Mizuho  FG  contributes  to  the  sustainable  development  of  society  by 
+undertaking  a  number  of  environmental  initiatives.  These  include,  but  are  not  limited  to  addressing 
+climate change issues, building a low–carbon society and preserving biodiversity. 
+ 
+The scope of Mizuho FG's environmental activities  can be split into three categories.1 The first is finance 
+— providing funds to companies that will undertake environment–friendliness and businesses that will 
+contribute to a reduction in the environmental burden. The second is consulting, surveys and research, 
+centered around Mizuho Information & Research Institute, Inc., Mizuho FG’s think tank subsidiary. The 
+third is the product development and sales of environment–friendly investment products.  
+ 
+Mizuho FG states its belief that part of a financial institution's social responsibility is to provide financial 
+support  for  environmentally  beneficial  activities.  For  example,  Mizuho  FG  finances  renewable  energy 
+projects  (solar  power,  geothermal,  and  wind  power  generation,  etc.)  by  leveraging  its  accumulated 
+knowledge/expertise in project finance.  
+ 
+In order to accelerate its environmental initiatives, Mizuho FG is planning to issue a green bond to finance 
+lending to environment-related projects. While the issuing entity will be Mizuho FG, the entity that will 
+manage lending to Eligible Green Projects will be Mizuho Bank, Ltd. (Mizuho BK). All of the existing and 
+new  projects  to  be  financed  through  proceeds  of  the  green  bond  must  be  eligible  under  the  Use  of 
+Proceeds criteria outlined in the Framework Overview section below. 
+ 
+1 https://www.mizuho-fg.com/csr/environment/business/index.html  
+
+3 
+
+ 
+ 
+
+© Sustainalytics 2017 
+ 
+
+ 
+3. FRAMEWORK OVERVIEW  
+ 
+An amount equal to the net proceeds from any sale of green bond will be used to fund existing and new 
+qualifying environment-related projects (“Eligible Green Projects”), in whole or in part, as defined by the 
+eligibility criteria below, and by the Mizuho FG’s internal investment criteria. 
+ 
+3.1  Use of Proceeds 
+Eligibility Criteria 
+Eligible Green Projects will meet ALL of the conditions below: 
+
+(i)  A project meets one or more of the eligible project categories (a) to (c) below, 
+(ii)  A project is categorized as Category B or Category C projects in accordance with the Equator 
+
+Principles, and  
+
+(iii) A loan for a project has been financed by Mizuho BK within 24 months as of issue date of a 
+
+relevant green bond, or will be newly financed on or after the issue date. 
+
+ 
+As per the Equator Principles2, Category A projects have potentially significant adverse environmental and 
+social risks and/or impacts that are diverse, irreversible or unprecedented. Category B projects have 
+potential limited adverse environmental and social risks and/or impacts that are few in number, generally 
+site specific, largely reversible and readily addressed through mitigation measures. Category C projects 
+have minimal or no adverse environmental and social risks and/or impacts.  
+ 
+Eligible Project Categories 
+Eligible Green Projects will include projects meeting one or more of the categories below.  
+ 
+(a) RENEWABLE ENERGY 
+
+The development, construction and operation of renewable energy facilities which generate 
+wind, solar, solar thermal, biomass (except sustainable feedstock and viable forest based 
+biomass) , geothermal energy, and small hydro facilities with generation capacity of 25 
+megawatts or less. 
+ 
+
+(b) CLEAN TRANSPORTATION  
+
+Projects to develop, operate and upgrade public transportation facilities, infrastructure and 
+technologies including expansion and improvements to rail transport, non-motorised transport 
+(such as bicycles), manufacturing of  electric vehicles, and multi-modal transport.    
+
+ 
+(C) POLLUTION PREVENTION AND CONTROL 
+
+The development, construction and operation of pollution prevention and control facilities, such 
+as waste recycling and waste-to-energy power plants. 
+
+ 
+
+ 
+2 The Equator Principles: http://www.equator-principles.com/  
+
+4 
+
+ 
+ 
+
+© Sustainalytics 2017 
+ 
+
+3.2  Project Evaluation and Selection Process 
+Application of Eligibility Criteria in Project Selection  
+Eligible Green Projects are identified and selected to align with the eligibility criteria described above via 
+a process that involves participants from various functional areas including Mizuho FG’s Global Products 
+Coordination Department and Corporate Communications Department. The selection process of Eligible 
+Green Projects, is based on the list of project finances offered by Mizuho BK. Mizuho FG’s Global Products 
+Coordination Department drafts the list of Eligible Green Projects - candidate projects that are suited to 
+any of Project Categories (a) to (c) mentioned above, and that meet condition iii) above will be proposed. 
+Finally, the Corporate Communications Department will select Eligible Green Projects from the candidate 
+projects list and confirm that these projects fall into Category B or C based on the Equator Principles. 
+ 
+Environmental Objectives 
+Mizuho  FG’s  environmental  policy3 specially  addresses  tackling  climate  change  issues,  building  a  low–
+carbon  society,  promoting  a  sound  material-cycle  society,  and  preserving  biodiversity,  among  other 
+issues. In addition to the environmental policy, the key environmental initiatives4 are laid out in 6 pillars: 
+1) the development of financial products and services that encourage society to promote environmental 
+consideration, 2) compliance with environmental laws and regulations, 3) the reduction of using resources 
+and  energy  as  well  as  the  management  of  waste  disposal  in  its  business  activities,  4)  the  support  for 
+environmental  initiatives  to  its  customers  and  environmental  protection  groups,  5)  the  support  to 
+increase  environmental  awareness,  6)  corporation  with  a  diverse  range  of  stakeholders.  Mizuho 
+incorporates  these  policies  in  three  types  of  business  activities:  Environmental  Finance  (financing 
+environmentally  impactful  projects  and  environmentally  conscious  companies),  Consulting  Service, 
+Survey and Research, and Investment Products Development and Sales. 
+ 
+The Mizuho Green Bond Framework aligns with the first pillar of Mizuho’s environmental policy, i.e. the 
+development  of  financial  products  and  services  that  encourage  society  to  promote  environmental 
+consideration, and also contributes to Mizuho FG’s Environmental Finance business activity.  
+ 
+Furthermore, Mizuho FG also has a target to reduce CO2 by 10.5% by FY2020, and 19% by FY2030 through 
+its business activities, compared to FY2009 levels.  
+ 
+Process to Mitigate Environmental and Social Risks 
+The  Sustainable  Development  Office  of  Mizuho  BK’s  Global  Project  Finance  Department  (Sustainable 
+Development Office) reviews and conducts the required due diligence in light of the Equator Principles, 
+and  categorizes  projects  as  Category  A,  B  or  C  based  on  its  internal  environmental  and  social  risk 
+assessment process. Such categorization is based on the environmental and social categorization process 
+of  the  International  Finance  Corporation.  As  a  part  of  this  process, Mizuho  BK evaluates  a  project  for 
+minimal  (Category C), limited  (Category B)  or significant  (Category A)  potential adverse environmental 
+
+ 
+3 Environmental Policies and Targets, Mizuho Financial Group 
+https://www.mizuho-fg.com/csr/environment/policy/index.html 
+4 Environmental Policies and Targets, Mizuho Financial Group 
+https://www.mizuho-fg.com/csr/environment/policy/index.html 
+ 
+
+ 
+ 
+
+5 
+
+© Sustainalytics 2017 
+ 
+
+and  social  risk.  In  general,  for  each  project  where  limited  or  significant  risk  is  identified,  Mizuho  BK’s 
+internal process requires the Sustainable Development Office to work in partnership with its clients to 
+assess  and  manage  these  environmental  and  social  risks  and  impacts.  Specifically  with  respect  to  the 
+Mizuho Green Bond, projects categorized as having significant environmental risks (category A) are not 
+financed through the proceeds of the Mizuho Green Bond.  
+ 
+
+3.3        Management of Proceeds  
+An amount equal to the net proceeds from the sale of a specific issue of green bond will be loaned to 
+Mizuho BK and allocated by Mizuho BK to the financing of existing and new Eligible Green Projects. So 
+long as that tranche of bonds remains outstanding, Mizuho FG will keep the list of all Eligible Green Project 
+loans based on Mizuho BK’s internal loan data system and its output, and such records of that list will 
+show an amount equal to the net proceeds from the issuance of those bonds as allocated to the assets 
+that meet Mizuho FG’s internal investment criteria for Eligible Green Projects. Pending the allocation of 
+the net proceeds of such bond to finance Eligible Green Projects, the net proceeds will be invested in 
+overnight or otherwise short-term financial instruments. 
+ 
+Payment of principal of and interest on the bond will be made from Mizuho FG’s general funds and will 
+not be directly linked to the performance of any Eligible Green Projects.  
+ 
+Mizuho FG will review and update the Eligible Green Projects to which the net proceeds of the bond are 
+allocated on an annual basis. Any proceeds allocated to projects that have been sold, prepaid, amortized 
+or otherwise become ineligible shall be reallocated to other Eligible Green Projects.  
+ 
+3.4    Reporting  
+Allocation Reporting 
+During the term of any tranche or series of green bonds issued, Mizuho FG will provide and keep readily 
+available, on a designated website, information on the allocation of the net proceeds of these bonds, to 
+be updated at least annually.  
+ 
+This  information  will  include:  (i)  the  allocation  of  the  net  proceeds  of  those  bonds  to  Eligible  Green 
+Projects, brief description of  the Eligible Green Projects funded, current funded amounts, and funding 
+dates and (ii) assertions by management that the net proceeds of that tranche or series of green bonds 
+are  invested  either  in  qualifying  Eligible  Green  Projects  or  in  overnight  or  other  short-term  financial 
+instruments.  The  updates  and  assertions  will  be  accompanied  by  a  report  from  an  independent 
+accountant in respect of the independent accountant’s assurance of management’s assertion conducted 
+in accordance with International Standard on Assurance Engagements (ISAE) 3000. In general, Mizuho FG 
+will report on a loan by loan basis, but for smaller amount loans, Mizuho FG may report on an aggregate 
+basis. 
+ 
+Impact Reporting 
+Mizuho FG also intends to report, where feasible and when available, on the impact of Eligible Green 
+Projects. In the case of Renewable Energy projects, Mizuho FG intends to report tons of CO2 emission 
+
+ 
+ 
+
+6 
+
+© Sustainalytics 2017 
+ 
+
+equivalent avoided.  All impact reporting (as and when feasible and available) will be disclosed on an 
+aggregate basis, by eligible project category.  
+ 
+4. SUSTAINALYTICS’ OPINION  
+ 
+Section 1: Sustainalytics’ Opinion on the Green Bond Framework   
+Summary 
+Overall, Sustainalytics is of the opinion that the Mizuho Green Bond Framework creates meaningful 
+impact, is transparent, and aligns with the Green Bond Principles 2017 and Japan’s Green Bond Guidelines 
+2017. Some considerations in Sustainalytics’ assessment are listed below: 
+
+  Renewable Energy, Clean Transportation, and Pollution Prevention and Control are recognized by 
+the 2017 Green Bond Principles and Japan’s Green Bond Guidelines 2017 as project categories 
+with clear environmental impact.  
+
+  Mizuho  FG’s  disclosure  and  processes  with  respect  to  management  of  proceeds  and  project 
+
+selection process are in line with market practices  
+
+  Mizuho FG has committed to reporting on the impact of Eligible Green Projects, where feasible 
+and when available. In the case of Renewable Energy projects, Mizuho FG intends to report tons 
+of CO2 emission equivalent avoided.  Reporting on quantitative impact indicators is in line with 
+market practice, and Mizuho FG is following this market practice for Renewable Energy projects. 
+Sustainalytics encourages the issuer to report on quantitative impact indicators for other eligible 
+project categories, when such information is feasible and available. 
+ 
+
+Alignment with Green Bond Principles 2017: Sustainalytics has determined that the Mizuho Green Bond 
+Framework aligns to the four pillars of the Green Bond Principles 2017. For detailed information please 
+refer to Appendix 2: Green Bond/Green Bond Programme External Review Form. 
+ 
+Alignment with Japan’s Green Bond Guidelines  2017 
+Sustainalytics is of the opinion that Japan’s Green Bond Guidelines 2017 are in line with the ICMA Green 
+Bond Principles. In addition, Japan’s Green Bond Guidelines  2017 communicate what an issuer should do 
+to issue a credible green bond, and also highlight what an issuer is recommended to do. Sustainalytics 
+assessed the alignment between the Mizuho Green Bond Framework and the “should” items outlined in 
+Japan’s Green Bond Guidelines  2017. 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+7 
+
+© Sustainalytics 2017 
+ 
+
+ICMA Green Bond Principles and 
+
+Japan’s Green Bond Guidelines, 20175 
+
+1.  Use of Proceeds 
+
+ 
+
+ 
+
+Alignment with GBP 
+and with Japan’s 
+Green Bond 
+Guidelines 2017? 
+Yes 
+
+2.  Process for Project Evaluation and 
+
+Yes 
+
+Selection 
+
+ 
+
+3.  Management of Proceeds 
+ 
+
+Yes 
+
+ 
+5 Green Bond Guidelines, 2017, Summary, Ministry of the Environment, Japan 
+https://www.env.go.jp/en/policy/economy/gb/summary2017.pdf 
+6 For detailed comments on alignment with ICMA GBP, please see Appendix 2. 
+
+ 
+ 
+
+Sustainalytics’ comments on alignment with 
+Japan’s Green Bond Guidelines 2017.6 
+
+Eligible project categories (Renewable 
+energy, Clean Transportation, and Pollution 
+Prevention and Control) in the Mizuho Green 
+Bond Framework are outlined with clear 
+details and are recognized by Japan’s Green 
+Bond Guidelines 2017 as providing clear 
+environmental benefit. Mizuho FG also 
+identifies social and environmental risk (any 
+potential negative impact) associated with 
+the eligible projects, and explains how they 
+manage the risk through the application of 
+the Equator Principles.  
+Mizuho Green Bond Framework well 
+describes information, required by Japan’s 
+Green Bond Guidelines  2017 , on 1) 
+“Environmental sustainability objectives” (In 
+this report: Environmental Objectives), 2) 
+“Criteria” for evaluating and selecting specific 
+green projects (in this report: “Eligibility 
+Criteria” and “Application of Eligibility Criteria 
+in Project Selection”), and 3) “Process” to 
+evaluate and select eligible green projects (In 
+this report: “Process to Mitigate 
+Environmental and Social Risks” and 
+“Application of Eligibility Criteria in Project 
+Selection”).  
+Mizuho Green Bond Framework clarifies that 
+Mizuho FG manages proceeds by 1) keeping 
+the list of all Eligible Green Project loans 
+based on Mizuho BK’sinternal loan data 
+system, 2) recoding the amount of the 
+allocated and unallocated proceeds (which 
+will be invested in short-term financial 
+instruments) to match to the total proceeds 
+allocated by the green bond, and 3) making 
+sure that the proceeds are tracked and 
+managed, which are all followed by Japan’s 
+Green Bond Guidelines 2017. Mizuho FG 
+explains this to green bond investors.  
+
+8 
+
+© Sustainalytics 2017 
+ 
+
+4.  Reporting 
+ 
+
+Yes 
+
+Mizuho Green Bond Framework clearly 
+commits to disclose the five items annually, 
+which are required by Japan’s Green Bond 
+Guidelines  2017. List of projects that have 
+been allocated, brief description of projects, 
+amount allocated, environmental benefits, 
+and information on unallocated proceeds. 
+
+ 
+Section 2: Sustainability Performance of the Issuer 
+ 
+Contribution of framework to Mizuho Financial Group’s sustainability strategy 
+Mizuho’s environmental policy and the six pillars relating to its policy are described in the Mizuho Green 
+Bond Framework. Sustainalytics ESG research assesses Mizuho FG as having a strong environmental policy 
+as the policy (i) is approved by senior management or the board of directors, (ii) undertakes a commitment 
+to consult with stakeholders, and (iii) takes a precautionary approach to environmental challenges, i.e. 
+Mizuho recognizes climate change as a risk and takes voluntary and proactive approach to address climate 
+change.  
+ 
+As described in the Mizuho Green Bond Framework, Mizuho’s environmental policy is implemented in its 
+three lines of business, including Environmental Finance. Sustainalytics is of the opinion that  Mizuho’s 
+commitment  to  financing  environmentally  impactful  projects  is  strong,  as  demonstrated  through  the 
+transparent reporting on its website. As of March 2017, Mizuho reports to have financed 604.1 billion JPY 
+of environmentally impactful projects7. Sustainalytics is of the opinion that such transparent reporting is 
+indicative of the priority Mizuho gives to environmental finance business activity.  
+ 
+Overall,  the  Mizuho  Green  Bond  Framework  is  aligned  with  Mizuho  FG’s  environmental  policy,  and 
+contributes to enhancing its Environmental Finance business activity.  
+ 
+Well positioned to address common environmental and social risks associated with projects  
+Mizuho FG is well positioned to manage key environmental and social risks associated with the Mizuho 
+Green Bond projects. In general,  some key environmental and social risks associated with projects are 
+utilization  of  viable  forest  or  food  products  as  biomass,  and  worker  safety  and  pollution  control  in 
+construction  and  development  projects.  The  strength  of  Mizuho’s  risk  management  is  based  on  the 
+following:  
+ 
+
+1.  Mizuho FG stated to Sustainalytics its commitment that biomass project which use viable forest 
+and food products as biomass for energy production will not be included as Eligible Green Project. 
+Mizuho  FG  has  formalized  this  commitment  in  Mizuho  Green  Bond  Framework,  which 
+Sustainalytics considers to be in line with market norms.  
+ 
+
+2.  Mizuho  BK  demonstrates  that  its  Sustainable  Development  Office  reviews  and  conducts  the 
+required  due  diligence  with  alignments  to  the  Equator  Principles  (EP).  The  EP  are  commonly 
+
+ 
+7Environment-related Funding Provided by MHBK  
+ https://www.mizuho-fg.com/investors/financial/annual/data1703/pdf/data1703_07.pdf 
+
+9 
+
+ 
+ 
+
+© Sustainalytics 2017 
+ 
+
+accepted as a credible standard and widely used by financial institutions worldwide, including 
+several multilateral development banks and export credit agencies. Lending as per the EP thus 
+contributes  to  Mizuho  BK’s  robust  environmental  and  social  risk  mitigation  approach.  For 
+Sustainalytics’ complete analysis on the EP please see Appendix 1.  
+
+ 
+
+3.  As  a  part  of  the  assessment  and  categorization  process  of  the  EP,  Mizuho  BK,  though  its 
+
+Sustainable Development Office, works with clients to manage any risks identified.  
+
+ 
+Based on the above, Sustainalytics is of the opinion that Mizuho has strong internal management system 
+and is well prepared to mitigate any environmental risks. 
+ 
+Section 3: Impact of Use of Proceeds  
+All eligible project categories are recognized as impactful by the ICMA Green Bond Principles, and Japan’s 
+Green Bond Guidelines  2017. Sustainalytics has highlighted below the impact of renewable energy, as 
+Mizuho has indicated that renewable energy forms the bulk of their portfolio.  
+ 
+Importance of renewable energy in Japan  
+The energy self-sufficiency ratio of Japan is  low especially compared to OECD countries8, and the country 
+imports about 84% of its energy9. The energy source that Japan heavily depended on before the Great 
+East Japan Earthquake in 2011 was nuclear power, the development of which Japan had set as a national 
+strategy  priority  since  1973 10.  However,  it  became  necessary  for  Japan  to  revise  its  energy  mix  and 
+strategic  plan  after  the  country  experienced  an  accident  at  Fukushima  Daiichi  Nuclear  Plan  and 
+subsequent shutdown of nuclear plants across Japan due to residents’ concerns. In the new strategic plan, 
+the target of renewable energy including wind, solar, geothermal, biomass and hydro is set at 22-24% by 
+2030 – a significant increase from 1.1% before the earthquake. Given this context, it is clear that there is 
+a growing need to finance  the construction and operation renewable energy facilitates in Japan. As well, 
+given the COP22 targets and commitments, and the need for a global transition to a low-carbon economy, 
+there is also a clear need for promoting the development of renewable energy projects globally.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+8 Japan's Energy, Ministry of Economy, Trade and Industry Agency for Natural Resources and Energy, Japan 
+http://www.enecho.meti.go.jp/en/category/brochures/pdf/japan_energy_2016.pdf 
+9 Nuclear Power in Japan, World Nuclear Association 
+http://www.world-nuclear.org/information-library/country-profiles/countries-g-n/japan-nuclear-power.aspx 
+10 Nuclear Power in Japan, World Nuclear Association 
+http://www.world-nuclear.org/information-library/country-profiles/countries-g-n/japan-nuclear-power.aspx 
+
+10 
+
+ 
+ 
+
+© Sustainalytics 2017 
+ 
+
+Alignment with/contribution to SDGs 
+The Sustainable Development Goals (SDGs) were established in September 2015 and form an agenda for 
+achieving sustainable development by the year 2030. The Mizuho Green Bond will advance the following 
+SDG goals and targets:  
+ 
+ 
+
+SDG 
+
+SDG target 
+
+Use of Proceeds 
+Category 
+Renewable Energy 
+
+Clean Transportation 
+
+7. Affordable and Clean 
+Energy 
+9.  Industry,  Innovation 
+and Infrastructure 
+
+7.2  By  2030,  increase  substantially  the  share  of 
+renewable energy in the global energy mix 
+9.1  Develop  quality,  reliable,  sustainable  and 
+resilient  infrastructure,  including  regional  and 
+trans-border infrastructure, to support economic 
+3.9 By 2030, substantially reduce the number of 
+deaths  and  illnesses  from  hazardous  chemicals 
+and  air,  water  and 
+soil  pollution  and 
+contamination 
+
+Pollution  prevention 
+and control 
+
+3.  Ensure  healthy  lives 
+and promote well-being 
+for all at all ages 
+
+ 
+ 
+ 
+Conclusion  
+The Mizuho Green Bond Framework  is transparent and provides  clarity regarding  the  use of proceeds 
+which  focus  on  Renewable  Energy,  Clean  Transportation,  and  Pollution  Prevention  and  Control-  all  of 
+which  are  included  in  the  GBP  as  an  eligible  green  project  categories.  Additionally,  Mizuho’s  project 
+selection process is based on external standards such as the Equator Principles. This ensures that projects 
+funded  through  bond  proceeds  have  minimal  or  limited  adverse  environmental  or  social  impacts. 
+Sustainalytics is of the opinion that the Mizuho Green Bond Framework aligns with the four pillars of the 
+GBP 2017 and Japan’s Green Bond Guidelines  2017 , and is robust and credible.  
+
+ 
+
+ 
+ 
+
+11 
+
+© Sustainalytics 2017 
+ 
+
+APPENDICES 
+ 
+Appendix 1: Sustainalytics assessment of the strength of the Equator Principles 
+Mizuho BK adheres to the Equator Principles (EP) to ensure that the projects it finances are developed 
+and operate in accordance with international environmental and social standards. In Sustainalytics’ view, 
+the  credibility  of  the  EP  as  a  risk  management  tool  for  large-scale  projects  derives  from  its  ability  to 
+ensure:  
+ 
+
+(i) 
+
+(ii) 
+
+(iii) 
+
+A mandatory review of all projects with respect to their level of impact in a comprehensive 
+range of environmental and social areas  
+Principle 1 of the EP mandates a review and categorisation of all projects as having significant 
+(Category a), limited (Category b), or minimal (Category c) environmental and social impact. 
+Such Categorization is based on the environmental and social categorization  process of the 
+International  Finance  Corporation.  For  each  project  where  limited  or  significant  risk  is 
+identified, Mizuho BK’s internal process requires the Sustainble Development Office to work 
+in  partnership  with  its  clients  to  assess  and  manage  environmental  and  social  risks  and 
+impacts. 
+ 
+Strong mitigation process for projects with significant or limited adverse environmental and 
+social impact  
+The  EP  (specifically  Principles  2-6)  also  require  all11
+ Category  A  and  B  projects  to  conduct 
+environmental  and  social  impact  assessments,  develop  and  maintain  environmental 
+management  systems,  demonstrate  effective  stakeholder  engagement,  and  establish  a 
+grievance  mechanism  to  address  concerns  around  the  project’s  environmental  and  social 
+performance. Sustainalytics is of the opinion that the above mentioned components combine 
+to form a strong overall process for mitigating impacts throughout the life of project.  
+ 
+Continuous independent assurance of a project’s environmental and social impact 
+Principle  7  of  the  EP  require  that  Category  A  and  as  appropriate,  Category  B  projects  are 
+subject to an independent review to assess the strength of the mitigation processes outlined 
+above, and to assess compliance with the EP. Additionally, Principle 9 of the EP also requires 
+the appointment of an independent environmental and social consultant to verify ongoing 
+monitoring and reporting of project impacts. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+11 Please note that for projects implemented in a set list of ‘Designated Countries,’ compliance with host country laws meets these mitigation 
+requirements. This is because these countries are assessed as having robust environmental and social governance, legislation systems and 
+institutional capacity designed to protect their people and the natural environment.  
+
+12 
+
+ 
+ 
+
+© Sustainalytics 2017 
+ 
+
+Disclaimer 
+All rights reserved. No part of this second party opinion (the “Opinion”) may be reproduced, transmitted 
+or published in any form or by any means without the prior written permission of Sustainalytics.  
+  
+The Opinion was drawn up with the aim to explain why the analyzed bond is considered sustainable and 
+responsible. Consequently, this Opinion is for information purposes only and Sustainalytics will not 
+accept any form of liability for the substance of the opinion and/or any liability for damage arising from 
+the use of this Opinion and/or the information provided in it. 
+  
+As the Opinion is based on information made available by the client, Sustainalytics does not warrant that 
+the information presented in this Opinion is complete, accurate or up to date. 
+  
+Nothing contained in this Opinion shall be construed as to make a representation or warranty, express or 
+implied, regarding the advisability to invest in or include companies in investable universes and/or 
+portfolios. Furthermore, this Opinion shall in no event be interpreted and construed as an assessment of 
+the economic performance and credit worthiness of the bond, nor to have focused on the effective 
+allocation of the funds’ use of proceeds. 
+  
+The client is fully responsible for certifying and ensuring its commitments` compliance, implementation 
+and monitoring. 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+19 
+
+© Sustainalytics 2017 
+ 
+
+SUSTAINALYTICS 
+ 
+Sustainalytics  is  an  independent  ESG  and  corporate  governance  research,  ratings  and  analysis  firm 
+supporting  investors  around  the  world  with  the  development  and  implementation  of  responsible 
+investment  strategies. With 13 offices globally, Sustainalytics partners with institutional investors who 
+integrate  environmental,  social  and  governance  information  and  assessments  into  their  investment 
+processes.  Today,  the  firm  has  more  than  300  staff  members,  including  170  analysts  with  varied 
+multidisciplinary  expertise  of  more  than  40  sectors.  Through  the  IRRI  survey,  investors  selected 
+Sustainalytics as the best independent responsible investment research firm for three consecutive years, 
+2012 through 2014 and in 2015, Sustainalytics was named among the top three firms for both ESG and 
+Corporate Governance research. The firm was also named the Best SRI or Green Bond Research Firm by 
+Global Capital in 2015. For more information, visit www.sustainalytics.com  
+ 
+Sustainalytics 
+info@sustainalytics.com  
+www.sustainalytics.com  
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+20 
+
+

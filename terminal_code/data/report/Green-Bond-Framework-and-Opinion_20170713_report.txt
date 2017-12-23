@@ -1,0 +1,1209 @@
+ 
+ 
+  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ DBS GREEN BOND 
+
+FRAMEWORK 
+
+ 
+
+ 
+ 
+FRAMEWORK OVERVIEW AND SECOND OPINION BY 
+ 
+
+ 
+
+ 
+
+SUSTAINALYTICS 
+
+July 13, 2017 
+
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+
+Catalina Secreteanu (Sydney) 
+
+www.sustainalytics.com 
+ 
+www.sustainalytics.com 
+ 
+www.sustainalytics.com 
+ 
+www.sustainalytics.com 
+ 
+www.sustainalytics.com 
+ 
+www.sustainalytics.com 
+ 
+www.sustainalytics.com 
+ 
+
+Associate Director, Institutional Relations 
+
+catalina.secreteanu@sustainalytics.com 
+
+(+61) 2 8015 5651  
+
+  
+ 
+
+Vikram Puppala  
+
+Manager,  
+
+Charlotte Peyraud (New York) 
+
+Senior Associate, Institutional Relations 
+
+charlotte.peyraud@sustainalytics.com 
+
+(+1) 646 518 0184 
+ 
+
+Vikram Puppala  
+
+Manager,  
+
+Advisory Services (Toronto) 
+
+Trisha Taneja (Toronto) 
+
+Associate, Advisory Services 
+trisha.taneja@sustainalytics.com 
+(+1) 647 317 3695 
+
+  
+
+ 
+ 
+
+Vikram Puppala  
+
+© Sustainalytics 2017 
+ 
+
+TABLE OF CONTENTS 
+
+FRAMEWORK OVERVIEW AND SECOND OPINION BY SUSTAINALYTICS 
+
+1. 
+
+Introduction 
+
+2.  Overview of Issuer 
+
+3.  Framework overview 
+3.1  Use of Proceeds 
+3.2 Project Evaluation and Selection Process 
+3.3 Management of Proceeds 
+3.4 Reporting 
+
+4  SUSTAINALYTICS’ OPINION 
+
+Section 1: Sustainability Performance of the Issuer 
+Section 2: Impact of Use of Proceeds 
+Section 3: Sustainalytics Opinion on the DBS Green Bond Framework 
+Conclusion 
+
+APPENDICES 
+
+Appendix 1: Comparison of Real Estate Certification Schemes 
+Appendix 2: Green Bond Programme External Review Form 
+
+SUSTAINALYTICS 
+
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+1 
+
+3 
+
+3 
+
+4 
+4 
+6 
+7 
+7 
+
+9 
+9 
+10 
+11 
+12 
+
+13 
+13 
+15 
+
+22 
+
+2 
+
+© Sustainalytics 2017 
+ 
+
+1. INTRODUCTION 
+ 
+DBS (comprising DBS Group Holdings Ltd and its subsidiaries) has developed a Green Bond Framework 
+(Framework) under which it is considering to issue multiple green bonds. DBS has engaged Sustainalytics 
+to provide a second opinion on the Framework and the Framework’s environmental credentials. As part 
+of this engagement, Sustainalytics held conversations with various members of DBS’ management team 
+to understand the sustainability impact of DBS’ business processes and the planned use of proceeds under 
+the  Framework.  Sustainalytics  also  reviewed  relevant  public  and  internal  documents.  This  document 
+contains  two  sections:  Framework  Overview  –  summary  of  DBS  Green  Bond  Framework;  and 
+Sustainalytics’ Opinion – an opinion on the Framework. 
+ 
+ 
+2. OVERVIEW OF ISSUER 
+ 
+DBS is a financial services group in Asia, with over 280 branches across 18 markets. Headquartered and 
+listed in Singapore, DBS has a growing presence in the three key Asian axes of growth: Greater China, 
+Southeast  Asia  and  South  Asia.  The  Group  provides  a  full  range  of  services  in  consumer,  SME  and 
+corporate banking. 
+ 
+DBS states that it has a sustainability strategy that spans its entire value chain. As disclosed in its 2016 
+Annual  Report1,  the  Group  has  enhanced  its  responsible  lending  policies,  integrated  climate  change 
+considerations into its strategy and engaged local and international stakeholders to advance sustainability 
+and  climate  change  reporting.  Its  sustainability  strategy  is  composed  of  four  pillars2:  (1)  Responsible 
+Banking; (2) Responsible Corporate Citizenship; (3) Creating Social Impact; and (4) being an Employer of 
+Choice.  As  per  its  website,  DBS  also  states  that  it  has  chosen  to  focus  on  four  specific  Sustainable 
+Development Goals (SDGs)3 – SDG 7: Affordable and Clean Energy, SDG 8: Decent Work and Economic 
+Growth, SDG 12: Responsible Consumption and Production, and SDG 13: Climate Action.  According to 
+DBS,  this  focus  takes  into  account  DBS’  unique  heritage,  strategy,  the  markets  it  operates  in  and  its 
+businesses. 
+ 
+To  further  its  four-pronged  sustainability  strategy,  and  its  commitment  to  advancing  the  SDGs,  DBS  is 
+planning to issue green bonds to finance environmentally impactful assets and projects across the markets 
+it operates in. 
+ 
+ 
+ 
+ 
+
+ 
+1 https://www.dbs.com/annualreports/2016/pdf/dbs_annual_report_2016.pdf  
+2 https://www.dbs.com/sustainability/default.page  
+3 https://www.dbs.com/sustainability/overview/us-sustainable-development-goals/default.page  
+
+ 
+ 
+
+3 
+
+© Sustainalytics 2017 
+ 
+
+3. FRAMEWORK OVERVIEW 
+The Framework sets out the guidelines for DBS’ Green Bond issuances in accordance with the four core 
+components of the Green Bond Principles (GBP)4 issued by the International Capital Market Association 
+(ICMA):  use  of  proceeds;  process  for  project  evaluation  and  selection;  management  of  proceeds;  and 
+reporting. 
+ 
+3.1  Use of Proceeds 
+The proceeds from DBS’ Green Bond issuances (Proceeds) will be used to finance or refinance new or 
+existing green assets/projects which meet the criteria outlined below (Eligibility Criteria). Where relevant, 
+the Proceeds may also be used to finance companies that derive 90% or more of their revenues from 
+green assets/projects which meet the Eligibility Criteria. 
+ 
+Eligibility Criteria  
+
+1.  GREEN BUILDINGS 
+
+a.  Purchase, construction or renovation of commercial and residential buildings that meet 
+recognised standards, such as Singapore Building and Construction Authority (BCA) Green 
+Mark  (Gold Plus  and  above),  Hong Kong  BEAM Plus (Gold  and  above),  LEED (Gold and 
+above), or China Three Star Green Building Evaluation Standard (Three Star rating). 
+  
+
+2.  SUSTAINABLE TRANSPORTATION 
+a.  Public Transportation: 
+
+i.  Operation  of  low-emission  mass  transportation  systems  such  as  rail,  metros, 
+
+trams, cable cars, electric/hybrid buses, and bicycle schemes. 
+
+ii.  Production  of  public  transport  vehicles,  such  as  buses,  passenger  trains,  and 
+
+ferries. 
+
+iii.  Development of infrastructure for mass transportation, such as railway lines and 
+electric lines. This also includes development of supporting infrastructure such as 
+signalling  and  communication  technologies,  as  well  as  general  information 
+technology upgrades. 
+
+b.  Clean, private, light-duty vehicles: 
+
+i.  Production and distribution of clean or environmentally-friendly vehicles. 
+ii.  Purchase of clean vehicles by consumers. 
+
+c.  Clean, private, electric or hybrid heavy-goods vehicles: 
+
+i.  Production of clean or environmentally-friendly vehicles.  
+ii.  Purchase of clean vehicles by consumers. 
+
+ 
+Clean vehicles are electric and hybrid vehicles that have been classified as A1 or A2 
+under the Vehicular Emissions Scheme (VES) as determined by the Land Transport 
+Authority of Singapore (or such other equivalent ratings in other countries). 
+
+ 
+ 
+
+ 
+4 https://www.icmagroup.org/assets/documents/Regulatory/Green-Bonds/GreenBondsBrochure-JUNE2017.pdf  
+
+4 
+
+ 
+ 
+
+© Sustainalytics 2017 
+ 
+
+3.  RENEWABLE ENERGY 
+
+a.  Construction and operation of wind and solar infrastructure. 
+b.  Production of components destined for wind and solar projects. 
+c.  Purchase of wind and solar energy products by consumers. 
+d.  Construction and operation of run-of-river hydro projects <25 MW. 
+e.  Construction, production, operation and consumer purchase of other generally accepted 
+sources  of  renewable  energy  as  recognised  by  the  International  Renewable  Energy 
+Agency (IRENA)5. 
+ 
+
+4.  ENERGY EFFICIENCY 
+
+a.  Development and production of products or technologies that reduce industrial energy 
+consumption,  such  as  improved  chillers,  improved  lighting  technology  and  enhanced 
+battery capacity. 
+
+b.  Purchase and installation of such products or technologies by consumers. 
+
+ 
+
+5.  WASTE MANAGEMENT 
+
+a.  Construction,  operation  or  upgrade  of  recycling 
+
+infrastructure, 
+
+including  waste 
+
+minimisation, filtering, management, recycling and reuse. 
+
+b.  Construction,  operation  or  upgrade  of  waste-to-energy  power  plants  that  use 
+
+environmentally-friendly technologies, such as methane capturing. 
+
+ 
+
+6.  CLIMATE CHANGE ADAPTATION 
+
+a.  Development,  production  and  purchase/installation  of  products  or  technologies  that 
+enable  adaptation  to  climate  change,  including  information  support  systems  such  as 
+climate observation and early warning systems. 
+
+b.  Construction, investment or operation of adaptation related-projects that contribute to 
+
+a reduction in vulnerability to climate change. 
+
+ 
+The Proceeds may also be used to fund the following eligible assets/projects within DBS’ own operations: 
+ 
+
+  RENEWABLE ENERGY - Installation of solar panels or other renewable energy equipment. 
+  ENERGY  EFFICIENCY-  Purchase  and  installation  of  products  or  technologies  that  reduce  energy 
+
+consumption, such as improved lighting technology and enhanced battery capacity. 
+
+  WASTE  MANAGEMENT-  Purchase  and  installation  of  recycling  infrastructure,  including  waste 
+
+minimisation, filtering, management, recycling and reuse. 
+
+ 
+ 
+
+ 
+
+ 
+5 http://www.irena.org 
+
+ 
+ 
+
+5 
+
+© Sustainalytics 2017 
+ 
+
+Exclusionary Criteria 
+DBS has developed a list of exclusionary criteria on the use of the Proceeds. In this regard, DBS commits 
+to  not  knowingly  using  the  Proceeds  for  the  financing  of  assets/projects  included  in  the  exclusionary 
+criteria. 
+ 
+
+1.  Large scale hydro projects (i.e. projects that generate greater than 25 MW of electricity) 
+2.  Transmission infrastructure or systems where 25% or more of electricity transmitted to the grid 
+
+is generated using fossil fuels 
+
+3.  Nuclear energy technology, equipment or infrastructure 
+4.  Agricultural or afforestation operations located on land designated as primary forest, high 
+
+conservation value areas, or legally preserved areas 
+
+5.  Payday loans and predatory lending activities 
+6.  Production or distribution of adult entertainment  
+7.  Manufacture of alcohol or wholesale of alcoholic beverages  
+8.  Manufacture or wholesale of tobacco products  
+9.  Ownership or operation of gambling establishments/activities 
+10. Manufacture or retail sale and distribution of weapons and small arms; or the production of 
+products and services supporting the manufacture or retail sale of weapons and small arms 
+
+11. Extraction, refining, or transportation of fossil fuels 
+12. Production or refining of palm oil 
+
+ 
+3.2 Project Evaluation and Selection Process 
+Environmental Sustainability Objectives 
+DBS manages sustainability along four pillars6: 1) Responsible Banking; 2) Responsible Corporate 
+Citizenship; 3) Creating Social Impact; and 4) Employer of Choice.  
+  
+Within these pillars, DBS has chosen to focus on four SDGs where DBS believes it can make the most 
+impactful contributions, taking into account its heritage, strategy, the markets it operates in and its 
+businesses. They are:  
+
+  SDG 7 – Affordable and Clean Energy 
+  SDG 8 – Decent Work and Economic Growth 
+  SDG 12 – Responsible Consumption and Production 
+  SDG 13 – Climate Action. 
+
+ 
+The project evaluation and selection process is guided by DBS’ focus on “Responsible Banking”, which is 
+one of the four pillars anchoring their sustainability strategy, and is designed to contribute to SDGs 7 
+and 13. 
+ 
+ 
+ 
+
+ 
+6 https://www.dbs.com/sustainability/default.page 
+
+ 
+ 
+
+6 
+
+© Sustainalytics 2017 
+ 
+
+Application of Eligibility and Exclusionary Criteria in Project Selection  
+DBS has developed a two-step approach to project evaluation and selection: 
+
+1.  Relevant business units are responsible for the screening and selection of assets or projects using 
+
+the Eligibility Criteria and exclusionary criteria, as part of the credit evaluation process; and 
+
+2.  The DBS Sustainability Council7 is responsible for the review and approval of the assets or 
+
+projects proposed by the relevant business units to ensure compliance with the Framework.  
+
+(ESG)  risks  as  part  of  the  credit  evaluation  process.  For  more 
+
+ 
+Process to Mitigate Environmental and Social Risks Stemming from Eligible Projects 
+The  DBS  Responsible  Financing  Standard  sets  out  DBS’  overarching  approach  to  responsible  financing  and 
+provides  structured  and  detailed  guidance  to  identify  and  assess  potential  environmental,  social  and 
+governance 
+information,  see 
+https://www.dbs.com/sustainability/responsible-banking/responsible-financing/default.page.  
+ 
+3.3 Management of Proceeds  
+The  Proceeds will be  allocated by DBS to finance  designated  eligible green  assets/projects  across DBS 
+(Pool),  selected  in  accordance  with  the  Eligibility  Criteria  and  exclusionary  criteria,  and  using  the 
+evaluation and selection process mentioned above. DBS will monitor the allocation of the Proceeds and 
+the  Pool  via  internal  information  systems.  A  register  will  be  created  to  facilitate  the  monitoring  and 
+reporting of the issued Green Bonds and the Pool.  
+ 
+DBS intends to designate sufficient green assets or projects into the Pool to ensure that its outstanding 
+balance always exceeds the Proceeds. For each new Green Bond issuance, where necessary, additional 
+eligible green assets or projects will be added to the Pool to ensure sufficient and timely allocation of the 
+incremental net proceeds. Where the allocation of the Proceeds is pending due to there being insufficient 
+assets in the Pool, DBS may deploy the Proceeds at its own discretion in cash or high-quality marketable 
+instruments in accordance with its liquidity management strategy in the interim.  
+ 
+During the life of the issued Green Bonds, if the designated assets or projects cease to fulfil the Eligibility 
+Criteria, DBS will use its best efforts to find and allocate the Proceeds to replacement assets or projects 
+that comply with the Eligibility Criteria as soon as reasonably practicable. 
+ 
+3.4 Reporting  
+Allocation Reporting 
+As long as there are outstanding Green Bonds issued under this Framework, DBS will publish a report on 
+an annual basis on its website that includes, at the minimum, the following information:  
+
+1.  Allocated Proceeds by eligibility criterion, together with a description of the types of projects or 
+
+businesses that are being financed; and 
+
+2.  The remaining balance of unallocated Proceeds at the end of the reporting period. 
+
+ 
+
+ 
+7 The DBS Sustainability Council comprises senior leaders across business and support units, including Finance, Technology and Operations, 
+Treasury and Markets, Institutional Banking, Consumer Banking, Risk Management , Group Strategic Marketing and Communications and DBS 
+Foundation/. For more information, see https://www.dbs.com/sustainability/overview/sustainability-governance/default.page 
+
+7 
+
+ 
+ 
+
+© Sustainalytics 2017 
+ 
+
+Where  possible,  DBS  will  also  provide  additional  information,  case  studies  or  examples  of  financed 
+projects  or  businesses,  subject  to  considerations  such  as  confidentiality  agreements  and  competition 
+issues.  
+ 
+The annual reporting will be reviewed and approved by the DBS Sustainability Council. Furthermore, DBS 
+intends to engage an external auditor to provide independent verification and assurance on its reporting 
+and management of Proceeds in accordance with the Framework. 
+ 
+Impact Reporting  
+Where relevant and possible, DBS will also report on selected impact metrics (per project or in aggregate 
+for all projects financed by the Proceeds), as outlined in Table 1 below. 
+ 
+Table 1 
+
+Eligibility Criteria 
+Renewable energy 
+
+Energy efficiency 
+
+Certified real estate 
+
+Example Impact Metric 
+
+kWh of power generated from renewable energy 
+
+ 
+  Tonnes of carbon dioxide (CO2) equivalent avoided 
+  Energy saved per year (kWh/year) 
+  Percentage energy efficiency achieved 
+  Energy consumption reduced per square foot 
+ 
+
+List of eligible buildings that received third party-verified green 
+building certification  
+
+Public transport 
+
+  Greenhouse gas (GHG) emissions savings/tonnes of CO2 
+
+equivalent avoided 
+
+ 
+
+8 
+
+ 
+
+ 
+
+ 
+ 
+
+© Sustainalytics 2017 
+ 
+
+4  SUSTAINALYTICS’ OPINION 
+ 
+Section 1: Sustainability Performance of the Issuer 
+ 
+Alignment of the DBS Green Bond Framework to DBS’ sustainability strategy and the SDGs 
+DBS has a clear sustainability strategy with four pillars: (1) a commitment to responsible banking practices, 
+including being the book-runner for two green bond insurances to-date; (2) a commitment to minimise 
+negative environmental and social risks and impacts stemming from its own operations and supply chain; 
+(3) a commitment to create social impact; and (4) a commitment to be an employer of choice.   
+ 
+As  reflected  in  this  sustainability  strategy,  DBS  is  committed  to  contributing  to  positive  societal 
+development through responsible products and services as well as responsible conduct  within its own 
+operations. Both of these components are addressed by the DBS Green Bond Framework.  
+ 
+Additionally, DBS also states a commitment to advance four SDGs within the context of its sustainability 
+strategy  –  SDG  7:  Affordable  and  Clean  Energy,  SDG  8:  Decent  Work  and  Economic  Growth,  SDG  12: 
+Responsible Consumption and Production, and SDG 13: Climate Action. The DBS Green Bond framework 
+will also contribute to the DBS’ objective to advance the SDGs 7 and 13 through its Responsible Banking 
+pillar.  
+ 
+Sustainalytics  is  of  the  opinion  that  the  DBS  Green  Bond  Framework  is  aligned  with  DBS’  corporate 
+sustainability strategy, and will contribute to its objective to advance the SDGs.  
+ 
+Well positioned to address common environmental and social risks associated with the projects 
+By offering financing services, banks are exposed to risks associated with controversial companies and/or 
+projects  they  may  finance.  To  reduce  exposure  and  prevent  negative  impacts,  banks  are  expected  to 
+implement ESG standards for assessing companies and projects they choose to finance.  
+ 
+DBS  conducts  assessments  on  environmental  and  social  risks  when  starting  relationships  with  new 
+customers, granting new loans and revising loans. This includes continuous monitoring of ESG risks across 
+its  transactions  and  enhanced  due  diligence  in  relation  to  clients  operating  in  high-risk  sectors  and 
+performing sensitive activities. Additionally, DBS requires Environmental and Social Impact Assessments 
+and  related  mitigation  plans  for  all  project  finance  transactions.  In  cases  of  non-compliance,  DBS  is 
+committed to engage with its customers to mitigate ESG risks and terminate relationships, if necessary. 
+An  internal  escalation  procedure  exists  to  resolve  any  issues  with  respect  to  lending  practices,  where 
+relevant Global Industry Heads, Country Institutional Banking Group Heads and Global Industry Executive 
+Credit Risk Manager are ultimately accountable for a sign-off. Risk assessment procedures are reviewed 
+regularly to incorporate emerging new risks and best practices. DBS’ Board Risk Management Committee 
+oversees ESG related risk assessment frameworks. 
+ 
+DBS  has  strong  responsible  investment  policies,  such  as  a  commitment  to  integrate  ESG  factors,  a 
+commitment  to  exclusion  based  on  the  customers’  activities,  and  a  commitment  to  engage  with 
+customers on ESG issues. Monitoring of ESG risks is performed at both customer and portfolio levels, and 
+
+ 
+ 
+
+9 
+
+© Sustainalytics 2017 
+ 
+
+is integrated with the Group’s existing credit review processes. Overall, Sustainalytics is of the opinion 
+that DBS has comprehensive internal management systems to prevent and mitigate ESG risks in its lending 
+practices. 
+ 
+Section 2: Impact of Use of Proceeds 
+Importance of Green Buildings, Renewable Energy, Energy Efficiency and Climate Change Adaptation in 
+Asia  
+As  of  2013,  about  half  of  all  carbon  dioxide  (CO2)  emissions  came  from  Asia8.  These  emissions  are 
+increasing globally, and at a faster rate in Asia than in other parts of the world9. In the aftermath of the 
+COP2110 in Paris, there is a global desire to reduce energy use, increase energy efficiency and implement 
+innovative technologies to combat climate change.  
+ 
+Being located on an island with no natural resources, Singapore especially can be predisposed to continue 
+using energy derived from fossil fuels. Despite this, Singapore has pledged to conserve energy and set 
+greenhouse gas (GHG) emissions reduction targets: by 2020 to reduce its GHG emissions by 16% from 
+business-as-usual levels; and by 2030 to reduce its energy intensity by 35% below 2005 levels. Overall, 
+improving energy efficiency remains one of the key focus areas for Singapore to reduce GHG emissions 
+across various sectors. For example, Singapore has a target to maintain the proportion of  Building and 
+Construction Authority (BCA) Green Mark Certified buildings at 80%11. 
+ 
+Given this context, financing green buildings, renewable energy, energy efficiency projects and climate 
+change  adaptation projects  –  all of which contribute to climate change mitigation and adaptation  –  is 
+especially important for Asia.   
+ 
+Importance of Waste Management in Asia 
+According to the World Bank, East Asia Pacific and South Asia regions contribute roughly one quarter of 
+global  waste.  Urbanisation  and  prosperity  growth  lead  to  increased  waste  generation,  and  in  those 
+regions the urbanisation trend is strong. By 2025 it is projected that the urban population will grow by 
+more than 50%, while projected urban waste will more than double12. 
+ 
+Singapore is one of the most densely populated cities in the world. With total population of more than 
+5.5 million people, it produced 8,559 tonnes of waste per day in 2016, up from 1,260 tonnes in 197013. 
+Population  and  affluence  growth  have  led  to  increased  levels  of  waste.  To  cope  with  this  problem, 
+Singapore’s  National  Environment  Agency  (NEA)  plans,  develops  and  manages  its  waste  management 
+ 
+8 http://cait.wri.org/historical/Country%20GHG%20Emissions?indicator[]=Total%20GHG%20Emissions%20Excluding%20Land-
+Use%20Change%20and%20Forestry&indicator[]=Total%20GHG%20Emissions%20Including%20Land-
+Use%20Change%20and%20Forestry&year[]=2013&act[]=World%20(sum%20of%20all%20CAIT%20countries)&sortIdx=NaN&regions=true&c
+hartType=geo  
+9 https://www.epa.gov/climate-indicators/climate-change-indicators-global-greenhouse-gas-emissions# 
+10 http://www.cop21paris.org/ 
+11 http://www.mewr.gov.sg/ssb/ 
+12 http://siteresources.worldbank.org/INTURBANDEVELOPMENT/Resources/336387-1334852610766/Chap3.pdf 
+13 http://www.nea.gov.sg/energy-waste/waste-management 
+
+ 
+ 
+
+10 
+
+© Sustainalytics 2017 
+ 
+
+system. This system is focused on reducing and recycling of waste and includes: promotion of efficient 
+resource use, collection infrastructure, solid waste disposal and recycling infrastructure, and four waste-
+to-energy incineration plants. This approach to waste management is designed to reach the government’s 
+target of 70% national recycling rate by 203014. In 2016, NEA reports that the recycling rate reached 61%, 
+while 38% of waste served as input for energy generation, and only 2% of waste was sent to landfill15. 
+ 
+Given this context,  allocating proceeds from DBS’  Green Bond issuances to enhance  infrastructure  for 
+waste recycling and waste-to-energy activities is especially important for Singapore. By doing so, DBS will 
+contribute  to  the  enhancement  of  Singapore’s  waste  management  system  and  consequently  to  the 
+ambitious national target recycling rate. In the broader Asia region, projects funded by DBS’ Green Bond 
+proceeds  will  contribute  to the enhancement of infrastructure and  waste management  in other Asian 
+cities,  leading  to  improved  environment  and  healthier  communities.  For  example,  the  World  Health 
+Organization (WHO) estimates that globally about 12.6 million people died in 2012 as a result of living or 
+working in an unhealthy environment, including air, water and soil pollution, and chemical exposures16.  
+Waste  management  has  the  potential  to  solve  this  problem  and  directly  contributes  to  SDG  3:  Good 
+Health and Well-being and SDG 11: Sustainable Cities and Communities. 
+ 
+Credibility of Singapore’s VES Standards 
+Singapore  issued  new  emission  standards  for  cars  –  Vehicles  Emissions  Scheme  (VES)  –  that  will  be 
+mandatory for compliance as of January 1, 2018. These standards include limits for hydrocarbon (HC), 
+carbon monoxide (CO), nitrogen oxides (NOx) and particulate matter (PM) in addition to CO2 emissions17. 
+Sustainalytics is of the opinion that VES standards are comparable to the US EPA’s SmartWay Certification 
+and EU emission standards. The VES standards also include calculation of CO2 emissions from electricity 
+generated to power electric and hybrid vehicles.   
+ 
+Singapore’s VES standards limit air emissions produced by vehicles during the use stage that have most 
+negative impact on the environment and human health. As such, Sustainalytics views the standards as 
+credible and aligned to international best practices.  
+ 
+Section 3: Sustainalytics Opinion on the DBS Green Bond Framework 
+Overall, Sustainalytics views DBS’ eligibility criteria for Use of Proceeds under its Green Bond Framework 
+as credible and robust. All of its Use of Proceeds categories are recognised as eligible by the Green Bond 
+Principles  2017.  In  addition,  Sustainalytics  views  the  following  elements  of  the  DBS  Green  Bond 
+Framework positively:  
+ 
+
+  DBS’ Green Buildings eligibility criterion is based on third-party certification standards, and DBS 
+commits to only funding the top levels of these certifications through its Green Bond proceeds. 
+Sustainalytics has conducted an evaluation of the certifications, and views the focus on the top 
+levels of certification as industry best practice (see Appendix 1). 
+
+ 
+14 http://www.mewr.gov.sg/ssb/ 
+15 http://worldwastetoenergy.com/wp-content/uploads/2016/05/Kan-Kok-Wah.pdf 
+16 http://www.who.int/mediacentre/news/releases/2016/deaths-attributable-to-unhealthy-environments/en/ 
+17 http://www.straitstimes.com/singapore/transport/tighter-standards-to-rein-in-vehicle-emissions 
+
+11 
+
+ 
+ 
+
+© Sustainalytics 2017 
+ 
+
+ 
+
+  With respect to the Climate Change Adaptation eligibility criterion, DBS has committed to asking 
+its borrowers for project-specific studies that assess the risk exposure of funded projects to the 
+effects of climate change. DBS has also disclosed to Sustainalytics that it will not allocate Green 
+Bond  proceeds to fund lending to projects that  do not have  associated studies detailing a risk 
+assessment to the effects of climate change. Sustainalytics is of the opinion that this is aligned 
+with market best practice, as such project-specific studies strengthen the impact of the use of 
+proceeds by establishing a clear case that adaptation infrastructure is being funded as a direct 
+response to climate change risks. 
+
+ 
+
+  Finally,  DBS  has  also  disclosed  to  Sustainalytics  an  intention  to  review  the  eligibility  criteria 
+annually in order to ensure alignment with evolving market practices (including any updates to 
+the GBP), alignment  with its  own sustainability strategy,  and to address  any emerging climate 
+change  issues  as  they  arise.  This  review  will  be  conducted  by  the  DBS  Sustainability  Council. 
+Changes to the eligibility criteria, if any, arising from this review will be disclosed to investors in 
+its annual reporting.  
+
+ 
+Sustainalytics also recommends DBS to disclose to investors the eligible categories to be funded at the 
+time  of  issuance  of  each  green  bond,  whenever  possible,  and  where  project/category  review  and 
+evaluation has been completed and allocation of proceeds has been determined.  
+ 
+Alignment with Green Bond Principles 2017 
+Sustainalytics has determined that the DBS Green Bond Framework aligns to the four core components 
+of  the  Green  Bond  Principles  2017.  For  detailed  information  please  refer  to  Appendix  2:  Green 
+Bond/Green Bond Programme External Review Form. 
+ 
+ 
+Conclusion 
+DBS  Green  Bond  Framework  is  transparent  and  provides  clarity  regarding  the  use  of  proceeds.  DBS’ 
+responsible business operations and investments contribute to transformational SDGs in Singapore and 
+the region, creating positive environmental and social impacts. The Framework is also aligned with the 
+four core components of the Green Bond Principles 2017. Overall, Sustainalytics is of the opinion that DBS 
+Green Bond Framework is credible and robust.  
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+12 
+
+© Sustainalytics 2017 
+ 
+
+APPENDICES 
+ 
+Appendix 1: Comparison of Real Estate Certification Schemes 
+
+ 
+
+LEED 
+
+HK BEAM Plus 
+
+Background 
+
+Certification 
+levels 
+
+Areas of 
+Assessment: 
+Environmental 
+Performance 
+of the Building 
+
+Leadership in Energy 
+and Environmental 
+Design (LEED) is a US 
+Certification System 
+for residential and 
+commercial buildings 
+used worldwide. LEED 
+was developed by the 
+non-profit U.S. Green 
+Building Council 
+(USGBC) and covers 
+the design, 
+construction, 
+maintenance and 
+operation of 
+buildings. 
+Certified  
+Silver  
+Gold  
+Platinum 
+
+  Energy and 
+
+atmosphere  
+
+  Sustainable Sites  
+  Location and 
+
+Transportation 
+  Materials and 
+
+resources  
+
+  Water efficiency  
+  Indoor 
+
+environmental 
+quality  
+
+  Innovation in 
+
+Design  
+
+  Regional Priority 
+
+BEAM Society Limited (BSL), 
+owner of the Building 
+Environmental Assessment 
+Method (BEAM), is a public 
+body established in 2010. It 
+owns BEAM Plus - a green 
+building assessment tool 
+tailor-made for the high-
+rise, high density built 
+environment of sub-tropical 
+climate in Hong Kong. 
+
+Bronze 
+Silver 
+Gold  
+Platinum 
+
+  Site Aspects (location and 
+
+design of building, 
+emissions from the site, 
+site management) 
+  Materials Aspects 
+
+(selection of materials, 
+efficient use of materials, 
+waste disposal and 
+recycling)  
+
+  Energy Use (annual CO2 
+emissions or energy use, 
+energy efficient systems 
+and equipment, energy 
+management)  
+
+  Water Use (water quality, 
+
+water conservation, 
+effluent discharges) 
+
+ 
+18 https://www.bca.gov.sg/greenmark/green_mark_buildings.html  
+
+Singapore BCA 
+Green Mark 
+The BCA Green 
+Mark Scheme 
+provides real 
+estate 
+certifications in 
+Singapore to 
+promote 
+sustainability in 
+the built 
+environment 
+(during project 
+conceptualisation 
+and design, as well 
+as during 
+construction.)18 
+
+Certified 
+Gold 
+Gold Plus 
+Platinum 
+ 
+ 
+  Climate 
+
+Responsive 
+Design  
+
+CHINA THREE STAR 
+
+The Chinese 3-Star 
+Green Building 
+Standard is a 
+Certification System 
+used in China for 
+residential and public 
+buildings (including 
+commercial, hotel and 
+government-owned) 
+that was introduced in 
+2006 by MOHURD 
+(Ministry of Housing 
+and Urban-Rural 
+Development). 
+ 
+ 
+1-Star  
+2-Star  
+3-Star 
+
+  Land savings and 
+
+outdoor 
+environment;  
+
+  Building Energy 
+
+  Energy savings and 
+
+Performance 
+
+  Resource 
+
+Stewardship 
+
+  Smart and 
+
+Healthy 
+Buildings 
+
+  Advanced Green 
+
+Efforts 
+
+ 
+
+utilisation;  
+
+  Water savings and 
+
+utilisation;  
+
+  Material savings and 
+
+utilisation;  
+
+  Indoor environment; 
+  Operations and 
+
+management. 
+
+ 
+ 
+
+13 
+
+© Sustainalytics 2017 
+ 
+
+Requirements 
+
+Prerequisites 
+ 
+The system functions 
+on a checklist basis, 
+with 1-Star buildings 
+meeting 26 criteria, 2-
+Star an additional 43 
+items, and 3-Star on a 
+further 14 items. 
+Criteria and weighting 
+differ for public and 
+residential buildings. In 
+public buildings, more 
+weight is given to 
+energy and material 
+savings, while the 
+standard for residential 
+buildings places greater 
+importance on urban 
+land saving and outdoor 
+environments. 
+
+Prerequisites 
+(independent of level 
+of certification) + 
+Credits with 
+associated points  
+ 
+These points are then 
+added together to 
+obtain the LEED level 
+of certification 
+ 
+There are several 
+different rating 
+systems within LEED. 
+Each rating system is 
+designed to apply to a 
+specific sector (e.g. 
+New Construction, 
+Major Renovation, 
+Core and Shell 
+Development, 
+Schools-/Retail-
+/Healthcare New 
+Construction and 
+Major Renovations, 
+Existing Buildings: 
+Operation and 
+Maintenance).  
+ 
+
+  Indoor Environmental 
+
+Quality (IEQ)   
+ 
+
+Prerequisites for each 
+performance area + Credits 
+with associated points 
+ 
+Detailed compliance with 
+legal requirements is a 
+prerequisite for the award 
+of credits.  
+ 
+For every performance area 
+BEAM prescribes different 
+prerequisites. Every 
+applicable prerequisite in 
+every BEAM category must 
+be achieved for the project 
+to be assessed.  
+ 
+Credits are allocated for 
+each performance area, and 
+every area is weighted as 
+per international 
+consensus.19 The Overall 
+Assessment Grade is 
+determined by the 
+percentage (%) of the 
+applicable credits gained 
+under each performance 
+category and its weighting 
+factor. 
+ 
+Verification of compliance 
+with BEAM criteria is done 
+by an independent BEAM 
+Assessor.  
+
+Prerequisites for 
+each performance 
+area (to 
+demonstrate 
+minimum criteria 
+met) + numerical 
+scores achieved in 
+accordance with 
+the criteria in each 
+performance area. 
+Performance Areas 
+have different 
+weights. 20 
+ 
+Depending on the 
+level of building 
+performance and 
+numerical score 
+achieved in 
+performance area, 
+building’s level of 
+certification is 
+determined.  
+ 
+Assessment of 
+compliance with 
+Green Mark 
+criteria is done by 
+the Singapore 
+Building and 
+Construction 
+Authority (BCA).  
+ 
+
+Performance 
+display 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+19 https://www.beamsociety.org.hk/files/download/download-20130724174420.pdf  
+20 https://www.bca.gov.sg/GreenMark/others/Green_Mark_NRB_2015_Criteria.pdf  
+
+ 
+ 
+
+14 
+
+© Sustainalytics 2017 
+ 
+
+Disclaimer 
+All rights reserved. No part of this second party opinion (the “Opinion”) may be reproduced, transmitted 
+or published in any form or by any means without the prior written permission of Sustainalytics.  
+  
+The Opinion was drawn up with the aim to explain why the analyzed bond is considered sustainable and 
+responsible. Consequently, this Opinion is for information purposes only and Sustainalytics will not 
+accept any form of liability for the substance of the opinion and/or any liability for damage arising from 
+the use of this Opinion and/or the information provided in it. 
+  
+As the Opinion is based on information made available by the client, Sustainalytics does not warrant that 
+the information presented in this Opinion is complete, accurate or up to date. 
+  
+Nothing contained in this Opinion shall be construed as to make a representation or warranty, express or 
+implied, regarding the advisability to invest in or include companies in investable universes and/or 
+portfolios. Furthermore, this Opinion shall in no event be interpreted and construed as an assessment of 
+the economic performance and credit worthiness of the bond, nor to have focused on the effective 
+allocation of the funds’ use of proceeds. 
+  
+The client is fully responsible for certifying and ensuring its commitments` compliance, implementation 
+and monitoring. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+21 
+
+© Sustainalytics 2017 
+ 
+
+SUSTAINALYTICS 
+ 
+Sustainalytics  is  an  independent  ESG  and  corporate  governance  research,  ratings  and  analysis  firm 
+supporting  investors  around  the  world  with  the  development  and  implementation  of  responsible 
+investment  strategies. With 13 offices globally, Sustainalytics partners with institutional investors who 
+integrate  environmental,  social  and  governance  information  and  assessments  into  their  investment 
+processes.  Today,  the  firm  has  more  than  300  staff  members,  including  170  analysts  with  varied 
+multidisciplinary  expertise  of  more  than  40  sectors.  Through  the  IRRI  survey,  investors  selected 
+Sustainalytics as the best independent responsible investment research firm for three consecutive years, 
+2012 through 2014 and in 2015, Sustainalytics was named among the top three firms for both ESG and 
+Corporate Governance research. The firm was also named the Best SRI or Green Bond Research Firm by 
+Global Capital in 2015. For more information, visit www.sustainalytics.com  
+ 
+Sustainalytics 
+info@sustainalytics.com  
+www.sustainalytics.com  
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+22 
+
+

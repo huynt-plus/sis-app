@@ -1,0 +1,938 @@
+ SUMITOMO MITSUI 
+
+FINANCIAL GROUP, INC.   
+
+GREEN BOND 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+FRAMEWORK OVERVIEW AND SECOND OPINION BY 
+
+SUSTAINALYTICS 
+
+September 22, 2017 
+
+Wakako Mizuta  (Tokyo) 
+
+www.sustainalytics.com 
+ 
+www.sustainalytics.com 
+ 
+www.sustainalytics.com 
+ 
+www.sustainalytics.com 
+Associate, Advisory Services 
+wakako.mizuta@sustainalytics.com 
+ 
+www.sustainalytics.com 
+(+81) 3 4589 4886 
+ 
+ 
+www.sustainalytics.com 
+ 
+ 
+ 
+ 
+www.sustainalytics.com 
+
+Trisha Taneja (Toronto) 
+
+Associate, Advisory Services 
+trisha.taneja@sustainalytics.com 
+(+1) 647 317 3695 
+ 
+ 
+ 
+ 
+
+James Hawrylak (Tokyo) 
+
+Director, Institutional Relations 
+james.hawrylak@sustainalytics.com 
+(+81) 3 4589 4886 
+
+  
+
+Manager,  
+
+Advisory Services (Toronto) 
+
+© Sustainalytics 2017 
+ 
+
+TABLE OF CONTENTS 
+
+1. 
+
+Introduction 
+
+2.  Overview of Issuer 
+
+3.  Framework overview 
+3.1  Use of Proceeds 
+3.2  Project Evaluation and Selection Process 
+3.3  Management of Proceeds 
+3.4  Reporting 
+3.5  Compliance Review 
+
+4  Sustainalytics’ Opinion 
+
+Section 1: Sustainalytics’ Opinion on the SMFG Green Bond Framework 
+Section 2: Sustainability Performance of the Issuer 
+Section 3: Impact of Use of Proceeds 
+Conclusion 
+
+APPENDICES 
+
+Appendix 1: Sustainalytics assessment of the strength of the Equator Principles 
+Appendix 2: Green Bond/Green Bond Programme External Review Form 
+
+SUSTAINALYTICS 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+3 
+
+3 
+
+4 
+4 
+5 
+6 
+6 
+7 
+
+8 
+8 
+10 
+11 
+13 
+
+14 
+14 
+15 
+
+22 
+
+2 
+
+© Sustainalytics 2017 
+ 
+
+1. INTRODUCTION  
+Sumitomo Mitsui Financial Group, Inc. (SMFG) has developed a green bond framework (SMFG Green Bond 
+Framework) under which it intends to issue a green bond the proceeds of which will be used to finance 
+and  refinance  expenditures  related  to  renewable  energy,  energy  efficiency,  green  buildings,  clean 
+transportation,  and  pollution  prevention  and  control.  SMFG  has  engaged  Sustainalytics  to  provide  a 
+second  opinion  on  its  framework  and  the  framework’s  environmental  credentials.  As  part  of  this 
+engagement, Sustainalytics held conversations with various members of SMFG’s management team to 
+understand the sustainability impact of their business processes and planned use of proceeds, as well as 
+management of proceeds and reporting aspects of the SMFG’s green bond framework. Sustainalytics also 
+reviewed relevant public documents and non-public information.  
+This  document  contains  two  sections:  Framework  Overview  –  summary  of  SMFG’s  Green  Bond 
+framework; and Sustainalytics’ Opinion – an opinion on the framework. 
+ 
+2. OVERVIEW OF ISSUER 
+SMFG is a Japanese bank holding company and is one of the largest financial groups in the world, having 
+been identified as one of the “global systemically important banks (G-SIBs)”. SMFG provides a broad range 
+of financial services both in domestic and in overseas markets in Asia, U.S and Europe. In the conduct of 
+its  business  activities,  SMFG  aims  to  contribute to  the  sustainable  development  of  society  by  offering 
+higher added value to (1) customers, (2) shareholders and the market, (3) the environment and society, 
+and (4) employees.  
+ 
+SMFG identifies Corporate Social Responsibility (CSR) as the foundation of the business strategy, with a 
+particular focus on “Environment”, “Next Generation” and “Community” as core components of its CSR 
+activities. As for the core component “Environment”, SMFG has been engaged in  initiatives such as its 
+environmental and project finance deals, including renewable energy projects across the globe. The group 
+has  three  pillars  of  environmental  activities: 
+ii)  managing 
+environmental risk, and iii) promoting environmental business. 
+ 
+With  regard  to  the  environment  initiatives  ii)  and  iii)  above,  Sumitomo  Mitsui  Banking  Corporation 
+(SMBC), the group’s main operating bank, adopted the Equator Principles in 2005 and has set its internal 
+procedures to assess the social and environmental risks arising from large-scale project finance. Based on 
+this  environmental  risk  management  framework,  SMBC  extends  environmental  business  loans  and 
+project  finance  loans, including loans for renewable energy projects   which are  diversified in terms of 
+types  and area.  SMBC was named  the Sustainable Bank  of the  Year Asia 2013, making  SMBC the  first 
+Japanese bank to receive this award. 
+ 
+In order to accelerate  its environmental initiatives, SMBC  previously  issued a USD-denominated green 
+bond in October 2015 – the first green bond offering by a Japanese private financial institution. SMFG is 
+planning to issue another green bond to further finance lending to environmentally beneficial projects. 
+While the issuing entity will be SMFG, the entity that will allocate lending to Eligible Green Projects will 
+be  SMBC. The  criteria  for the  Eligible  Green  Projects  are outlined  in  the  Framework  Overview  section 
+below. 
+
+i)  reducing  environmental 
+
+impact, 
+
+ 
+ 
+
+3 
+
+© Sustainalytics 2017 
+ 
+
+3. FRAMEWORK OVERVIEW 
+For the purpose of issuing a Green Bond, SMFG has developed the following framework, which addresses 
+the four key pillars of the Green Bond Principles (GBP): use of proceeds, project evaluation and selection 
+process, management of proceeds, and reporting. 
+ 
+3.1   Use of Proceeds 
+The proceeds of the Green Bond will be allocated towards financing projects that meet the following 
+eligibility criteria. 
+ 
+3.1.1  Eligibility Criteria 
+SMFG will extend an amount equal to the net proceeds from the sale of the SMFG Green Bond to SMBC 
+as an inter-group loan. SMBC will apply the proceeds of such loan to finance, in whole (or in part), existing 
+and future qualifying environment-related projects (“Eligible Green Projects”) as defined by the Group’s 
+internal investment criteria, and the eligibility criteira, as specified below. 
+ 
+In order to be an Eligible Green Project, a project must meet ALL of the following criteria: 
+1.  The project is in one or more of the Project Categories (a) to (e) below; 
+2.  The project is categorized as Category B or Category C under the Equator Principles as published by 
+
+the Equator Principles Association, and; 
+
+3.  The project is one which SMFG (or, SMBC, as the case may be) has agreed to lend to (a) during the 
+
+24 months prior to the relevant issue date of a Green Bond or (b) after the issue date of a Green 
+Bond but before the relevant maturity date of such bond. 
+
+ 
+Project Categories 
+Eligible Green Projects may include projects in one or more of the categories below. 
+ 
+
+(A) RENEWABLE ENERGY 
+The development, construction and operation of facilities that generate or transmit renewable 
+energy, including: solar energy, wind energy, geothermal energy, biomass energy and small run-
+of-river hydro facilities with generation capacity of 25 megawatts or less. 
+ 
+(B) ENERGY EFFICIENCY 
+Energy-conservation equipment, including, but not limited to, LED lighting, efficient HVAC 
+(heating, ventilating, air conditioning), building insulation and energy demand control systems 
+which improve energy efficiency.  
+ 
+[Projects that meet category (c) below are excluded from category (b) in order to avoid double 
+counting.] 
+ 
+(C) GREEN BUILDINGS 
+New  building  construction  or  existing  building  retrofits  which  meet  regional,  national  or 
+internationally  recognized  third-party  verified  green  building  certifications,  such  as  “LEED” 
+(Leadership in Energy and Environmental Design), “BREEAM” (Building Research Establishment 
+
+4 
+
+ 
+ 
+
+© Sustainalytics 2017 
+ 
+
+Environmental Assessment Methodology) or “CASBEE” (Comprehensive Assessment System for 
+Built Environment Efficiency) to a level of at least “LEED Silver”, at least “BREEAM Very Good” or 
+at least “CASBEE A Level”.  
+ 
+(D) CLEAN TRANSPORTATION 
+Expenditure  that  supports  the  shift  to  clean  energy  vehicles  (including  electric  vehicles  and 
+supporting infrastructure) and the development, operation and upgrade of public transportation 
+facilities (including improvement to rail transport, bicycles and other non-motorised transport).  
+ 
+(E) POLLUTION PREVENTION & CONTROL 
+Projects related to waste recycling and waste to energy. 
+
+ 
+
+3.2  Project Evaluation and Selection Process 
+Application of Eligibility Criteria in Project Selection 
+SMFG’s CSR Department and Corporate Treasury Department worked together to establish the criteria 
+for  Eligible  Green  Projects  mentioned above.  SMFG’s  Corporate  Treasury  Department  manages  green 
+bond  funding  and  provides  the  net  proceeds  to  SMBC  in  a  form  of  senior  loan.  SMBC’s  International 
+Treasury  Department and SMBC’s structured finance departments select projects that meet the eligibility 
+criteria, and SMFG’s Corporate Treasury Department makes a final decision on the eligible project. Net 
+proceeds of the green bond are to be allocated to selected eligible projects. 
+ 
+Environmental Objectives 
+SMFG is committed to incorporating CSR initiatives into its business strategy,1 and identifies three key CSR 
+initiatives  that  are  important  to  the  company:2 Environment,  Next  Generation,  and  Community.  With 
+respect  to  the  environmental  initiatives,  the  company’s  group  wide  environmental  policy3 is  aimed  at 
+contributing to sustainable society with a focus on the preservation of the global environment. SMFG’s 
+environmental  policy  has  laid  out  its  commitment  within  eight  pillars:  1)  promoting  environmental 
+themed  products,  information  and  services,  2)  reducing  environmental  risks,  3)  Saving  resources  and 
+energy  and  reducing  waste,  4)  complying  with  environmental  laws  and  regulations,  5)  disclosing 
+environmental relevant information, 6) engaging with employees, 7) setting out objectives and goals each 
+financial  year,  and  8)  disclosing  the  environmental  policy  on  its  corporate  website.  To  support  its 
+environmental  policy,  the  company  also  identifies  the  priority  environmental  initiatives  including  the 
+promotion  of  environmental  businesses.  The  SMFG  Green  Bond  Framework  contributes  to  pillar  1  of 
+SMFG’s environmental policy.  
+ 
+ 
+ 
+
+ 
+1 CSR at SMFG, Sumitomo Mitsui Finanial Group 
+http://www.smfg.co.jp/english/responsibility/smfgcsr/ 
+2 Key Priority Issues for SMFG, Sumitomo Mitsui Financial Group 
+http://www.smfg.co.jp/english/responsibility/issue/ 
+3 http://www.smfg.co.jp/english/responsibility/environment/management/  
+
+ 
+ 
+
+5 
+
+© Sustainalytics 2017 
+ 
+
+Process to Mitigate Environmental and Social Risks 
+SMBC’s structured finance departments initiate an environmental screening process via an “Environment 
+Screening Form” which is completed by SMBC’s structured finance departments and  further examined 
+by SMBC’s Environment Analysis Department. The Environment Analysis Department assesses social and 
+environmental  risk  of  relevant  projects,  and  categorize  projects  into  categories  A  (significant  risk),  B 
+(limited risk), or C (minimal risk) in accordance with the Equator Principles.  
+ 
+Findings  from  the  Environment  Analysis  Department’s  review  of  each  Project  Finance  transaction 
+constitutes  an  important  component  of  the  decision-making  process.  Covenants  in  the  financing 
+agreement will include environmental and social considerations as a result of review, and compliance will 
+be  monitored  during  the  life  of  the  loan.  Should  a  project  fail  to  meet  the  required  standard  on 
+environmental and social metrics, then SMBC would request for an improvement, as one of the financing 
+banks. 
+ 
+
+3.3        Management of Proceeds  
+SMFG has established and implemented systems designed to monitor and ensure the allocation of net 
+proceeds from the Green Bond will be transferred to SMBC via an inter-group loan and further allocated 
+to Eligible Green Projects as defined above.  
+ 
+Records will show an amount equal to the net proceeds from Green Bonds are allocated to assets that 
+meet SMFG’s criteria of Eligible Green Projects. Pending allocation to finance Eligible Green Projects, net 
+proceeds will be invested in overnight or other short-term financial instruments. In addition, any Green 
+Bond  proceeds  allocated  to  projects  that  have  been  sold,  prepaid,  amortised  or  otherwise  become 
+ineligible will be reallocated to other Eligible Green Projects. 
+ 
+Payment of the principal and interest on the bond will be made from SMFG’s general funds and will not 
+be directly linked to the performance of any of the Eligible Green Projects. 
+ 
+3.4    Reporting  
+Allocation Reporting 
+During the term of  the  Green Bond  issued under this Framework, SMFG will provide and keep readily 
+available, on a dedicated website, information on the allocation of the net proceeds, to be updated at 
+least annually until full allocation and as necessary thereafter in the event of new developments. This 
+information shall include: 
+ 
+
+ 
+
+the  allocation  of  Green  Bond  proceeds  to  Eligible  Green  Projects,  detailing  the  Eligible  Green 
+Projects funded, current funded amounts, initial funding dates and contractual maturity dates, 
+and 
+
+  assertions  by  management  that  the  net  proceeds  of  the  Notes  are  invested  [solely/either]  in 
+
+qualifying Eligible Green Projects or in overnight or other short-term financial instruments. 
+
+ 
+
+ 
+ 
+
+6 
+
+© Sustainalytics 2017 
+ 
+
+Impact Reporting 
+In  addition,  where  feasible,  SMFG  will  annually  publish  on  a  dedicated  website  information  and 
+assessments relating to the environmental impacts of financed Eligible Green Projects. The environmental 
+impacts of financed Eligible Green Projects, where reported, may be calculated on a collective basis. This 
+estimated environmental impact will be calculated in conjunction with support from The Japan Research 
+Institute (JRI), a think tank subsidiary of the group. 
+ 
+SMFG will report on the following metrics:  
+
+  Tons of CO2 equivalent reduced 
+  Metrics chosen upon category of financed Eligible Green Projects, such as tons of tons of waste 
+
+treated and recycled 
+ 
+
+3.5 Compliance Review 
+Before the first anniversary of the Green Bond issuance, SMFG will engage Sustainalytics or any successor 
+appointed by it, to review the lending financed by SMFG’s Green Bond in order to assess the compliance 
+of the lending with the SMFG Green Bond Framework. This review will be conducted annually until full 
+allocation of the net proceeds from the SMFG’s Green Bond. Sustainalytics will provide a report of the 
+review,  which  SMFG will  publish  on  its  website.  In  an  unlikely  event that the  annual  review  identifies 
+allocations  made  to  activities  that  do  not  comply  with  the  SMFG  Green  Bond  Framework,  SMFG  will 
+allocate  the  corresponding  amounts  to  different  lending  activities  that  are  compliant  with  the  SMFG 
+Green Bond Framework. 
+
+ 
+
+ 
+
+ 
+ 
+
+7 
+
+© Sustainalytics 2017 
+ 
+
+4  SUSTAINALYTICS’ OPINION 
+ 
+Section 1: Sustainalytics’ Opinion on the SMFG Green Bond Framework 
+Summary  
+Overall, Sustainalytics is of the opinion that the SMFG Green Bond Framework creates meaningful 
+impact,  is  transparent,  and  aligns  with  the  Green  Bond  Principles  2017.  Some  considerations  in 
+Sustainalytics’ assessment are listed below: 
+
+  Renewable  Energy,  Clean  Transportation,  Energy  Efficiency,  Green  Buildings,  and  Pollution 
+Prevention and Control are recognized by the 2017 Green Bond Principles as project categories 
+with clear environmental benefit; 
+
+  Sustainalytics recognizes that, in green finance, it is best practice to invest in buildings with LEED 
+Gold and Platinum certification. However, given the importance of green real estate in Japan, and 
+the context of buildings increasingly accounting for greater energy consumption, Sustainalytics is 
+of the opinion that LEED Silver is sufficiently beneficial. However, Sustainalytics encourages the 
+issuer to finance LEED Gold and Platinum buildings wherever possible; 
+
+  SMFG’s disclosure and processes with respect to management of proceeds and project selection 
+
+process are in line with market practices; 
+
+  SMFG has committed to disclosing on quantitative impact indicators for projects funded through 
+
+the SMFG Green Bond.  
+
+ 
+Alignment with Green Bond Principles 2017: Sustainalytics has determined that the SMFG Green Bond 
+Framework aligns with the four pillars of the Green Bond Principles 2017. For detailed information please 
+refer to Appendix 2: Green Bond/Green Bond Programme External Review Form. 
+ 
+Alignment with Japan’s Green Bond Guidelines 2017 
+Sustainalytics is of the opinion that the Japanese Green Bond Guidelines are in line with the ICMA Green 
+Bond Principles. In addition, The Japanese Green Bond Guidelines communicate what an issuer should do 
+to issue a credible green bond, and also highlight what an issuer is recommended to do. Sustainalytics 
+assessed the alignment between the SMFG Green Bond Framework and the “should” items outlined in 
+the Japan’s Green Bond Guidelines.  
+ 
+ 
+
+ICMA Green Bond Principles and 
+Japan’s Green Bond Guidelines, 20174 
+
+1.  Use of Proceeds 
+
+ 
+
+ 
+
+Alignment with GBP 
+and with Japan’s 
+Green Bond 
+Guidelines? 
+Yes 
+
+Sustainalytics’ comments on alignment with 
+Japan’s Green Bond Guidelines.5 
+
+Eligible project categories ( Renewable 
+Energy, Energy Efficiency, Green Buildings, 
+Clean Transportation, and Pollution 
+Prevention and Control) in the SMFG Green 
+
+ 
+4 Green Bond Guidelines, 2017, Summary, Ministry of the Environment, Japan; 
+
+https://www.env.go.jp/en/policy/economy/gb/summary2017.pdf  
+
+5 For detailed comments on alignment with ICMA GBP, please see Appendix 2. 
+
+8 
+
+ 
+ 
+
+© Sustainalytics 2017 
+ 
+
+2.  Process for Project Evaluation and 
+
+Yes 
+
+Selection 
+
+ 
+
+3.  Management of Proceeds 
+ 
+
+Yes 
+
+4.  Reporting 
+ 
+
+Yes 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+Bond Framework are outlined with clear 
+details and are recognized by Japan’s Green 
+Bond Guidelines as providing clear 
+environmental benefit. SMFG also identifies 
+social and environmental risk (any potential 
+negative impact) associated with the eligible 
+projects, and explains how they manage the 
+risk through the application of the Equator 
+Principles.  
+SMFG’s framework well describes 
+information, required by Japan’s Green Bond 
+Guidelines, on 1) “Environmental 
+sustainability objectives” (In this report: 
+Environmental Objectives), 2) “Criteria” for 
+evaluating and selecting specific green 
+projects (in this report: “Eligibility Criteria” 
+and “Application of Eligibility Criteria in 
+Project Selection”), and 3) “Process” to 
+evaluate and select eligible green projects (In 
+this report: “Process to Mitigate 
+Environmental and Social Risks” and 
+“Application of Eligibility Criteria in Project 
+Selection”).  
+SMFG’s framework clarifies that SMFG 
+manages proceeds by 1) keeping the list of all 
+Eligible Green Project loans based on SMFG’s 
+internal loan data system, 2) recoding the 
+amount of the allocated and unallocated 
+proceeds (which will be invested in short-
+term financial instruments) to match to the 
+total proceeds allocated by the green bond, 
+and 3) making sure that the proceeds are 
+tracked and managed, which are all followed 
+by Japan’s Green Bond Guidelines.  SMFG 
+explains this to green bond investors.  
+SMFG’s framework clearly commits to 
+disclose the five items annually, which are 
+required by Japan’s Green Bond Guidelines: 
+List of projects that have been allocated, brief 
+description of projects, amount allocated, 
+environmental benefits, and information on 
+unallocated proceeds. 
+
+9 
+
+© Sustainalytics 2017 
+ 
+
+Section 2: Sustainability Performance of the Issuer  
+ 
+Contribution of framework to SMFG’s sustainability strategy 
+SMFG states that its CSR is the foundation for SMFG’s business strategies.6 SMFG manages its CSR strategy 
+based on its CSR policy and three material issues: “Environment”, “Next Generation” and “Community.” 
+In addition, SMFG sets out an environmental vision and policy, as well as key environmental initiatives 
+which  aim  to  preserve  and  improve  the  global  environment  though  its  core  business  activities. 7 As 
+described  in  the  SMFG  Green  Bond  Framework,  SMFG’s  environmental  policy  has  eight  pillars. 
+Sustainalytics’ ESG research assesses SMFG as having a strong policy as (i) the policy is approved by senior 
+management or the board of directors, (ii) the company reports regularly on environmental issues, and 
+(iii) the company commits to monitoring its environmental performance.  
+ 
+SMFG’s policy is also integrated in its business activities as SMFG states that it promotes environment-
+themed  products  and  services.  For  example,  SMFG,  through  its  group  companies,  has  provided 
+environment-themed  financial  products  and  services  such  as  environmental  assessment  loans,  and 
+project finance for renewable energy businesses. Sustainalytics is of the opinion that the integration of 
+SMFG’s environmental policy in its business activities could be strengthened by adding quantitative and 
+timebound  targets  with  respect  to  promoting  environmentally  impactful  products  and  financing 
+environmentally impactful projects. 
+ 
+Overall, Sustainalytics is of the opinion that SMFG has a strong environmental policy that is integrated in 
+its business activities, and the SMFG Green Bond Framework contributes to pillar 1 of the environmental 
+policy, “promoting environmental themed products, information and services.” 
+ 
+Well positioned to address common environmental and social risks associated with the projects 
+Overall, Sustainalytics is of the opinion that SMFG  is well positioned to manage key environmental and 
+social risks associated with the SMFG Green Bond projects. Some key environmental and social risks 
+associated with projects are utilization of viable forest or food products as biomass, and worker safety 
+and pollution control in construction and development projects. The strength of SMFG’s risk 
+management is based on the following: 
+ 
+
+  SMFG has stated to Sustainalytics its commitment not to use viable forest and food products as 
+biomass for energy production. Sustainalytics encourages SMFG to formalize this commitment in 
+its framework.  
+
+  The  Equator  Principles  (EP),  which  apply  to  four  financial  products  including  project  finance, 
+project related corporate loans, are commonly widely accepted as credible standard and widely 
+used  by  worldwide  financial 
+is  committed  to  assessing  social  and 
+environmental risk of relevant  projects  based  on  EP, which demonstrates  its robust  system to 
+
+institutions.  SMFG 
+
+ 
+6 CSR at SMFG, Sumitomo Mitsui Financial Group 
+http://www.smfg.co.jp/english/responsibility/smfgcsr/ 
+7 Promoting Environmental Businesses, Sumitomo Mitsui Financial Group 
+http://www.smfg.co.jp/english/responsibility/environment/business/ 
+
+ 
+ 
+
+10 
+
+© Sustainalytics 2017 
+ 
+
+contribute to environment and social risk mitigation. For a detailed assessment of the strength of 
+the EPs, see Appendix 1.  
+
+  The  Environment  Analysis  Department  assesses  social  and  environmental  risk  of  relevant 
+projects,  and  categorize  projects  in  accordance  to  the  Equator  Principles.  Covenants  in  the 
+financing agreement will include environmental and social considerations as a result of review, 
+and compliance to the EPs will be monitored during the life of the loan. 
+
+ 
+Section 3: Impact of Use of Proceeds  
+Impact of renewable energy in Japan  
+The energy self-sufficiency ratio of Japan is  low especially compared to OECD countries8, in which Japan 
+imports about 84% of energy.9 The energy source that Japan heavily depended on before the Great East 
+Japan Earthquake in 2011 was nuclear power which Japan had set as a national strategic priority since 
+1973.10 However,  it  became  necessary  for  Japan  to  revise  its  energy  mix  and  strategic  plan  after  the 
+country experienced an accident at Fukushima Daiichi Nuclear Plan and subsequent shutdown of nuclear 
+plants across Japan due to residents’ concerns. In the new strategic plan, the target of renewable energy 
+including wind, solar, geothermal, biomass and hydro is set at 22-24% by 2030 – a significant increase 
+from 1.1% before the earthquake. Given the Japan’s small ratio of energy self-sufficiency and national 
+strategic plan to tackle the global warming through the promotion of renewable energy, it is clear that 
+the demand in renewable energy will increase and there will be growing needs to finance  the construction 
+and operation renewable energy facilitates in Japan. As well, given the COP22 targets and commitments, 
+and the need for a global transition to a low-carbon economy, there is also a clear need for promoting the 
+development of renewable energy projects globally. 
+ 
+Importance of green real estate in climate change mitigating in Japan 
+According  to  Japan’s  Ministry  of  Land  Infrastructure,  Transport  and  Tourism, 11  meeting  the  energy 
+demand  has  become  increasingly  challenging  since  the  Great  East  Japan  earthquake.  In  addition,  the 
+energy consumption from building sector has been significantly increasing, and the building sector itself 
+consists of one third of whole energy use in Japan.12 Because of the growing demand and consumption of 
+energy from the building industry, the government places an emphasis on the building energy efficiency 
+while reestablishing the new Building Energy Efficiency Act in 2017, in which the construction of certain 
+size of buildings are required to meet the energy efficiency standards or notify the administrative agency 
+
+ 
+8 Japan's Energy, Ministry of Economy, Trade and Industry Agency for Natural Resources and Energy, Japan 
+http://www.enecho.meti.go.jp/en/category/brochures/pdf/japan_energy_2016.pdf 
+9 Nuclear Power in Japan, World Nuclear Association 
+http://www.world-nuclear.org/information-library/country-profiles/countries-g-n/japan-nuclear-power.aspx 
+10 Nuclear Power in Japan, World Nuclear Association 
+http://www.world-nuclear.org/information-library/country-profiles/countries-g-n/japan-nuclear-power.aspx 
+11 Overview of the Act on the improvement of Energy Consumption Performance of Buildings (Building Energy Efficiency Act), Ministry of Land 
+
+Infrastructure, Transport and Tourism, Japan 
+
+https://www.mlit.go.jp/common/001134876.pdf 
+12 Overview of the Building Energy Efficiency Act, Ministry of Land Infrastructure, Transport and Tourism, Japan 
+http://www.mlit.go.jp/common/001178846.pdf 
+
+ 
+ 
+
+11 
+
+© Sustainalytics 2017 
+ 
+
+with jurisdiction if the requirement cannot be met.13 In Addition, as part of the Japan’s plan to achieve its 
+commitments on  CO2  targets for Paris Agreement, the  government promotes the  conformity with the 
+energy  efficiency  standards  set  by  the  Act  along  with  other  initiatives  including  the  growth  of  green 
+building certification system such as CASBEE.14 Given the above context, there is a clear need in Japan for 
+buildings to be energy efficiency,  reflected in the significant consumptions and priority set by a national 
+strategy.  
+ 
+Therefore, Sustianalytics is of the opinion that SMFG’s green bond’s contribution in meeting the need to 
+finance  renewable  energy  and  green  building  projects  in  Japan,  will  result  in  positive  environmental 
+outcomes. 
+ 
+Alignment with/contribution to SDGs 
+The Sustainable Development Goals (SDGs) were set in September 2015 and form an agenda for achieving 
+sustainable development by the year 2030. This green bond advances the following SDG goals and targets:  
+ 
+
+SDG 
+
+SDG target 
+
+7.2  By  2030,  increase  substantially  the  share  of 
+renewable energy in the global energy mix 
+13.3  Improve  education,  awareness-raising  and 
+human  and  institutional  capacity  on  climate 
+change  mitigation,  adaptation,  impact  reduction 
+and early warning 
+9.1  Develop  quality,  reliable,  sustainable  and 
+resilient  infrastructure,  including  regional  and 
+trans-border infrastructure, to support economic 
+3.9 By 2030, substantially reduce the number of 
+deaths  and  illnesses  from  hazardous  chemicals 
+and  air,  water  and 
+soil  pollution  and 
+contamination 
+
+Use of Proceeds 
+Category 
+Renewable Energy 
+
+Green Buildings 
+
+7. Affordable and Clean 
+Energy 
+13. Climate Action 
+
+Clean Transportation 
+
+9.  Industry,  Innovation 
+and Infrastructure 
+
+Pollution  prevention 
+and control 
+
+3.  Ensure  healthy  lives 
+and promote well-being 
+for all at all ages 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+13 Overview of the Act on the improvement of Energy Consumption Performance of Buildings (Building Energy Efficiency Act), Ministry of Land 
+
+Infrastructure, Transport and Tourism, Japan 
+
+https://www.mlit.go.jp/common/001134876.pdf 
+14 Plan for Global Warming Countermeasures (Japanese), Ministry of Environment, Japan 
+https://www.env.go.jp/press/files/jp/102816.pdf 
+
+12 
+
+ 
+ 
+
+© Sustainalytics 2017 
+ 
+
+Conclusion 
+The SMFG Green Bond Framework is transparent and provides clarity regarding the use of proceeds and 
+the  expected  outcomes  of  the  green  bond  investments.  Renewable  energy,  Energy  Efficiency,  Green 
+Buildings, Clean Transportation, and Pollution Prevention and Control are included in the GBP and Japan’s 
+Green  Bond  Guidelines  2017  as  an  eligible  green  project  categories  that  offer  clear  environmental 
+benefits.  Additionally,  SMFG’s  project  selection  process  is  based  on  external  standards  such  as  the 
+Equator Principles. This  ensures  that  projects  funded  through  bond  proceeds  have  minimal or  limited 
+adverse environmental or social impacts. Sustainalytics is of the opinion that the SMFG Green Bond aligns 
+with the four pillars of the GBP 2017, and Japan’s Green Bond Guidelines 2017.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+13 
+
+© Sustainalytics 2017 
+ 
+
+APPENDICES 
+Appendix 1: Sustainalytics assessment of the strength of the Equator Principles 
+ 
+SMFG adheres to the Equator Principles (EPs) to ensure that the projects it finances are developed and 
+operate in accordance with international environmental and social standards. In Sustainalytics’ view, the 
+credibility of the EP as a risk management tool for large-scale projects derives from its ability to ensure:  
+ 
+
+(i) 
+
+(ii) 
+
+(iii) 
+
+A mandatory review of all projects with respect to their level of impact in a comprehensive 
+range of environmental and social areas  
+Principle 1 of the EP mandates a review and categorisation of all projects as having significant 
+(Category A), limited (Category B), or minimal (Category C) environmental and social impact. 
+Impact  is  assessed  on  the  eight  IFC  Performance  Standards  on  Environmental  and  Social 
+Sustainability. These cover a wide range of issues to address environmental and social risk, 
+including  management  of  environmental  and  social  impacts,  community  health,  resource 
+efficiency and pollution prevention, and labour conditions.  
+ 
+Strong mitigation process for projects with significant or limited adverse environmental and 
+social impact  
+The  EPs  (specifically Principles  2-6)  also  require  all15
+ Category  A  and  B  projects  to  conduct 
+environmental  and  social  impact  assessments,  develop  and  maintain  environmental 
+management  systems,  demonstrate  effective  stakeholder  engagement,  and  establish  a 
+grievance  mechanism  to  address  concerns  around  the  project’s  environmental  and  social 
+performance. Sustainalytics is of the opinion that the above mentioned components combine 
+to form a strong overall process for mitigating impacts throughout the life of project.  
+ 
+Continuous independent assurance of a project’s environmental and social impact 
+Principle  7  of  the  EP  require  that  Category  A  and  as  appropriate,  Category  B  projects  are 
+subject to an independent review to assess the strength of the mitigation processes outlined 
+above, and to assess compliance with the EP. Additionally, Principle 9 of the EP also requires 
+the appointment of an independent environmental and social consultant to verify ongoing 
+monitoring and reporting of project impacts. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+15 Please note that for projects implemented in a set list of ‘Designated Countries,’ compliance with host country laws meets these mitigation 
+requirements. This is because these countries are assessed as having robust environmental and social governance, legislation systems and 
+institutional capacity designed to protect their people and the natural environment.  
+
+14 
+
+ 
+ 
+
+© Sustainalytics 2017 
+ 
+
+SUSTAINALYTICS 
+ 
+Sustainalytics  is  an  independent  ESG  and  corporate  governance  research,  ratings  and  analysis  firm 
+supporting  investors  around  the  world  with  the  development  and  implementation  of  responsible 
+investment  strategies. With 13 offices globally, Sustainalytics partners with institutional investors who 
+integrate  environmental,  social  and  governance  information  and  assessments  into  their  investment 
+processes.  Today,  the  firm  has  more  than  300  staff  members,  including  170  analysts  with  varied 
+multidisciplinary  expertise  of  more  than  40  sectors.  Through  the  IRRI  survey,  investors  selected 
+Sustainalytics as the best independent responsible investment research firm for three consecutive years, 
+2012 through 2014 and in 2015, Sustainalytics was named among the top three firms for both ESG and 
+Corporate Governance research. The firm was also named the Best SRI or Green Bond Research Firm by 
+Global Capital in 2015. For more information, visit www.sustainalytics.com  
+ 
+Sustainalytics 
+info@sustainalytics.com  
+www.sustainalytics.com  
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+
+22 
+
+

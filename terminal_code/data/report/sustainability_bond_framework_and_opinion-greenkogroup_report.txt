@@ -1,0 +1,657 @@
+ 
+ 
+  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+GREENKO GROUP  
+
+GREEN BOND 
+
+ 
+
+ 
+ 
+
+FRAMEWORK OVERVIEW AND SECOND OPINION BY 
+
+SUSTAINALYTICS 
+
+ 
+ 
+ 
+
+July 29, 2016 
+
+www.sustainalytics.com 
+ 
+www.sustainalytics.com 
+ 
+www.sustainalytics.com 
+
+Farnam Bidgoli (London) 
+
+Trisha Taneja (Toronto) 
+
+Charlotte Peyraud (New York) 
+
+Manager, Advisory Services 
+
+farnam.bidgoli@sustainalytics.com 
+
+(+44) 20 3514 3127 
+
+Advisor, Advisory Services  
+trisha.taneja@sustainalytics.com  
+(+1) 647 317 3695 
+
+Senior Advisor, Institutional Relations  
+charlotte.peyraud@sustainalytics.com  
+(+1) 646 518 0184 
+
+ 
+
+ 
+
+ 
+ 
+
+Vikram Puppala  
+
+Manager,  
+
+ 
+ 
+
+Vikram Puppala  
+
+Manager,  
+
+© Sustainalytics 2016 
+
+TABLE OF CONTENTS 
+
+1.  Preface 
+
+2.  Introduction 
+
+3.  Framework Overview 
+
+3.1  Use of Proceeds 
+Eligibility Criteria 
+
+3.2  Project Evaluation and Selection Process 
+3.3  Management of Proceeds 
+3.4  Reporting 
+
+4. Sustainalytics’ Opinion 
+
+Conclusion 
+
+Appendices 
+
+Appendix 1: List of Eligible Projects 
+Appendix 2: Adherence to the Green Bond Principles 2016 
+
+About Sustainalytics 
+
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+3 
+
+3 
+
+3 
+3 
+4 
+4 
+4 
+5 
+
+6 
+9 
+
+10 
+10 
+11 
+
+17 
+
+2 
+
+© Sustainalytics 2016 
+
+1. PREFACE 
+ 
+Greenko Group is issuing a green bond that aims to fund the refinancing of five wind farms and three run-
+of-the-river hydropower projects. Greenko Group has engaged Sustainalytics to provide a second opinion 
+on  its  green  bond  issuance  and  the  bond’s  environmental  credentials.    As  part  of  this  engagement, 
+Sustainalytics  held  conversations  with  various  members  of  Greenko  Group’s  management  team  to 
+understand the sustainability impact of their business processes and planned use of proceeds for the bond 
+issuance. Sustainalytics also reviewed relevant public and internal documents. This document contains 
+two  sections:  Framework  Overview  –  summary  of  Greenko  Group’s  Green  Bond  framework;  and 
+Sustainalytics’ Opinion – an opinion on the framework.  
+ 
+2. INTRODUCTION 
+ 
+Founded in 2004, Greenko Group, through its subsidiaries, develops and operates clean energy projects 
+in India. Greenko’s portfolio includes wind, hydropower, natural gas, and biomass assets in India. Through 
+these  assets,  the  group  generates  and  sells  electricity  to  state  utilities,  private  customers,  and  other 
+electricity transmission and trading companies. It also operates as an intermediate financing company for 
+the development of clean energy projects. Greenko Group is headquartered in Hyderabad, India.  
+ 
+The Greenko Group states that its mission is to grow shareholder value by focusing on the adoption of 
+technologies and methodologies that can meet the sustainable energy needs of India. On its website, the 
+company  discloses  that  it  has  an  objective  to  be  a  responsible  corporate  citizen.  This  includes 
+incorporating  sustainability operationally  and contributing  to  environmental  and  social  impact  in  local 
+communities.  Greenko  aims to  achieve  this objective  through  the  generation  of clean energy and  the 
+implementation  of  community  programmes  centred  on  education,  health,  and  environmental 
+stewardship.   
+ 
+In line with this objective, Greenko Group is planning to issue a green bond to refinance expenditures 
+related to the development of wind and hydropower projects. These projects include five wind farms and 
+three run-of-the-river hydropower projects. 
+ 
+3. FRAMEWORK OVERVIEW 
+ 
+This section presents Greenko’s green bond framework for the use of proceeds, the process for project 
+selection, the management of proceeds, and reporting. 
+ 
+3.1  Use of Proceeds 
+
+ 
+
+Greenko will use the net proceeds of the notes to refinance investments in five wind farms and three run-
+of-the-river hydropower projects, which are eligible as per the criteria specified below.  
+ 
+
+ 
+ 
+
+3 
+
+© Sustainalytics 2016 
+
+Eligibility Criteria 
+In order for a project to be refinanced through green bond proceeds, the project must meet one or 
+more of the following eligibility criteria:  
+ 
+
+1.  Expenditures related to the development of wind farms  
+2.  Expenditures related to the development of run-of-the-river hydropower projects 
+
+ 
+Please see Appendix 1 for a full list of projects that meet the eligibility criteria.  
+
+ 
+
+3.2  Project Evaluation and Selection Process 
+Projects  refinanced  through  the  green  bond  proceeds  were  evaluated  and  selected  based  on  (i) 
+commercial feasibility (locational ease, land use, availability of resources); (ii) alignment with the eligibility 
+criteria;  (iii)  alignment  with  Greenko’s  internal  environmental  and  social  risk  assessment  process.  The 
+Business Development Department oversaw the project selection with regards to commercial feasibility. 
+The Greenko Integrated Management Systems (GIMS) and Environmental, Health, and Safety (EHS) teams 
+oversaw  project  selection  with  regards  to  alignment  with  eligibility  criteria  and  Greenko’s  internal 
+environmental and social risk assessment process. This environmental and social risk assessment process 
+ensures that: 
+ 
+
+1.  All larger-scale run-of-the-river hydropower projects (>25 MW) undergo a formal Environmental 
+Impact  Assessment  (EIA),  dam  break  analysis,  stakeholder  consultations,  and  receive  an 
+Environmental Management Plan. All documents are required by, and submitted to the national 
+Ministry of Environment and Forestry.  
+  
+
+2.  All  other  smaller-scale  hydropower  projects  and  all  wind  projects  undergo  a  voluntary 
+Environmental and Social Impact Assessment (ESIA) study to evaluate their environmental and 
+social risk. These studies are based on the International Finance Corporation (IFC) Performance 
+Standards on Environmental and Social Sustainability. These projects also undergo a voluntary 
+stakeholder consultation to engage local communities, which is implemented by Greenko.  
+
+ 
+Greenko has confirmed to Sustainalytics that all selected projects have undergone an EIA or ESIA, and a 
+stakeholder consultation process. Greenko has also confirmed that for all selected projects, the relevant 
+EIA or ESIA and stakeholder consultation must conclude negligible environmental or social disruption.  
+ 
+
+3.3        Management of Proceeds  
+The proceeds of the green bond issued by Greenko will be immediately allocated towards refinancing the 
+eligible projects. Net proceeds from the notes after deducting fees and expenses will be deposited in an 
+escrow account. The funds in the escrow account will be used to subscribe to Indian Rupee (INR) bonds 
+that will be issued by the eight subsidiary companies that own and operate the wind and hydropower 
+developments. The proceeds from these INR bonds will in turn be used to refinance existing external debt 
+and shareholder loans stemming from expenditures related to the eligible projects. 
+ 
+
+ 
+
+ 
+ 
+
+4 
+
+© Sustainalytics 2016 
+
+3.4    Reporting  
+ 
+Allocation Reporting 
+Greenko will disclose all allocation reporting on a project-by-project basis.  The company has committed 
+to disclosing a list of all projects refinanced with descriptions and amount of proceeds allocated on its 
+website. Greenko has also confirmed that an independent auditor will provide verification on allocation 
+of bond proceeds to eligible projects. Given that all proceeds will be allocated immediately, verification 
+on allocation of bond proceeds will be disclosed all at once at the end of 2016. 
+ 
+Impact Reporting 
+For selected eligible projects, Greenko Group implements renewable energy projects in India under the 
+Clean  Development  Mechanism  (CDM)  of  the  Kyoto  Protocol.1  Greenko  has  confirmed  that  it  has  an 
+internal CDM team that implements projects in accordance with the guidelines of the Kyoto Protocol, and 
+is responsible for the generation of the Certified Emission Reduction (CER) credits that are sold in carbon 
+markets. This team is also responsible for estimating greenhouse gas (GHG) emissions avoided through 
+the development of renewable energy projects.   
+ 
+For those projects where the CDM mechanism is in place (two of the eight eligible projects), Greenko has 
+committed to quantitatively disclosing GHG emissions avoided (in tonnes of CO2 avoided per project) on 
+their website, in addition to the  allocation reporting described above.    Similar to allocation reporting, 
+impact reporting will be disclosed all at once at the end of 2016.   
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+1 The CDM, as defined in article 12 of the Kyoto Protocol, allows a country with an emission-reduction commitment under the 
+Kyoto Protocol to implement an emission-reduction project in developing countries. These projects are then eligible to earn 
+Certified Emission Reduction (CER) credits, each of which is equivalent to one tonne of carbon dioxide.  These CER credits are 
+then traded in carbon markets. 
+
+5 
+
+ 
+ 
+
+© Sustainalytics 2016 
+
+4. SUSTAINALYTICS’ OPINION  
+ 
+The importance of renewable energy in India: At the twenty-first meeting of the Conference of Parties 
+(COP21) of the United Nations Framework Convention for Climate Change (UNFCC) in December 2015, 
+India submitted its Intended Nationally Determined Contribution (INDC). INDCs require countries that are 
+signatories to the Paris Agreement to make commitments that address climate  change  and to update 
+those  commitments  every  five  years.  Key  goals  identified  by  India  in  its  INDC  include  (i)  reducing  the 
+emissions intensity of its GDP by 33-35% by 2030, using 2005 as the baseline; (ii) achieving 40% cumulative 
+electric  power  installed  capacity  from  non-fossil-fuel-based  energy  resources  by  2030.2  Given  this 
+international pledge, India has set ambitious national targets with regards to installed capacity of wind 
+and hydropower. By 2022, India is aiming to achieve a target of 60GW3 of wind installed capacity. The 
+annual capacity addition target for Financial Year (FY) 2016-17 has been set at 4.1 GW, an increase of 70% 
+from FY 2015-16.4 Similarly, India’s Strategic Plan for Renewable Energy (2011-2017) has set a target to 
+achieve 6.6GW of grid connected power from small scale hydro by the year 2022.5   
+ 
+In addition to its international commitments and corresponding national targets, renewable energy has a 
+particularly high strategic importance in India. India is home to 30% of the world’s global poor, and has 
+300 million people who live without access to electricity.6 Currently, India’s two primary sources of energy 
+are coal and imported oil7, both of which have been recognized as unsustainable in the face of a transition 
+to a lower carbon economy. Given these two realities, India faces the tremendous challenge of fostering 
+socio-economic  development  while  transitioning  to  a  more  sustainable  economy.  In  the  face  of  this 
+challenge, renewable energy in India can be seen to play the crucial dual role of mitigating climate change 
+and aiding socio-economic development. Sustainalytics is of the opinion that Greenko’s development of 
+wind and hydropower projects is a step in the right direction, and offers clear benefits that are aligned 
+with India’s strategic priorities.  
+ 
+Well positioned to address common wind and hydropower challenges in India: 
+Sustainalytics recognizes that wind and hydropower developments in emerging markets such as India are 
+exposed to specific challenges. Wind farm developments in India are criticized when they are built on land 
+usable for reforestation, and for loss of biodiversity when built on environmentally rich lands. Hydropower 
+projects in India have been criticized for negative impacts on rural populations, such as displacement. 
+Larger  hydropower  projects  are  also  criticized  for  loss  of  aquatic  biodiversity  and  wildlife  habitat.  
+ 
+2 Ernst & Yong, The Paris Agreement, A Universal Call to Action for Governments and Businesses: What it means for India, 
+http://www.ey.com/Publication/vwLUAssets/ey-the-paris-agreement-what-it-means-for-india/$FILE/ey-the-paris-
+agreement-what-it-means-for-india.pdf  
+3UNFCC, India’s Intended Nationally Determined Contribution 
+http://www4.unfccc.int/submissions/INDC/Published%20Documents/India/1/INDIA%20INDC%20TO%20UNFCCC.pdf  
+4 Clean Technica,  http://cleantechnica.com/2016/03/04/india-plans-add-12-gw-solar-power-4-1-gw-wind-energy-capacity-
+2016-17/  
+5 Strategic Plan for New and Renewable Energy Sector for the Period 2011-17, http://mnre.gov.in/file-
+manager/UserFiles/strategic_plan_mnre_2011_17.pdf  
+6 UNFCC, India’s Intended Nationally Determined Contribution  
+http://www4.unfccc.int/submissions/INDC/Published%20Documents/India/1/INDIA%20INDC%20TO%20UNFCCC.pdf  
+7 US Energy Information Administration, India Country Analysis Brief, 
+https://www.eia.gov/beta/international/analysis.cfm?iso=IND  
+
+6 
+
+ 
+ 
+
+© Sustainalytics 2016 
+
+However, Sustainalytics is of the opinion that Greenko has a robust internal environmental and social risk 
+assessment process that mitigates these concerns.  The robustness of this risk assessment process stems 
+from: 
+ 
+
+  Compliance  of  all  eligible  large  run-of-the-river  hydropower  projects  with  the  Ministry  of 
+
+Environment and Forestry’s requirement for an EIA 
+ 
+Greenko’s larger run-of-the-river hydropower project built on the Dikchu river in Sikkim (with an 
+electricity generation capacity of 96 MW) has undergone a formal EIA, as required by the Ministry 
+of Environment and Forestry. The EIA evaluated the project on numerous parameters, including 
+sustainable environmental management, minimization of environmental impacts, integration of 
+environmental risks into project plan, and management of community issues and heritage.  
+  
+Based on these parameters, the EIA identified eight main impacts of the project in the areas of 
+Land Environment, Terrestrial Ecology, Water Environment, Aquatic Ecology, Noise Environment, 
+Air  Environment,  Socio-Economic  Environment,  and  Geophysical  and  Seismic  Environment.  All 
+impacts identified were manageable, and formed the basis of a comprehensive Environmental 
+Management  Plan  (EMP). The  EMP  also  included a monitoring  programme  that  was  set  up to 
+continuously assess social and environmental impacts during the construction and operational 
+phases of the project. This monitoring programme directly informs Greenko’s efforts to mitigate 
+environmental 
+impact.  Greenko  has  also  disclosed  the  existence  of  an  Environmental 
+Management Cell (EMC). The EMC is a team composed of a mix of senior managers from Greenko 
+and technical environmental experts, and is responsible for the implementation of the monitoring 
+programme and the EMP.  
+  
+Based  on  Sustainalytics’  review  of  the  EMP,  Greenko’s  constant  monitoring  of  environmental 
+impacts,  usage  of  monitoring  results  to  inform  its  environmental  management,  and  the 
+assignation of responsibility for these actions to a designated team, Sustainalytics believes that 
+Greenko  has  extensive  measures  in  place  to  effectively  mitigate  the  eight  impacts  identified 
+above.   
+  
+Specifically  with  regards  to  the  three  major  risks  posed  by  large  hydropower  projects 
+(displacement, loss of aquatic biodiversity, and loss of wildlife habitat), the EIA identified some 
+potential negative impacts under loss of aquatic biodiversity. However, these identified impacts 
+are  not  irreversible  and  can  be  addressed  through  mitigation.  Sustainalytics  has  reviewed 
+documentation relating to the EIA and EMP, and is of the opinion that the mitigation measures in 
+place for these impacts, combined with the strength of the process described above, are sufficient 
+to address any risks identified.  
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+7 
+
+© Sustainalytics 2016 
+
+  Alignment  of Greenko’s voluntary environmental and social risk assessment initiatives with IFC 
+
+Performance Standards on Environmental and Social Sustainability 
+ 
+Greenko also has internal processes to assess environmental and social risk that are beyond legal 
+compliance.  For  smaller-scale  hydropower  and  all-wind  projects,  Greenko  conducts  voluntary 
+Environmental and Social Impact Assessment (ESIA) studies. These studies are based on the IFC 
+Performance Standards, which cover a wide range of issues to address environmental and social 
+risk,  including  management  of  environmental  and  social  impacts,  community  health,  resource 
+efficiency and pollution prevention, and labour conditions.  
+ 
+ 
+
+  Greenko’s comprehensive stakeholder engagement process 
+
+ 
+Greenko has also disclosed to Sustainalytics that they conduct stakeholder consultations for their 
+projects,  and  have  conducted  these  for  all  the  eligible  projects  identified  in  the  framework. 
+Greenko’s stakeholder engagement policy explicitly identifies local communities as an important 
+stakeholder, and describes a process for their engagement. This process specifies that a Greenko 
+project manager can be approached by any representative of a local community who wishes to 
+share a grievance. These grievances are then recorded in a Grievance Redressal register kept at 
+each project site. Greenko’s Grievance Redressal Policy further specifies that grievances recorded 
+at each project site are investigated by a committee, and a decision communicated to the relevant 
+party within fifteen days. Sustainalytics believes this process to be extensive.  
+
+ 
+In addition, seven of the eight eligible projects being refinanced through the proceeds of this bond are 
+complete and operational. The Sneha-Kinetic Dikchu hydropower project is complete, and is expected to 
+be operational in the following months. Sustainalytics has reviewed all projects, and found no evidence 
+of environmental or social controversies associated with these projects.  
+ 
+Furthermore, Greenko has demonstrated a commitment to mitigating environmental and social risks in 
+its operations. The  company has received and maintained external certifications for its environmental 
+management  system  (ISO  14001:2004)  and  its  occupational  health  and  safety  management  (OHSAS 
+18001:2007). Given the integration of environmental and social concerns into its operations, its robust 
+internal risk assessment process for wind and hydro projects, and the lack of environmental and social 
+controversies  associated  with  the  eligible  projects,  Sustainalytics  believes  that  Greenko  Group  is  well 
+positioned to issue this green bond.  
+ 
+Alignment with Green Bond Principles (GBP) 2016: Sustainalytics has determined that Greenko Group’s 
+green  bond  aligns  with  the  four  pillars  of  the  Green  Bond  Principles  2016.  Please  see  Appendix  2  for 
+details.  
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+8 
+
+© Sustainalytics 2016 
+
+Conclusion  
+Greenko Group’s green bond framework is transparent and provides clarity regarding use of proceeds and 
+the outcomes of the green bond investments. Renewable energy is recognized by the GBP as an eligible 
+green  project  category,  offering  clear  environmental  benefits.  In  the  context  of  India’s  sustainable 
+development  challenge,  Greenko’s  development  of  wind  and  hydropower  projects  contribute  to  an 
+important  national  priority  and  the  country’s  transition  to  a  low-carbon  economy.  Furthermore,  in 
+Sustainalytics’ view Greenko Group’s internal environmental and social risk assessment process positions 
+it  well  to  address  the  challenges  associated  with  wind  and  hydropower  development  in  India. 
+Sustainalytics is of the opinion that Greenko Group’s green bond is credible and robust.  
+ 
+
+ 
+
+ 
+ 
+
+9 
+
+© Sustainalytics 2016 
+
+APPENDICES 
+Appendix 1: List of Eligible Projects 
+ 
+ 
+
+Project 
+
+Type 
+
+Rayalaseema Wind Farm 
+
+Wind 
+
+Wind 
+
+Wind 
+
+Wind 
+Wind 
+Hydro 
+Hydro 
+Hydro 
+
+Anantpura Wind Farm 
+
+Bagewwadi Wind Farm 
+
+Tanot Wind Farm 
+Vyshali Wind Farm 
+Sneha-Kinetic Dikchu 
+Perla Hydro 
+Bhilangana HEP 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+Generation 
+Capacity (MW) 
+
+Location  
+
+10.0 
+
+10.0 
+
+34.0 
+
+120.0 
+100.0 
+96.0 
+10.0 
+22.5 
+
+Andhra Pradesh 
+
+Andhra Pradesh 
+
+Karnataka 
+
+Rajasthan 
+Karnataka 
+Sikkim 
+Karnataka 
+Uttarakhand 
+
+10 
+
+© Sustainalytics 2016 
+
+Disclaimer 
+All rights reserved. No part of this second party opinion (the “Opinion”) may be reproduced, transmitted 
+or published in any form or by any means without the prior written permission of Sustainalytics.  
+ 
+The Opinion was drawn up with the aim to explain why the analyzed bond is considered sustainable and 
+responsible. Consequently, this Opinion is for information purposes only and Sustainalytics will not 
+accept any form of liability for the substance of the opinion and/or any liability for damage arising from 
+the use of this Opinion and/or the information provided in it. 
+  
+As the Opinion is based on information made available by the client, Sustainalytics does not warrant that 
+the information presented in this Opinion is complete, accurate or up to date. 
+  
+Nothing contained in this Opinion shall be construed as to make a representation or warranty, express or 
+implied, regarding the advisability to invest in or include companies in investable universes and/or 
+portfolios. Furthermore, this Opinion shall in no event be interpreted and construed as an assessment of 
+the economic performance and credit worthiness of the bond, nor to have focused on the effective 
+allocation of the funds’ use of proceeds. 
+  
+The client is fully responsible for certifying and ensuring its commitments` compliance, implementation 
+and monitoring. 
+ 
+
+ 
+ 
+
+16 
+
+© Sustainalytics 2016 
+
+ABOUT SUSTAINALYTICS 
+Sustainalytics is the largest independent provider of sustainability 
+research, analysis, and services to investors. We serve over 250 
+institutional investors which include some of the world's largest 
+asset owners and asset managers. Through over 20 years of 
+experience serving the responsible investment (RI) market, we have 
+gained a reputation for providing high-quality ESG research 
+solutions and excellent client service. 
+
+Sustainalytics is headed by seasoned professionals in the field of 
+business, finance, and sustainability, with a wealth of experience in 
+the Responsible Investment area. After more than 20 years of local 
+experience and expertise in the Responsible Investment (RI) market 
+Sustainalytics has developed a comprehensive understanding of 
+trends and best practices and a solid process to assist organisations 
+in integrating ESG considerations into their policies and strategies. 
+We have worked with some of the world’s financial institutions 
+including pension plans, investment managers and banks providing 
+customised support to help them achieve their RI objectives. Clients 
+include ABN AMRO, APG, BBVA, BNP Paribas, Deutsche Bank, ING 
+Bank, Lombard Odier, Lloyds Bank, Triodos Bank, UBS and over 250 
+other financial institutions and organisations. 
+
+Sustainalytics now has a staff of 250 employees globally, including 
+over 120 analysts, with operations in Amsterdam, Boston, 
+Bucharest, Frankfurt, New York, Paris, London, Singapore, Sydney, 
+Timisoara, and Toronto, and representation in Brussels and 
+Washington DC. 
+
+In 2015, Sustainalytics was named the 
+Best SRI or Green Bond Research Firm 
+by GlobalCapital. In December 2014, for 
+the third year in a row, Sustainalytics 
+was named best sustainable and 
+responsible investment research firm in 
+the Independent Research in 
+Responsible Investment (IRRI) Survey, 
+conducted by Thomson Reuters and 
+SRI-CONNECT.  
+
+ 
+ 
+
+17 
+
+

@@ -1,0 +1,1184 @@
+	
+	
+		
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+	
+
+	
+	
+	
+
+	
+
+	
+	
+	
+
+	CIUDAD	DE	MÉXICO		
+
+(CDMX)	
+
+SUSTAINABILITY	BOND	
+
+FRAMEWORK	
+
+	
+
+	
+
+SECOND	OPINION	BY	SUSTAINALYTICS	
+
+September	2017	
+
+www.sustainalytics.com	
+ 
+
+Ankita	Shukla	(Toronto)	
+Senior	Advisor,	Advisory	Services	
+ankita.shukla@sustainalytics.com		
+(+1)	416	861	0403	
+
+RESTRICTED 
+
+Elisa	Galván-Mondié	(Paris	-	Madrid)	
+Senior	Advisor,	Advisory	Services	
+elisa.mondie@sustainalytics.com		
+(+33)	18	488	6652	I	(+34)	91	18	83	762	
+
+Charlotte	Peyraud	(New	York)		
+Senior	Advisor,	Institutional	Relations	
+charlotte.peyraud@sustainalytics.com	
+(+1)	646	518	0184	
+
+© Sustainalytics 2017 
+
+TABLE	OF	CONTENTS 
+1.	 INTRODUCTION 
+2.	 SUSTAINALYTICS’	OPINION 
+
+Section	1:	Sustainalytics	Opinion	on	the	CDMX	Sustainability	Bond	Framework 
+Section	2:	Mexico	City’s	Social	and	Environmental	Commitments 
+Section	3:	Opinion	on	the	CDMX	Use	of	Proceeds 
+Conclusion 
+
+3	
+4	
+4	
+5	
+6	
+9	
+10	
+Appendix	1:	CDMX	Bono	Sustentable	2017	–	Use	of	Proceeds 
+10	
+Appendix	2:	Analysis	of	CDMX’s	Environmental	Strategy	for	the	2016	Green	Bond	Framework
+12	
+15	
+18	
+19	
+25	
+
+Appendix	3:	Opinion	on	Green	Use	of	Proceeds	for	the	2016	Green	Bond	Framework 
+Appendix	4:	Opinion	on	Risk	Mitigation	for	the	2016	Green	Bond	Framework 
+Appendix	5:	Green	Bond/Green	Bond	Programme	External	Review	Form 
+
+	
+
+2 
+
+APPENDICES 
+
+SUSTAINALYTICS 
+	
+
+ 
+
+	
+	
+	
+	
+
+	
+
+ 
+ 
+
+© Sustainalytics 2017 
+
+1. INTRODUCTION	
+	
+Gobierno	de	la	Ciudad	de	Mexico	(Mexico	City	Government)	has	developed	a	Sustainability	Bond	
+Framework	in	accordance	with	which	it	intends	to	issue	Sustainability	Bonds	that	will	fund	social	
+and	environmental	beneficial	projects	in	Ciudad	de	México	(“CDMX”,	“Mexico	City”,	or	“the	City”).	
+This	Sustainability	Bond	Framework	has	been	published	in	a	separate	document.	The	net	proceeds	
+of	each	sustainability	bond	will	be	used	to	refinance	or	finance,	in	whole	or	in	part,	existing	(re-
+financing)	and	future	projects	that	promote	sustainable	development	and	the	transition	to	a	low-
+carbon,	climate-resilient	economy.	The	Framework	defines	eligibility	criteria	in	nine	areas:		
+	
+
+1.  Essential	Public	Services;	
+2.  Sustainable	Transport;	
+3.  Sustainable	Buildings;	
+4.  Renewable	Energy;	
+5.  Energy	Efficiency;	
+6.  Water	Efficiency	and	Wastewater	Management;	
+7.  Pollution	Prevention	and	Control;	
+8.  Conservation	and	Biodiversity;	
+9.  Climate	Change	Adaptation.	
+
+	
+
+A	 list	 of	 eligible	 projects	 and	 projected	 allocations	 for	 the	 2017	 Sustainability	 Bond	 issuance	 is	
+provided	in	Appendix	1.	
+	
+Mexico	City,	engaged	Sustainalytics	to	review	the	framework	of	the	Sustainability	Bond	and	provide	
+a	second-party	opinion	on	the	alignment	of	the	Sustainability	Bond	with	the	Green	Bond	Principles	
+2017	(the	“GBP”)	and	Sustainability	Bond	Guidelines	2017,	as	administered	by	the	International	
+Capital	Market	Association	(the	“ICMA”).1	
+	
+As	part	of	this	engagement	process,	Sustainalytics	referred	to	previous	information	gathered	as	part	
+of	the	2016	CDMX	Green	Bond2	(for	which	Sustainalytics	provided	an	opinion)	and	reviewed	relevant	
+public	 documents	 and	 non-public	 documents	 relating	 to	 the	 design,	 planning,	 governance	 and	
+development	of	the	CDMX	Sustainability	Bond	Framework.	This	document	contains	Sustainalytics’	
+opinion	of	the	CDMX	Sustainability	Bond	Framework	and	should	be	read	in	conjunction	with	that	
+framework.	
+
+	
+
+ 
+1  ICMA’s Green Bond Principles 2017: 
+
+https://www.icmagroup.org/assets/documents/Regulatory/Green-Bonds/GreenBondsBrochure-JUNE2017.pdf  
+ICMA’s Sustainability Bond Guidelines 2017:  
+https://www.icmagroup.org/assets/documents/Regulatory/Green-Bonds/SustainabilityBondGuidelines-JUNE2017.pdf 
+
+2   Sustainalytics Second Party Opinion on CDMX Green Bond Framework: 
+
+http://www.sustainalytics.com///sites/default/files/green_bond_opinion_cdmx_11112016_final.pdf  
+
+ 
+ 
+
+3 
+
+© Sustainalytics 2017 
+
+2. SUSTAINALYTICS’	OPINION	
+	
+Section	1:	Sustainalytics	Opinion	on	the	CDMX	Sustainability	Bond	Framework	
+	
+Overall,	 Sustainalytics	 is	 of	 the	 opinion	 that	 the	 CDMX	 Sustainability	 Bond	 Framework	 creates	
+meaningful	 impact,	 is	 transparent,	 and	 aligns	 with	 the	 Green	 Bond	 Principles	 2017	 and	 the	
+Sustainability	Bond	Guidelines	2017.	Some	considerations	in	Sustainalytics’	assessment	are	listed	
+below:		
+	
+
+•  All	 green	 eligibility	 criteria	 for	 the	 use	 of	 proceeds	 are	 recognized	 by	 the	 Green	 Bond	
+
+Principles	2017	as	project	categories	with	clear	environmental	impact.		
+
+•  The	City’s	disclosure	and	processes	with	respect	to	management	of	proceeds	and	project	
+
+selection	process	are	in	line	with	market	practices.	
+
+•  CDMX	 commits	 to	 targeting	 proceeds	 towards	 disadvantaged	 populations	 by	 selecting	
+projects	that	are	providing	essential	services	to	these	populations.	Since	CDMX	defines	these	
+populations	in	alignment	with	Ministry	of	Social	Development,	Sustainalytics	is	of	the	opinion	
+that	these	definitions	are	credible.	
+
+•  Projects	or	services	under	the	Essential	Public	Services	eligibility	criteria	are	being	developed	
+in	areas	designated	as	medium,	low,	or	very	low	on	the	Mexico	City	Social	Development	
+Index,	which	will	ensure	a	targeted	population.	
+o  The	 free	 admission	 interactive	 children’s	 museum	 is	 being	 developed	 in	 the	 low-
+income	area	of	Iztapalapa	where	37.4%	of	inhabitants	live	in	poverty.	This	is	one	of	
+the	highest	poverty	rates	in	Mexico	City.	
+
+•  Sustainalytics	encourages	CDMX	where	possible	to	report	on	quantitative	KPIs	relevant	to	
+
+project	categories.		
+
+	
+Alignment	with	Green	Bond	Principles	2017	/	Sustainability	Bond	Guidelines	2017:		
+Sustainalytics	has	determined	that	the	CDMX	Sustainability	Bond	Framework	aligns	to	the	four	
+pillars	of	the	Green	Bond	Principles	2017	and	the	Sustainability	Bond	Guidelines	2017.	For	detailed	
+information	please	refer	to	Appendix	5:	Green	Bond/Green	Bond	Programme	External	Review	
+Form.	
+	
+	
+	
+
+	
+
+	
+
+ 
+ 
+
+4 
+
+© Sustainalytics 2017 
+
+Section	2:	Mexico	City’s	Social	and	Environmental	Commitments	
+	
+Mexico	City’s	Commitment	to	Social	Development:		
+Sustainalytics	 has	 reviewed	 Mexico	 City’s	 General	 Program	 for	 Development	 2013-20183,	 which	
+establishes	the	social	objectives	and	actions	for	the	City.	Sustainalytics	is	of	the	opinion	that	the	
+Sustainability	Bond	is	aligned	to	Mexico	City’s	social	development	commitments.	The	program	has	
+a	vision	to	create	a	city	of	freedom,	tolerance,	diversity,	fairness,	inclusive,	and	safety.	Accordingly,	
+the	 program	 aims	 to	 promote	 equality	 of	 opportunity	 and	 gender	 equality,	 support	 vulnerable	
+populations,	 create	 a	 safe	 city,	 and	 stimulate	 the	 economy.	 In	 order	 to	 achieve	 this	 vision,	 the	
+program	is	structured	around	five	pillars:	
+	
+
+Pillar	1:	Equity	and	Social	Inclusion	for	Human	Development;		
+Pillar	2:	Good	Governance,	Safety	and	Citizen	Protection;		
+Pillar	3:	Sustainable	Economic	Development;		
+Pillar	4:	Livability	and	Services,	Public	Space,	Infrastructure;	
+Pillar	5:	Effectiveness,	Accountability,	Fight	Against	Corruption.		
+
+	
+Pillar	 1	 (Equity	 and	 Social	 Inclusion	 for	 Human	 Development)	 covers	 issues	 including	 exclusion,	
+discrimination,	health,	education,	access	to	cultural	contents,	spaces	and	services	amongst	others.		
+	
+Pillar	4	(Livability	and	Services,	Public	Space,	Infrastructure)	covers	issues	including	public	space,	
+public	 transportation,	 and	 water	 infrastructure.	 The	 program	 sees	 public	 space	 as	 an	 area	 of	
+opportunity	for	culture	and	daily	social	interaction	urban	life	and	community	identity	expression.		
+	
+Sustainalytics	is	of	the	opinion	that	social	projects	to	be	funded	under	the	“Essential	Public	Services”	
+eligibility	criteria,	which	include	a	community	center	for	the	elderly,	a	childcare	center,	a	children’s	
+museum	and	funding	for	the	“HealthArt”	(SaludArte	in	Spanish)	program	at	schools,	are	aligned	with	
+Pillar	1	and	Pillar	4.		
+	
+Mexico	City’s	Comprehensive	Environmental	Commitment	and	Targets:		
+Sustainalytics	reviewed	Mexico	City’s	climate	change	strategy	in	November	2016	for	its	Green	Bond	
+issuance.	 Sustainalytics	 believes	 that	 the	 City’s	 government	 is	 sustainability-focused	 and	 has	 a	
+robust	short-	and	long-term	strategy	to	mitigate	adverse	environmental	impacts.	The	strength	of	
+Mexico	City’s	climate	change	strategy	derives	from:	(i)	strong	local	climate	action	plans,	(ii)	track	
+record	of	performance	on	plans,	(iii)	participation	in	international	forums	to	report	to	commitments	
+and	actions.	Based	on	the	above,	Sustainalytics	believes	that	Mexico	City	is	well	positioned	to	issue	
+Sustainability	Bonds.	
+	
+ 
+3 General Development Program of the Federal District 2013-2018: 
+https://data.finanzas.cdmx.gob.mx/documentos/ProgGralDesarrollo_2013_2018.pdf 
+
+ 
+ 
+
+5 
+
+© Sustainalytics 2017 
+
+Additionally,	Mexico	City	has	established	targets	to	reduce	CO2e	emissions	by	approximately	30%	
+by	2020	relative	to	the	baseline.	The	City	tracks	and	reports	on	its	targets	through	its	CDP	Survey	
+Responses	and	publically	reports	on	its	Scope	1,	2	and	3	emissions.	Sustainalytics	is	of	the	opinion	
+that	reporting	on	targets	and	performance	on	Mexico	City’s	environmental	strategies	is	indicative	
+of	the	priority	the	City	assigns	to	achieving	results.	
+	
+Please	refer	to	Appendix	2	for	a	review	of	Sustainalytics’	opinion	of	CDMX’s	Green	Bond	Framework	
+published	in	November	2016.	
+	
+Section	3:	Opinion	on	the	CDMX	Use	of	Proceeds	
+	
+Proceeds	of	the	bond	will	be	directed	towards	nine	eligibility	criteria:		
+
+1.  Essential	Public	Services;	
+2.  Sustainable	Transport;	
+3.  Sustainable	Buildings;	
+4.  Renewable	Energy;	
+5.  Energy	Efficiency;	
+6.  Water	Efficiency	and	Wastewater	Management;	
+7.  Pollution	Prevention	and	Control;	
+8.  Conservation	and	Biodiversity;	
+9.  Climate	Change	Adaptation.	
+
+	
+Overall,	Sustainalytics	is	of	the	opinion	that	the	proceeds	from	the	bond	will	have	clear	positive	
+social	and	environmental	impacts.	Below,	Sustainalytics	has	provided	an	opinion	on	projects	under	
+the	 newly	 included	 Essential	 Public	 Services	 eligibility	 criteria.	 Please	 refer	 to	 Appendix	 3	 for	
+Sustainalytics’	Opinion	on	Sustainable	Buildings,	Climate	Change	Adaptation,	Sustainable	Transport,	
+and	Water	Efficiency	and	Wastewater	Management.		
+	
+The	Importance	of	Improvements	to	Essential	Public	Services	in	Mexico	City:	
+Essential	public	services	are	vital	to	establish	and	maintain	the	quality	of	life	of	citizens,	ensure	the	
+health	of	citizens,	and	contribute	to	the	economic	and	environmental	well-being	of	a	city.	Essential	
+services	 directly	 benefit	 low-income	 and	 marginalized	 communities	 and	 vulnerable	 population	
+groups.	Mexico	City’s	current	public	service	projects	include	the	development	of	public	spaces	and	
+development	of	projects	that	promote	children’s	education.	
+		
+Mexico	 City	 faces	 a	 lack	 of	 public	 spaces,	 as	 well	 as	 a	 problem	 of	 uneven	 distribution	 and	
+connectivity	of	the	existing	public	spaces.	According	to	the	2013-2018	Development	Program,	the	
+optimal	ratio	for	public	spaces	is	set	at	12	m2/hab	whereas,	as	of	2013,	public	space	was	estimated	
+
+ 
+ 
+
+6 
+
+© Sustainalytics 2017 
+
+to	represent	5	m2/hab	(or	9.5%)	of	the	total	area	of	the	city.4	Moreover,	this	space	is	not	distributed	
+equitably	throughout	the	city	and,	in	many	cases,	the	existing	spaces	are	inadequate	with	respect	
+to	accessibility,	quality	and	maintenance.	The	2013-2018	plan	recognized	the	need	to	widen	and	
+strengthen	 these	 policies	 with	 particular	 attention	 to	 accessibility	 and	 targeting	 of	 vulnerable	
+populations.	
+	
+In	line	with	this,	proceeds	from	the	2017	Sustainability	Bond	may	be	used	towards	the	development	
+of	 a	 free-admission,	 interactive	 children’s	 museum	 in	 the	 low-income	 area	 of	 Iztapalapa.5	 The	
+17,500m2-building	 will	 create	 a	 large	 public	 space	 between	 the	 museum’s	 ground	 floor	 and	 an	
+adjacent	public	square.	In	addition	to	enhancing	and	extending	existing	public	space	in	the	City,	the	
+museum	is	expected	to	achieve	a	positive	impact	on	the	learning	and	recreation	options	for	children	
+in	a	low-income	area	of	Mexico	City.	The	interactive	museum	will	replicate	a	successful	museum	
+established	in	Mexico	City	in	order	to	support	creativity	and	knowledge	in	science,	technology,	art,	
+nature	and	environmental	stewardship.	Proceeds	towards	the	interactive	children’s	museum	is	in	
+line	with	Pillar	1	and	4	of	the	2013-2018	Mexico	City	Development	Plan.	
+
+Mexico	City	may	allocate	proceeds	to	additional	projects	targeting	children’s	education.	Projects	
+may	include	the	refurbishment	of	30	childcare	centers	from	low-income	households	in	the	area	of	
+Itzacalco	and	110	schools	across	the	city	with	an	objective	to	improve	the	learning	and	working	
+conditions	 of	 the	 centers.	 Refurbishment	 may	 include	 reinforcement	 of	 the	 building	 structure,	
+electric	installations,	sanitaries	to	improve	the	comfort,	hygiene	and	safety	of	the	building,	and	
+installation	of	drinking	water-fountains.	
+	
+Sustainalytics	is	of	the	opinion	that	the	planned	investments	described	above	will	benefit	vulnerable	
+and	low-income	communities.	
+	
+	
+
+	
+
+ 
+4 General Development Program of the Federal District 2013-2018: 
+
+https://data.finanzas.cdmx.gob.mx/documentos/ProgGralDesarrollo_2013_2018.pdf 
+
+5 According to CONEVAL, Iztapalapa is one of the three delegations in Mexico City presenting the highest proportion of poor people followed by 
+Milpa Alta and Tláhuac. 
+ 
+
+7 
+
+ 
+ 
+
+© Sustainalytics 2017 
+
+SDG	
+SDG	4	–		
+Quality	
+Education	
+	
+
+SDG	6	–		
+Clean	Water	
+and	Sanitation	
+	
+
+SDG	7	–		
+Affordable	and	
+Clean	Energy	
+SDG	9	–		
+Industry,	
+Innovation	and	
+Infrastructure	
+	
+SDG	10	–		
+Reduce	
+Inequalities	
+
+SDG	11	–		
+Sustainable	
+Cities	
+
+ 
+ 
+
+SDG	Target	
+4.1	-	By	2030,	ensure	that	all	girls	and	boys	complete	free,	
+equitable	 and	 quality	 primary	 and	 secondary	 education	
+leading	to	relevant	and	effective	learning	outcomes.	
+4.2	-	By	2030,	ensure	that	all	girls	and	boys	have	access	to	
+quality	early	childhood	development,	care	and	pre-primary	
+education	so	that	they	are	ready	for	primary	education.	
+4.7	 -	 By	 2030,	 ensure	 that	 all	 learners	 acquire	 the	
+knowledge	 and	 skills	 needed	 to	 promote	 sustainable	
+development.	
+4.A	-	Build	and	upgrade	education	facilities	that	are	child,	
+disability	 and	 gender	 sensitive	 and	 provide	 safe,	 non-
+violent,	 inclusive	 and	 effective	 learning	 environments	 for	
+all.	
+6.1	-	By	2030,	achieve	universal	and	equitable	access	to	safe	
+and	affordable	drinking	water	for	all.	
+6.3	-	By	2030,	improve	water	quality	by	reducing	pollution,	
+eliminating	dumping	and	minimizing	release	of	hazardous	
+chemicals	 and	 materials,	 halving	 the	 proportion	 of	
+untreated	 wastewater	 and	
+increasing	
+recycling	and	safe	reuse	globally.	
+7.2	-	By	2030,	increase	substantially	the	share	of	renewable	
+energy	in	the	global	energy	mix.	
+
+substantially	
+
+adoption	 of	
+
+clean	
+
+greater	
+sound	
+
+technologies	 and	
+
+9.4	-	By	2030,	upgrade	infrastructure	and	retrofit	industries	
+to	 make	 them	 sustainable,	 with	 increased	 resource-use	
+and	
+efficiency	
+and	
+environmentally	
+industrial	
+processes.	
+10.2	-	By	2030,	empower	and	promote	the	social,	economic	
+and	 political	 inclusion	 of	 all,	 irrespective	 of	 age,	 sex,	
+disability,	 race,	 ethnicity,	 origin,	 religion	 or	 economic	 or	
+other	status.	
+11.2	 -	 By	 2030,	 provide	 access	 to	 safe,	 affordable,	
+accessible	 and	 sustainable	 transport	 systems	 for	 all,	
+improving	 road	 safety,	 notably	 by	 expanding	 public	
+
+Alignment	with	the	Sustainable	Development	Goals	(SDGs):	
+The	 Sustainable	 Development	 Goals	 (SDGs)	 were	 established	 in	 September	 2015	 and	 form	 an	
+agenda	for	achieving	sustainable	development	by	the	year	2030.	These	goals	are	widely	considered	
+to	be	the	next	step	to	the	Millennium	Development	Goals	(MDG),	which	were	time-bound	to	2015.	
+The	below	table	summarizes	SDGs	of	particular	importance	for	Mexico	City	under	its	Sustainability	
+Bond	Framework.	
+	
+
+Use	of	Proceeds	Category	
+1.	Essential	Public	Services	
+	
+	
+
+6.	Water	Efficiency	and	
+Wastewater	Management	
+
+4.	Renewable	Energy	
+
+5.	Energy	Efficiency	
+7.	Pollution	Prevention	
+and	Control	
+
+1.	Essential	Public	Services	
+
+2.	Sustainable	Transport	
+3.	Sustainable	Buildings	
+
+8 
+
+© Sustainalytics 2017 
+
+SDG	12	–	
+Responsible	
+Consumption	
+	
+SDG	12	–		
+Climate	
+Change	
+
+SDG	15	–		
+Life	on	Land	
+
+transport,	with	special	attention	to	the	needs	of	those	in	
+vulnerable	 situations,	 women,	 children,	 persons	 with	
+disabilities	and	older	persons.		
+11.C	-	Support	least	developed	countries,	including	through	
+financial	 and	 technical	 assistance,	 in	 building	 sustainable	
+and	resilient	buildings	utilizing	local	materials	
+12.2	-	By	2030,	achieve	the	sustainable	management	and	
+efficient	use	of	natural	resources.	
+12.5	 -	 By	 2030,	 substantially	 reduce	 waste	 generation	
+through	prevention,	reduction,	recycling	and	reuse.	
+13.1	 -	 Strengthen	 resilience	 and	 adaptive	 capacity	 to	
+climate-related	 hazards	 and	 natural	 disasters	
+in	 all	
+countries	
+13.3	 -	 Improve	 education,	 awareness-raising	 and	 human	
+and	 institutional	 capacity	 on	 climate	 change	 mitigation,	
+adaptation,	impact	reduction	and	early	warning.	
+15.2	-	By	2020,	promote	the	implementation	of	sustainable	
+management	 of	 all	 types	 of	 forests,	 halt	 deforestation,	
+restore	 degraded	
+increase	
+afforestation	and	reforestation	globally.	
+
+forests	 and	 substantially	
+
+6.	Water	Efficiency	and	
+Wastewater	Management	
+7.	Pollution	Prevention	
+and	Control	
+9.	Climate	Change	
+Adaptation	
+
+8.	Conservation	and	
+Biodiversity	
+
+	
+	
+Conclusion	
+Mexico	City	has	a	strong	social	and	environmental	commitment	to	promote	equality	of	opportunity,	
+targeting	vulnerable	populations,	as	well	as	to	mitigate	the	impacts	of	climate	change.	The	CDMX	
+Sustainability	Bond	Framework	and	the	City’s	Sustainability	Bond	issuances	may	also	set	a	positive	
+precedent	for	the	promotion	of	sustainable	infrastructure	investment	by	public	sector	and	state-
+owned	enterprises	in	Mexico.	
+	
+The	 CDMX	 Sustainability	 Bond	 Framework	 is	 in	 alignment	 with	 the	 four	 pillars	 of	 Green	 Bond	
+Principles	 2017	 and	 the	 Sustainability	 Bond	 Guidelines	 2017.	 The	 Framework	 defines	 strong	
+eligibility	 criteria,	 demonstrates	 a	 structured	 and	 transparent	 project	 selection	 process	 that	 is	
+supported	by	the	Mexico	City	Finance	Ministry,	Mexico	City	Ministry	of	Environment,	and	other	
+relevant	ministeries	and	outlines	clear	and	transparent	processes	for	the	management	of	proceeds	
+and	reporting	on	relevant	social	and	environmental	KPIs.	
+	
+Based	on	the	above	considerations,	Sustainalytics	is	of	the	view	that	Mexico	City’s	Sustainability	
+Bond	is	robust,	credible	and	transparent.	
+	
+
+	
+
+ 
+ 
+
+9 
+
+© Sustainalytics 2017 
+
+APPENDICES	
+Appendix	1:	CDMX	Bono	Sustentable	2017	–	Use	of	Proceeds	
+	
+CDMX	has	identified	projects	(new	and	existing)	amounting	to	approximately	MXN2432	million	
+that	could	potentially	receive	allocations	from	its	2017	sustainability	bond	issuance.	All	are	public	
+works	projects	located	in	Mexico	City.	
+	
+
+Eligibility	
+Criteria	
+
+Projects	
+
+Essential	
+Public	Services	
+
+New:	
+- 
+
+- 
+
+Construction	of	a	children’s	
+museum	for	experiential	
+learning	
+Rehabilitation	of	childcare	
+centers	
+
+Refinancing:	
+
+Construction	of	a	community	
+center	for	the	elderly	
+Rehabilitation	of	public	schools	
+participating	in	the	SaludArte	
+program	(healthy	meals	and	
+health	education	through	art	
+workshops)	
+
+New:	
+Bus	Rapid	Transit	(Metrobús)	
+
+Construction	of	the	road	
+corridor	for	Line	7	
+
+Refinancing:	
+Mexico	City	Metro	(STC)	
+
+Installation	and	repair	of	
+equipment	that	improves	
+accessibility	and	comfort,	
+especially	for	elderly	
+passengers,	and	reduces	
+passenger	transit	times.	
+
+Trolleybus	
+
+	
+
+-  Maintenance	of	trolleybuses	
+
+Bus	Rapid	Transit	(Metrobús)	
+
+- 
+
+Construction	and	maintenance	
+of	first	stage	of	Line	5	
+
+- 
+
+- 
+
+- 
+
+- 
+
+Sustainable	
+Transport	
+
+ 
+ 
+
+Potential	Impact	Indicators	
+
+Allocation		
+(MXN	
+mil)	
+
+452	 Qualitative:	
+
+-  Descriptions	of	projects	
+including	the	need	for	
+specific	infrastructure	
+investment	in	various	
+localities	
+
+Quantitative:	
+
+99	
+
+-  Number	of	children	
+
+benefitted	from	projects	
+targeting	children’s	
+development	and	learning	
+
+-  Number	of	persons	
+
+benefitted	(vulnerable	
+groups)	from	public	services	
+and	infrastructure	
+
+-  Descriptions	of	projects	and	
+
+environmental	and	social	
+impact	assessments	where	
+available	
+
+- 
+
+Energy/fuel	consumption	and	
+reduction	(KWh/tons)	
+-  GHG	emissions	for	city	
+
+transport	
+
+474	 Qualitative:	
+
+994	
+
+Quantitative:	
+
+10 
+
+© Sustainalytics 2017 
+
+- 
+
+Construction	of	the	road	
+corridor	for	Line	6	
+
+Water	and	
+Wastewater	
+Management	
+
+New:		
+- 
+
+- 
+
+- 
+
+- 
+
+Construction,	replacement	and	
+maintenance	of	water	
+collection	and	drainage	
+facilities		
+Construction	of	water	
+treatment	plants		
+Construction	and	maintenance	
+of	water,	and	storm-water	
+pumps	and	reservoirs	
+Replacement	and	repair	of	
+drinking	water	wells	and	
+drinking	water	distribution	
+lines	
+
+Energy	
+Efficiency	
+
+New:	
+Public	Lighting	
+
+207	 Qualitative:	
+
+Quantitative:	
+
+-  Descriptions	of	projects	
+including	the	need	for	
+specific	infrastructure	
+investment	in	various	
+localities	
+Explanation	of	mechanisms	
+for	water	and	energy	savings		
+
+- 
+
+- 
+
+- 
+
+Volume	of	water	(m³)	
+leakage	reduced	
+Volume	of	water	(m³)	treated	
+/	recycled	
+
+-  Metrics	on	improvements	in	
+
+water	quality	e.g.	
+Biochemical	oxygen	demand	
+(BOD)		
+
+80	 Qualitative:	
+
+-  Descriptions	of	projects	
+
+including	specifications	of	
+energy	efficient	equipment		
+
+Quantitative:	
+
+- 
+
+Energy	consumption	and	
+energy	use	reduction	in	city	
+buildings	(KWh)	
+
+Refinancing:	
+
+125	
+
+- 
+
+- 
+
+- 
+
+Rehabilitation	and	technology	
+updates	for	water	treatment	
+plants		
+Replacement	of	drinking	water	
+distribution	lines	
+
+Installation,	upgrades	and	
+maintenance	of	street	lighting	
+and	lighting	in	city	buildings	to	
+improve	energy	efficiency	(LED	
+bulb	installation)	and	reduce	
+need	for	new	
+equipment/material	
+
+Note:	The	above	projects	have	been	registered	with	the	
+Mexican	Ministry	of	Finance	(SHCP)	prior	to	issuance.	
+Further	details	are	available	in	offering	documentation.	
+
+Total	
+
+2,432	
+
+Various	Mexico	City	environmental	
+and	social	development	disclosures	
+including	CDP	reports,	disclosures	
+under	CDMX	climate	change	and	
+resilience	strategies	and	social	surveys	
+and	program	evaluations	
+
+	
+
+11 
+
+	
+
+ 
+ 
+
+© Sustainalytics 2017 
+
+Appendix	2:	Analysis	of	CDMX’s	Environmental	Strategy	for	the	2016	Green	Bond	
+Framework	
+	
+Mexico	City’s	Comprehensive	Environmental	Commitment:	
+Mexico	City	has	two	local	climate	change	focused	commitments.	The	first	is	the	Climate	Action	Local	
+Strategy	2014-2020	(“ELAC”	in	Spanish),	and	the	second	is	the	Climate	Action	Program	2014-2020	
+(“PACCM”	 in	 Spanish)6,	 which	 provide	 a	 broad	 strategy	 to	 combat	 climate	 change	 as	 well	 as	
+corresponding	action	plans.		
+	
+ELAC	 outlines	 a	 commitment	 to	 reduce	 the	 emissions	 of	 GHGs	 and	 to	 take	 advantage	 of	 the	
+opportunities	within	the	framework	of	the	Kyoto	Protocol,	the	Clean	Development	Mechanism	and	
+other	 global	 instruments	 under	 the	 United	 Nations	 Framework	 Convention	 on	 Climate	 Change	
+(UNFCCC).	In	2006,	Mexico	City	drafted	and	became	the	first	local	authority	in	Mexico	to	develop	
+such	 a	 document.	 The	 GHG	 mitigation	 strategies	 and	 actions	 outlined	 in	 ELAC	 and	 PACCM	 are	
+disclosed	in	Appendix	2.		
+	
+Strategic	Priorities	of	the	Climate	Action	Local	Strategy	(ELAC)	and	the	corresponding	Key	Actions	set	by	the	
+Climate	Action	Program	(PACCM).	
+		
+
+	
+
+ 
+6 Local Climate Action Strategy Local Climate Action Strategy Mexico City. Accessed on October 17, 2016: 
+
+http://www.cger.nies.go.jp/gcp/pdf/a20060904/t4/sheinbaum.pdf  
+
+12 
+
+ 
+ 
+
+© Sustainalytics 2017 
+
+	
+	
+Mexico	City	also	demonstrates	a	track	record	of	delivering	on	its	commitments.	For	the	time	period	
+of	2014-2020,	PACCM	is	designed	specifically	to	be	a	planning	tool	that	integrates,	coordinates	and	
+promotes	actions	to	reduce	the	environmental,	social	and	economic	risks	posed	by	climate	change	
+through	strategies	contained	in	the	ELAC.	During	the	implementation	of	Mexico	City’s	first	Climate	
+Action	Program	for	the	2008-2012	period,	6	million	tons	of	CO2e	were	mitigated,	which	represents	
+a	decrease	of	4.5%	over	the	baseline	scenario.	The	current	Climate	Action	Program	for	the	2014-
+2020	period	seeks	to	strengthen	the	Federal	District	Government	(GDF)	climate	policy	and	build	on	
+the	achievements	of	the	previous	program.	
+	
+Other	examples	of	Mexico	City’s	performance	on	its	commitments	is	the	city’s	improvement	of	its	
+environmental	management	efforts	since	1992,	when	the	United	Nations	labeled	it	as	"the	most	
+polluted	city”.	In	1990,	the	Mexico	City	Government	presented	the	first	ProAire	to	combat	local	air	
+pollution	as	well	as	CO2	emissions	and	has	since	implemented	four	consecutive	programmes.	The	
+ProAire	IV	programme,	launched	in	2011	and	running	until	2020,	contains	89	measures	and	116	
+separate	 actions	 across	 eight	 strategy	 areas,	 including	 energy	 consumption,	 greening	 of	 the	
+municipal	transport	fleets,	education,	green	areas	and	reforestation,	capacity	building	and	scientific	
+research7.	These	efforts	have	contributed	significantly	to	reducing	air	pollution,	and	Mexico	City	is	
+recognized	by	the	UN	as	having	shifted	its	agenda	towards	environmental	sustainability.		
+	
+Finally,	Mexico	City	participates	in	various	international	forums	to	collaborate	with	other	cities	with	
+respect	to	climate	change	adaptation	and	mitigation,	and	to	report	on	its	commitments.	The	City	
+became	a	member	of	the	voluntary	Global	Covenant	of	Cities	on	Climate	(“The	Mexico	City	Pact”)	in	
+2010.	The	Pact	is	a	voluntary	initiative	of	mayors	and	local	authority	representatives	that	aims	to	
+advance	climate	actions.	As	a	signatory	to	the	Pact,	Mexico	City	reports	on	its	climate	commitments,	
+performance	 and	 actions	 to	 the	 carbonn®	 Cities	 Climate	 Registry	 (cCCR).	 With	 respect	 to	
+international	commitments	around	mitigation,	Mexico	City	is	committed	to	the	Compact	of	Mayors,	
+which	pledges	to	reduce	its	GHG	emissions,	make	existing	targets	and	plans	public,	and	report	on	
+its	progress	annually	through	CDP.	Mexico	City	was	fully	compliant	with	the	Compact’s	four-step	
+process	 in	 20158	 and	 will	 continue	 to	 report	 on	 its	 progress	 through	 the	 newly	 formed	 Global	
+Covenant	of	Mayors	for	Climate	and	Energy.	
+	
+Mexico	City’s	Environmental	Targets:		
+The	city’s	Climate	Action	Program	(“PACCM”	in	Spanish)	provides	a	detailed	guidance	for	reducing	
+emissions	by	approximately	10	million	tons	of	CO2e	by	2020	–	which	would	represent	a	decrease	of	
+almost	 30%	 of	 emissions	 relative	 to	 the	 baseline.	 The	 city’s	 local	 government	 operations	 GHG	
+emissions	reduction	targets	for	2020	include	a	reduction	of:	14%	in	transport,	9%	in	waste,	5%	in	
+ 
+7 C40 Cities. Mexico City: ProAire. Accessed on October 26, 2016: http://www.c40.org/profiles/2013-mexicocity  
+8 Compact of Mayors. Mexico City. Accessed on October 3, 2016: https://www.compactofmayors.org/cities/mexico-city/  
+
+13 
+
+ 
+ 
+
+© Sustainalytics 2017 
+
+facilities	and	1%	in	buildings.	In	terms	of	adaptation,	the	Action	Program	aims	to	increase	the	city’s	
+resiliency	as	well	as	the	population’s	adaptation	capacities,	particularly	for	the	5.6	million	people	
+most	vulnerable	to	extreme	weather	events,	such	as	flooding9.	In	order	to	support	its	adaptation	
+strategy	initiatives,	the	city	is	setting	up	a	Resilience	Office	comprising	3	divisions	and	a	15-person	
+team	with	the	support	of	the	Rockefeller	Foundation’s	100	Resilient	Cities	initiative.	
+	
+Mexico	City’s	General	Program	for	Development	(2013-2018)	establishes	the	city’s	public	policy	
+priorities,	 including	 all	 objectives,	 goals,	 and	 related	 actions.	 This	 Program	 establishes	 climate	
+change	as	a	public	policy	priority,	and	includes	the	PACCM	reduction	target	of	10	million	tons	of	
+CO2e	by	2020	as	a	policy	objective.	Mexico	City	also	tracks	and	reports	on	these	targets	through	its	
+CDP	Survey	Responses.	The	city	publically	reports	on	its	Scope	1,	2	and	3	emissions,	which	totaled	
+6,170,632	metric	tonnes	CO2e	in	2012.	
+	
+Mexico	City’s	targets	contribute	to	Mexico’s	national	agenda	for	climate	change	mitigation.	In	April	
+2012,	Mexico	became	the	first	developing	country	to	adopt	a	General	Climate	Change	Law	(“LGCC”	
+in	Spanish),	which	is	Mexico’s	main	political	tool	for	efficiently	tackling	climate	change	issues.	The	
+law	is	a	legal	framework	that	aims	to	reduce	Mexico’s	emissions	by	50%	from	2000	levels	by	2050	
+and	serves	as	the	foundation	for	the	country’s	40-year	National	Climate	Change	Strategy,	which	was	
+adopted	in	2013.	Mexico’s	Climate	Change	Strategy	as	well	as	the	LGCC	clearly	demonstrates	that	
+the	country	is	moving	forward	in	the	fulfillment	of	its	long-term	international	pledges.	
+	
+
+	
+
+ 
+9 Mexico City’s Climate Action Program: 2014-2020. 
+
+ 
+ 
+
+14 
+
+© Sustainalytics 2017 
+
+Appendix	3:	Opinion	on	Green	Use	of	Proceeds	for	the	2016	Green	Bond	
+Framework	
+	
+Sustainalytics’	Opinion	on	Sustainable	Buildings	and	Climate	Change	Adaptation	in	Mexico	City:	
+Buildings	in	Mexico	City	contribute	at	least	20%	of	GHG	emissions,	according	to	the	World	Resources	
+Institute.	Improving	energy	use	in	buildings	will	help	Mexico	City	hit	its	ambitious	goal	of	decreasing	
+greenhouse	gas	emissions	by	30%	by	202010.		
+	
+With	respect	to	the	sustainable	buildings	eligibility	criterion,	Sustainalytics	recognizes	that	(i)	LEED	
+Gold	and	Platinum	lead	to	higher	energy	efficiency	gains	than	LEED	Silver,	and	that	(ii)	Climate	Bonds	
+Initiative	sets	the	target	for	a	reduction	in	energy	consumption	at	30%.		However,	given	the	low	
+degree	of	penetration	of	sustainable	buildings	in	Mexico	City,	Sustainalytics	views	LEED	Silver	and	a	
+reduction	in	energy	consumption	of	at	least	15%	as	an	achievable	target.	For	example,	in	2014,	
+Mexico	 City	 had	 37	 LEED-certified	 projects	 and	 148	 LEED-registered	 projects11.	 Of	 the	 certified	
+projects,	29	out	of	37	were	certified	as	LEED	Silver	or	higher.	Given	this	context,	and	the	number	of	
+buildings	in	Mexico	City,	Sustainalytics	is	of	the	opinion	that	setting	targets	that	are	realizable	for	as	
+many	buildings	as	possible	will	result	in	significant	overall	impact.	Wherever	feasible,	Sustainalytics	
+encourages	Mexico	City	to	make	best	efforts	to	achieve	LEED	Gold	or	Platinum	certification.	
+	
+With	respect	to	climate	change	adaptation,	Sustainalytics	has	reviewed	Mexico	City	government	
+documents	which	confirm	that	the	city	has	identified,	and	seeks	to	address,	risks	posed	by	climate	
+change	through	the	city’s	Resilience	Strategy.	The	Mexico	City	Climate	Action	Program	(PACCM)	
+2014-2020	states	that	about	5.6	million	people	in	the	city	are	vulnerable	to	climate	change	and	
+describes	their	geographic	location	to	threats	such	as	heat	waves,	floods,	and	landslides	based	on	
+predictions	 from	 the	 Mexico	 City	 Virtual	 Center	 for	 Climate	 Change.	 In	 Sustainalytics’	 opinion,	
+Mexico	City	could	strengthen	its	framework	by	conducting	climate	change	risk	studies	for	proposed	
+projects	 under	 the	 adaptation	 eligibility	 criterion.	 Such	 project-specific	 studies	 strengthen	 the	
+impact	of	the	use	of	proceeds,	as	they	establish	a	clear	case	that	adaptation	infrastructure	is	being	
+funded	as	a	direct	response	to	climate	change	risks.		
+	
+Importance	of	Sustainable	Transport	in	Mexico	City:	
+Mexico	 City	 already	 boasts	 an	 effective	 sustainable	 transport	 system.	 The	 city	 has	 made	
+considerable	strides	in	improving	sustainable	mobility	options	in	the	last	decade	by	restricting	the	
+use	of	private	cars	and	by	developing	its	public	transport	system.	77.9%	of	all	trips	on	a	typical	
+
+ 
+10 World Resources Institute. Building a More Competitive Mexico City Through Energy Efficiency. April 1, 2015. Accessed on October 17, 2016: 
+
+http://www.wri.org/blog/2015/04/building-more-competitive-mexico-city-through-energy-efficiency  
+
+11 World Green Building Council. Green Building City Market Brief: Mexico City. August 2014. Accessed on October 17, 2016: 
+
+http://www.worldgbc.org/files/1414/0982/5897/Mexico_City_-_City_Market_Brief_Final.pdf  
+
+ 
+ 
+
+15 
+
+© Sustainalytics 2017 
+
+workday	occur	on	public	transport	in	Mexico	City12.	The	City’s	Bus	Rapid	Transportation	(“BRT”)	
+system,	 Metrobus,	 commenced	 in	 2005	 and	 has	 1.1	 million	 daily	 passengers.	 Metrobus	 has	
+increased	access	to	basic	public	services	while	contributing	to	climate	change	mitigation	and	has	
+received	recognition	through	the	Sustainable	Transport	Award	in	201313.		
+	
+While	 noteworthy	 achievements	 have	 been	 made	 in	 Mexico	 City,	 there	 continues	 to	 be	 strong	
+demand	for	continued	development	of	sustainable	transport	infrastructure,	as	indicated	by	Greater	
+Mexico	City’s	projected	population	growth.	The	population	of	Greater	Mexico	City	increased	at	a	
+rate	of	0.8%	per	year	from	2010	to	2015,	and	it	is	expected	to	increase	to	approximately	23.9	million	
+in	2030	from	20.8	million	in	201414.	Improvements	and	expansions	to	the	subway	and	BRT	system	
+will	help	to	meet	the	city’s	growing	transportation	needs	in	a	sustainable	manner.	
+	
+Importance	of	Water	Efficiency	and	Wastewater	Management	in	Mexico	City:	
+Water	infrastructure	in	Mexico	City	consists	of	water	supply	and	distribution,	wastewater	collection,	
+storm	water	collection	and	wastewater	treatment.	Water	management	has	become	a	high	priority	
+for	Mexico	City	and	is	included	in	the	Mexico	City’s	Climate	Action	Program	(PACCM)	as	well	as	the	
+city’s	Resilience	Strategy,	which	was	formalized	in	September	2016.	
+	
+Mexico	City	loses	41.4%	of	its	water	due	to	an	outdated,	run-down	water	system	which	is	plagued	
+by	thousands	of	small	leaks	over	miles	of	underground	piping15.	The	water	distribution	system	is	
+formed	by	12,000	km	of	pipeline	network,	built	30	years	ago,	which	contains	many	pipes	that	are	
+now	rusty	and	broken	due	to	earthquakes	and	usage16.	Furthermore,	every	year,	the	city	extracts	
+1.3	billion	cubic	meters	of	water	while	rainfall,	and	some	injection,	recharges	it	by	only	700	million	
+cubic	meters17.	Thus,	underground	aquifers,	which	provides	around	70%	of	the	city’s	water,	are	
+drying	at	an	alarming	rate.	These	challenges	results	in	70%	of	the	city	having	fewer	than	12	hours	of	
+running	water	per	day18.	
+	
+The	Climate	Action	Local	Strategy	(ELAC)	and	Resilience	Strategy	identifies	extreme	rainfall,	which	
+may	result	in	an	increased	number	of	floods,	as	one	of	the	expected	shocks	associated	with	climate	
+change.	Shocks	to	sewage	systems	are	projected	during	intense	rainfall	seasons,	and	the	frequency	
+
+ 
+12 Global BRT Data. Mexico City. Accessed on October 4, 2016: http://brtdata.org/location/latin_america/mexico/mexico_city  
+13 Sustainable Transport Award Committee. Mexico City. Accessed on October 4, 2016: http://staward.org/winners/2013-mexico-city-mexico/  
+14 United Nations. 2014. World Urbanization Prospects. Accessed on October 4, 2016, p. 26: 
+
+https://esa.un.org/unpd/wup/Publications/Files/WUP2014-Highlights.pdf  
+
+15 Ciudad de México. CDMX Resilience Strategy. 2016. Accessed on October 7, 2016: http://www.100resilientcities.org/page/-
+
+/100rc/pdfs/CDMX%20Resilience%20Strategy%20-%20English.pdf  
+
+16 Platinum. 2015. Water in Mexico City. Accessed on October 6, 2016: http://www.plantum.mx/single-post/2015/12/01/Water-in-Mexico-City-
+
+Artificial-Scarcity  
+
+17 https://news.vice.com/article/millions-of-taps-run-dry-as-mexico-city-fixes-some-decrepit-water-pipes  
+18 Panoramas: Center for Latin American Studies at the University of Pittsburgh. 2015. Watering the Classes: Mexico City's Water Shortage. 
+
+Accessed on October 6, 2016: http://www.panoramas.pitt.edu/technology/watering-classes-mexico-citys-water-shortage 
+
+16 
+
+ 
+ 
+
+© Sustainalytics 2017 
+
+and	extent	of	such	shocks	may	increase	significantly	due	to	lack	of	infrastructure	maintenance	or	as	
+a	result	of	future	earthquakes,	which	may	result	in	damaged	infrastructure	in	the	city.	There	is	an	
+immediate	need	for	the	city	to	update	its	water	infrastructure	in	order	to	address	risks	related	to	
+water	distribution	as	well	as	stormwater	collection.	
+	
+In	addition	to	water	management,	water	treatment	and	sanitation	are	also	important	issues	for	the	
+city.	The	use	of	large	volumes	of	water,	and	the	inability	to	recycle	and	reuse	that	water,	generates	
+a	large	volume	of	wastewater,	most	of	which	does	not	receive	adequate	treatment.	Consequently,	
+wastewater	 strongly	 affects	 environmental	 quality	 within	 discharge	 zones.	 Today,	 the	 city’s	
+wastewater	is	primary	diverted	to	the	Mezquital	watershed	in	the	north	for	irrigation	purposes.	
+While	wastewater	has	been	used	for	irrigation	in	the	area	for	nearly	a	century,	the	untreated	water	
+has	 led	 to	 sanitary	 and	 environmental	 problems.	 An	 additional	 benefit	 to	 increasing	 the	 city’s	
+capacity	to	treat	wastewater	is	that	Mexico	City	may	be	able	to	alleviate	much	of	the	demand	for	
+freshwater,	particularly	in	the	industrial	and	agricultural	industry.	
+	
+Mexico	City’s	Climate	Action	Program	(PACCM),	as	well	as	its	new	Resilience	Strategy,	prioritizes	
+improvements	 to	 water	 infrastructure	 in	 the	 City	 and	 outlines	 specific	 targets	 to	 address	 the	
+concerns	related	to	water	and	wastewater	management.	Mexico	City	has	layed	down	a	foundation	
+to	plan	integrated	solutions	that	meet	the	challenges	posed	by	urbanization	and	climate	change,	
+specifically	as	they	relate	to	water	management.	
+	
+	
+	
+	
+	
+	
+
+	
+
+ 
+ 
+
+17 
+
+© Sustainalytics 2017 
+
+loss	 of	
+
+Appendix	4:	Opinion	on	Risk	Mitigation	for	the	2016	Green	Bond	Framework	
+	
+Well	positioned	to	address	common	challenges	associated	with	infrastructure	projects	in	
+emerging	markets:	
+Sustainalytics	recognizes	that	infrastructure	development	projects	generally	create	environmental	
+and	social	risks	in	addition	to	benefits.	Sustainalytics	is	of	the	opinion	that	Mexico	City	is	well	
+positioned	to	manage	and	address	such	risks.	
+	
+Environmental	risks	include	loss	of	biodiversity	during	construction,	pollution	from	construction	and	
+construction	 materials,	 and	
+land	 usable	 for	 reforestation.	 Mexico	 City	 conducts	
+Environmental	 Impact	 Assessments	 (EIA)	 in	 order	 to	 assess	 and	 manage	 environmental	 impacts	
+resulting	from	infrastructure	projects.	The	works	and	activities	subject	to	EIAs	are	defined	under	an	
+article	within	the	Environmental	Protection	law,	which	includes	activities	that	can	cause	grave	and	
+irreparable	ecological	imbalance,	and	have	a	harmful	effect	on	public	health	or	the	ecosystem.	Such	
+projects	require	an	assessment	in	the	form	of	an	EIA,	a	risks	study	or	a	strategic	environmental	
+assessment	before	construction	can	begin.	In	cases	where	a	comprehensive	study	is	not	required,	
+an	administrative	filing	is	needed	to	initiate	the	project.	Mexico	City	further	requires	a	continuous	
+assessment	 of	 environmental	 damages	 as	 well	 as	 an	 annual	 update	 on	 environmental	 licenses,	
+which	covers	several	authorizations	and	permits	in	one	single	filing.	
+	
+Social	risks	include	negative	impacts	on	populations.	Mexico	City	has	confirmed	to	Sustainalytics	
+that	no	slum	populations	exist	in	or	near	the	geographic	areas	of	the	eligible	projects	and	thus	no	
+populations	are	expected	to	be	displaced.	With	respect	to	labor	conditions	for	eligible	projects,	
+Article	123	of	the	Constitution	of	Mexico	requires	adherence	to	standards	and	principles	in	the	
+workplace,	including	duties	of	the	employer	in	the	field	of	occupational	safety	and	health.	The	
+Federal	Regulation	on	Occupational	Safety	and	Hygiene	(OSH)	and	the	Working	Environment	aims	
+to	set	up	the	necessary	measures	to	prevent	accidents	and	diseases	in	addition	to	ensuring	safe	
+and	healthy	working	conditions	for	workers.	Mexico	City	reports	having	a	stringent	enforcement	
+system	to	ensure	compliance	to	all	applicable	labour	laws,	regulations	and	standards	and	ensure	
+that	Mexico	City’s	employees	and	all	stakeholders	affected	by	proposed	projects	are	protected	as	
+comprehensively	as	possible.	
+	
+	
+
+ 
+ 
+
+18 
+
+© Sustainalytics 2017 
+
+SUSTAINALYTICS	
+	
+Sustainalytics	is	an	independent	ESG	and	corporate	governance	research,	ratings	and	analysis	firm	
+supporting	investors	around	the	world	with	the	development	and	implementation	of	responsible	
+investment	strategies.	With	13	offices	globally,	Sustainalytics	partners	with	institutional	investors	
+who	 integrate	 environmental,	 social	 and	 governance	 information	 and	 assessments	 into	 their	
+investment	processes.	Today,	the	firm	has	more	than	300	staff	members,	including	170	analysts	
+with	varied	multidisciplinary	expertise	of	more	than	40	sectors.	Through	the	IRRI	survey,	investors	
+selected	 Sustainalytics	 as	 the	 best	 independent	 responsible	 investment	 research	 firm	 for	 three	
+consecutive	years,	2012	through	2014	and	in	2015,	Sustainalytics	was	named	among	the	top	three	
+firms	for	both	ESG	and	Corporate	Governance	research.	The	firm	was	also	named	the	Best	SRI	or	
+Green	Bond	Research	Firm	by	Global	Capital	in	2015	and	Most	Impressive	Second	Opinion	Provider	
+in	2017.	For	more	information,	visit	www.sustainalytics.com		
+	
+	
+Sustainalytics	
+info@sustainalytics.com		
+www.sustainalytics.com		
+	
+	
+	
+	
+
+	
+
+	
+	
+	
+	
+
+	
+
+Best	SRI	or	Green	Bond	
+Research	or	Rating	Firm	
+
+Most	Impressive		
+Second	Opinion	Provider	
+
+ 
+ 
+
+25 
+
+

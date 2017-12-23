@@ -1,0 +1,808 @@
+ 
+
+ 
+ 
+  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ MOSAIC SOLAR  
+
+GREEN USE OF PROCEEDS 
+
+SECURITIZED BOND 
+
+ 
+
+MOSAIC SOLAR LOANS 2017-1 LLC 
+FRAMEWORK OVERVIEW AND OPINION BY 
+
+SUSTAINALYTICS 
+
+ 
+
+January 2017 
+
+ 
+
+ 
+
+www.sustainalytics.com 
+ 
+www.sustainalytics.com 
+ 
+www.sustainalytics.com 
+ 
+www.sustainalytics.com 
+
+Remco Slim 
+
+Analyst,  
+
+Charlotte Peyraud 
+
+Senior Advisor,  
+
+Advisory Services (Amsterdam) 
+
+Institutional Relations (New York) 
+
+remco.slim@sustainalytics.com  
+
+charlotte.peyraud@sustainalytics.com  
+
+(+31) 20 205 00 03  
+
+(+1) 646 518 0184 
+
+ 
+ 
+
+ 
+ 
+
+Vikram Puppala  
+
+Vikram Puppala  
+
+© Sustainalytics 2017 
+
+TABLE OF CONTENTS 
+
+FRAMEWORK OVERVIEW AND OPINION BY SUSTAINALYTICS 
+
+1.  Preface 
+
+2. 
+
+Introduction 
+
+3.  Framework overview 
+3.1  Use of Proceeds 
+3.2  Project Evaluation and Selection Process 
+3.3  Management of Proceeds 
+3.4  Reporting 
+
+4. Sustainalytics’ Opinion 
+
+Conclusion 
+
+Appendices 
+
+Appendix 1: Mosaic’s Installer Approval Policies and Procedures 
+Appendix 2: Mosaic’s Authorized Vendor List 
+Appendix 3: Impact Statistics for Mosaic Solar Loans 2017-1 LLC 
+Appendix 4: Documents Reviewed 
+Appendix 5: Green Bond/Green Bond Programme External Review Form 
+
+SUSTAINALYTICS 
+
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+1 
+
+3 
+
+3 
+
+5 
+5 
+5 
+6 
+6 
+
+7 
+7 
+
+8 
+8 
+9 
+10 
+11 
+12 
+
+18 
+
+2 
+
+© Sustainalytics 2017 
+
+1. PREFACE 
+Solar Mosaic, Inc. (“Mosaic”) will issue a Green Use of Proceeds Securitized Bond.1 For that purpose, a series of 
+notes (the “Notes”) will be issued under the Mosaic’s Solar Loan Program. The issuance will consist of one or 
+more  classes  of  Solar  Loan  backed  notes  and  Residual  Certificates  which  are  issued  through  a  wholly  owned 
+subsidiary named ‘Mosaic Solar Loans 2017-1 LLC’ (“the Issuer”). The Notes are secured by a pool of (Solar) Loans 
+incurred by home owners to finance their purchase and installation of a solar energy system on their residence. 
+These  loans  are  secured  by  the  related  solar  energy  system.  Mosaic  retained  Sustainalytics  to  review  the 
+structure of the issuance and to provide an opinion on the alignment of the Notes with the Green Bond Principles 
+2016 (“GBP”) administered by the International Capital Market Association (“ICMA”).  
+ 
+Sustainalytics engaged with members of Mosaic’s management team to understand the sustainability impact of 
+the issuance, reviewed the deal documentation and the allocation of the proceeds for the issuance of the Notes. 
+Sustainalytics  also  reviewed  the  public  and  internal  deal  documentation  from  Solar  Mosaic,  Inc.  specifically 
+relevant to the Notes. This document contains two sections: Framework Overview – summary of the Solar Mosaic 
+Green Use of Proceeds Securitized Bond framework; and Sustainalytics’ Opinion – an opinion on Solar Mosaic’s 
+issuance. 
+  
+2. INTRODUCTION 
+Overview 
+Mosaic operates a financial services platform that provides homeowners with loans used to finance the purchase 
+and  installation  of  solar  energy  systems  on  their  home  through  a  network  of  third  party  contractors.  The 
+organization’s current business  strategy is to offer loan products that appeal to  installers who offer Mosaic’s 
+loans to their customers at point of sale. Mosaic relies on a network of U.S. based installers to offer Mosaic’s 
+loans to homeowners as one option to fund the purchase of their solar energy system. 
+ 
+Mosaic’s Solar Loans 
+Mosaic originates residential Solar Loans that enable customers to afford to purchase and own their own solar 
+energy system.  Mosaic’s Solar Loan program is specifically designed for the residential solar market. The Mosaic 
+Solar Loans enables “approved installers” (see Appendix 1 and 2) to offer potential means of financing for the 
+homeowner’s  purchase  and  installation  of  a  solar  energy  system.  The  installer  surveys  the  home  for  solar 
+resource quality, builds a preliminary system design, and models the solar energy expected for a full year.  Based 
+on  the  resulting  model,  the  installer  can  describe  the  solar  energy  system  specifications  and  energy  savings 
+potential offered to the customer by purchasing the solar energy system and various payment options available 
+to the customers to fund the purchase (cash purchase, lease/power purchase agreements or loan financing).   
+ 
+Mosaic disburses the loan proceeds directly to the installer using a milestone schedule that corresponds to the 
+solar energy system’s construction phases, with final disbursements made when the applicable utility serving the 
+homeowner grants permission to operate, signifying that the solar energy system is fully ready to generate and 
+transmit energy both to the home and the utility grid.  
+ 
+
+ 
+1 A type of Green Bonds as described in the Green Bond Principles, 2016; http://www.icmagroup.org/assets/documents/Regulatory/Green-
+Bonds/GBP-2016-Final-16-June-2016.pdf  
+
+3 
+
+ 
+ 
+
+© Sustainalytics 2017 
+
+Several policies at the federal, state, and local levels have helped to spur adoption of solar energy in the United 
+States. The bulk of support has come from the federal solar tax credit (“ITC”) that is available to taxpayers making 
+investments in new solar energy systems. The ITC generally provides an incentive for such investments by giving 
+taxpayers a credit of up to 30% of the acquisition cost for new solar energy systems placed in service before 
+specified deadlines. Mosaic’s customers may claim a credit against their federal income taxes so long as their 
+Solar Energy System is placed in service before expiration of the ITC. 
+ 
+Securitization of Solar Loans  
+The issuance of the Notes will primarily be secured by a pool of loans incurred by home owners to finance their 
+purchase and installation of a solar energy system on their residence. These loans are secured by the related 
+solar energy system. Mosaic has originated the pool of Solar Loans and will (on behalf of the Issuer as the servicer 
+of the Solar Loan pool), among other things, bill and collect payments in respect of the Solar Loans, enforce the 
+Solar Loans and monitor the performance of the Solar Loans.  
+ 
+Financed projects consist solely of residential Solar Loans that enable customers to afford to purchase, install 
+and  own  their  own  solar  energy  systems.  The  Solar  Loans  were  originated  by  Mosaic  pursuant  to  referral 
+agreements with Installers operating in Mosaic’s network that sell solar energy systems and related items and 
+services to customers that have been approved by Mosaic for financing. Both the Installers and the equipment 
+components  used  in  the  Solar  Energy  Systems  have  been  approved  by  Mosaic  pursuant  to  its  policies  and 
+procedures. 
+ 
+Solar Loan Backed Notes 
+Mosaic disclosed that total proceeds to be issued by the Notes are USD 138,950,000. The Notes are secured by 
+a pool of Solar Loans. The transaction benefits from credit enhancement in the form of overcollateralization, 
+yield  supplement  overcollateralization  and  a 
+from 
+overcollateralization in the form of principal balance of Solar Loans that exceeds the principal balance of  the 
+issuance.  
+ 
+The proceeds from the issuance of the Notes will be used by the Issuer to acquire the Solar Loans and to pay 
+certain expenses incurred in connection with the issuance of the Notes and the Residual Certificates.2  The Notes 
+will be secured by all of the Solar Loans acquired by the Issuer, and Mosaic has disclosed that the principal balance 
+of the Solar Loans on the statistical cutoff date will be approximately USD 177,900,929.3  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+reserve.  The  Notes  are  benefiting 
+
+liquidity 
+
+ 
+2 The Residual Certificates represent ownership of 100% of the residual economic interest in Mosaic Solar Loans 2017-1 LLC.   
+3 See the Preliminary Offering Memorandum for further information on the statistical characteristics of the Solar Loans. 
+
+4 
+
+ 
+ 
+
+© Sustainalytics 2017 
+
+3. FRAMEWORK OVERVIEW 
+Mosaic’s issuance of the Notes uses a framework that is aligned with the four key pillars of the Green Bond 
+Principles (“GBP”): 
+
+  Use of Proceeds 
+  Selection Process 
+  Management of Proceeds 
+  Reporting 
+
+ 
+ 
+3.1   Use of Proceeds 
+The proceeds of the Notes will be allocated to Solar Loans that finance solar energy systems that meet the 
+following eligibility criteria. 
+ 
+3.1.1  Eligibility Criteria 
+To be eligible to be funded by the proceeds, the projects funded must meet the following criteria: 
+
+a.  Fall within selected renewable and alternative energy product categories 
+
+i.  Solar Panel Modules 
+ii.  Solar inverters 
+iii.  Services related to the installation of products under i. and ii. 
+
+Installed by Mosaic approved installer  
+
+b. 
+c.  Use Mosaic approved equipment. 
+
+ 
+
+Mosaic determines the eligibility of the projects financed based on “Installer Approval policies” and “Equipment 
+qualification  criteria”.  Eligible  projects  must  be  undertaken  with  Mosaic’s  “Approved  Installers”  and  use 
+equipment from the “Approved Vendor List” (as outlined in Appendix 1 and 2).  
+
+ 
+
+ 
+3.2  Project Evaluation and Selection Process 
+All  projects  that  meet  the  eligibility  criteria  as  described  above  are  selected  by  Mosaic.  Mosaic  developed 
+detailed policies and procedures for evaluating and approving prospective customers seeking to obtain a Solar 
+Loan. Mosaic uses an internal review process. Mosaic’s Credit Committee assesses relevant criteria that allows 
+Mosaic  to  make  an  educated  informed  decision  on  whether  to  approve  an  installer.  All  Solar  Loans  that  are 
+referred  to  Mosaic  by  its  “Approved  Installers”  are  eligible  to  be  funded  if  the  homeowner  meets  Mosaic’s 
+underwriting criteria.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+5 
+
+© Sustainalytics 2017 
+
+   Reporting  
+
+3.3        Management of Proceeds  
+The proceeds of the Notes are immediately directed to an underlying trust that is being used to acquire and hold 
+the Solar Loans on behalf of the Issuer and the holders of its Notes and residual Certificates. The Solar Loans are 
+currently owned by Mosaic or its warehouse financing subsidiaries prior to their sale to the Issuer. All Solar Loans 
+will be assigned to the underlying trust upon the issuance of the Notes resulting in full allocation of the proceeds 
+to the Solar Loans. Due to the required overcollateralization, the Notes are secured by a pool of Solar Loans in 
+an amount equal to or greater than the amount of the Notes issuance at all times. 
+ 
+ 
+3.4 
+ 
+Allocation Reporting 
+As  all  of  the  initial  proceeds  will  be  immediately  allocated  to  Solar  Loans,  verification  on  allocation  of  the 
+proceeds will be disclosed all at once at issuance of the Notes in the offering memorandum. 
+ 
+Impact Reporting 
+Mosaic utilizes a proprietary calculation model which estimates the renewable energy generating capacity for all 
+installed Solar Energy Systems that are financed through its Solar Loan program.  
+ 
+Mosaic reports on assumed impact in the following area: 
+ 
+Renewable Energy Generation  
+
+1.  Methodology 
+
+Total capacity of the Solar Energy Systems in an aggregated manner in Megawatts. 
+ 
+
+2.  Specific Impact Metrics 
+  Total  capacity of  Solar  Energy  Systems  financed  by  Solar Loans Backing  the  Notes  in Megawatts  (DC, 
+
+direct current).  
+
+  Total Assumed Renewable Energy Produced by such Solar Energy Systems (during assumed useful life) in 
+
+Megawatt hours. 
+
+ 
+See Appendix 3 for figures on the assumed environmental impacts from the projects funded by the Solar Loans 
+underlying the Notes. 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+6 
+
+ 
+ 
+
+© Sustainalytics 2017 
+
+4. SUSTAINALYTICS’ OPINION 
+Mosaic’s issuance of Notes supports investments in residential renewable energy projects by providing financing 
+solutions  to  homeowners  with  loans  financing  residential  solar  energy  installations.  Mosaic  allocates  the 
+proceeds  from  the  Notes  to  Solar  Loans,  which  are  backed  by  the  projects  and  products  managed  through 
+Mosaic’s  Solar  Loan  program.  Mosaic  uses  an  overcollateralization  strategy  to  secure  the  Notes  and  thereby 
+ensures that all proceeds are matched by a portfolio of Solar Loans that meet the eligibility criteria resulting in a 
+full  allocation  upon  issuance.  The  issuance  of  the  Notes  will  enable  Mosaic  to  repay  a  portion  of  its  current 
+outstanding warehouse funding, which should enable Mosaic fund new Solar Loans. 
+ 
+Mosaic is currently a pure-play solar energy system financier and its Solar Loans offer an effective way to promote 
+the uptake of renewable energy-generating products in the United States. Mosaic incentivizes home owners to 
+install solar systems and products by offering loans to homeowners. Given the alignment of Mosaic’s issuance 
+with  its  overall  strategy  and  the  fact  that  the  company  is  not  implicated  in  severe  environmental,  social  or 
+governance controversies, Sustainalytics is of the opinion that Mosaic is well positioned to issue green bonds.  
+ 
+Sustainalytics  is  of  the  opinion  that  Mosaic  implements  a  rigorous  process  to  ensure  that  the  Solar  Loans 
+underlying the notes are disbursed directly to the installers that meet Mosaic’s criteria. Furthermore, the Solar 
+Loans are not permitted to be used for any purpose other than the purchase and installation of a Solar Energy 
+System or related items. Financed projects must be undertaken by Mosaic’s “Approved Installers” and only use 
+equipment on Mosaic’s “approved equipment list”. In order to select installers, Mosaic uses an internal review 
+process. Mosaic’s Credit Committee assesses relevant criteria that allows Mosaic to make an informed decision 
+on  whether  to  approve  an  installer.  This  assessment  includes,  among  others,  an  evaluation  of  an  installer’s 
+creditworthiness and solvency, and experience building residential solar systems.  
+ 
+Impact of Use of Proceeds 
+The issuance of Notes backed by solar loans supports investments in residential renewable energy projects with 
+positive environmental impacts. Mosaic’s asset-backed securitization of rooftop Solar Loans fits within the four 
+recognized types of Green Bonds as described in the Green Bond Principles, 2016. Furthermore, Mosaic reports 
+on the aggregated renewable energy generating capacity of the solar energy systems it has funded and the total 
+assumed renewable energy produced during the lifetime of the projects. These metrics provide investors insights 
+on the scale of the impact of the solar systems funded by the Notes. 
+ 
+Alignment with Green Bond Principles 2016: Sustainalytics has determined that the issuance aligns with the four 
+pillars of the Green Bond Principles 2016. For detailed information please refer to the Green Bond/Green Bond 
+Programme External Review Form in the Appendix. 
+ 
+Conclusion 
+Through the issuance of the Notes, Mosaic supports investments in residential renewable energy projects by 
+providing financing to homeowners with loans that will directly enable the sale and installation of residential 
+solar energy systems. Sustainalytics is of the opinion that the issuance is aligned with current market standards 
+and norms, including the four pillars of the Green Bond Principles 2016. The use of proceeds, project selection, 
+management of proceeds, and reporting are robust and credible. The criteria that are used for the  Notes are 
+sound and the selection processes are diligent.  
+ 
+
+ 
+ 
+
+7 
+
+© Sustainalytics 2017 
+
+APPENDICES 
+Appendix 1: Mosaic’s Installer Approval Policies and Procedures 
+
+Mosaic permits an Installer to access its advanced technology financing platform only after such Installer has been 
+underwritten, evaluated and approved by Mosaic’s Credit Committee and designated as an Approved Installer.  Any Installer 
+who seeks to become an Approved Installer must initially provide Mosaic with the following information (collectively, the 
+“Application  Documents”):  evidence  of  a  valid,  active  state  contractor’s  license,  a  completed  Installer  application  form 
+(“Installer  Application”)  and  a  copy  of  such  Installer’s  solar  installation  agreement  and  solar  warranty  documentation 
+(“Installer Agreements”).   
+
+The Installer Application requires an Installer to provide detailed information regarding, among other things: annual 
+sales volume, annual loan volume, geographic sales area, experience (number of years in business and Solar Energy Systems 
+installed  to  date),  number  of  employees,  including  those  certified  by  the  North  American  Board  of  Certified  Energy 
+Practitioners and those certified as licensed professional engineers, number of complaints registered with the applicable State 
+licensing  board  for  contractors,  the  amount  and  type  of  insurance  coverage  maintained,  documentation  regarding  Installer 
+practices, including workmanship warranty, monitoring services, types of modules, inverters and other components offered, 
+and forms of sale and installation agreements.              
+
+Upon  receipt  of  an  Installer’s  Application  Documents,  Mosaic’s  staff  reviews  (1)  the  Installer  Application  for 
+completeness, and to the extent necessary prepares an internal write up providing context for any criteria that are not in the 
+generally acceptable range, and (2) the Installer Agreements for conformity to general standards in the solar industry and with 
+regulatory  requirements,  in  each  case  consulting  legal  counsel  as  necessary.    A  summary  of  the  foregoing  review  is  then 
+provided to Mosaic’s Credit Committee, which reviews the summary and other information it may request and will then  either 
+approve such Installer, request additional information on the Installer or reject the Installer application. 
+
+Mosaic requires that representatives for each  Approved Installer receive online compliance training on consumer 
+
+ 
+
+lending compliance matters.   
+ 
+ 
+Performance by Approved Installers is monitored by Mosaic on an ongoing basis and an Installer may be removed 
+as an Approved Installer by Mosaic’s management or by the Credit Committee at any time, based on a breach of the Installer’s 
+agreement  with  Mosaic.  Through  December  31,  2016,  Mosaic  has  terminated  approximately  14  previously  Approved 
+Installers for compliance or financial cause. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+
+8 
+
+© Sustainalytics 2017 
+
+Appendix 2: Mosaic’s Authorized Vendor List 
+
+Mosaic’s Equipment Vendor Approval Policies and Procedures 
+
+Approved Installers are required to use solar panels and inverters manufactured by vendors specified on Mosaic’s 
+“Authorized Vendor List.”  The Authorized Vendor List is a list of equipment providers that manufacture or distribute solar 
+panels and/or inverters used in the Solar Energy Systems financed by Mosaic.  Such vendors and their equipment must satisfy 
+criteria adopted from time to time by Mosaic.  Mosaic’s current criteria have been adopted by Mosaic’s Credit Committee 
+based on its review of (1) information supplied by the vendors, (2) third party reports (including independent engineer reports), 
+(3) other analysis regarding performance of the Solar Energy System components, and (4) other relevant criteria. 
+
+Any  solar  panel  or  inverter  equipment  manufacturer  (“Vendor”)  wishing  to  be  considered  for  inclusion  on  the 
+Authorized Vendor List must submit responses to a list of questions and selection criteria developed by Mosaic that includes, 
+among  other  things  (1)  an  overview  of  the  Vendor  and  such  Vendor’s  Experian  credit  score,  (2)  detailed  specifications 
+regarding the product, including the product  warranty to be provided, (3) key  materials  used in the panels or inverters, as 
+applicable, and related risks associated with such materials, (4) performance and reliability data, (5) warranty claim history 
+and  processes,  (6)  ISO  certifications,  (7)  installation  history,  (8)  product  support,  (9)  technology  review  and  (10)  other 
+standard acceptance criteria. 
+
+ 
+Mosaic’s staff  reviews the Vendor’s responses in order to confirm whether the Vendor information is complete and 
+the product meets Mosaic’s approval standards or, if not, whether any extraordinary circumstances exist which nonetheless 
+justify  approval  of  the  Vendor,  and  presents  the  results  of  their  review  to  the  Credit  Committee  for  approval.    Mosaic’s 
+Authorized Vendor List currently includes the following: 
+
+Approved Solar Panel Modules: 
+
+ 
+
+AU Optronics                                      Axitec                                    
+Centro Solar America 
+CSUN                                     
+ET Solar Industry                                First Solar                             
+Hyundai                                               JA Solar                                 
+Kyocera                                               LG                                           
+Mage Solar USA                                 Mitsubishi Electric           
+  
+Phono Solar                                        RECSolar ASA                        
+Samsung                                              Sanyo                                     
+Sharp                                                    Silfab                                      
+Suniva                                                  SunPower                              
+Trina Solar                                           UpSolar                                  
+Yingli Green Energy 
+ 
+
+Canadian Solar                    
+Dow Chemical                    
+Hanwha                                
+Jinko 
+Light Way Green New Energy                
+Motech                                 
+ReneSola                             
+Silevo (Solar City) 
+SolarWorld                          
+Sunpreme                            
+WINAICO                            
+
+Approved Inverters: 
+
+ APSystems                            
+ABB                                                    
+Enphase                                                Fronius                                   
+PV Powered                                
+SolarEdge Technologies      
+Solectria Renewable                         Solis (Ginlong)                      
+
+Delta                                     
+PowerOne                            
+SMA                                     
+SunPower 
+
+ 
+  
+ 
+ 
+ 
+
+ 
+ 
+
+9 
+
+© Sustainalytics 2017 
+
+ 
+ 
+Appendix 3: Impact Statistics for Mosaic Solar Loans 2017-1 LLC 
+ 
+Table 1: Impact Statistics Mosaic Solar Loans 2017-1 LLC 
+ 
+
+Environmental Impact 
+
+Impact Metrics 
+
+Impact Figures 
+
+Total capacity of solar energy 
+systems financed by solar loans 
+backing the notes 
+
+Total assumed renewable energy 
+produced by solar energy systems 
+(during assumed 30 years of useful 
+life) 
+
+Megawatts (DC) 
+
+approximately 43 MW 
+
+Megawatt hours 
+
+approximately 1,850,000 MWh 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+10 
+
+© Sustainalytics 2017 
+
+Appendix 4: Documents Reviewed 
+ 
+Sustainalytics reviewed the following documents for the purposes of writing this report: 
+ 
+
+ 
+1 
+2 
+3 
+
+Document Name 
+Mosaic Solar Loans 2017 1 LLC - Preliminary Offering Memorandum 
+Asset Pool (Loan Tape) Mosaic Solar Loans 2017 1 LLC 
+Mosaic Installer and Equipment Approval Policy 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+11 
+
+© Sustainalytics 2017 
+
+Disclaimer 
+All rights reserved. No part of this second party opinion (the “Opinion”) may be reproduced, transmitted or 
+published in any form or by any means without the prior written permission of Sustainalytics.  
+  
+The Opinion was drawn up with the aim to explain why the analyzed bond is considered sustainable and 
+responsible. Consequently, this Opinion is for information purposes only and Sustainalytics will not accept any 
+form of liability for the substance of the opinion and/or any liability for damage arising from the use of this 
+Opinion and/or the information provided in it. 
+  
+As the Opinion is based on information made available by the client, Sustainalytics does not warrant that the 
+information presented in this Opinion is complete, accurate or up to date. 
+  
+Nothing contained in this Opinion shall be construed as to make a representation or warranty, express or 
+implied, regarding the advisability to invest in or include companies in investable universes and/or portfolios. 
+Furthermore, this Opinion shall in no event be interpreted and construed as an assessment of the economic 
+performance and credit worthiness of the bond, nor to have focused on the effective allocation of the funds’ use 
+of proceeds. 
+  
+The client is fully responsible for certifying and ensuring its commitments` compliance, implementation and 
+monitoring. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+17 
+
+© Sustainalytics 2017 
+
+SUSTAINALYTICS 
+ 
+Sustainalytics is the largest independent provider of sustainability 
+research, analysis, and services to investors. We serve over 250 
+institutional investors which include some of the world's largest asset 
+owners and asset managers. Through over 20 years of experience 
+serving the responsible investment (RI) market, we have gained a 
+reputation for providing high-quality ESG research solutions and 
+excellent client service. 
+
+Sustainalytics is headed by seasoned professionals in the field of 
+business, finance, and sustainability, with a wealth of experience in the 
+Responsible Investment area. After more than 20 years of local 
+experience and expertise in the Responsible Investment (RI) market 
+Sustainalytics has developed a comprehensive understanding of trends 
+and best practices and a solid process to assist organisations in 
+integrating ESG considerations into their policies and strategies. We 
+have worked with some of the world’s financial institutions including 
+pension plans, investment managers and banks providing customised 
+support to help them achieve their RI objectives. Clients include ABN 
+AMRO, APG, BBVA, BNP Paribas, Deutsche Bank, ING Bank, Lombard 
+Odier, Lloyds Bank, Triodos Bank, UBS and over 250 other financial 
+institutions and organisations. 
+
+Sustainalytics now has a staff of 250 employees globally, including over 
+120 analysts, with operations in Amsterdam, Boston, Bucharest, 
+Frankfurt, New York, Paris, London, Singapore, Sydney, Timisoara, and 
+Toronto, and representation in Brussels and Washington DC. 
+
+In 2015, Sustainalytics was named the Best 
+SRI or Green Bond Research Firm by 
+GlobalCapital. In December 2014, for the 
+third year in a row, Sustainalytics was 
+named best sustainable and responsible 
+investment research firm in the 
+Independent Research in Responsible 
+Investment (IRRI) Survey, conducted by 
+Thomson Reuters and SRI-CONNECT.  
+
+ 
+ 
+
+18 
+
+

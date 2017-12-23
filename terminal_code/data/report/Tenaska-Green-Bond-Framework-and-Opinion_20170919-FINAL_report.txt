@@ -1,0 +1,504 @@
+	
+
+	
+	
+		
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+	
+
+	
+	
+	
+
+	
+
+	
+	
+	
+
+TENASKA	ISEC	WEST		
+
+GREEN	BOND	FRAMEWORK	
+
+	
+
+	
+
+FRAMEWORK	OVERVIEW	AND	SECOND	PARTY	
+
+OPINION	BY	SUSTAINALYTICS	
+
+August	23,	2017	
+
+www.sustainalytics.com	
+	
+
+	
+
+Ankita	Shukla	(Toronto)	
+Senior	Advisor,	Advisory	Services	
+ankita.shukla@sustainalytics.com		
+(+1)	416	861	0403	
+
+Charlotte	Peyraud	(New	York)		
+Senior	Advisor,	Institutional	Relations	
+charlotte.peyraud@sustainalytics.com	
+(+1)	646	518	0184	
+
+©	Sustainalytics	2017	
+
+TABLE	OF	CONTENTS	
+1.	 Preface	
+
+2.	 Overview	of	Issuer	
+
+3.	 Framework	Overview	
+3.1	 Use	of	Proceeds	
+3.2	 Project	Evaluation	and	Selection	Process	
+3.3	 Management	of	Proceeds	
+3.4	 Reporting	
+
+4	 Sustainalytics’	Opinion	
+
+Section	1:	Sustainability	Performance	of	the	Sponsor	and	the	Issuer	
+Section	2:	Impact	of	Use	of	Proceeds	
+Conclusion	
+
+Appendix	1	
+
+Sustainalytics	
+
+	
+	
+	
+	
+
+	
+
+	
+
+	
+
+	
+	
+
+3	
+
+3	
+
+4	
+4	
+5	
+5	
+6	
+
+7	
+7	
+7	
+8	
+
+9	
+
+15	
+
+2	
+
+©	Sustainalytics	2017	
+
+1. PREFACE	
+
+	
+CSOLAR	 IV	 West,	 LLC	 (“CSOLAR”,	 the	 “Company”	 or	 the	 “Issuer”)	 intends	 to	 issue	 a	 Green	 Bond	 to	
+refinance	its	150	MWAC	Imperial	Solar	Energy	Center	West	Project	(“ISEC	West”	or	the	“Project”)	located	
+in	the	Imperial	Valley	of	California.	CSOLAR	is	an	indirect	wholly-owned	subsidiary	of	Tenaska	Energy,	
+Inc.	and	Tenaska	Energy	Holdings,	LLC	(collectively	“Tenaska”	or	the	“Sponsor”).	
+	
+The	Sponsor	has	engaged	Sustainalytics	to	provide	a	second	party	opinion	on	the	Tenaska	ISEC	West	
+Green	Bond	Framework.	The	opinion	intends	to	provide	an	assessment	of	the	framework’s	alignment	
+with	the	transparency	and	reporting	requirements	of	the	Green	Bond	Principles1	2017	as	well	as	assess	
+the	Company’s	overall	sustainability	commitment	and	its	alignment	with	the	framework.	
+	
+To	come	to	this	opinion,	Sustainalytics	reviewed	several	public	and	internal	documents	provided	by	the	
+Company	and	Tenaska.	These	documents	were	reviewed	to	understand	the	Company’s	commitments,	
+the	use	of	proceeds,	management	of	proceeds	and	reporting	aspects	of	the	Green	Bond	to	be	issued.	
+This	document	contains	two	sections:	Framework	Overview	–	summary	of	the	Company’s	Green	Bond	
+Framework;	and	Sustainalytics’	Opinion	–	an	opinion	of	the	framework.			
+	
+		
+
+2. OVERVIEW	OF	ISSUER	
+
+	
+Tenaska,	is	an	independent	energy	company	based	in	Omaha,	Nebraska.	Tenaska	and	its	affiliates	have	
+developed	and	constructed	approximately	10,000	megawatts	(MW)	of	natural	gas-fueled	and	renewable	
+power	generation,	and	manage	operations	for	approximately	6,800	MW	of	power	generation.		
+
+Tenaska	 formed	 CSOLAR	 IV	 West,	 LLC	 to	 build,	 own	 and	 operate	 the	 Tenaska	 Imperial	 Solar	 Energy	
+Center	West.	CSOLAR	is	the	100%	owner	of	the	Project,	which	is	a	150	MWAC	solar	power	generation	
+facility.	The	Project	is	sited	on	approximately	1,130	acres	and	consists	of	approximately	182	MWDC	First	
+Solar,	Inc.	(“First	Solar”)	Series	2	and	Series	4	thin	film	cadmium	telluride	(“CdTe”)	photovoltaic	(“PV”)	
+modules.	The	Project	signed	a	25-year	Power	Purchase	Agreement	(“PPA”)	in	March	2011	to	sell	100%	
+of	its	output	to	San	Diego	Gas	&	Electric	Company	(“SDG&E”).	The	PPA	supports	SDG&E’s	obligations	
+under	California’s	mandated	Renewable	Portfolio	Standards.	
+	
+The	Issuer	is	issuing	Green	Bonds	to	refinance	the	ISEC	West	Project.	
+
+	
+
+	
+1	The	Green	Bond	Principles	are	voluntary	process	guidelines	that	recommend	transparency	and	disclosure	and	promote	integrity	in	the	
+
+development	of	the	Green	Bond	market.	They	provide	issuers	guidance	on	the	key	components	involved	in	launching	a	credible	Green	Bond	
+and	aid	investors	by	ensuring	availability	of	information	necessary	to	evaluate	the	environmental	impact	of	their	Green	bond	investments.	
+
+	
+	
+
+3	
+
+©	Sustainalytics	2017	
+
+3. FRAMEWORK	OVERVIEW	
+
+	
+The	following	section	summarizes	the	Company’s	Green	Bond	Framework	which	follows	the	four	key	
+pillars	of	the	Green	Bond	Principles	(GBP)	including:	the	use	of	proceeds,	process	for	project	selection,	
+management	of	proceeds,	and	reporting.	
+	
+3.1 
+
+		Use	of	Proceeds	
+
+	
+The	proceeds	of	the	Green	Bond	will	be	allocated	towards	financing	projects	that	meet	the	following	
+eligibility	criteria.	
+	
+3.1.1  Eligibility	Criteria	
+	
+RENEWABLE	ENERGY	
+	
+The	Company	will	use	Green	Bond	proceeds	towards	repayment	of	term	loan,	equity	proceeds,	swap	
+breakage	costs	and	refinancing	costs	for	its	150	MWAC	Imperial	Solar	Energy	Center	West	(“ISEC	West”)	
+Project,	which	has	been	operational	since	April	2016.	
+	
+The	Project	is	located	on	approximately	1,130	acres	of	land	and	consists	of	approximately	182	MWDC	of	
+First	Solar	Series	2	and	Series	4	CdTe	PV	modules.		
+	
+Proceeds	 will	 be	 used	 to	 refinance	 capital	 and	 operational	 expenditures	 related	 to	 the	 acquisition,	
+development,	operation	and	maintenance	of	ISEC	West.	Such	expenditures	may	include:	
+
+a.  Land	acquisition	and	notary	costs	
+b.  Project	studies	(e.g.	technical	solar	energy	potential	reports)	
+c.  Environmental	impact	and	Social	impact	reports	
+d.  Engineering	design	
+e.  Construction	 work	 (including	 electrical	 installation,	 related	 building	 structures,	 supporting	
+
+facilities	during	construction	phase,	etc.)	
+
+f.  Acquisition	of	photovoltaic	(PV)	panels	
+g.  Acquisition	of	electrical	equipment	(e.g.	transformers,	cables,	special	illumination	for	obstacle,	
+
+etc.)	
+
+h.  Acquisition	of	(other)	equipment	(e.g.	waterproofing	materials,	water	pressure	pipes,	etc.)	
+i.  Commissioning	expenses	(costs	of	configuration,	security,	etc.)	
+j. 
+Legal	counseling	
+k.  Risk	insurances	
+l.  Project	management	
+
+	
+	
+	
+
+	
+	
+
+4	
+
+©	Sustainalytics	2017	
+
+3.2  Project	Evaluation	and	Selection	Process	
+
+	
+Project	Evaluation	and	Selection	
+Proceeds	 from	 the	 Green	 Bond	 will	 be	 used	 to	 refinance	 the	 Project	 described	 under	 the	 Eligibility	
+Criteria	 in	 Section	 3.1.1.	 The	 Project	 has	 signed	 a	 25-year	 PPA	 in	 March	 2011	 to	 sell	 100%	 of	 its	
+renewable	energy	to	SDG&E.	
+	
+Environmental	Strategy	of	the	Sponsor	and	Issuer	
+Tenaska	is	one	of	the	largest	private,	independent	energy	companies	in	the	United	States,	with	a	proven	
+record	of	success	in	development,	design,	financing,	construction	management	and	operation	of	electric	
+generating	 facilities	 and	 in	 energy	 marketing.	 While	 owning	 and	 developing	 a	 number	 of	 efficient	
+carbon-based	generation	facilities,	Tenaska	is	currently	pursuing	renewable	energy	generation	facilities.	
+In	 addition	 to	 the	 Project,	 Tenaska	 is	 developer,	 owner	 and	 managing	 partner	 of	 the	 Imperial	 Solar	
+Energy	Center	South,	a	130MW	solar	facility	also	located	in	the	Imperial	Valley	of	California.		Tenaska	
+has	 also	 expanded	 its	 focus	 on	 wind	 projects,	 having	 purchased	 a	 development	 site	 in	 the	 upper	
+Midwest	for	the	development	of	a	470	MW	wind	generation	portfolio	(the	“Wind	Portfolio”)	in	2016	
+and	signed	a	20-year	PPA	with	Minnesota	Power	for	250MW	of	the	Wind	Portfolio	in	2017.		
+	
+Risk	Mitigation	
+The	 Project	 site	 is	 held	 under	 a	 long	 term	 lease	 option	 that	 consists	 of	 approximately	 1,130	 acres	 of	
+privately-owned	and	previously	disturbed	land	that	is	economically	unviable	for	agricultural	production.	
+The	 Imperial	 Valley	 of	 Southern	 California	 was	 selected	 as	 the	 location	 of	 the	 solar	 park	 project	
+following	 an	 assessment	 of	 the	 site’s	 level	 terrain,	 constructability,	 access	 to	 existing	 and	 planned	
+transmission	 infrastructure	 and	 compatibility	 with	 existing	 and	 neighboring	 land	 use,	 as	 well	 as	 solar	
+irradiation	 levels.	 The	 Company	 received	 a	 solar	 resource	 assessment	 by	 3TIER	 in	 2013,	 using	
+approximately	2-years	of	ground	observation	data	in	addition	to	its	own	data.	
+	
+Additionally,	a	recent	Independent	Engineer’s	Report	made	the	following	conclusions	on	the	Project:	
+
+•  The	Project	has	been	designed	and	constructed	in	accordance	with	applicable	federal,	state	and	
+
+local	regulations,	codes,	standards,	guidelines,	policies	and	laws.		
+
+•  The	 July	 2017	 Phase	 I	 ESA	 performed	 by	 Tetra	 Tech	 for	 the	 Project	 Site	 was	 conducted	 in	 a	
+manner	 consistent	 with	 industry	 standards,	 using	 comparable	 industry	 protocols	 for	 similar	
+studies.	
+
+•  The	 Project	 was	 designed	 and	 constructed	 in	 accordance	 with	 recommendations	 from	 the	
+geotechnical	 reports,	 Drainage	 Study,	 and	 applicable	 building	 codes	 and	 the	 Project	 Site	 is	
+suitable,	 from	 an	 infrastructure	 and	 geotechnical	 perspective,	 for	 the	 continued	 operation	 of	
+the	Project.	
+
+	
+
+3.3 							Management	of	Proceeds		
+
+	
+Net	proceeds	from	the	Green	Bonds	will	be	immediately	allocated	to	refinance	the	capital	structure	of	
+the	Issuer,	which	is	the	100%	owner	of	the	Project	that	meets	the	Eligibility	Criteria	stated	in	Section	
+3.1.1.		
+
+	
+	
+
+5	
+
+©	Sustainalytics	2017	
+
+	
+
+3.4  Reporting		
+
+	
+Allocation	Reporting	
+Tenaska	 and	 the	 Company	 will	 provide	 disclosure	 once	 proceeds	 are	 fully	 allocated	 from	 the	 Green	
+Bonds	to	the	Project.	The	transaction	documents	will	include	a	certified	financial	model	outlining	the	
+entire	use	of	proceeds,	and	an	initial	operating	budget	of	the	Project.	Each	investor	will	receive	a	copy	of	
+the	transaction	documents.	Once	all	Green	Bond	proceeds	are	allocated	and	disclosure	regarding	such	
+allocation	is	made,	no	further	updates	will	be	provided.	
+	
+Impact	Reporting	
+Tenaska	has	committed	to	quantitatively	disclosing	the	net	installed	capacity	of	the	Project	in	MW.	
+	
+Given	that	the	Project	has	already	been	defined,	impact	indicators	will	be	static	throughout	the	life	of	
+the	Green	Bond	and	no	further	updates	will	be	provided.	
+
+	
+
+	
+	
+
+6	
+
+©	Sustainalytics	2017	
+
+4  SUSTAINALYTICS’	OPINION	
+	
+Section	1:	Sustainability	Performance	of	the	Sponsor	and	the	Issuer	
+The	Issuer,	CSOLAR	is	an	indirect	wholly-owned	subsidiary	of	Tenaska	Energy,	Inc.	and	Tenaska	Energy	
+Holdings,	LLC.	Given	the	fact	that	CSOLAR	is	a	holding	company,	the	following	section	describes	the	
+Sustainability	Performance	of	the	parent	Tenaska	Energy.	
+	
+Tenaska	has	developed	17	power	plants	with	a	generating	capacity	of	10,000	MW	since	1987.	With	the	
+development	of	ISEC	West,	in	addition	to	other	solar	and	wind	projects,	Sustainalytics	is	of	the	opinion	
+that	Tenaska	is	dedicated	to	expanding	its	renewable	energy	portfolio	across	the	U.S.	Additionally,	with	
+the	 completion	 of	 ISEC	 West	 project,	 the	 company	 has	 demonstrated	 a	 proven	 track	 record	 of	
+successfully	developing	two	solar	projects.		
+	
+In	addition	to	the	ISEC	West	project,	the	company	has	also	developed	the	130	MW	Tenaska	Imperial	
+Solar	Energy	Center	South	(ISEC	South)	project	in	Imperial	County,	California	which	began	commercial	
+operation	in	2013.	Both	ISEC	West	and	ISEC	South	supply	renewable	energy	to	San	Diego	Gas	&	Electric	
+Company	(SDG&E)	under	long-term	power	purchase	agreements.	
+	
+Alignment	with	Green	Bond	Principles	2017	
+Sustainalytics	 has	 determined	 that	 the	 Tenaska	 ISEC	 West	 Green	 Bond	 Framework	 aligns	 to	 the	 four	
+pillars	of	the	Green	Bond	Principles	2017.	For	detailed	information	please	refer	to	Appendix	1:	Green	
+Bond/Green	Bond	Programme	External	Review	Form.	
+	
+Section	2:	Impact	of	Use	of	Proceeds	
+	
+ISEC	West	has	been	commercially	operational	since	April	2016	and	comprises	of	1.8	million	PV	panels	
+producing	150	MW	of	renewable	energy	capable	of	powering	over	55,000	California	homes.	The	ISEC	
+West	site	is	held	under	a	long	term	lease	option	that	consists	of	approximately	1,130	acres	of	privately-
+owned	and	previously	disturbed	land	that	is	economically	unviable	for	agricultural	production.	
+	
+Contribution	to	California’s	Renewable	Energy	Mandate	
+Through	 the	 Global	 Warming	 Solutions	 Act	 of	 2006,	 California	 commited	 to	 reduce	 statewide	 GHG	
+emissions	 to	 1990	 levels	 by	 2020,	 about	 a	 15%	 reduction	 from	 business	 as	 usual,	 and	 to	 reduce	
+emissions	by	80%	below	1990	levels	by	20502.	In	order	to	meet	targets,	the	state	adopted	a	‘Scoping	
+Plan’	 that	 contains	 an	 extensive	 list	 of	 measures	 to	 reduce	 GHG	 emissions,	 including	 a	 mandate	 for	
+utilities	 to	 secure	 power	 from	 renewable	 energy	 sources3.	 California's	 Renewables	 Portfolio	 Standard	
+(RPS)	 requires	 investor-owned	 utilities	 (IOUs),	 electric	 service	 providers,	 and	 community	 choice	
+aggregators	 to	 increase	 procurement	 from	 eligible	 renewable	 energy	 resources	 to	 33%	 of	 total	
+	
+2	https://www.arb.ca.gov/cc/ab32/ab32.htm	and	https://www.gov.ca.gov/news.php?id=1861		
+3	https://www.arb.ca.gov/cc/scopingplan/2013_update/first_update_climate_change_scoping_plan.pdf		
+
+	
+	
+
+7	
+
+©	Sustainalytics	2017	
+
+procurement	by	20204.		
+	
+SDG&E	has	entered	into	a	25-year	power	purchase	agreement	with	CSOLAR	in	order	to	meet	statewide	
+mandates	of	delivering	renewable	energy.5	Solar	projects,	such	as	ISEC	West,	have	enabled	SDG&E	to	
+exceed	 state	 mandates	 by	 procuring	 35.2%	 of	 its	 power	 in	 2015	 through	 renewable	 sources	 and	 has	
+partnered	to	have	45.2%	of	procurement	under	contract	for	2020.6		
+	
+Alignment	with	Sustainable	Development	Goals	
+The	 Sustainable	 Development	 Goals	 (“SDG”)	 were	 set	 in	 September	 2015	 and	 form	 an	 agenda	 for	
+achieving	sustainable	development	by	the	year	2030.	The	ISEC	West	project	advances	the	following	SDG	
+goals	and	targets:		
+	
+Use	of	Proceeds	
+Category	
+Renewable	Energy	
+
+SDG	target	
+
+SDG	
+
+	
+	
+Conclusion	
+Sustainalytics	 is	 of	 the	 opinion	 that	 CSOLAR’s	 development	 of	 the	 150	 MWAC	 Imperial	 Solar	 Energy	
+Center	West	Project	is	supporting	San	Diego	Gas	&	Electric	Company	in	meeting	its	renewable	energy	
+mandate.	The	Tenaska	ISEC	West	Green	Bond	Framework	follows	the	guidance	provided	by	the	Green	
+Bond	 Principles	 2017,	 and	 is	 in	 alignment	 with	 the	 four	 pillars,	 which	 address	 the	 use	 of	 proceeds,	
+process	 of	 project	 evaluation	 and	 selection,	 management	 of	 proceeds,	 and	 reporting.	 Based	 on	 the	
+above	considerations,	Sustainalytics	is	of	the	view	that	CSOLAR’s	Green	Bond	is	robust	and	credible.	
+	
+
+	
+
+7.	Affordable	and	Clean	
+Energy	
+
+7.2	 By	 2030,	 increase	 substantially	 the	 share	 of	
+renewable	energy	in	the	global	energy	mix	
+
+	
+4	http://www.cpuc.ca.gov/RPS_Homepage/		
+5	http://www.tenaskaimperialsolar.com/power-tenaska-imperial-west-solar-project/		
+6	http://www.cpuc.ca.gov/RPS_Homepage/	
+
+	
+	
+
+8	
+
+©	Sustainalytics	2017	
+
+	
+	
+	
+Disclaimer	
+All	rights	reserved.	No	part	of	this	second	party	opinion	(the	“Opinion”)	may	be	reproduced,	transmitted	
+or	published	in	any	form	or	by	any	means	without	the	prior	written	permission	of	Sustainalytics.		
+		
+The	Opinion	was	drawn	up	with	the	aim	to	explain	why	the	analyzed	bond	is	considered	sustainable	and	
+responsible.	Consequently,	this	Opinion	is	for	information	purposes	only	and	Sustainalytics	will	not	
+accept	any	form	of	liability	for	the	substance	of	the	opinion	and/or	any	liability	for	damage	arising	from	
+the	use	of	this	Opinion	and/or	the	information	provided	in	it.	
+		
+As	the	Opinion	is	based	on	information	made	available	by	the	client,	Sustainalytics	does	not	warrant	that	
+the	information	presented	in	this	Opinion	is	complete,	accurate	or	up	to	date.	
+		
+Nothing	contained	in	this	Opinion	shall	be	construed	as	to	make	a	representation	or	warranty,	express	or	
+implied,	regarding	the	advisability	to	invest	in	or	include	companies	in	investable	universes	and/or	
+portfolios.	Furthermore,	this	Opinion	shall	in	no	event	be	interpreted	and	construed	as	an	assessment	of	
+the	economic	performance	and	credit	worthiness	of	the	bond,	nor	to	have	focused	on	the	effective	
+allocation	of	the	funds’	use	of	proceeds.	
+		
+The	client	is	fully	responsible	for	certifying	and	ensuring	its	commitments`	compliance,	implementation	
+and	monitoring.	
+	
+	
+	
+	
+	
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+	
+	
+
+14	
+
+©	Sustainalytics	2017	
+
+	
+	
+SUSTAINALYTICS	
+	
+Sustainalytics	 is	 an	 independent	 ESG	 and	 corporate	 governance	 research,	 ratings	 and	 analysis	 firm	
+supporting	 investors	 around	 the	 world	 with	 the	 development	 and	 implementation	 of	 responsible	
+investment	strategies.	With	13	offices	globally,	Sustainalytics	partners	with	institutional	investors	who	
+integrate	 environmental,	 social	 and	 governance	 information	 and	 assessments	 into	 their	 investment	
+processes.	 Today,	 the	 firm	 has	 more	 than	 300	 staff	 members,	 including	 170	 analysts	 with	 varied	
+multidisciplinary	 expertise	 of	 more	 than	 40	 sectors.	 Through	 the	 IRRI	 survey,	 investors	 selected	
+Sustainalytics	as	the	best	independent	responsible	investment	research	firm	for	three	consecutive	years,	
+2012	through	2014	and	in	2015,	Sustainalytics	was	named	among	the	top	three	firms	for	both	ESG	and	
+Corporate	Governance	research.	The	firm	was	also	named	the	Best	SRI	or	Green	Bond	Research	Firm	by	
+Global	Capital	in	2015.	For	more	information,	visit	www.sustainalytics.com		
+	
+	
+Sustainalytics	
+info@sustainalytics.com		
+www.sustainalytics.com		
+	
+	
+	
+	
+	
+
+	
+	
+
+	
+	
+
+15	
+
+

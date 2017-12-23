@@ -1,0 +1,699 @@
+ 
+ 
+  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+BNG BANK  
+
+SUSTAINABILITY BOND 2016 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+
+FRAMEWORK OVERVIEW AND SECOND OPINION BY 
+
+SUSTAINALYTICS 
+
+November 14th, 2016 
+
+www.sustainalytics.com 
+ 
+www.sustainalytics.com 
+ 
+www.sustainalytics.com 
+
+Catarina da Silva (Amsterdam) 
+
+Trisha Taneja (Toronto) 
+
+Senior Advisor, Advisory Services 
+catarina.dasilva@sustainalytics.com 
+(+31) 20 205 00 45 
+
+Advisor, Advisory Services 
+trisha.taneja@sustainalytics.com 
+(+1 ) 647 317 3695 
+
+ 
+ 
+
+ 
+ 
+
+Vikram Puppala  
+
+Vikram Puppala  
+
+© Sustainalytics 2016 
+
+TABLE OF CONTENTS 
+
+FRAMEWORK OVERVIEW AND SECOND OPINION BY SUSTAINALYTICS 
+
+1.  preface 
+
+2. 
+
+Introduction 
+
+3.  Framework overview 
+3.1  Use of Proceeds 
+3.2  Project Evaluation and Selection Process 
+3.3  Management of Proceeds 
+3.4  Reporting 
+
+4  SUSTAINALYTICS’ OPINION 
+
+Conclusion 
+
+APPENDICES 
+
+SUSTAINALYTICS 
+
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1 
+
+3 
+
+3 
+
+4 
+4 
+6 
+6 
+6 
+
+8 
+10 
+
+11 
+
+20 
+
+2 
+
+© Sustainalytics 2016 
+
+1. PREFACE 
+ 
+N.V. Bank Nederlandse Gemeenten (BNG Bank), a Dutch bank for the public sector, intends to issue a 
+Sustainability Bond to promote the bank’s investment in ‘best in class’ sustainable municipalities in The 
+Netherlands  based  on  a  Sustainability  Monitor  Methodology  developed  by  TSC-Telos1.  BNG  Bank  has 
+engaged Sustainalytics to provide a second opinion on its 2016 Sustainability Bond framework and on the 
+bond’s  sustainability  credentials.  As  a  part  of  this  engagement,  Sustainalytics  held  conversations  with 
+members of BNG Bank’s management team to clarify aspects of its Sustainability Bond framework related 
+to  the  use of proceeds, management  of  proceeds and reporting. Sustainalytics also reviewed relevant 
+public  and  internal  documents,  including  the  TSC-Telos  Sustainability  Monitor  Methodology,  which 
+determined the eligibility criteria for the bond proceeds.  
+This document contains two sections:  
+
+  Framework  Overview  -  a  summary  of  the  BNG  Bank  Sustainability  Bond  2016  framework, 
+
+developed by TSC-Telos, the Sustainability Center of Tilburg University; and  
+
+  Sustainalytics’ Opinion - an opinion on the framework. 
+
+ 
+ 
+2. INTRODUCTION 
+ 
+BNG Bank is the bank of and for local authorities and public sector institutions in the Netherlands. Half of 
+the bank’s share capital is held by the Dutch State and the other half by municipalities, provinces and a 
+district water board. BNG Bank’s clients primarily comprise local authorities and public sector institutions 
+in the area of housing, healthcare, education and public utilities. BNG Bank provides customized financial 
+services,  ranging from loans and advances, consultancy, payment services, electronic banking to asset 
+management. BNG Bank’s specialized financial services help to minimize the cost of social provisions to 
+the public. In this regard, the bank plays an essential role in the public sector. 
+ 
+The  2016  Sustainability  Bond  aims  to  promote  BNG  Bank’s  investment  in  ‘best  in  class’  sustainable 
+municipalities in The Netherlands. The bank uses a methodology developed by the Tilburg Sustainability 
+Center  of  Tilburg  University  (TSC-Telos)  for  ranking  municipalities  based  on  their  sustainability 
+performance.  By issuing this bond BNG Bank aims to:  
+
+(i) 
+(ii) 
+
+(iii) 
+
+Highlight the importance of sustainable development to municipalities, 
+Provide relevant information to investors who want to see their capital used for investments 
+in municipalities that have experience in improving sustainability, and 
+Increase awareness of successful strategies used in high scoring municipalities. 
+
+ 
+These objectives align with the bank’s Sustainability Policy2 and strategy in which BNG Bank commits to 
+provide financing to sustainable projects with a desirable positive impact on society, targeting long-term 
+business activities that create value for the market, people and environment.  
+
+ 
+1  www.telos.nl (in Dutch with English summary); Bastiaan Zoeteman, Pieter Tordoir, Rens Mulder, Ruben Smeets, Corné Wentink, John 
+Dagevos, National Monitor Sustainable Municipalities 2016, A Step Forward!, Tilburg: Telos, Tilburg University, Document Nr 16.147. 
+2 MVO-Beleid BNG Bank 2015 
+
+ 
+
+ 
+
+3 
+
+© Sustainalytics 2016 
+
+ 
+In its Sustainability Policy, BNG Bank defines sustainable projects as those that contribute to a) reducing 
+energy  use  and  CO2  emissions;  b)  support  sustainable  mobility  and  transport,  including  improving  air 
+quality;  and  c)  support  real  estate  projects  that  implement  recyclable  and  reusable  materials  or  build 
+according to life-cycle approaches. In line with this investment approach, BNG Bank has been financing 
+socially relevant initiatives in The Netherlands such as the Energy Agreement for Sustainable Growth3 and 
+Social housing.  
+ 
+The partnership between BNG Bank and TSC-Telos started in 2014 when the bank asked the institute to 
+describe the sustainability criteria and selection process of ‘best-in-class’ Dutch municipalities eligible for 
+a BNG Bank Sustainability bond. In October 2014, BNG Bank launched its inaugural Sustainability Bond, a 
+EUR 500 million, 5-year benchmark (2014-2019). Since then, TCS-Telos provides a yearly update on eligible 
+Dutch municipalities, using the methodology applied in its annual Dutch National Monitor of Sustainable 
+Municipalities. The 2016 Sustainability Bond is the third issuance of this kind by BNG-Bank.  
+ 
+3. FRAMEWORK OVERVIEW 
+For  this  Sustainability  Bond  issued  by  BNG  Bank,  a  framework  has  been  created  that  follows  the 
+International Capital Market Association (ICMA)’s Green Bond Principles (GBP). 
+  
+3.1   Use of Proceeds 
+ 
+3.1.1  Eligibility Criteria: The TSC-Telos Sustainability Monitor Methodology 
+ 
+The Sustainability Bond 2016 proceeds will be  used by BNG Bank to lend to  ‘best-in-class’ sustainable 
+municipalities in the Netherlands, as identified by the 2016 Telos  Sustainability Monitor Methodology. 
+The proceeds of this bond are for the general purpose use of the eligible sustainable municipalities. 
+  
+The  eligible  municipalities  will  be  defined  as  the  15  top-performing  municipalities  within  each  of  the 
+fourteen categories defined by Telos. These categories group municipalities based on their size and social 
+and geographical characteristics (‘municipality classes’).  
+ 
+The TSC-Telos Sustainability Monitor Methodology  
+Since 2014, TSC-Telos has published a National Monitor for Sustainable Municipalities based on a wide 
+range of sustainability criteria at the request of the Dutch Ministry of Infrastructure and Environment. 
+This  rating  compares  municipalities  based  on  their  sustainability  performance  and  is  aligned  with  a 
+European initiative known as the European Reference Framework for Sustainable Cities (EU RFSC)4, which 
+applies a “triple P” approach, based on three pillars: People, Planet and Profit. This National Monitor is 
+ 
+3 In the Energy Agreement for Sustainable Growth [Energieakkoord voor duurzame groei], more than forty organisations have laid the basis for 
+a robust, future-proof energy and climate policy enjoying broad support. This agreement is a collective effort that strives to achieve a reduction 
+in final energy consumption (100 petajoule by 2020), increase renewable enery generation (from 4.4% in 2013 to 14% in 2020) and create jobs. 
+For thurther details please consult www.ser.nl.  
+4 The EU RFSC is a voluntary web tool that can help individual cities to organize their sustainability strategy and its implementation by applying 
+the monitor tool. RFSC does not prescribe any specific indicators or sustainability goals. The disadvantage of this element is that cities cannot 
+be compared to one another.  
+
+ 
+
+ 
+
+4 
+
+© Sustainalytics 2016 
+
+updated annually and includes a framework and data that provide a useful source for the requirements 
+of BNG Bank in defining the eligibility criteria for its Sustainability Bond.  
+ 
+The  TSC-Telos  Methodology  for  calculating  the  sustainability  performance  of  Dutch  municipalities 
+incorporates  three  “Capitals” that  are  aligned with  the  RFSC’s  pillars:  Ecological  Capital,  Socio-cultural 
+Capital and Economic Capital. Each of these Capitals has corresponding themes and indicators used for 
+quantitative monitoring. The table below provides an example of the Capitals and themes covered: 
+ 
+Table 1: Examples of themes analysed in the three capitals 
+
+Capitals 
+Ecological Capital 
+Socio-cultural Capital 
+Economic Capital 
+
+Example of themes analysed 
+Water, Energy and Climate, Resources and Waste 
+Health, Safety, Education 
+Labor, Competitiveness, Infrastructure and Mobility 
+
+ 
+In total, the framework monitors and rates municipalities based on the three Capitals, covering 19 themes 
+and 105 scientific indicators5 for which quantitative data are available from reliable public sources. The 
+data for these indicators will be collected from the Dutch Central Bureau of Statistics, the Netherlands 
+Environmental Assessment Agency and the Netherlands Institute for Social Research. 
+ 
+The scoring system 
+Each  theme,  and  subsequently  each  indicator  is  scored  on  a  range  from  0-100%,  taking  into  account 
+sustainability  requirements  that  TSC-Telos  formulated  as  goals  for  each  indicator  (i.e.  %  of  goal 
+achievement).  The  sustainability  goals  are  derived  by  TSC-Telos  from  EU  and national  regulations  and 
+experiences  with  municipal  practices.  The  achievement  percentages  are  subsequently  combined  per 
+theme resulting in a theme achievement percentage. The average theme scores are subsequently added 
+to calculate the average score for a sustainability Capital. Finally, the average score of the total of the 
+three Capitals is calculated as the overall sustainability score of a municipality. 
+ 
+For each municipality in The Netherlands an overall sustainability score is calculated, varying between 0-
+100% (in practice between 39-58% in 2016) achievement of the integrated sustainability goals.  
+ 
+2016 Methodology adjustments 
+TSC-Telos developed similar frameworks in 2014 and 2015 for BNG Bank, using the methodology applied 
+in its annual Dutch National Monitor of Sustainable Municipalities. For the BNG Bank Sustainability Bond 
+of 2016,  TSC-Telos  revised its  framework  to reflect  recent chance to the  methodology of the National 
+Monitor, published 26 September 20166, and its outcome. In comparison to 2015, changes had to be made 
+in (i) the number of indicators, a decrease  from 107 to 105 indicators in 2016 reflecting the  available 
+information that could be reliably collected, and (ii) the number of Dutch municipalities decreased from 
+393 in 2015 to 390 in 2016, reflecting merges between small municipalities. The number of municipality 
+types was not changed.  
+ 
+ 
+5 Please refer to Appendix 2 for a description of the Capitals, Themes and Indicators used in 2016.  
+6 www.telos.nl (in Dutch with English summary); Bastiaan Zoeteman, Pieter Tordoir, Rens Mulder, Ruben Smeets, Corné Wentink, John 
+Dagevos, National Monitor Sustainable Municipalities 2016, A Step Forward!, Tilburg: Telos, Tilburg University, Document Nr 16.147.  
+
+ 
+
+ 
+
+5 
+
+© Sustainalytics 2016 
+
+ 
+3.2  Project Evaluation and Selection Process 
+ 
+The bond proceeds will be disbursed to the National Monitor 2016 ‘best-in-class’ municipalities, which is 
+based on a compilation of the top rated 15 sustainable municipalities from each of the fourteen groups 
+under  which  Telos  has  grouped  Dutch  municipalities  to  reflect  changes  in  characteristics  (‘municipal 
+classes’7). Telos has identified eligible municipalities in a “List of Elected Sustainable Municipalities for the 
+2016 BNG Sustainability Bond”.  
+ 
+In 2016, the list includes 107 eligible municipalities out of a total of 390 municipalities. In principle, this 
+list should include 14x15=210 municipalities. However, several municipalities qualify for more than one 
+municipality type. When this is taken into account, a final list of 107 Elected Sustainable Municipalities 
+results.  This  selection  represents  27.4%  of  the  total  number  of  Dutch  municipalities.  This  is  a  slight 
+increase in comparison to 2015. For the 2015 Sustainability Bond, 97 out of 393 municipalities (24.6%) 
+were eligible. 
+ 
+All 107 municipalities score 50% or higher on sustainability.  
+ 
+ 
+
+ 
+
+3.3        Management of Proceeds  
+
+ 
+The loans to which the proceeds will be allocated will be earmarked separately by tagging them with the 
+ISIN code of the relevant BNG Bank Sustainability Bond. This ISIN code will facilitate easy identification of 
+the loans that qualify based on the eligibility criteria. BNG Bank will not allocate bond proceeds to any 
+other type of temporary investments.  
+ 
+ 
+3.4    Reporting  
+ 
+Allocation Reporting 
+BNG Bank has committed to reporting on allocation of proceeds to eligible municipalities on a project 
+portfolio basis. BNG Bank has disclosed that the loans to which the bond proceeds will be allocated will 
+be  subject  to  internal  and  external  auditing  by  PWC,  to  confirm  alignment  with  eligibility  criteria. 
+Additionally, BNG Bank will also provide an annual performance report on its website. 
+ 
+Impact Reporting 
+TSC-Telos will prepare annually for BNG Bank an Impact Report to investors. This report will give an update 
+on the sustainability scores of the 107 Elected Municipalities for the 2016 BNG Bank Sustainability Bond 
+showing: 
+
+ 
+7 The Dutch National Monitor of Sustainable Municipalities 2016 categorizes fourteen types of municipalities to reflect ‘quantitative’ city types, 
+related to the number of inhabitants, and ‘qualitative’ city types related to specific clusters of social, historical and geographical characteristics. 
+ 
+
+ 
+
+ 
+
+6 
+
+© Sustainalytics 2016 
+
+  performance of the group of Elected Municipalities compared to the previous year(s); 
+  a list of ‘Elected Municipalities’ showing the largest improvement or reduction in overall score 
+
+and an indication of the main causes for these results; 
+
+  performance of the group of Elected Municipalities in comparison with the total group of Dutch 
+
+Municipalities; 
+
+  more detailed performance reporting on changes for the group of Elected Municipalities at the 
+level of the three capitals, selected themes and selected impact indicators of interest (e.g. CO2 
+emissions in Kton for elected municipalities). 
+
+ 
+The Second Performance Report of the BNG Bank Sustainability Bond covering the years 2014-2016 was 
+published in September 20168 and is available on BNG Bank’s website.  
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+8 Second Performance Report (2014-2016) of Elected Dutch Sustainable Municipalities of the BNG Bank Sustainability Bond of October 2014, 
+available via: https://www.bngbank.nl/Documents/Investors/Second_Performance_Report_2014_Sustainability_bond_Telos.pdf 
+ 
+
+ 
+
+ 
+
+7 
+
+© Sustainalytics 2016 
+
+4  SUSTAINALYTICS’ OPINION 
+ 
+BNG Bank’s approach: an incentive for municipalities to improve sustainability performance 
+BNG  Bank’s  approach  to  provide  investment  to  ‘best  in  class’  sustainable  municipalities  in  The 
+Netherlands is an innovative method that provides incentives for municipalities to better understand and 
+improve their performance per sustainability capital. This is confirmed by the Second Performance Report 
+of Elected Dutch Municipalities of BNG Bank Sustainability Bond. According to the Report, in the period 
+2014-2016 Dutch cities have made a step forward on the road to sustainability: 
+
+(i) 
+
+(ii) 
+
+(iii) 
+
+The  average  ecological  capital  score of the  group  of  elected municipalities  improved 1.8% 
+points  while  the  total  group  of  municipalities  also  improved  from  the  past  years  by  1.9% 
+points; and half of the elected municipalities reduced their CO2 emissions. 
+The economic capital scores of elected municipalities improved 0.48% while the total group 
+improved 0.83%.  
+The socio-cultural capital improved to some degree for the group of elected municipalities 
+(0.11%) but declined slightly for the total group (-0.09%). 
+
+ 
+Furthermore, the analysis shows that 70% of elected municipalities realized a stable or improved total 
+sustainability score.  
+ 
+ 
+Sustainalytics’ Opinion on the BNG Bank Sustainability Bond framework 
+Strengths and Limitations of TSC-Telos Sustainability Monitor Methodology 
+The  methodology  developed  by  TSC-Telos  for  ranking  municipalities  based  on  their  sustainability 
+performance has been improved since its first version in 2014. Sustainalytics has a positive view on the 
+methodology changes implemented. Namely, a more refined municipality typology has been introduced, 
+which allows for benchmarking municipalities against similar municipalities within a category, using both 
+a quantitative and a qualitative approach. Additionally, indicators have been revised based on relevance 
+and availability of reliable data.  
+ 
+Based on a detailed review of the Capitals, Themes and Indicators analysed in the Sustainability Monitor 
+Methodology, Sustainalytics is of the opinion that Telos National Monitor for Sustainable Municipalities 
+is a useful and credible source for the requirements of BNG Bank in defining its eligibility criteria for the 
+Sustainability  Bond.  The  process  is  transparent  and  data  is  collected  from  reliable  public  sources. 
+Additionally,  the  annual  public  reporting  of  the  Sustainability  Monitor  results  provides  detailed 
+information per indicator for each municipality and an overview of leading and lagging themes.  
+ 
+However, Sustainalytics has also identified some limitations. The methodology does not fully demonstrate 
+the  sustainability  improvements  of  low-scoring municipalities.  For  example,  low  scoring  municipalities 
+with  pre-existing  disadvantages,  such  as  a  lack  of  economic  resources  and  ecological  infrastructures, 
+might  implement  advanced  sustainability  approaches,  yet  the  resulting  improvement would  still  leave 
+them in a low-scoring position. This makes it difficult to establish the potential positive impact of BNG 
+Bank’s approach in the case of economically disadvantaged municipalities. 
+ 
+
+ 
+
+ 
+
+8 
+
+© Sustainalytics 2016 
+
+ 
+Furthermore, the methodology measures three capital domains using indicators that also correlate with 
+factors like economic activity. For this reason, it is difficult to attribute improved environmental outcomes 
+to  the  impact  of  the  bond.  For  example,  a  better  environmental  score  might  not  only  be  a  result  of 
+improved environmental policies but it may also be an outcome of reduced economic activity that could 
+have positively impacted environmental performance.  
+ 
+Despite the limitations described above, Sustainalytics is of the opinion that the TSC-Telos Sustainability 
+Monitor  Methodology  provides  a  robust  approach  to  rating  the  sustainability  performance  of  Dutch 
+municipalities.  Furthermore,  Elected  Municipalities  represent  top-performing  municipalities,  a  typical 
+best-in-class approach. Sustainalytics considers that this is a robust and consistent process. 
+ 
+Sustainalytics’ opinion on the use of the bond’s proceeds 
+It should be noted that the proceeds of this bond are for general purpose use for the eligible sustainable 
+municipalities. This is a deviation from ICMA’s Green Bond Principles in that the eligibility criteria for the 
+use of proceeds are based on the sustainability performance of the borrowing entity rather than funding 
+green projects. Nonetheless,  Sustainalytics is of the opinion that BNG Bank’s  approach  will encourage 
+municipalities  to  become  more  sustainable  and  strive  to  become  ‘best-in-class’  municipalities. 
+Furthermore, by focusing on top-performing municipalities, BNG Bank approach increases the likelihood 
+of proceeds to be used to financing projects with good sustainability credentials.  
+ 
+Sustainalytics’ opinion on impact reporting  
+BNG Bank commissioned TSC-Telos to provide the yearly Impact Reports, based on the yearly National 
+Monitor  Sustainable  Municipalities  Report.  The  second  report  covering  the  years  2014-2016  was 
+published in September 2016. However, it should be noted that the nature of such reporting does not 
+directly link the bond proceeds to the impact achieved by the municipalities, and therefore the reporting 
+cannot be regarded as an indicator of the impact of the use of the proceeds of the bond. This limitation 
+exists because of the way in which municipalities receive and allocate funds: funds from varied sources, 
+such  as  the  Dutch  government,  taxation  and  loans  from  financial  institutions  including  BNG,  are  not 
+separated. BNG has limited influence on the municipalities  to create separate accounts. Investors and 
+other stakeholders will be able to view aggregate impacts achieved by the municipalities by reviewing 
+publicly disclosed impact information published by TSC-Telos. 
+ 
+Secondly, it should be realized that the data available for the monitor reports of 2014 and 2015 in fact 
+describes  the  situation of roughly  two  years  before. So, this assessment  report  cannot  yet  detect  any 
+impacts of the BNG Bank Sustainability Bond. This report should, therefore, be a start of measurement, 
+which helps to develop the assessment methodology and detect possible changes in scores that may occur 
+without the intervention of the Sustainability Bond. On a positive note, according to Telos’ Report, in the 
+coming  assessment  periods  more  concrete  impacts  potentially  related  to  the  bond  proceeds  may  be 
+detected.  For example, more  insights regarding the type of investment  projects might  be  disclosed as 
+more information becomes available.  
+ 
+
+ 
+
+ 
+
+9 
+
+© Sustainalytics 2016 
+
+Contribution of the BNG Bank framework to the Sustainable Development Goals9 
+The development of sustainable cities is one of the UN Sustainable Development Goals (SDGs). At present, 
+the Dutch government is translating the SDGs into national policy actions, leading to a decentralization of 
+many of its activities to promote sustainability at the municipal level. The reduction of carbon dioxide 
+(CO2) emissions is one of the key commitments made by national governments in the framework of the 
+UN Climate Change Convention and particularly since the 2015 Paris Agreement. In addition, individual 
+cities  have  made  similar  commitments,  e.g.  in  the  framework  of  the  Covenant  of  Mayors  to  combat 
+climate  change.  In  the  Netherlands,  the  Association  of  Dutch  Municipalities  (VNG)  has  signed  an 
+agreement  in  201310  with  the  national  government  and  other  parties  to  substantially  reduce  CO2 
+emissions by 2020. Hence, investments from individual municipalities are expected the coming years. 
+ 
+Although the emphasis is still on activities that affect our climate and environment,  municipalities are 
+gradually moving to investment projects and policy initiatives where reducing environmental pressure is 
+coupled with improving long-term economic profitability and social performance.  
+ 
+Alignment with Green Bond Principles 2016  
+Sustainalytics has determined that the BNG Bank Sustainability Bond 2016 in in line with the four pillars 
+of the  ICMA’s  Green  Bond  Principles 2016.  For  further  information  please  refer  to  Appendix  3:  Green 
+Bond/Green Bond Programme External Review Form. 
+ 
+ 
+Conclusion 
+The  Sustainability  Bond  aims  to  promote  BNG  Bank’s  investment  in  ‘best  in  class’  sustainable 
+municipalities  in  The  Netherlands  based  on  a  Sustainability  Monitor  Methodology  developed  by  TSC-
+Telos.  Sustainalytics  considers  this  to  be  an  innovative  approach  that  provides  incentives  for 
+municipalities to improve and better understand their overall sustainability performance. Sustainalytics 
+is of the opinion that the assessment methodology implemented and the selection process is a robust 
+process that ensures that bond proceeds will be directed to municipalities with stronger ecological, social 
+and economic performance and that are more likely to use those funds to financing projects with good 
+sustainability credentials.  
+ 
+Based  on  the  above  points,  Sustainalytics  considers  BNG  Bank’s  Sustainability  Bond  to  be  robust  and 
+credible. 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+9 NV Bank Nederlandse Gemeenten (BNG Bank) Sustainability Bond 2016 Framework 
+10 Energy Agreement for Sustainable Growth [Energieakkoord voor duurzame groei] referenced earlier in the document 
+
+ 
+
+ 
+
+10 
+
+© Sustainalytics 2016 
+
+APPENDICES 
+ 
+Appendix 1: Documents Reviewed 
+ 
+Sustainalytics reviewed the following documents for the purposes of writing this report 
+ 
+
+Number 
+1 
+2 
+
+3 
+
+4 
+5 
+6 
+7 
+8 
+
+ 
+ 
+
+Document Name 
+NV Bank Nederlandse Gemeenten (BNG Bank) Sustainability Bond 2016 Framework 
+First Performance Report (2014-2015) of Elected Dutch Sustainable Municipalities of the BNG 
+Bank Sustainability Bond  
+Second Performance Report (2014-2016) of Elected Dutch Municipalities of BNG Bank 
+Sustainability Bond 
+MVO-Beleid BNG Bank 2015 
+Nationale monitor duurzame gemeenten 2016: een stap vooruit! 
+www.bngbank.nl 
+www.telos.nl 
+Energy Agreement for Sustainable Growth (Energieakkoord voor duurzame groei) 
+
+ 
+
+ 
+
+ 
+
+11 
+
+© Sustainalytics 2016 
+
+Appendix 2: Sustainability Monitor Methodology 2016 
+ 
+The three pillars (capitals), the 19 themes and the 105 indicators used for quantitative monitoring 
+
+ 
+
+ 
+
+ 
+
+12 
+
+© Sustainalytics 2016 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+13 
+
+© Sustainalytics 2016 
+
+SUSTAINALYTICS 
+ 
+Sustainalytics is the largest independent provider of sustainability 
+research, analysis, and services to investors. We serve over 250 
+institutional investors which include some of the world's largest asset 
+owners and asset managers. Through over 20 years of experience 
+serving the responsible investment (RI) market, we have gained a 
+reputation for providing high-quality ESG research solutions and 
+excellent client service. 
+
+Sustainalytics is headed by seasoned professionals in the field of 
+business, finance, and sustainability, with a wealth of experience in the 
+Responsible Investment area. After more than 20 years of local 
+experience and expertise in the Responsible Investment (RI) market 
+Sustainalytics has developed a comprehensive understanding of trends 
+and best practices and a solid process to assist organisations in 
+integrating ESG considerations into their policies and strategies. We 
+have worked with some of the world’s financial institutions including 
+pension plans, investment managers and banks providing customised 
+support to help them achieve their RI objectives. Clients include ABN 
+AMRO, APG, BBVA, BNP Paribas, Deutsche Bank, ING Bank, Lombard 
+Odier, Lloyds Bank, Triodos Bank, UBS and over 250 other financial 
+institutions and organisations. 
+
+Sustainalytics now has a staff of 250 employees globally, including over 
+120 analysts, with operations in Amsterdam, Boston, Bucharest, 
+Frankfurt, New York, Paris, London, Singapore, Sydney, Timisoara, and 
+Toronto, and representation in Brussels and Washington DC. 
+
+In 2015, Sustainalytics was named the Best 
+SRI or Green Bond Research Firm by 
+GlobalCapital. In December 2014, for the 
+third year in a row, Sustainalytics was 
+named best sustainable and responsible 
+investment research firm in the 
+Independent Research in Responsible 
+Investment (IRRI) Survey, conducted by 
+Thomson Reuters and SRI-CONNECT.  
+
+ 
+
+ 
+
+20 
+
+

@@ -1,0 +1,1257 @@
+ 
+
+ DEVELOPMENT BANK OF 
+
+JAPAN INC. 
+
+SUSTAINABILITY BOND 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+FRAMEWORK OVERVIEW AND SECOND OPINION BY 
+
+SUSTAINALYTICS 
+
+September 1st, 2017 
+
+Trisha Taneja (Toronto) 
+
+Associate, Advisory Services 
+trisha.taneja@sustainalytics.com 
+(+1) 647 317 3695 
+ 
+ 
+ 
+ 
+
+www.sustainalytics.com 
+ 
+www.sustainalytics.com 
+ 
+www.sustainalytics.com 
+Wakako Mizuta  (Tokyo) 
+ 
+Advisor, Advisory Services 
+www.sustainalytics.com 
+wakako.mizuta@sustainalytics.com 
+ 
+(+81) 3 4589 4886 
+www.sustainalytics.com 
+ 
+ 
+ 
+www.sustainalytics.com 
+ 
+ 
+ 
+www.sustainalytics.com 
+
+James Hawrylak (Tokyo) 
+
+Director, Institutional Relations 
+james.hawrylak@sustainalytics.com 
+(+81) 3 4589 4886 
+
+  
+
+Manager,  
+
+Advisory Services (Toronto) 
+
+vikram.puppala@sustainalytics.com 
+
+© Sustainalytics 2017 
+ 
+
+TABLE OF CONTENTS 
+
+1. 
+
+Introduction 
+
+2.  Overview of Issuer 
+
+3.  Framework overview 
+3.1  Use of Proceeds 
+3.2  Project Evaluation and Selection Process 
+3.3  Management of Proceeds 
+3.4 Reporting 
+
+4  Sustainalytics’ Opinion 
+
+Section 1: Sustainalytics’ Opinion on the DBJ Sustainability Bond Framework 
+Section 2: Sustainability Performance of the Issuer 
+Section 3: Impact of Use of Proceeds 
+Conclusion 
+
+APPENDICES 
+
+Appendix 1A: Methodological details of Environmentally Rated Loan Programme (ERLP) 
+Appendix 1B: ERLP Assessment Topics 
+Appendix 2: Green Building Certification (GBC) Programme 
+Appendix 2B: GBC Assessment Topics 
+Appendix 3: GRESB ESG rating topics and methodology 
+Appendix 4: Sustainalytics’ assessment of the ERLP 
+Appendix 5: Sustainalytics’ Assessment of the GBC 
+Appendix 6: Green Bond/Green Bond Programme External Review Form 
+
+SUSTAINALYTICS 
+
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+3 
+
+3 
+
+5 
+5 
+6 
+7 
+8 
+
+9 
+9 
+11 
+12 
+13 
+
+14 
+14 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+
+28 
+
+2 
+
+© Sustainalytics 2017 
+ 
+
+1. INTRODUCTION 
+ 
+Development Bank of Japan Inc. (“DBJ”) issued a Green Bond in 2014 and a Sustainability Bond in 2015 
+and 20161, and has developed an updated sustainability bond framework under which it is planning to 
+issue a sustainability bond (the “DBJ Sustainability Bond”). DBJ has engaged Sustainalytics, subsequent to 
+the  engagement  in 2015,  to  provide  a second-party  opinion on  its  framework  (the  “DBJ  Sustainability 
+Bond Framework”) and the framework’s environmental and, where relevant, social credentials. As part 
+of this engagement, Sustainalytics held conversations with various members of DBJ’s management team 
+to understand the sustainability impact of their business processes and planned use of proceeds, as well 
+as  management  of  proceeds  and  reporting  aspects  of  the  DBJ  Sustainability  Bond  Framework. 
+Sustainalytics also reviewed relevant public documents and non-public information.  
+ 
+This  document  contains  two  sections:  Framework  Overview  –  summary  of  DBJ  Sustainability  Bond 
+Framework and Sustainalytics’ Opinion – an opinion on the framework. 
+ 
+ 
+2. OVERVIEW OF ISSUER 
+DBJ is a 100% government-owned policy-based financial institution headquartered in Tokyo, Japan. The 
+bank provides domestic and global financial services to its clients, operating across Japan, the U.S., Europe 
+and  Asia.  Throughout  its  history,  DBJ  has  been  devoted  to  regional  development,  environmental 
+conservation, basic social infrastructure, and the creation of technology and industry.  
+ 
+Japan Development Bank, the predecessor of DBJ, was established in 1951 to facilitate the reconstruction 
+of Japan after the Second World War, specifically in relation to securing a sustainable energy industry. 
+Soon  after,  its  activities  expanded  to  include  infrastructure  development,  both  nationally  and 
+internationally.  During  the  1970s  and  1980s,  as  a  result  of  growing  social  imbalance  and  increasing 
+concerns  in  relation  to  the  stable  supply  of  energy,  Japan  Development  Bank  focused  its  efforts  on 
+decrease of the gap in standards of living, pollution control, and regional and urban developments. During 
+the late 80s and 90s Japan Development Bank continued to support improvements to social capital. In 
+1999, Japan Development Bank and Hokkaido Tohoku Development Finance Public Corporation merged 
+to form DBJ. DBJ has focused on three areas: community development, environmental conservation and 
+sustainable societies, and the creation of new technologies and industries. In 2008, DBJ was established 
+under the Development Bank of Japan Inc. Act. 
+ 
+According to its business model, DBJ “works to resolve the issues its clients face by providing specialised 
+financial services involving integrated investments and loans.” It and its affiliates provide and integrate 
+the following services:  
+
+ 
+
+ 
+
+Loans: Provision of medium- and long-term financing, as well as project financing and other forms 
+of structured and/or subordinated financing.  
+Investment: Provision of mezzanine and equity financing  
+
+ 
+1DBJ Sustainability Bond, Development Bank of Japan 
+http://www.dbj.jp/en/ir/credit/sri/index2.html 
+
+3 
+
+ 
+ 
+
+© Sustainalytics 2017 
+ 
+
+  Consulting/Advisory  services:  Arrangement of  structured  financing,  provision  of  M&A  advisory 
+services, applying DBJ’s industry research function and expertise in environmental and technology 
+evaluations.  
+
+  Asset management services: Provision of investment opportunities and supporting services. 
+
+ 
+Beginning  with  the  anti-pollution  measures  implemented  in  the  late  1960’s  and  early  70’s,  DBJ  has 
+provided more than 3 trillion yen in investments and loans for environmental measures. Furthermore, 
+DBJ states that it has advanced its commitment on sustainability by issuing the inaugural green bond as 
+well as the first and second sustainability bond in 2014, 2015 and 2016, respectively. 
+ 
+According to the fourth medium-term management plan for the year ending 31 March 2018 through the 
+year ending 31 March 2020, DBJ also states that it plans to continue to issue a DBJ Sustainability Bond, 
+under the Policy on Sustainability, as it seeks to diversify its investor base, connect dedicated investor 
+demand with the part of its growing sustainable business, and contribute to the sustainable development 
+of Japan and the world. 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+4 
+
+© Sustainalytics 2017 
+ 
+
+3. FRAMEWORK OVERVIEW 
+ 
+For the purpose of issuing the DBJ Sustainability Bond, DBJ has developed the following DBJ Sustainability 
+Bond  Framework,  which  addresses  the  four  key  pillars  of  the  Green  Bond  Principles  (“GBP”)  and  the 
+Sustainability Bond Guidelines: use of proceeds, project evaluation and selection process, management 
+of proceeds, and reporting. 
+ 
+3.1  Use of Proceeds 
+The proceeds of the DBJ Sustainability Bond will be allocated towards financing or refinancing projects 
+or businesses that meet the following eligibility criteria. 
+ 
+Eligibility Criteria 
+ 
+The net proceeds, or an amount equal to the net proceeds, of the issuance of the DBJ Sustainability Bonds 
+will be allocated, by way of various financial instruments, exclusively to finance or refinance, in whole or 
+in part, existing and/or future projects or businesses which meet the following Eligibility Criteria (the “DBJ 
+Sustainability Bond Eligibility Criteria” and the financing(s) satisfying the DBJ Sustainability Bond Eligibility 
+Criteria is(are) defined as the “Eligible Financing(s)”:  
+ 
+
+1.  Loans to companies that are rated A, B or C under the DBJ Environmentally Rated Loan 
+
+Programme (“ERLP”)2.  
+
+ 
+
+ 
+
+2.  Funds to finance or refinance buildings that are rated 3, 4 or 5 stars under the DBJ Green 
+
+Building Certification Programme (“GBC”)3 . 
+
+3.  Funds to finance or refinance companies, buildings, real estate properties or REITs that have a 
+‘Green Star’ rating under the Global Real Estate Sustainability Benchmark (GRESB) evaluation 
+framework. 
+ 
+
+4.  Funds to finance or refinance renewable energy projects:  
+
+a.  Financing or Refinancing construction and/or operation of solar, wind (onshore and 
+offshore), biomass, geothermal, run-of-river hydropower, and tidal and wave power 
+assets 
+ 
+
+5.  Funds to finance or refinance clean transportation projects or loans to companies exclusively 
+
+for use for clean transportation projects4:  
+
+a. 
+
+Installation and/or maintenance of energy-efficient and/or electric trains  
+
+ 
+2 http://www.dbj.jp/en/service/finance/enviro/index.html  
+3 http://www.dbj.jp/en/service/finance/g_building/index.html  
+4 DBJ confirms that in lending to companies, it is able to track use of loans from sustainability bond proceeds to ensure that the loans are directed 
+towards eligible clean transporation projects. DBJ also confirms that the amount of loans from sustainability bond proceeds will be equal to or 
+less than the amount of CAPEX or OPEX spent by companies on eligible clean transportation projects.  
+
+5 
+
+ 
+ 
+
+© Sustainalytics 2017 
+ 
+
+b.  (Re)construction, extension, maintenance, and/or upgrade of rail lines 
+c. 
+d. 
+
+(Re)construction, maintenance, operation and/or upgrade of railway systems and assets 
+Infrastructure and components which could help increase the transport capacity and 
+improve the efficient movement of people and freight 
+
+ 
+For methodological details of eligibility criteria, please see Appendices 1, 2 and 3.  
+ 
+ 
+Exclusionary Criteria 
+
+DBJ has developed a list of exclusionary criteria to be applied to the allocation of the proceeds from the 
+DBJ Sustainability Bond issuance. In this regard, DBJ commits to not knowingly allocating the net proceeds 
+for the financing of assets/projects/businesses included in the exclusionary criteria. 
+
+ 
+
+1.  Businesses dedicated to the manufacture or retail sale and distribution of weapons and small 
+
+arms; or businesses dedicated to the production of products and services supporting the 
+manufacture or retail sale of weapons and small arms 
+
+2.  Extraction, refining, or transportation of coal  
+3.  Ownership or operation of dedicated gambling establishments/activities  
+4.  Biomass plants designed primarily to consume food stocks  
+5.  Large-scale hydropower dams 
+
+ 
+
+3.2  Project Evaluation and Selection Process 
+Application of Eligibility and Exclusionary Criteria in Project Selection 
+DBJ’s Treasury team is responsible for the selection of financial assets that meet the DBJ Sustainability 
+Bond  Eligibility  Criteria  and  for  the  allocation  of  the  DBJ  Sustainability  Bond  proceeds  to  the  selected 
+financial assets. All financings and corresponding approved ratings (only applicable to the ERLP and GBC 
+programmes as well as the GRESB framework) are tracked in an internal management system. This allows 
+DBJ’s  Treasury  team  to  accurately  identify  and  select  the  financial  assets  in  accordance  with  the  DBJ 
+Sustainability  Bond  Eligibility  Criteria  and  allocate  the  DBJ  Sustainability  Bond proceeds  appropriately. 
+These eligible assets/projects/businesses  and the net proceeds, or an amount equal to the net proceeds, 
+allocated to them, are recorded and maintained in the internal management systems, which is used for 
+tracking and reporting purposes and appropriately updated from time to time. 
+ 
+Sustainability Objectives  
+DBJ  has  a mission  "Applying  financial expertise  to  design  the  future",  and  states  that  it  has  an  aim  of 
+conducting business in a manner which resolves the issues of its clients and the larger society and realizes 
+the sustainable development of Japan and the world5. In support of its mission, DBJ has developed ‘the 
+Long Term Vision 2030’6 and further sets out the Fourth Medium-Term Management Plan for the three-
+
+ 
+5 Corporate Philosophy, Development Bank of Japan 
+http://www.dbj.jp/en/co/info/philosophy.html and http://www.dbj.jp/co/info/philosophy.html  
+6 Integrated Report 2017 (Japanese), Development Bank of Japan 
+
+ 
+ 
+
+6 
+
+© Sustainalytics 2017 
+ 
+
+year period from FY 2017 throughout FY 2019, which aims to provide solutions for the issues of client and 
+society, and makes efforts towards sustainable growth.  
+ 
+In  line  with  its  mission,  under  the  Policy  on  Sustainability,  DBJ  pursues  and  implements  sustainability 
+management.7 DBJ defines sustainability management as management directed at creating a sustainable 
+society and realizing economic and social value, while consistently improving the process of value creation 
+through  communication  with  stakeholders.  The  Sustainability  Committee  discusses  and  considers  the 
+sustainable management undertaken by DBJ. 
+ 
+With an aim to achieve this sustainability goal, DBJ has aligned with UNEP (United Nations Environment 
+Programme) since signing up to the UNEP Statement by Financial Institutions on the  Environment and 
+in  2001. 8  Following  the  Policy  on  Sustainability  and  Environmental 
+Sustainable  Development 
+Management9, DBJ, through its business activities including investment, lending, consulting/advisory and 
+asset management, tackles environmental challenges with the promotion of global warming prevention, 
+a recycling-oriented society and other activities, as well as gives consideration to social challenges such 
+as human rights, which are both associated with its clients, employees, financial markets, and investors. 
+ 
+Process to Mitigate Environmental and Social Risks 
+DBJ has the following processes that consider management of environmental and social risks in its 
+financing process: 
+
+  DBJ periodically monitors if borrowers comply with applicable regulations and laws (including 
+
+environmental laws), and if they obtain and maintain governmental permits, approvals, licenses 
+and authorizations. If a breach is expected to have a materially adverse effect, and not cured 
+within a grace period, DBJ is entitled to request prepayment subject to contractual 
+arrangements. 
+In respect of asset/structured/project finance, in some cases, DBJ engages an independent 
+consultant to undertake due diligence on environmental and social aspects. If this is not the 
+case, DBJ assesses the capability and reliability of the borrower in relation to identifying and 
+managing environmental and social risks. 
+
+ 
+
+  The Sustainability Committee, responsible for considering the incorporation of sustainability and 
+ESG insights into the DBJ’s usual business activities, discusses and considers the balance between 
+economic and social value (i.e. sustainability management), and maintains communications with 
+stakeholders on this topic. 
+ 
+
+3.3  Management of Proceeds  
+The net proceeds, or an amount equal to the net proceeds, from the DBJ Sustainability Bond issuance will 
+be held and tracked in DBJ’s treasury until they are allocated to the eligible projects and/or businesses. 
+So long as the DBJ Sustainability Bond is outstanding, DBJ aims to allocate the net proceeds, or an amount 
+equal to the net proceeds, of the DBJ Sustainability Bond towards the eligible projects and/or businesses. 
+
+ 
+http://www.dbj.jp/pdf/CSR_disclo/2017/01.pdf 
+7 Article 2 of the DBJ Policy on Sustainability 
+8 http://www.dbj.jp/en/co/csr/responsibility/management.html   
+9 http://www.dbj.jp/en/co/csr/responsibility/management.html  
+
+ 
+ 
+
+7 
+
+© Sustainalytics 2017 
+ 
+
+Unallocated proceeds will be held in cash and/or a money-market portfolio which will be tracked by DBJ 
+Treasury Department. DBJ has internal management systems to track the amount of funds allocated to 
+each of the Eligible Financings. 
+ 
+3.4 Reporting  
+DBJ will report annually on its website the following information until full allocation of the net proceeds, 
+or an amount equal to the net proceeds, from the DBJ Sustainability Bond issuance:  
+
+1.  Allocation in aggregate to each eligibility criterion, and number of businesses/assets/projects 
+
+funded under each eligibility criterion    
+
+2.  The estimate share of financing or refinancing 
+3.  The amount of unallocated proceeds and the investments in which these proceeds are held 
+
+Furthermore, DBJ has committed to reporting on the following additional information and impact metrics, 
+where relevant:  
+ 
+
+Type of Eligible Financings 
+ERLP 
+
+GBC 
+
+GRESB 
+
+Green Projects 
+- Renewable Energy, and 
+  Clean Transportation 
+
+Additional Information to be reported 
+  Certification vintage 
+  Distribution by sector  
+  Subject to confidentiality and clients’ prior consent, select  project summaries 
+and  key  factors  evaluated  on  specific  green  projects  undertaken  or 
+implemented by the clients 
+
+  Certification vintage 
+  Subject to confidentiality and clients’ prior consent, two or three case studies 
+
+of underlying green buildings funded by the relevant Sustainability Bond 
+
+  Certification vintage 
+  Subject to confidentiality and clients’ prior consent, two or three case studies 
+of  underlying  REITs  and  real  estate  properties  funded  with  the  relevant 
+Sustainability Bond 
+
+  Distribution by sub-sector and location 
+  Subject  to  confidentiality  and  clients’  prior  consent,  high-level  description  of 
+
+select projects 
+
+  Where  feasible,  quantitative  assessment  of  expected  positive  environmental 
+
+impacts on an aggregate basis  
+
+  KPI: estimated carbon avoidance  
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+8 
+
+© Sustainalytics 2017 
+ 
+
+ 
+4  SUSTAINALYTICS’ OPINION 
+ 
+Section 1: Sustainalytics’ Opinion on the DBJ Sustainability Bond Framework  
+Overall, Sustainalytics is of the opinion that the DBJ Sustainability Bond Framework creates meaningful 
+impact, is transparent, and aligns with the Green Bond Principles 2017 and the Sustainability Bond 
+Guidelines 2017. Some considerations in Sustainalytics’ assessment are listed below:  
+ 
+
+  Renewable Energy and Clean Transportation are recognized by the 2017 Green Bond Principles 
+
+as project categories with clear environmental impact.  
+
+  Sustainalytics has reviewed and provided an assessment of the ERLP, GBC, and GRESB programs, 
+
+and considers these ratings and the associated methodologies as a credible and robust 
+assessment of companies’ sustainability performance.  
+
+  DBJ’s disclosure and processes with respect to management of proceeds and project selection 
+
+process are in line with market practices. 
+
+  Sustainalytics encourages DBJ where possible to report on quantitative KPIs such as estimated 
+
+amount of CO2 avoided.  
+
+ 
+Alignment with Green Bond Principles 2017/Sustainability Bond Guidelines 2017 
+Sustainalytics recognizes that the DBJ Sustainability Bond is not exclusively project based, i.e. DBJ may 
+also allocate the net proceeds to finance lending and investment activities in companies. Sustainalytics 
+recognizes  that  (i)  the  Green  Bond  Principles  and  Sustainability  Bond  Guidelines  prefer  project  based 
+lending,  and  that  (ii)  in  general,  there  is  lesser  transparency  associated with  reporting on  non-project 
+based  financing.  However,  DBJ  has  confirmed  to  Sustainalytics  a  commitment  to  disclosure  and 
+transparency,  and  has  also  made  a  commitment,  where  and  to  the  extent  possible,  to  track  projects 
+(including  without  limitation  capital  expenditure,  operation,  maintenance  and  R&D)  to  which  the  net 
+proceeds, or an amount equal to the net proceeds, of the DBJ Sustainability Bond are (deemed to be) 
+allocated, through their corporate lending and investment activities. Sustainalytics also recognizes that 
+DBJ is subject to confidentiality constraints when reporting on the DBJ Sustainability Bond. Taking into 
+account this constraint,  their  commitment  and the nature of the relevant  eligible projects/businesses, 
+Sustainalytics is of the opinion that the DBJ Sustainability Bond is transparent. 
+ 
+Based  on  Sustainalytics’  assessment  of  the  ERLP,  GBC,  and  GRESB  programs,  Sustainalytics  is  of  the 
+opinion that the DBJ Sustainability Bond creates impact in the context of particularly Japan as well as the 
+world, and contributes to DBJ’s sustainability strategy and objective.  
+ 
+While the DBJ Sustainability Bond is not exclusively project based, DBJ may allocate the net proceeds to 
+finance  lending  and  investment  activities  to  companies  that  meet  well  established  impact  criteria. 
+Sustainalytics considers the DBJ Sustainability Bond to be transparent and to create credible impact. In 
+this sense, Sustainalytics is of the opinion that the DBJ Sustainability Bond aligns with the Green Bond 
+Principles 2017, and the Sustainability Bond Guidelines 2017. For details please see Appendix 6.  
+ 
+ 
+
+ 
+ 
+
+9 
+
+© Sustainalytics 2017 
+ 
+
+ 
+Sustainalytics’ Opinion on the strength of the ERLP, GBC, and GRESB programs  
+Sustainalytics is of the opinion that the ERLP methodology adequately assesses companies on the key 
+environmental issues and is effective in identifying the environmental leaders. For a detailed assessment 
+of the ERLP see Appendix 4.  
+ 
+Sustainalytics is of the opinion that by selecting buildings with 5, 4 or 3 stars of the GBC programme, DBJ 
+is allocating the net proceeds, or an amount equal to the net proceeds of the DBJ Sustainability Bond to 
+the buildings with top environmental performance in Japan. For a detailed assessment of the GBC see 
+Appendix 5. 
+ 
+Sustainalytics’ assessment of GRESB  
+Sustainalytics  reviewed  the  GRESB  Framework  in  detail  and  compared  it  with  its  own  ESG  rating 
+methodology to determine if the GRESB adequately evaluates real estate assets on key environmental 
+and sustainability metrics. 
+ 
+Sustainalytics considers the GRESB rating to be robust for the following reasons:  
+ 
+
+The methodology that GRESB employs considers issues  similar to the  Sustainalytics ESG rating 
+framework  and green bond issuer assessment. A strong and typical ratings methodology rates 
+companies  in  the  areas  of  commitment,  disclosure,  and  performance.  GRESB’s  methodology 
+assesses companies in the abovementioned areas, under the broad themes of management and 
+policy, and implementation and measurement.  
+
+• 
+
+  GRESB rates REITs, real estate property funds and developers on a score of 0-100. The rated are 
+divided  into  4  rating  categories,  ‘Green  Starter,  ‘Green  Walk’,  ‘Green  Talk’,  and  ‘Green  Star’, 
+where the category of ‘Green Star’ represents the highest scoring (i.e. with a score of a minimum 
+of 50 under the two themes of Management and Policy, and Implementation and Measurement).  
+  The ‘Green Star’ label not only identifies top performers, but also recognizes the rated entities for 
+integration  of  sustainability  issues.  Sustainalytics  is  of  the  opinion  that  such  recognition 
+encourages  further  disclosure  and  improvement  around  performance  of  these  sustainability 
+issues.  
+
+  This is validated by GRESB, which confirms that the average GRESB Score currently stands at 56, 
+
+as compared to 47 in 2014.10 GRESB has collected data to demonstrate that companies, real 
+estate funds and REITs reporting to GRESB improve performance over time. For example, GRESB 
+states that entities reporting for 7 years outperform the global average by 12 points.   
+
+  While nature of data collection and submission is voluntary , GRESB verifies submitted data; 
+  GRESB assessment areas include market best practices like LEED certifications;  
+  The methodology and indicators are aligned with credible third-party norms like Global 
+
+Reporting Initiative (GRI) and PRI; 
+
+  GRESB collects and reports on data on key quantitative performance indicators, like total water 
+
+saved, and total amount of CO2 emissions mitigated. 
+
+ 
+
+ 
+10 https://api.gresb.com/results2015/results  
+
+ 
+ 
+
+10 
+
+© Sustainalytics 2017 
+ 
+
+Based on the above, Sustainalytics considers the GRESB rating meaningful and credible and that “Green 
+Star” rating appropriately identifies leaders in green/sustainable building horizon in Japan. By financing 
+only ‘Green Star’ rated REITs, companies or real estate funds DBJ is aligned with industry best practice.  
+
+ 
+Section 2: Sustainability Performance of the Issuer  
+DBJ  has  set  clear  sustainability  commitments  though  its  policies  and  management  plan.  DBJ’s 
+Sustainability policy emphasizes on: 
+ 
+
+ 
+
+ 
+
+identifying  material  sustainability  issues  in  the  relevant  fields  based  on  trends  in  government 
+policy as well as legislation and norms regarding ESG criteria in Japan and throughout the world11; 
+incorporating the recognition of the necessity for a sustainable society into its investing, lending, 
+asset management and other business activities12; and 
+
+  encouraging  and  supporting,  by  way  of  financing  activities  (particularly  via  certification 
+programs 13 )  and  academic  research,  the  sustainable  management 14  and  the  improved  ESG 
+performance of its clients15, 
+
+ 
+Furthermore, DBJ develops the Fourth Medium-term Management Plan for the three-year period from 
+FY 2017 throughout FY 2019, which aims to contribute to the creation of a sustainable society. The plan 
+lays out the initiatives including the DBJ Environmentally Rated Loan and DBJ Green Building Certification 
+programmes, as well as the integrated financial services in infrastructure such as energy, transportation 
+and urban development, to further create both economic and social value.  
+ 
+As reflected above, DBJ has strong sustainability commitments for achieving a sustainable society while 
+outlining a sustainability strategy through its mission, policies, and management plan. Additionally, the 
+Policy  on  Sustainability  and  the  current  management  plan  clearly  demonstrate  its  commitments  on 
+contributing to positive environmental and social impacts into its stakeholders and society through its 
+financial services such as investment, lending and asset management. Sustainalytics is of opinion that the 
+DBJ Sustainability Bond Framework is aligned with the DBJ’s mission, the Policy on Sustainability as well 
+as the Fourth Medium-term Management Plan, and DBJ is well positioned to issue a sustainability bond. 
+ 
+Sustainalytics is of the opinion that the DBJ Sustainability Bond Framework is aligned with DBJ’ corporate 
+mission and sustainability and management strategies. 
+ 
+
+ 
+11 Policy on Sustainability, Development Bank of Japan 
+http://www.dbj.jp/en/co/csr/regular/index.html 
+12 Policy on Sustainability, Development Bank of Japan 
+http://www.dbj.jp/en/co/csr/regular/index.html 
+13 Certification Programs, Development Bank of Japan 
+http://www.dbj.jp/en/service/finance/rating/index.html 
+14 DBJ's Environmental Management, Develppment Bank of Japan 
+http://www.dbj.jp/en/co/csr/responsibility/management.html 
+15 Integrated Report 2017 (Japanese), Development Bank of Japan 
+http://www.dbj.jp/pdf/CSR_disclo/2017/01.pdf 
+
+ 
+ 
+
+11 
+
+© Sustainalytics 2017 
+ 
+
+Well positioned to address common environmental and social risks associated with the projects  
+DBJ’s  management  of  environmental  and  social  risks  in  its  financing  process  is  described  in  this 
+framework.  Overall,  Sustainalytics  does  not  identify  considerable  environmental  and  social  risk  with 
+respect to lending to sustainably rated companies through the ERLP, GBC, and GRESB programs. Financing 
+construction of clean transportation and renewable energy can be associated with certain environmental 
+and  social  risks  such  as  loss  of  biodiversity,  pollution,  and  worker  health  and safety.  Given  the  use of 
+proceeds, Sustainalytics is of the opinion that DBJ’s general process to consider environmental and social 
+factors in its financing process is sufficient.  
+ 
+Section 3: Impact of Use of Proceeds  
+Importance of green real estate in climate change mitigating in Japan 
+Japan  has  developed the  Plan  of  Global  Warming  Countermeasures  that  sets  the  reduction  targets  of 
+greenhouse gas (GHG) emission for medium and long term, in which the country is committed to reducing 
+26 % GHG emissions from 2013 level by 2030 in line with the Paris Agreement (as a medium term goal) 
+and further pursing 80% reduction by 2050 (as a long term goal)16. As the main policies and measures, the 
+plan addresses the promotion of compliance of energy saving standards for new buildings, energy saving 
+renovation of existing buildings, and Zero Energy Buildings, as well as the intensive management of energy 
+by  adopting  building  energy  management  system  and  energy  saving  diagnostics17.  These  government 
+measures  have  led  to  an  increases  pressure  for  the  buildings  to  be  environmentally  sustainable  and 
+specially to contribute to the national anti-global warming plan and GHG reduction targets.  
+ 
+Given  this  context,  Sustainalytics  is  of  the  opinion  that  financing  sustainable  buildings,  real  estate 
+properties and REITs will create meaningful environmental impact in an important area for Japan, and will 
+contribute to reduction of GHG emission targets in the country.  
+ 
+Alignment with/contribution to SDGs 
+The Sustainable Development Goals (SDGs) were set in September 2015 and form an agenda for achieving 
+sustainable development by the year 2030. The DBJ Sustainability Bond advances the following SDG goals 
+and targets:  
+ 
+
+Use of Proceeds 
+Category 
+DBJ  Environmentally 
+Rated 
+Loan 
+Programme (ERLP) 
+
+SDG 
+
+SDG target 
+
+13. Climate Action 
+
+13.3  Improve  education,  awareness-raising  and 
+human  and  institutional  capacity  on  climate 
+change  mitigation,  adaptation,  impact  reduction 
+and early warning 
+
+ 
+16 Cabinet Decision on the Plan for Global Warming Countermeasures, Ministry of Environment, Japan 
+https://www.env.go.jp/en/headline/2238.html 
+17  Overvoew of the Plan for Global Warming Countermeasures, Ministry of Environment, Japan 
+https://www.env.go.jp/press/files/en/676.pdf 
+ 
+
+ 
+ 
+
+12 
+
+© Sustainalytics 2017 
+ 
+
+DBJ  Green  Building 
+Certification 
+Programme 
+
+Estate 
+
+Global  Real 
+Sustainability 
+Benchmark (GRESB) 
+
+13. Climate Action 
+
+13. Climate Action 
+
+Clean Transportation 
+
+9.  Industry,  Innovation 
+and Infrastructure 
+
+Renewable Energy 
+
+7. Affordable and Clean 
+Energy 
+
+13.3  Improve  education,  awareness-raising  and 
+human  and  institutional  capacity  on  climate 
+change  mitigation,  adaptation,  impact  reduction 
+and early warning 
+13.3  Improve  education,  awareness-raising  and 
+human  and  institutional  capacity  on  climate 
+change  mitigation,  adaptation,  impact  reduction 
+and early warning 
+9.1  Develop  quality,  reliable,  sustainable  and 
+resilient  infrastructure,  including  regional  and 
+transborder  infrastructure,  to  support  economic 
+development and human well-being, with a focus 
+on affordable and equitable access for all. 
+7.2  By  2030,  increase  substantially  the  share  of 
+renewable energy in the global energy mix. 
+
+ 
+ 
+Conclusion  
+While  recognizing  that  the  DBJ  Sustainability  Bond  is  not  exclusively  project  based,  i.e.  DBJ  may  also 
+allocate the proceeds to finance lending and investment activities to companies, Sustainalytics considers 
+the bond to be transparent and to create credible impact. This assessment is based on: (i) DBJ’s stated 
+commitment to transparency and disclosure given the nature of the relevant eligible projects/businesses, 
+and  its  confidentiality  constraints  (ii)  Sustainalytics’  assessment  of  DBJ’s  processes  with  respect  to 
+management  of  proceeds  and  project  selection  process  as  aligned  with  market  practices,  (iii) 
+Sustainalytics’ assessment of the ERLP, GBC and GRESB programmes as a credible and robust assessment 
+of companies’ sustainability performance and impact, and (iv) the contribution of the DBJ Sustainability 
+Bond  to  the  organization’s  sustainability  strategy  and  objective.  In  this  sense,  Sustainalytics  is  of  the 
+opinion that the DBJ Sustainability Bond aligns with the Green Bond Principles 2017 and the Sustainability 
+Bond Guidelines 2017.  
+ 
+ 
+
+ 
+
+ 
+ 
+
+13 
+
+© Sustainalytics 2017 
+ 
+
+APPENDICES 
+ 
+Appendix 1A: Methodological details of Environmentally Rated Loan 
+Programme (ERLP)  
+ 
+The ERLP Rating Process follows three key steps. 
+ 
+Step 1: Preliminary Survey 
+
+  Clients are asked to fill in a preliminary survey sheet for negative screening. 
+
+ 
+
+Step 2: Full Assessment  
+
+  After the preliminary survey, DBJ will conduct its full assessment based on the research of public 
+
+information of the company’s environmental efforts (for example a CSR Report). 
+
+  DBJ will then interview clients to collect non-public information on their environmental efforts. 
+
+ 
+
+Step 3: Rating and Monitoring 
+
+  Ratings will be assigned according to the points scored in the assessment. 
+  Clients enter into a covenant to maintain the level of environmental effort until redemption of 
+
+ 
+
+the loan. If the covenant is breached, DBJ will review the rating. 
+If such breach is not cured within a certain period specified in a loan agreement, resulting in the 
+borrower ceasing to be rated or the applicable rating to meet the Eligibility Criteria, the 
+corresponding loans will be removed from the allocation and replaced with other Eligible 
+Financings (not be limited to the ERLP).  
+
+ 
+The assessment undertaken by DBJ incorporates the following key areas: 
+
+1.  General Management 
+2.  Business Activities 
+3.  Environmental Performance 
+
+ 
+
+The key areas are broken down into sub-sectors which are weighted for importance. DBJ provides loans 
+to companies rated A, B, C or D and excludes companies rated “None”. In addition, for the companies that 
+are rated A or B, DBJ provides a discount on loan interest rates (for companies rated C or D loans are 
+offered at regular rates). An overview of the assessment topics is provided in Appendix 1B. 
+
+ 
+ 
+
+14 
+
+© Sustainalytics 2017 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+
+15 
+
+© Sustainalytics 2017 
+ 
+
+Appendix 1B: ERLP Assessment Topics  
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+16 
+
+© Sustainalytics 2017 
+ 
+
+Appendix 2: Green Building Certification (GBC) Programme  
+ 
+As part of its financing activities, DBJ offers “Green Building Certification” (“GBC”), in order to support 
+its clients who own or operate real estate properties with high standards of environmental and social 
+features. The certification is available for office buildings, logistics facilities, as well as retail facilities.  
+Since February 2014, following the partnership development, Japan Real Estate Institute and DBJ have 
+jointly undertaken the certification assessment. 
+ 
+In order for buildings to be certified “green”, they must undergo an assessment by DBJ. This assessment 
+is intended to ensure that the construction takes into account environmental considerations. 
+Additionally, it ensures that the buildings take other responsible factors into account, including:  
+•  Disaster-prevention and anti-crime measures;  
+•  Tenants’ comfort and convenience;  
+•  Harmony with the surrounding environment;  
+•  Collaboration with stakeholders (including tenants and investors); and  
+•  Environmental Investor Relations activities.  
+
+ 
+
+ 
+Once a property has successfully received the certification, DBJ will support the financial needs for new 
+developments and refurbishments. Further details about the areas of assessment under GBC are 
+provided in Appendix 2A. 
+
+ 
+
+As a result of the assessment, properties may receive one of the following certifications: 
+ 
+ 
+
+ 
+
+ 
+ 
+
+17 
+
+© Sustainalytics 2017 
+ 
+
+Appendix 2B: GBC Assessment Topics 
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+18 
+
+© Sustainalytics 2017 
+ 
+
+Appendix 3: GRESB ESG rating topics and methodology  
+Global Real Estate Sustainability Benchmark (“GRESB”) is an industry-driven organization that assesses 
+the environmental, social and governance (ESG) performance of real assets and infrastructure globally.  
+ 
+  ESG  performance  is  assessed  through  a  universal  GRESB  score  assigned  to  all  properties, 
+
+infrastructure, and funds covered by GRESB.  
+
+  The  GRESB  score  is  based  on  a  voluntary  reporting  assessment  or  survey.  The  content  of  the 
+assessment is driven by what  investors and the industry consider to be material issues in the  ESG 
+performance of real assets.  
+
+  The overall GRESB Score is assessed on two dimensions: Management & Policy and Implementation 
+
+& Measurement. The combination of these two dimensions results in a final GRESB score. 
+
+  The two dimensions are assessed through seven different aspects (see figure below)18 
+  The GRESB rating has four rating categories/labels: Green Starter, Green Walk, Green Talk, and Green 
+Star. Green Star is the top performing category, and requires a minimum score of 50 for each of the 
+two  dimensions listed above.  
+
+ 
+
+ 
+
+Figure 1: Seven aspects of GRESB under the two dimensions of Management & Policy and Implementation & Measurement 
+
+ 
+
+ 
+
+ 
+
+ 
+18 https://gresb.com/wp-content/uploads/2017/07/2016_Global_Snapshot.pdf 
+ 
+
+ 
+ 
+
+19 
+
+© Sustainalytics 2017 
+ 
+
+Appendix 4: Sustainalytics’ assessment of the ERLP  
+ 
+The DBJ Environmentally Rated Loan Programme (“ERLP”): Sustainalytics reviewed the ERLP in detail 
+and compared it with its own ESG rating methodology to determine if the ERLP adequately evaluates 
+companies on key environmental aspects. 
+ 
+Sustainalytics  reviewed  the  15  assessment  topics  (see  appendix  1A),  all  the  indicators  within  the 
+assessment items, evaluation criteria and the scoring to determine if these cover the wide range of topics 
+and  assessment  areas  covered  by  Sustainalytics’  own  ratings  methodology.  Key  points  from  the 
+assessment are below: 
+
+  Sustainalytics rates companies on 1) preparedness (commitment), 2) disclosure and 3) 
+
+performance (qualitative and quantitative) which are typical areas of assessment in most rating 
+methodologies.  Although the questions in the ERLP framework are not explicitly grouped under 
+the above mentioned areas, they are adequately captured within each assessment item.  
+  The Environmental Performance area in the ERLP aims to capture detailed information on 
+
+quantitative metrics such as energy use, GHG emissions, water, waste, and other resource use. 
+Sustainalytics views this as an area of strength in the ERLP methodology. 
+
+  The ERLP has different screening sheets for different types of companies such as manufacturing 
+
+companies, leasing companies, retail trading companies, transportation companies, logistics 
+companies and so on. This allows DBJ to carry out assessment relevant to a specific company 
+type. 
+
+  Rating companies on commitment, disclosure and performance needs to be complemented by 
+
+assessing companies on major ESG events or controversies. DBJ, aims to capture major ESG risks 
+by asking companies to report such events as part of the rating and conducts its own research to 
+identify companies’ involvement in negative events. 
+
+ 
+Based on this assessment Sustainalytics is confident that the ERLP methodology adequately assesses 
+companies on the key environmental issues and is effective in identifying the environmental leaders. 
+Sustainalytics reviewed several companies that were rated as leaders by DBJ and found that they did not 
+have any major controversies. 
+ 
+The ERLP incentivizes companies to improve their environmental performance by providing discounted 
+interest rates for top-rated companies. In addition, companies with ratings lower than D are not eligible 
+for loans under the ERLP. Furthermore, DBJ updates the assessment criteria annually which could result 
+in higher thresholds, thereby making it difficult for a company to achieve the same rating without making 
+reasonable  improvements  the  next  time  the  companies  borrow  from  DBJ.  The  fact  that  quite  a  few 
+companies that had previously received ratings and loans under the ERLP have returned to apply for loans 
+under ERLP programme, and qualified under a more stringent assessment indicates the programme has 
+contributed to improve environmental performance of the company. In this way, DBJ is encouraging its 
+borrowers to continually improve their environmental performance. In addition, by having a minimum 
+requirement for loan qualification and providing incentives for high performers, DBJ is providing a clear 
+signal  to  the  market  that  environmental  impact  is  a  key  consideration  for  its  lending  products. 
+Furthermore,  the  companies  that  receive  high  scores  benefit  from  enhanced  reputation  among  their 
+peers. 
+
+20 
+
+ 
+ 
+
+© Sustainalytics 2017 
+ 
+
+Appendix 5: Sustainalytics’ Assessment of the GBC 
+ 
+DBJ initiated its Green Building Certification (GBC) programme in 2011 and, as of March 2017, has certified 
+227 office buildings, 77 logistics facilities, 55 commercial facilities and 35 residential facilities. GBC is a 
+certification that is independent from DBJ’s loan, therefore, the GBC rating does not affect terms of the 
+loan. However, only those loans that receive 3 stars or above will qualify as the Eligible Financings in the 
+DBJ Sustainability Bond Framework.  
+ 
+In FY 2010, DBJ assessed a sample of Japan’s REIT buildings (about 100 buildings) and the assessment 
+resulted in about 50% of the stock akin to 2-star GBC-rated buildings and most of the highly rated buildings 
+(as defined by other 3rd party agencies) were similar to 3-star GBC-rated buildings. This indicates that 
+Japan REIT buildings with 4 or 5 stars under GBC programme have higher environmental performance 
+than most buildings in Japan that receive top ratings from 3rd party agencies.  
+ 
+Therefore, by selecting buildings with 5, 4 or 3 stars, DBJ is allocating the net proceeds, or an amount 
+equal  to  the  net  proceeds  of  the  DBJ  Sustainability  Bond  to  the  buildings  with  top  environmental 
+performance in Japan. 
+ 
+With  the  GBC,  DBJ  rates  buildings  based  on  improvements  in  energy  efficiency,  natural  resource  use, 
+sourcing of renewable energy and third-party certification (LEED, BREEAM etc.), in addition to such other 
+factors as amenities, risk management, community and partnership. According to DBJ, the interest in its 
+GBC  has  increased  over  the  years  as  property  owners  value  the  GBC  as  a  way  to  differentiate  their 
+buildings from other buildings. Given this interest, DBJ has expanded the GBC to cover office buildings, 
+retail  and  logistic  facilities.  Going  forward,  DBJ  aims  to  foster  a  correlation  between  a  building’s  GBC 
+ratings and its economic value, creating a market in which green buildings are valued appropriately. In 
+addition, the GBC scoring sheet/model is revised annually, and in this way, the asset owners willing to 
+maintain the rating level assigned on their assets are encouraged to increase their environmental efforts 
+and improve environmental performance. 
+ 
+By selecting A, B or C rated companies under ERLP and buildings that are rated 5, 4 or 3 stars under GBC 
+programme, DBJ is using allocating the net proceeds, or an amount equal to the net proceeds of the DBJ 
+Sustainability Bond issuance to fund companies/buildings that provide the highest positive sustainability 
+impact. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+21 
+
+© Sustainalytics 2017 
+ 
+
+SUSTAINALYTICS 
+ 
+Sustainalytics  is  an  independent  ESG  and  corporate  governance  research,  ratings  and  analysis  firm 
+supporting  investors  around  the  world  with  the  development  and  implementation  of  responsible 
+investment  strategies. With 13 offices globally, Sustainalytics partners with institutional investors who 
+integrate  environmental,  social  and  governance  information  and  assessments  into  their  investment 
+processes.  Today,  the  firm  has  more  than  300  staff  members,  including  170  analysts  with  varied 
+multidisciplinary  expertise  of  more  than  40  sectors.  Through  the  IRRI  survey,  investors  selected 
+Sustainalytics as the best independent responsible investment research firm for three consecutive years, 
+2012 through 2014 and in 2015, Sustainalytics was named among the top three firms for both ESG and 
+Corporate Governance research. The firm was also named the Best SRI or Green Bond Research Firm by 
+Global Capital in 2015. For more information, visit www.sustainalytics.com  
+ 
+Sustainalytics 
+info@sustainalytics.com  
+www.sustainalytics.com  
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+28 
+
+

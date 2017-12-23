@@ -1,0 +1,1067 @@
+ 
+ 
+  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+NACIONAL FINANCIERA 
+
+S.N.C. 
+
+SOCIAL BOND 
+
+ 
+
+ 
+
+FRAMEWORK OVERVIEW AND SECOND PARTY 
+
+OPINION BY SUSTAINALYTICS 
+
+July 5, 2017 
+
+Ankita Shukla (Toronto) 
+Senior Advisor, Advisory Services 
+ankita.shukla@sustainalytics.com  
+(+1) 416 861 0403 
+
+Charlotte Peyraud (New York)  
+Senior Advisor, Institutional Relations 
+charlotte.peyraud@sustainalytics.com 
+(+1) 646 518 0184 
+
+www.sustainalytics.com 
+ 
+www.sustainalytics.com 
+ 
+www.sustainalytics.com 
+
+© Sustainalytics 2017 
+
+TABLE OF CONTENTS 
+
+1. 
+
+Introduction 
+
+2.  Overview of Issuer 
+
+3.  Framework Overview 
+
+3.1  Use of Proceeds 
+3.2  Project Evaluation and Selection Process 
+3.3  Management of Proceeds 
+3.4  Reporting 
+3.5  Compliance Review 
+
+4.  Sustainalytics’ Opinion 
+
+Conclusion 
+
+APPENDIX 1 
+
+APPENDIX 2 
+
+SUSTAINALYTICS 
+
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+3 
+
+3 
+
+4 
+4 
+7 
+8 
+9 
+9 
+
+10 
+14 
+
+16 
+
+17 
+
+23 
+
+2 
+
+© Sustainalytics 2017 
+
+1. INTRODUCTION 
+Nacional Financiera, S.N.C. (“NAFIN”), a Mexican development bank, intends to issue a series of Social 
+Bonds and has engaged Sustainalytics to provide a second party opinion on its Social Bond Framework. 
+Sustainalytics’ opinion  is based on an assessment of the Social Bond Framework’s alignment with the 
+transparency  and  reporting  requirements  of  the  Social  Bond  Principles  2017  (SBP)1  as  well  as  assess 
+NAFIN’s overall sustainability performance and its alignment with the framework. 
+ 
+To come to this opinion, Sustainalytics reviewed several public and internal documents provided by NAFIN 
+and held conversations with members from NAFIN’s management teams. These conversations were held 
+to  understand  NAFIN’s  initiatives,  and  the  use  of  proceeds,  management  of  proceeds  and  reporting 
+aspects of the Social Bonds to be issued. This document contains two sections: Framework Overview – 
+summary  of  the  NAFIN’s  Social  Bond  Framework;  and  Sustainalytics’  Opinion  –  an  opinion  of  the 
+framework.   
+   
+  
+2. OVERVIEW OF ISSUER 
+NAFIN was created in 1934 for the purpose of helping to finance important socio-economic development 
+within  the  country.  In  the  years  that  followed  the  opening  of  the  Mexican  economy,  there  was  an 
+increased challenge of modernization and structural change in the country’s industrial sector, therefore 
+NAFIN has worked to boost the competitiveness of the country’s enterprises. It is also key to promoting 
+the Mexican government’s policies for expanding economic and social development in the country with 
+the primary objective of generating jobs and regional growth by strengthening and modernizing micro, 
+small and medium enterprises (MSMEs).  
+ 
+According  to  its  Institutional  Program,  the  institutional  mission  of  NAFIN  is-  "To  contribute  to  the 
+economic development of the country by facilitating the access of MSMEs, entrepreneurs and priority 
+investment projects to financing and other business development services, as well as contribute to the 
+formation of financial markets and act as fiduciary and financial agent of the Federal Government, which 
+allows to boost innovation, improve productivity, competitiveness."2 
+ 
+As  one  of  the  Mexican  development  banks,  all  NAFIN  Programmes  are  aligned  with  the  objectives, 
+strategies and lines of action defined in the National Development Plan 2013-20183. The Development 
+Plan establishes  the  following five national goals:  (1) a Mexico in Peace, (2) an Inclusive Mexico, (3) a 
+Mexico with Quality Education, (4) a Prosperous Mexico, (5) a Mexico with Global Responsibility. 
+ 
+NAFIN is issuing Social Bonds in line with its mandate to promote financial inclusion in Mexico. 
+
+ 
+
+1 The Social Bond Principles are voluntary process guidelines that recommend transparency and disclosure and promote integrity in the 
+
+development of the Social Bond market. They provide issuers guidance on the key components involved in launching a credible Social Bond 
+and aid investors by ensuring availability of information necessary to evaluate the positive impact of their Social Bond investments. 
+
+2 http://www.nafin.com/portalnf/content/sobre-nafinsa/nuestra-estrategia/nuestra-estrategia.html  
+ 
+
+3 
+
+ 
+ 
+
+© Sustainalytics 2017 
+
+3. FRAMEWORK OVERVIEW 
+This section presents NAFIN’s Social Bond Framework, which follows the four key pillars of the Social Bond 
+Principles (SBP): the use of proceeds, process for programme selection and evaluation, management of 
+proceeds, and reporting. 
+ 
+ 
+3.1   Use of Proceeds 
+The net proceeds of each Social Bond issued by NAFIN will be allocated to direct and indirect (through 
+NAFIN’s network of financial intermediaries) lending via existing and future NAFIN programmes. NAFIN’s 
+programmes will fall under one or more of the following Social Objectives: 
+ 
+
+1.  Enhancing access to essential services including education, vocational training, and financing 
+
+and financial services for low-income and underserved populations including young 
+entrepreneurs and students; 
+ 
+
+2.  Employment generation through microfinance and financing targeted at micro, small and 
+
+medium enterprises (MSMEs); 
+ 
+
+3.  Socio-economic advancement and empowerment of women by providing credit to women 
+
+entrepreneurs who want to expand their businesses; 
+ 
+
+4.  Enhancing cost-savings through resource efficiency (e.g. energy, water) for low-income 
+
+households by financing the installation of high-efficiency products and technologies; 
+ 
+
+5.  Supporting the economic recovery of individuals and micro, small and medium enterprises 
+
+(MSMEs) impacted by natural disasters. 
+
+ 
+NAFIN’s existing eligible programmes may include: 
+ 
+
+Table 1 
+Social Objectives 
+Enhancing access to 
+essential services including 
+training, and financing and 
+financial services for low-
+income and underserved 
+populations including 
+young entrepreneurs and 
+students 
+ 
+
+ 
+ 
+
+Programme Name 
+Credit for Young 
+People  
+(Crédito Joven) 
+
+Eligibility Criteria 
+Provides credit to young entrepreneurs opening a business / growing 
+their current business 
+ 
+In order to be eligible for credit, qualifying beneficiaries must be: 
+
+a.  young entrepreneurs with a business between the ages of 
+
+18 and 35; 
+
+b.  young entrepreneurs with new enterprises that have 
+
+completed an incubation process with the National 
+Institute for Entrepreneurs (INADEM); 
+
+c.  young entrepreneurs with ongoing businesses that have 
+
+at least one year of seniority; 
+
+d.  young entrepreneurs with an adequate credit history 
+(though it is no mandatory to have previous records); 
+
+4 
+
+© Sustainalytics 2017 
+
+Credit for 
+Microbusinesses4 
+
+Employment generation 
+through microfinance and 
+financing targeted at 
+micro, small and medium 
+enterprises (MSMEs) 
+ 
+
+Socio-economic 
+advancement and 
+empowerment of women 
+by providing credit to 
+women entrepreneurs 
+who want to expand their 
+business 
+
+Support for Women 
+Entrepreneurs 
+(Apoyo a Mujeres 
+Empresarias) 
+ 
+
+e.  young entrepreneurs with a guarantor. 
+
+ 
+http://www.nafin.com/portalnf/content/productos-y-servicios/programas-
+empresariales/credito_joven.html 
+
+Microcredit in Mexico as per the Official Gazette of the Federation is 
+defined as credit granted to natural persons whose resources are 
+destined to finance activities of production or sale of goods or services, 
+in which the main source of payment is the income obtained by said 
+activities and whose amounts and terms will be under one of the 
+following modalities: 
+
+(i) 
+
+Individual: when the credit is granted to a single individual and 
+having a maximum limit with the equivalent amount in local 
+currency of UDI 30,0005 (approximately MXN 172,228 or USD 
+9,473) and a maximum term of three years; or 
+
+(ii)  Group: when credit is given to groups of individuals who 
+
+endorse constitute debts or debtors jointly and severally with 
+each other and having a maximum limit of the equivalent 
+amount in local currency of UDI 11,500 (approximately MXN 
+66,020 or USD 3,631) for each member of the group and a 
+maximum term of one year. 
+
+ 
+In order to be eligible for microcredit, qualifying beneficiaries must be: 
+
+a.  microbusinesses  having  activities  in  the  commercial, 
+
+service or industrial sector;  
+
+b.  beneficiaries complying with the specific credit policies of 
+
+each financial intermediary.  
+
+Provides  credit  to  women  entrepreneurs  who  want  to  expand  their 
+businesses. 
+
+In order to be eligible for credit, qualifying beneficiaries are women who: 
+
+a.  are 18 years of age; 
+b.  have a micro, small or medium-sized company, or natural person 
+with a legally constituted business activity and have at least two 
+years  of  seniority;  or,  in  the  case  of  women  who  operate 
+businesses  under  the  Tax  Incorporation  Regime,  have  at  least 
+one year of seniority 
+
+c.  have 51% ownership stake in the company; 
+d.  have an adequate credit history and up-to-date legal and 
+
+financial information; 
+
+e.  have collateral or guarantor for loans exceeding MXN 500,000.  
+
+ 
+
+ 
+4 Microbusiness - the National Institute of Statistics defines a microbusiness as one that employs up to 10 workers in commerce, services, 
+
+transportation and construction; and up to 15 workers in manufacturing. 
+
+5 UDI - The Mexican unidad de inversión (ISO 4217 code MXV) is an index unit of funds used in Mexico. It can be traded in many currency 
+
+markets because its value changes with respect to currencies. Unlike currencies, it is designed to retain its purchasing power and not be 
+subject to inflation. The Mexican credit system uses the UDI rather than the peso because of its stability. 
+
+5 
+
+ 
+ 
+
+© Sustainalytics 2017 
+
+Enhancing cost-savings 
+through resource 
+efficiency (e.g. energy, 
+water) for low-income 
+households by financing 
+installation of high-
+efficiency products and 
+technologies 
+
+Sustainable 
+Improvement in 
+Existing Dwelling 
+Programme with 
+Mexico’s National 
+Housing 
+Commission 
+(Comisión Nacional 
+de Vivienda, 
+CONAVI) and the 
+Mexican Energy 
+Efficiency Trust 
+(FIDE) 
+ 
+
+Supporting the economic 
+recovery of individuals and 
+micro, small and medium 
+enterprises (MSMEs) 
+impacted by natural 
+disasters 
+
+Natural Disaster and 
+Economic Recovery 
+Support Programme 
+(Emergente de 
+Apoyo en Desastres 
+Naturales y 
+Reactivación 
+Económica) 
+
+http://www.nafin.com/portalnf/content/productos-y-servicios/programas-
+empresariales/empresarias.html 
+Credit for residential energy efficiency projects/eco-solutions.  
+ 
+In order to be eligible for credit, qualifying beneficiaries are households 
+that: 
+
+a.  earn  a  monthly  income  of  up  to  five  current  minimum 
+
+wages6; 
+
+b.  own existing dwelling; 
+c. 
+
+contribute at least 5% of the project amount in advance 
+payment; 
+
+d.  have an adequate credit history; 
+e.  have a guarantor.  
+
+ 
+Qualifying beneficiaries may use credit toward the following: 
+
+1.  Air conditioning equipment; 
+2.  Thermal insulation; 
+3.  Photovoltaic / solar systems; 
+4.  Solar heaters; 
+5.  Thermal windows; 
+6.  Gas heaters (with or without solar water heater); 
+7.  Solar window film; 
+8.  Energy efficient lighting; 
+9.  Waterproofing; 
+10.  Reflective finishing on ceilings and walls; 
+11.  Ceiling fans. 
+
+ 
+http://www.gob.mx/conavi/articulos/buscas-reducir-tus-gastos-de-agua-luz-y-gas-
+conavi-te-apoya?idiom=es  
+Financing  to  micro,  small  and  medium  enterprises  (MSMEs),  or 
+individuals with a business, for their recovery after having been affected 
+by  physical  and  economic  damages  due  to  a  natural  disaster  or  a 
+circumstantial event. 
+ 
+In order to be eligible for credit, qualifying beneficiaries are MSMEs, or 
+individuals with a business, that: 
+
+a.  are  registered  by  the  state  government  and/or  the 
+
+Ministry of Economy; 
+
+b.  demonstrate physical and/or economic damage. 
+
+ 
+http://www.nafin.com/portalnf/content/productos-y-servicios/programas-
+empresariales/programa-emergente.html 
+
+ 
+NAFIN adheres to the current definition of MSMEs as defined by the Mexican Government, as stated in 
+Appendix 1. 
+
+ 
+6 The general minimum wage effective as of January 1, 2017 is MXN 80.04 per day (USD 4.40). Thus, five monthly minimum wages are 
+
+equivalent to approximately MXN 12,166.08 (USD 669.19). 
+
+6 
+
+ 
+ 
+
+© Sustainalytics 2017 
+
+ 
+Exclusionary Criteria 
+NAFIN  applies  the  following  exclusionary  criteria  to  all  its  programmes,  as  per  its  credit  policies. 
+Accordingly, NAFIN commits itself to not knowingly be involved in financing any of the following projects 
+or activities: 
+
+  Consumer credit; 
+  Activities  of  agriculture,  livestock,  hunting,  forestry  and  fishing,  except  those  projects  that 
+
+incorporate transformation activities carried out in the productive unit itself; 
+
+  Manufacture of firearms and cartridges; 
+  Projects that generate negative effects on the environment; 
+  Financing  companies  in  the  sectors  of  commerce  or  services  related  to  the  renovation  or 
+
+establishments of bars and canteens not associated with restaurants; 
+
+  Applicants who present a "prevention code" identified by the Credit Bureau or whose guarantors, 
+
+guarantors or joint sponsors present such codes; 
+
+  Applicants who are in technical bankruptcy, understood as the loss of two-thirds of their capital 
+
+stock. 
+
+ 
+
+3.2  Project Evaluation and Selection Process 
+
+Social Objective of Issuer  
+In  support  of  NAFIN’s  Mission,  NAFIN’s  objectives  include  increasing  access  to  financing  as  well  as 
+improving  productivity.  In  line  with  this  objective,  NAFIN  has  social  lending  programmes  that  aim  to 
+increase access to finance to underserved populations like women, youth, entrepreneurs, etc.  Such social 
+lending programmes and their associated targeted populations are described in Table 1 in section 3.1. 
+ 
+Application of Social Objectives in Programme Selection 
+The  NAFIN  Treasury  team  will  work  with  its  Microcredit  Division  team  and  its  network  of  financial 
+intermediaries to select existing and future NAFIN programmes that align with (i) NAFIN’s Mandate and  
+(ii) NAFIN’s Social Objectives outlined above in Section 3.1. 
+ 
+NAFIN has developed a two-step approach to evaluating programmes for eligibility against NAFIN’s Social 
+Objectives: 
+
+1.  Relevant Business Units are responsible for screening and selection of programmes to ensure that 
+
+programmes will create positive social impact for targeted disadvantaged populations; 
+
+2.  NAFIN’s Treasury team oversees the Social Bond issuances and is responsible for the approval of 
+the programmes to be admitted for the Use of Proceeds in accordance with the Social Objectives. 
+ 
+
+Risk Mitigation 
+NAFIN selects financial intermediaries on the basis of: verification of portfolio management capacities, 
+quarterly  credit  risk  rating  and  periodic  supervision  at  least  annually.  Furthermore,  NAFIN  promotes 
+responsible lending practices  by requiring all intermediaries to regularly  report loans disbursed to  the 
+
+ 
+ 
+
+7 
+
+© Sustainalytics 2017 
+
+credit  bureau  in  order  to  pre-empt  and  mitigate  the  risk  of  over-indebtedness  among  microfinance 
+borrowers. 
+ 
+ 
+
+3.3        Management of Proceeds 
+Net proceeds from the bond will be allocated prior to the bond maturity date within NAFIN’s treasury 
+liquidity portfolio and shall be used to fund, in whole or in part, the investments in Eligible Programmes 
+that meet the Social Objectives stated in Section 3.1. Pending such disbursements, the net proceeds from 
+the bond may be used for overnight investments and lending purposes, as well as in cash or other liquid 
+marketable instruments. 
+ 
+While any NAFIN Social Bond is outstanding, the NAFIN’s Treasury team will maintain internal records to 
+show the allocation of the net proceeds to lending in alignment with the NAFIN Social Bond Framework. 
+These records will be regularly updated until full allocation of the net proceeds. 
+ 
+Payment of principal and interest on NAFIN Social Bonds will be made from NAFIN’s general funds and 
+will not be directly linked to the performance of any loans. 
+ 
+Tracking 
+To track the compliance of borrowers, NAFIN has an internal area of supervision. Overall data on social 
+programmes  is  also  tracked  and  disclosed,  including  the  type  of  programme,  the  amount  of  credit  or 
+microcredit distributed and number of loans. The Financial Intermediaries and Microcredit Division will 
+provide the Treasury Department information on the amount of disbursements made by the Financial 
+Intermediaries to Eligible Programmes.  
+ 
+NAFIN reports on such disbursements internally on a regular basis. Eligible Programmes means financing 
+of, and/or investments in projects meeting the Social Objectives: committed after or before the issuance 
+of the bond, but funded or disbursed after the issuance of the bond, and/or funded or disbursed during 
+previous financial year. 
+ 
+
+ 
+
+ 
+ 
+
+8 
+
+© Sustainalytics 2017 
+
+3.4    Reporting 
+
+Allocation Reporting 
+Within one year of issuing a  NAFIN Social  Bond, NAFIN  will publish a  NAFIN  Social Bond Report on its 
+investor  relations  website 
+(http://www.nafin.com/portalnf/content/piso-financiero/relacion-con-
+inversionistas/).  The  NAFIN  Social  Bond  Report  will  be  updated  annually  until  full  allocation  and  as 
+necessary thereafter in the event of new developments. 
+ 
+NAFIN’s Social Bond Report will contain at a minimum:  
+
+i. 
+
+ii. 
+
+iii. 
+
+iv. 
+v. 
+
+Confirmation that the use of proceeds of each NAFIN Social Bond complies with the NAFIN Social 
+Bond Framework; 
+A list of NAFIN programmes financed, in whole or in part, by net proceeds of the NAFIN Social 
+Bond; 
+The amount of net proceeds allocated to each NAFIN Programmes financed, in whole or in part, 
+by net proceeds of the NAFIN Social Bond; 
+The balance amount of unallocated net proceeds; 
+Impact reporting elements as outlined below. 
+
+ 
+Impact Reporting 
+Where  feasible,  the  NAFIN  Social  Bond  Report  will  include  qualitative  and  (if  reasonably  practicable) 
+quantitative environmental and social performance indicators on the Eligible Programmes. Performance 
+indicators may change from year to year.  
+ 
+Impact reporting may include some of the following information:  
+
+i. 
+ii. 
+
+iii. 
+
+loans  granted  to 
+
+Number of microfinance loans granted; 
+Number  of 
+improvement technologies. 
+Amount of credit or microcredit distributed. 
+ 
+ 
+
+low-income  households  for 
+
+installations  of  sustainability 
+
+3.5  Compliance Review 
+Before  the  first  anniversary  of  the  Social  Bond  issuance,  NAFIN  will  engage  Sustainalytics  (or  another 
+qualified third party) to review the lending financed by  each NAFIN Social Bond in order to assess the 
+compliance of the lending with the NAFIN Social Bond Framework. This review will be conducted annually 
+until full allocation of the net proceeds from the NAFIN Social Bond. Sustainalytics will provide a report of 
+the review, which NAFIN will publish on its investor relations website. In an unlikely event that the annual 
+review identifies allocations made to activities that do not comply with the NAFIN Social Bond Framework, 
+NAFIN will allocate the corresponding amounts to different lending activities that are compliant with the 
+NAFIN Social Bond Framework. 
+ 
+ 
+
+ 
+ 
+
+9 
+
+© Sustainalytics 2017 
+
+4. SUSTAINALYTICS’ OPINION 
+ 
+Section 1: NAFIN’s Mandate and Contribution to National Goals 
+ 
+Sustainalytics  believes  that,  as  a  state  financing  agency,  NAFIN  is  well  positioned  to  facilitate  the 
+achievement of national goals defined in the National Development Plan and the National Program for 
+Financing Development.  
+ 
+In support of NAFIN’s mission, NAFIN’s objectives include: (i) increasing access to financing under better 
+conditions (such as affordable credit) as well as other business services to MSMEs and entrepreneurs with 
+a focus on improving their productivity, and (ii) promoting the regional and sectoral development of the 
+country through a differentiated supply of products, individually or with other intermediaries. 
+ 
+Additionally, as a Mexican state development bank, NAFIN has a mandate to ensure that its programs are 
+aligned  with  the  objectives,  strategies  and  lines  of  action  defined  in  the  National  Development  Plan. 
+Mexico’s National Development Plan 2013-20187 establishes goals and policy actions that aim to boost 
+the country’s economic growth and social development. 
+ 
+The National Program for Financing Development 2013-20188 has developed objectives that correspond 
+to the National Development Plan in order to facilitate access to financial services in strategic sectors. The 
+National  Program  promotes  schemes  that  allow  greater  financial  inclusion  in  populations  facing 
+constraints in accessing credit and other financial services. Particular emphasis is placed on programs that 
+increase  productivity,  promote  the  growth  of  MSMEs,  address  gender  gaps,  and  develop  support 
+programs for those affected by natural disasters. 
+ 
+Sustainalytics is of the opinion that NAFIN’s Social Bonds are aligned to both the objectives of the National 
+Development Plan as well as the National Program for Financing Development. Through its Social Bonds, 
+NAFIN will allocate proceeds in alignment with the National Development Plan which include strategies 
+to improve access to finance for a greater number of individuals and companies in Mexico, in particular 
+for underserved populations (Strategy 4.2.2), and encourage entrepreneurs and strengthen micro, small 
+and medium enterprises (MSMEs) (Strategy 4.8.4). NAFIN’s  Social Bond  proceeds will also align to the 
+National Program for Financing Development Plan to facilitate financial inclusion by focusing on strategic 
+sectors and populations. Through NAFIN’s Social Bond proceeds, the organization will further its mandate 
+and promote financial inclusion in Mexico. 
+ 
+
+ 
+
+ 
+7 National Development Plan 2013 -2018, http://pnd.gob.mx/wp-content/uploads/2013/05/PND.pdf  
+8 National Program for Financing Development 2013-2018, http://pnd.gob.mx/wp-content/uploads/2013/05/PND.pdf  
+
+ 
+ 
+
+10 
+
+© Sustainalytics 2017 
+
+Section 2: Social Impacts from Use of Proceeds 
+ 
+Progress achieved through increasing access to finance in Mexico: 
+The International Monetary Fund’s (IMF) Assessment of Financial System Stability in Mexico found that 
+credit to the private sector is low, new loan origination by commercial banks has remained sluggish, and 
+long-term financing is scarce.9 Though bank loans are a traditional source of financing for MSMEs, lending 
+activity is very limited in Mexico. The country has fewer loans outstanding than Brazil and other Latin 
+American peers. At 33 percent of GDP, Mexico‘s lending places it behind Ethiopia, a nation with much 
+lower GDP per capita.10 
+ 
+However,  over  the  last  couple  of  years,  significant  progress  has  been  achieved  by  the  Mexican 
+Government to develop a number of initiatives to support entrepreneurs and strengthen MSME access 
+to finance in particular, including programmes to promote youth and female entrepreneurship.11 This is 
+apparent in the increase in number of SMEs obtaining a bank loan, which has increased from 248,000 in 
+2009 to 316,000 in 2014 with a corresponding increase in the average loan amounts.12  
+ 
+By  extending  access  to  finance  to  support  MSMEs  in  Mexico,  it  has  become  possible  to  develop 
+programmes  that  leverage  credit  in  sectors  that  have  until  recently  been  disregarded,  such  as  the 
+construction  industry,  travel  agencies,  real  estate  development  SMEs,  rural  tourism  SMEs,  small 
+contributors, and government-supplier SMEs, amongst others.13  
+ 
+Sustainalytics is of the opinion that development banks, such as NAFIN, play an important role in fostering 
+financial inclusion to ensure inclusive economic and social development within countries.  
+ 
+Importance of MSME financing in Mexico: 
+The  OECD  states  that  financing  microenterprises  in  developing  countries  can  serve  to  promote  equal 
+opportunities for women and men as participants and beneficiaries of development.14 A study conducted 
+by the Women’s World Banking (WWB) estimates that there is a market of approximately 2-2.5 million 
+microentrepreneurs who are unserved by individual lending and reaching these microentrepreneurs with 
+appropriate  products  would  expand  the  local  microfinance  market  and  meet  the  business  needs  of 
+microentrepreneurs.15  
+  
+Additionally, SMEs play a strategic role within the Mexican economy. According to the National Survey 
+Productivity and Competitiveness for Micro, Small and Medium Enterprises (ENAPROCE), conducted in 
+
+ 
+9 IMF, Financial System Stability Assessment, https://www.imf.org/external/pubs/ft/scr/2016/cr16361.pdf  
+10 Mckinsey & Company, 
+
+http://www.mckinsey.com/~/media/McKinsey/Global%20Themes/Americas/A%20tale%20of%20two%20Mexicos/MGI_Mexico_Full_rep
+ort_March_2014.ashx 
+
+11 OECD, Mexico, Key facts on SME financing, http://www.oecd.org/cfe/smes/financing-smes-and-entrepreneurs-23065265.htm 
+12 OECD, Mexico, Key facts on SME financing, http://www.oecd.org/cfe/smes/financing-smes-and-entrepreneurs-23065265.htm 
+13 OECD, Mexico, Key facts on SME financing, http://www.oecd.org/cfe/smes/financing-smes-and-entrepreneurs-23065265.htm 
+14 OECD, Micro-enterprise Development, http://www.oecd.org/social/gender-development/1896448.pdf  
+15 Women’s World Banking, Individual Lending to Microenterprises in Mexico, https://www.womensworldbanking.org/wp-
+
+content/uploads/2014/10/WomensWorldBanking-Microenterprise-Individual-Lending-Mexico.pdf  
+
+ 
+ 
+
+11 
+
+© Sustainalytics 2017 
+
+2015  by  the  National  Institute  of  Statistics  and  Geography  (INEGI),  Mexico  had  4  million  SMEs  which 
+accounted for 99.7% of all private companies and represented 62.6% of private-sector employment and 
+35.2% of national total gross production.16 
+ 
+According to a report by Mckinsey Global Institute, in order for Mexico to increase GDP growth and living 
+standards, the country needs to focus on increasing productivity in traditional enterprises and creating 
+opportunities  for  successful  ones  to  grow  into  modern,  formal  SMEs.  As  per  the  report,  the  largest 
+companies in Mexico are raising productivity by an impressive 5.8% a year, while the productivity of small, 
+slow-growing  enterprises  is  falling  by  6.5%  a  year.17  In  order  to  achieve  growth  of  SMEs  and  expand 
+employment in the modern sector, Mexico needs to improve access to capital.18  
+ 
+MSME entrepreneurs face stringent conditions when accessing capital such as higher interest rates for 
+bank credit and higher hurdles in attracting alternative sources of finance.19 The Mexican Government has 
+promoted specific programs and mandated development banks, such as NAFIN, to devote considerable 
+resources in order to address the issue of MSME financing. As such, Sustainalytics is of the opinion that a 
+key positive social impact of financing MSMEs in Mexico is the creation and preservation of jobs that will 
+strengthen competitiveness and productivity within the country and lead to inclusive growth. 
+ 
+Importance of financing women entrepreneurs in Mexico: 
+Several studies indicate that  when more women work,  economies grow. An increase in female  labour 
+force  participation, or a reduction in the gap between  women’s and men’s labour force  participation, 
+results in global economic growth and a rise in global economic output by 26%, with the highest boost in 
+the Latin American region.20 
+ 
+In Mexico, women currently represent only a small fraction of the business sector: 16% in 2016, receiving 
+an average salary 16% lower than that of their male counterparts. Furthermore, in 2013, 19% of Mexican 
+entrepreneurs  were  women,  25%  of  which  owned  a  micro  company,  60%  a  small  company,  12%  a 
+medium-sized company and only 3% owned a large one.21 According to a 2013 study by the Inter-American 
+Development Bank, Mexico ranked fourth among Latin American and Caribbean countries in supporting 
+the  creation  of  micro,  small,  and  medium-sized  companies  run  by  women,  scoring  60.2/100  on  the  
+Women’s Entrepreneurial Venture Scope Index.22 
+ 
+Mexico’s efforts to improve gender equality can be seen in the many institutions and programmes it has 
+created  aimed  at  female  empowerment.  The  National  Program  for  Equal  Opportunities  and  Non-
+
+ 
+16 OECD, Mexico, Key facts on SME financing, http://www.oecd.org/cfe/smes/financing-smes-and-entrepreneurs-23065265.htm 
+17 Mckinsey & Company, http://www.mckinsey.com/global-themes/americas/a-tale-of-two-mexicos  
+18 Mckinsey & Company, http://www.mckinsey.com/global-themes/americas/a-tale-of-two-mexicos 
+19 OECD, Financing SMEs and Entrepreneurs, http://www.oecd.org/cfe/smes/financing-smes-and-entrepreneurs-23065265.htm  
+20 UN Women, Facts and Figures, http://www.unwomen.org/en/what-we-do/economic-empowerment/facts-and-figures#notes  and 
+Forbes, A U.S.-Mexico Women's Business Council, https://www.forbes.com/sites/themexicoinstitute/2017/06/12/a-u-s-mexico-womens-
+
+business-council-lets-get-women-to-drive-the-bilateral-relationship/#25f3cc105726  
+
+21 Wilson Center, Mexico Institute,  
+
+https://www.wilsoncenter.org/article/us-mexico-womens-business-council-lets-get-women-to-drive-the-bilateral-relationship  
+
+22 The Economist Intelligence Unit,  
+
+http://www.expeditionpr.com/wp-content/uploads/2013/08/Womens_Entrepreneurial_Venture_Scope_2013.pdf  
+
+12 
+
+ 
+ 
+
+© Sustainalytics 2017 
+
+Discrimination  against  Women  2013-2018  (PROIGUALDAD),  which  aims  to  comply  with  the  National 
+Development Plan, establishes as one of its objectives the promotion of women's access to paid work, 
+decent employment and productive resources, within a framework of equality. To this end, it includes 
+among its lines of action the following: 
+
+  3.3.3. Facilitate access to financing and capital for entrepreneurs; 
+  3.3.5. Consolidate productive projects of women in micro, small and medium enterprises; 
+  3.3.7. Facilitate women's access to credit and funds that promote their entrepreneurial potential. 
+
+ 
+Sustainalytics  is  of  the  opinion  that  NAFIN’s  emphasis  on  improving  access  to  capital  for  women 
+entrepreneurs through the Social Bond will contribute towards reducing Mexico’s gender gap, boosting 
+the economy through increased productivity and empowering women. 
+ 
+Importance of financing sustainable improvements in housing for low-income households  
+Energy efficiency in low-income households serves as a dual purpose of reducing monthly costs for the 
+beneficiary  as  well  as  contributing  to  Mexico’s  priorities  to  improve  energy  efficiency  of  residential 
+buildings.  
+ 
+Low-income households tend to use inefficient appliances, heating and cooling systems, which lead to 
+higher  energy  and  gas  bills  and  a  disproportionate  amount  of  their  income  is  used  to  pay  such  bills. 
+Additionally, high energy  costs  and poor housing quality  are known to contribute to health problems. 
+Poorly heated or cooled homes contribute to asthma, respiratory problems, heart disease, arthritis, and 
+rheumatism.23  Families  struggling  to  pay  energy  bills  may  sacrifice  nutrition,  medicine  and  other 
+necessities, which compound the effects of inequality. As such, expanding energy efficiency programs to 
+targeted populations in Mexico will lead to cost savings for those most in need, reducing their energy 
+burden. 
+ 
+The  Mexican  government  has  initiated  a  wide  range  of  programmes  aimed  at  improving  the  energy 
+efficiency of residential buildings. The goal of the Mexican Sustainable Housing Nationally Appropriate 
+Mitigation  Action  (NAMA)  is  to  promote  cost  effective  energy-efficient  building  concepts  across  the 
+residential  housing  sector,  with  a  particular  focus on  low-income  housing,  where  significant  growth  is 
+expected.24 NAFIN works closely with the National Housing Commission (CONAVI) and the Electric Energy 
+Savings Trust (FIDE) to provide assistance to low-income households in order to install energy efficiency 
+solutions in Mexico.  
+ 
+Sustainalytics is of the opinion that such assistance will lead to greater cost-savings and a reduced energy 
+burden for low-income households who are currently underserved in Mexico. 
+ 
+Advancement of U.N. Sustainable Development Goals: 
+NAFIN’s Social Bond will also contribute to the United Nations Sustainable Development Goals (SDG), with 
+a particular focus on the following: 
+
+ 
+23 NRDC, https://www.nrdc.org/experts/khalil-shahyd/study-highlights-energy-burden-households-and-how-energy-efficiency-can-help  
+24 CONAVI, SEMARNAT, GIZ, 
+
+http://climate.blue/download/biblioteca_pronama/nama_vivienda_nueva/nama_vivienda_nueva_financiamiento/GIZ%202011%20Supp
+orted%20NAMA%20for%20Sustainable%20Housing.pdf  
+
+13 
+
+ 
+ 
+
+© Sustainalytics 2017 
+
+ 
+SDG 1: End poverty in all its forms everywhere  
+
+- 
+
+Target 1.4: By 2030, ensure that all men and women, in particular the poor and the vulnerable, 
+have equal rights to economic resources, as well as access to basic services, ownership and control 
+over  land  and  other  forms  of  property,  inheritance,  natural  resources,  appropriate  new 
+technology and financial services, including microfinance 
+
+ 
+SDG 4: Ensure inclusive and equitable quality education and promote lifelong learning opportunities for 
+all 
+
+- 
+
+Target 4.4: By 2030, substantially increase the number of youth and adults who have relevant 
+skills, including technical and vocational skills, for employment, decent jobs and entrepreneurship 
+
+ 
+SDG 5: Achieve gender equality and empower all women and girls  
+
+- 
+
+Target  5.A:  Undertake  reforms  to  give  women  equal  rights  to  economic  resources,  as  well  as 
+access  to  ownership  and  control  over  land  and  other  forms  of  property,  financial  services, 
+inheritance and natural resources, in accordance with national laws 
+
+ 
+SDG 8: Promote sustained, inclusive and sustainable economic growth, full and productive employment 
+and decent work for all 
+
+- 
+
+Target 8.3:Promote development-oriented policies that support productive activities, decent job 
+creation,  entrepreneurship,  creativity  and  innovation,  and  encourage  the  formalization  and 
+growth  of  micro-,  small-  and  medium-sized  enterprises,  including  through  access  to  financial 
+services 
+
+-  By 2020, substantially reduce the proportion of youth not in employment, education or training 
+
+ 
+ 
+ 
+Alignment with Social Bond Principles 2017:  
+Sustainalytics has determined that NAFIN’s Social Bond Framework is aligned with the four pillars of the 
+Social Bond Principles 2017.25 For detailed information please refer to Appendix 3: Social Bond Programme 
+External Review Form. 
+ 
+
+Conclusion 
+In Sustainalytics’ opinion, NAFIN’s Social Bond Framework is closely aligned with its mandate to contribute 
+to inclusive and sustainable economic development of the country. Social impacts facilitated by NAFIN’s 
+lending activities will contribute to advancing Mexico’s development priorities as well as the Sustainable 
+Development Goals. Sustainalytics is also of the opinion that NAFIN’s Social Bond Framework aligns with 
+the ICMA’s Social Bond Principles 2017 given both the nature of the eligibility criteria for programmes and 
+the targeted populations served. Proceeds from the Social Bonds will have a positive impact on vulnerable 
+populations by supporting underserved populations including women, MSMEs, and low-income housing 
+
+ 
+25 The Social Bond Principles 2017: https://www.icmagroup.org/assets/documents/Regulatory/Green-Bonds/SocialBondsBrochure-
+
+JUNE2017.pdf  
+
+14 
+
+ 
+ 
+
+© Sustainalytics 2017 
+
+in Mexico. Based on the points above, Sustainalytics is of the opinion that NAFIN’s Social Bond Framework 
+is robust, credible and transparent and that the use of proceeds will have positive social outcomes. 
+
+ 
+ 
+
+15 
+
+APPENDIX 1 
+
+NAFIN’s Definition of MSMEs 
+
+ 
+
+Size 
+
+Micro 
+
+Small 
+
+Medium 
+
+ 
+ 
+ 
+ 
+
+Industry 
+
+Number of employees 
+
+Annual sales 
+
+Max. weighted score26 
+
+manufacturing, trade and 
+services 
+Trade 
+manufacturing and services 
+Trade 
+Services 
+manufacturing 
+
+(Ps. in millions) 
+
+Up to 10 
+
+4 or less 
+
+11 to 30 
+11 to 50 
+31 to 100 
+51 to 100 
+51 to 250 
+
+4.01 to 100 
+4.01 to 100 
+
+100.01 to 250 
+100.01 to 250 
+100.01 to 250 
+
+5 
+
+93 
+95 
+235 
+235 
+250 
+
+ 
+
+ 
+26 Obtained through the following formula: 0.1 x (number of employees) + 0.9 x (annual sales). Enterprises are considered micro, small or 
+
+medium, as the case may be, if their maximum weighted score falls within the abovementioned limits. 
+
+© Sustainalytics 2017 
+
+SUSTAINALYTICS 
+ 
+Sustainalytics  is  an  independent  ESG  and  corporate  governance  research,  ratings  and  analysis  firm 
+supporting  investors  around  the  world  with  the  development  and  implementation  of  responsible 
+investment  strategies. With 13 offices globally, Sustainalytics partners with institutional investors who 
+integrate  environmental,  social  and  governance  information  and  assessments  into  their  investment 
+processes.  Today,  the  firm  has  more  than  300  staff  members,  including  170  analysts  with  varied 
+multidisciplinary  expertise  of  more  than  40  sectors.  Through  the  IRRI  survey,  investors  selected 
+Sustainalytics as the best independent responsible investment research firm for three consecutive years, 
+2012 through 2014 and in 2015, Sustainalytics was named among the top three firms for both ESG and 
+Corporate Governance research. The firm was also named the Best SRI or Green Bond Research Firm by 
+Global Capital in 2015. For more information, visit www.sustainalytics.com  
+ 
+ 
+Sustainalytics 
+info@sustainalytics.com  
+www.sustainalytics.com  
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+23 
+
+

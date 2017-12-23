@@ -1,0 +1,656 @@
+ 
+ 
+
+MEXICO CITY AIRPORT 
+
+TRUST  
+
+GREEN BOND  
+
+ 
+
+ 
+
+SECOND OPINION BY SUSTAINALYTICS 
+
+ 
+
+September 6, 2016 
+
+ 
+ 
+  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+September 6, 2016 
+
+Vikram Puppala 
+
+Charlotte Peyraud 
+
+Associate Director, Advisory Services  
+Vikram.puppala@sustainalytics.com 
+(+1) 647 317 3694 
+
+ 
+
+Senior Advisor, Institutional Relations  
+
+Charlotte.peyraud@sustainalytics.com 
+
+(+1) 646 518 0184  
+
+ 
+ 
+
+ 
+ 
+
+Vikram Puppala  
+
+Vikram Puppala  
+
+www.sustainalytics.com 
+PUBLIC 
+ 
+www.sustainalytics.com 
+ 
+www.sustainalytics.com 
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+© Sustainalytics 2016 
+
+TABLE OF CONTENTS 
+
+1. 
+
+INTRODUCTION 
+
+2.  SUSTAINALYTICS’ OPINION 
+
+APPENDICES 
+
+SUSTAINALYTICS 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+
+PUBLIC 
+ 
+
+3 
+
+4 
+
+10 
+
+17 
+
+2 
+
+© Sustainalytics 2016 
+
+1. INTRODUCTION 
+ 
+Grupo  Aeropuertario  de  la  Ciudad  de  México  (GACM)  is  wholly-owned  by  the  Mexican  Ministry  of 
+Communications and Transportation (Secretaría de Comunicaciones y Transportes). GACM is the project 
+sponsor  that  holds  the  concession  to  build,  develop,  operate,  and  manage  the  new  Mexico  City 
+International Airport (Spanish acronym ‘NAICM’). NAICM will be located in the municipalities of Atenco, 
+Ecatepec de Morelos and Texcoco in the State of Mexico. GACM is also the parent company of Aeropuerto 
+Internacional de la Ciudad de México, S.A. de C.V. (AICM), the sponsor of the existing airport in Mexico 
+City (Benito Juárez International Airport).  
+ 
+GACM  intends  to  issue,  through  the  Mexico  City  Airport  Trust  (a  special  purpose  trust  established  to 
+finance the development of NAICM), a Green Bond to fund certain environmentally beneficial projects 
+associated with the design, construction, development, and operation of NAICM in accordance with its 
+NAICM Green Bond Framework, which it has published in a separate document. 
+ 
+GACM  has  engaged  Sustainalytics  to  provide  a  second-party  opinion  on  the  NAICM  Green  Bond 
+Framework.  As  part  of  this  engagement  process,  Sustainalytics  held  conversations  with  various  teams 
+involved  in  the  development  and  financing  of  NAICM,  including  the  GACM  Treasury  and  the  NAICM 
+project management team from Parsons Corporation. These conversations clarified the use of proceeds, 
+management of proceeds and reporting aspects of the Green Bond as well as the sustainability strategy 
+of NAICM. Sustainalytics also reviewed relevant public documents and non-public documents relating to 
+the  design,  planning,  governance  and  construction  of  NAICM  and  provided  its  opinion  on  the  NAICM 
+Green  Bond  Framework.  This  document  contains  Sustainalytics’  Opinion  on  the  NAICM  Green  Bond 
+Framework and should be read in conjunction with that framework.  
+ 
+
+ 
+
+PUBLIC 
+ 
+
+3 
+
+© Sustainalytics 2016 
+
+2. SUSTAINALYTICS’ OPINION 
+ 
+Economic and Environmental Context of Airports 
+NAICM will be located on a 4,431-hectare site in the municipalities of Atenco, Ecatepec de Morelos and 
+Texcoco in the State of Mexico, approximately 7.6 miles from downtown Mexico City and only 3.1 miles 
+northeast  of the  existing airport.   NAICM  is expected to be  connected to the surrounding region  by  a 
+transportation network that includes a subway line, a dedicated bus lane, a bus terminal and access roads 
+linking major highways.  
+ 
+With  over  38  million  passengers  in  20151  and  increasing  concentration  of  national  freight  flights  and 
+passenger traffic from all over the world, Mexico City’s current airport is one of the most highly transited 
+airports in Latin America. As a result of increasing traffic in the past two decades, the airport’s capacity 
+has become insufficient to keep pace with the country’s rate development. NAICM is expected to be one 
+of  the  largest  airports  in  Latin  America  in  terms  of  passenger  traffic,  with  an  initial  capacity  of 
+approximately 57 million annual passengers during its initial phase of operations and approximately 125 
+million annual passengers by 20652. Therefore, NAICM is expected to play an important role in Mexico’s 
+economic development. 
+ 
+Sustainalytics recognizes that although airports can drive national, regional, and global economic growth, 
+their operation inevitably has a number of negative environmental impacts. According to the David Suzuki 
+Foundation, the aviation industry accounts for 4-9% of total climate change impact of human activity.3 
+Airports contribute to this number indirectly, through contributing to the growth of air travel and traffic, 
+and directly, through their own operations. While discussing the negative impacts of aviation broadly is 
+beyond the scope of this Opinion on the NAICM framework, the negative impact caused by the operation 
+of airports are detailed below.  Operational impacts from airports include emissions of greenhouse gases 
+(GHGs),  air  pollution,  disruption  of  biodiversity,  water  pollution  and  safe  disposal  of  wastewater,  and 
+challenges in sustainable and efficient use of water.  
+ 
+GHG emissions from airports are caused by the use of heat and electricity by terminal buildings, the use 
+of airport vehicles and ground support equipment, and aircrafts and surrounding air traffic. Airports are 
+also criticized for the release of harmful air pollutants through their operations such as combustion of 
+aviation  fuel,  and  aircraft de-icing  and  cleaning.  Additionally,  airports  can  in  some  cases  cause  loss of 
+agricultural land or the disruption of plant and animal habitat in surrounding areas if built on previously 
+arable or forested land. Furthermore, water pollution and the safe disposal of wastewater are important 
+environmental challenges for airports. Airports are a large source of wastewater from construction and 
+rainwater  run-off,  de-icing  of  planes,  and  other  chemical  heavy  aircraft  operations.  Wastewater  from 
+airports typically requires substantial treatment before disposal, and can cause significant water pollution. 
+Sustainable and efficient use of water for operation such as construction, cement mixing, and for use in 
+
+ 
+1 http://www.aeropuertosdelmundo.com.ar/americadelnorte/mexico/aeropuertos/mexico-df.php 
+2 http://www.aeropuerto.gob.mx/documentos/infonaicmok.pdf; Latest estimates from GACM as of September 1, 2016. 
+3 David Suzuki Foundation, http://www.davidsuzuki.org/issues/climate-change/science/climate-change-basics/air-travel-and-climate-change/  
+ 
+
+4 
+
+PUBLIC 
+ 
+
+© Sustainalytics 2016 
+
+airport buildings also presents a challenge.4 Airports also have significant indirect negative environmental 
+impacts. For example, NAICM is expected to result in higher emissions due to increased car traffic:  the 
+Mexican government expects an increase in car traffic of 84% compared to traffic levels caused by the 
+current airport.5 
+ 
+GACM’s Green Bond Framework is designed to mitigate a number of these concerns. Within the context 
+of the economic need for the airport, Sustainalytics is of the opinion that GACM’s strong management 
+practices and the framework’s use-of-proceeds criteria make the NAICM Green Bond Framework credible 
+and impactful. 
+ 
+GACM’s Environmental Commitment 
+Two ways in which GACM demonstrates a strong environmental commitment is by (i) assuring continuous 
+monitoring, registration, and evaluation of environmental impacts of the NAICM project, as required by 
+SEMARNAT, and (ii) applying international best practice standards in the development of NAICM.  
+ 
+The  project  received  a  green  light  from  the  Mexican  Ministry  of  Environment  and  Natural  Resources 
+(SEMARNAT6) after GACM submitted an environmental impact assessment7 for the NAICM project, and 
+established the necessary structure to comply with all SEMARNAT’s requirements, such as creating an 
+Environmental Surveillance Committee (Comité de Vigilancia Ambiental8) responsible for the monitoring 
+and evaluation of environmental impacts, as further explained in Section 4 reporting of Appendix B below.  
+Another condition of SEMARNAT’s approval of the NAICM environmental impact assessments was the 
+establishment of a Plan for Monitoring, Registration and Verification of greenhouse gas emissions, and 
+the requirement that GACM demonstrate that it has established a carbon neutral footprint for NAICM by 
+reducing its electricity consumption by 40% and using clean energy sources. 
+ 
+With  respect  to  GACM  applying  international  best  practice  standards  in  the  development  of  NAICM, 
+Sustainalytics has reviewed the reports of an independent consultant that confirms the NAICM project’s 
+compliance with the Equator Principles.9  These are financial sector guidelines used to identify, assess and 
+manage  the  environmental  and  social  risks  of  projects.  The  project  also  complies  with  the  Policy  and 
+Performance  Standards  on  Environmental  and  Social  Sustainability  of  the  International  Finance 
+Corporation (IFC).10 
+ 
+Furthermore, GACM has established all the relevant committees and technical teams for environmental 
+assessments  to  meet  all  requirements  and  guidelines  of  national  agencies  (SEMARNAT,  SENER11  and 
+
+ 
+4 Aviation Environment Federation, http://www.aef.org.uk/uploads/PlanningGuide2.pdf ; Federal Aviation Administration’s Airport 
+
+Environmental Program, http://www.faa.gov/airports/environmental/  
+
+5 Car traffic levels are expected to increase from 322,000 cars (traffic levels caused by the current airport in 2014) to 593,000 cars (traffic levels 
+
+caused by NAICM and facilities in 2020).  
+
+6 http://www.gob.mx/semarnat 
+7 http://www.aeropuerto.gob.mx/documentos/15em2014v004411.pdf 
+8 http://eleconomista.com.mx/industrias/2015/12/06/instauran-comite-vigilancia-ambiental-naicm 
+9 http://www.equator-principles.com/resources/equator_principles_III.pdf 
+10 http://www.ifc.org/wps/wcm/connect/115482804a0255db96fbffd1a5d13d27/PS_English_2012_Full-Document.pdf?MOD=AJPERES 
+11 http://www.gob.mx/sener 
+ 
+
+5 
+
+PUBLIC 
+ 
+
+© Sustainalytics 2016 
+
+STyPS12) and international standards. For example, in order to meet all its SEMARNAT measurement and 
+reporting commitments, GACM has an internal Sustainability team and has engaged internal and external 
+experts such as Mexico’s Instituto Politécnico Nacional (IPN), as further described in Section 4 of Appendix 
+B.  
+ 
+GACM’s Social and Transparency Commitment 
+In Sustainalytics’ view, GACM is an organization with a strong commitment to social and transparency. 
+GACM has established robust and transparent public procurement processes.  
+ 
+For example, GACM has also established a transparency unit13 whose mission is to ensure that relevant 
+information is disclosed on GACM’s website  in a timely manner,  including engineering and third-party 
+technical  reports  as  well  as  easily  accessible  information  on  the  infrastructure  plans,  procurement 
+process, environmental assessments and the organization’s teams and governance structure.  
+ 
+The plan to build a new international airport terminal in Mexico City has faced social protests, including a 
+significant episode of violence in 2006 against the people of San Salvador Atenco and the opposition group 
+called the People's Front in Defense of the Land, or FPDT in Spanish. A report from the National Human 
+Rights Commission stated that the police had used excessive force, made over a hundred arbitrary arrests 
+and violated protesters’ human rights14. Currently environmentalists and community leaders in the town 
+still claim that a lack of transparency on the part of the government could jeopardize local residents and 
+vast tracts of wetlands on the outskirts of Mexico City. 
+ 
+In  2015,  The  Government  of  Mexico  called  on  the  OECD  to  assist  GACM  to  deliver on  its mandate  to 
+manage the construction of the new airport. In responding to this request, the OECD brought together 
+practices  and  expertise  on  the  governance  of  infrastructure  projects,  public  procurement,  integrity 
+frameworks  and  the  related  communication  strategies15.  The  project’s  socials  risks  are  managed  or 
+mitigated through the implementation of several mechanisms required by the Equator Principles, such as 
+the  disclosure  of  extensive  project-related  information,  the  stakeholder  engagement  process  on  key 
+issues (e.g. communal land grabbing), and the availability of risk and impact assessment documentation 
+on a dedicated website.  
+ 
+In  Sustainalytics’  view,  GACM  has  taken  significant  steps  to  understand  and  mitigate  the  negative 
+environmental impact of construction and operation of NAICM and has a robust and transparent process 
+in place for the development of the NAICM project. Thus, GACM is well positioned to issue a green bond.  
+ 
+Impact of Use of Proceeds  
+Sustainalytics is of the opinion that GACM’s eligibility criteria contribute to mitigating the specific negative 
+impacts of airport construction and operation, as described in the ‘Economic and Environmental Context 
+of  Airports’  section  above.  The  LEED-certified  buildings  and  climate  change  mitigation  projects  (as 
+described below) will reduce GHG emissions from airport buildings, mitigating the risk of water pollution 
+ 
+12 http://www.gob.mx/stps/ 
+13 http://www.aeropuerto.gob.mx/gacm/comite-de-informacion.php 
+14 http://www2.ohchr.org/english/bodies/cat/docs/ngos/omct.pdf 
+15 http://www.oecd.org/governance/ethics/Full-Mexico-Airport.pdf 
+
+6 
+
+PUBLIC 
+ 
+
+© Sustainalytics 2016 
+
+through more  efficient  wastewater  management  while  concurrently  promoting  the  sustainable  use  of 
+water and conserving the biodiversity of surrounding land. The new airport facilities will have an overall 
+lower carbon footprint than the existing airport it replaces. The sections below describe the impact of the 
+use of proceeds in detail.  
+ 
+LEEDV4 Certified Buildings 
+Energy  efficient  buildings  are  explicitly  recognized  by  the  Green  Bond  Principles  as  offering  clear 
+environmental benefits. Buildings are a significant contributor to GHG emissions. For example, in the U.S., 
+buildings account for 38% of all carbon dioxide emissions, 73% of all national electricity consumption, and 
+13.6% of all potable water consumption. Improving their energy efficiency is a robust way to mitigate the 
+effects  of  climate  change.  LEED  certification  is  an  independent  verification  of  a  building’s  energy  and 
+resource efficiency; for example, LEED Gold certified buildings can generate up to 34% less GHG emissions 
+than the average commercial building. 
+ 
+Based  on  LEED  trackers  and  other  LEED  strategy  and  commissioning  documents  reviewed  by 
+Sustainalytics,  the  NAICM  passenger  terminal  is  registered  and  on  track  to  achieve  LEEDv4  Platinum 
+certification.  Furthermore,  both  the  Air  Traffic  Control  Center  and  the  Ground  Transportation  Center 
+buildings are on track to achieve LEEDv4 Gold Certification. As a part of the LEED certification strategy, 
+robust targets have been established for energy and water use efficiency for these three buildings. Please 
+see a summary of key performance indicators in Appendix A.  
+ 
+Climate Change Mitigation Projects 
+Under the NAICM Green Bond Framework, eligible green projects may include climate change mitigation 
+projects  such  as  on-site  renewable  energy  production,  water  and  waste  management,  pollution 
+prevention and control, and energy efficiency projects in addition to the LEED certification which applies 
+to  the  Passenger  Terminal,  Air  Traffic  Control  Tower  and  Ground  Transportation  Center  buildings 
+(“Sustainable Buildings”). All these aspects come together to promote a sustainable airport infrastructure 
+with efficient resource use.  
+ 
+Onsite solar PV installations 
+The solar radiation levels in the airport location are significantly higher (5.1KWh/m2 per day) than other 
+airport locations that use Solar PV technology, which is why the design of the airport terminal, the Air 
+Traffic Control center and Ground Transportation Center included onsite Solar PV installations which can 
+produce up to 24GWh per year at a reasonable cost. This represents approximately 9% of the airport’s 
+total energy consumption. 
+ 
+Energy efficiency projects 
+The eligibility criteria  under  ‘Energy Efficiency’ allow the allocation of proceeds to  projects other  than 
+those  related  to  LEED  certified  buildings.  This  includes  projects  which  will  have  an  impact  on  energy 
+consumption and energy performance in the airport management and operations (going beyond specific 
+LEED  certified  buildings)  and  include  distinct  facilities  such  as  Central  Utility  Plants  for  energy  use 
+modeling, monitoring and control as well as equipment such as high efficiency chillers, premium efficiency 
+motors, variable speed drives and controls, waterside economizers, and thermal energy storage systems. 
+ 
+
+PUBLIC 
+ 
+
+7 
+
+© Sustainalytics 2016 
+
+Water and wastewater management 
+The NAICM project includes various water treatment and management facilities and systems. The final 
+objective is for 70% of the water consumed in the airport to come from on-site water and wastewater 
+management projects.  
+ 
+The NAICM project is being built in the former Texcoco Lake area is where several rivers conduct mixed 
+stormwater and sewage/wastewater from nearby municipalities. Because of this, the development of the 
+NAICM project is occurring alongside important government water infrastructure projects including the 
+construction of 24 water treatment plants (3 for supporting NAICM). Other extensive works include the 
+construction  of  channels,  tunnels  and  drainage  systems  to  protect  the  new  airport  from  potential 
+flooding. The carbon footprint of these projects will be significant but it will increase the regulation of 
+water,  and  the  volume  of  water  and  wastewater  treated  for  the  benefit  of  the  airport  and  the  local 
+population and is part of the larger environmental remediation project in the area. These water works 
+projects  were  independently  evaluated  for  environmental  impact  by  CONAGUA  and  approved  by 
+SEMARNAT.  
+ 
+Pollution Prevention and Control 
+In the near future, the NAICM project intends to transform the issue of illegal waste dumping into an 
+opportunity  by  transforming  waste  into  energy  at  the  ‘Bordo  Poniente’  biogas  plant  through  the 
+construction of a centralized waste collection and sorting facility that will focus on diverting waste from 
+landfill. As designed and in the best case scenario, the NAICM project’s energy consumption will amount 
+to 266 GWh while in the local area, 281 GWh16 of clean energy will be produced from solar produced on 
+site (8%) natural gas (17%) and waste to energy (75%) sources.  
+ 
+The  airport  may  become  the  sixteenth  airport  outside  Europe  to  be  carbon  neutral  provided  it  can 
+compensate the level of emissions generated by the projects for its source of energy: the natural gas and 
+biogas projects.17 
+ 
+Biodiversity and conservation 
+The  biodiversity  and  conservation  projects  to  be  funded  with  the  bond  proceeds  include  design  and 
+environmental impact studies, the creation of an urban forest of 670 hectares and reforestation of 5,000 
+hectares in the nearby area of which 2,000 have already been planted. Three hundred hectares of humid 
+areas certain for bird species will be created and preserved. 
+ 
+Adherence to the ICMA Green Bond Principles 2016 
+In Sustainalytics’ opinion, the NAICM’s Green Bond Framework adheres to the four pillars of the Green 
+Bond Principles 2016. Please see Appendix B for more details. 
+ 
+
+ 
+
+ 
+16 SAADMCR Pre-Plan Maestro; Entrevistas; Subsecretaría de Fomento y Normatividad Ambiental (SEMARNAT) 
+17 http://www.airportcarbonaccreditation.org/airport/participants/latin-america.html?filter=1 
+
+PUBLIC 
+ 
+
+8 
+
+© Sustainalytics 2016 
+
+Conclusion 
+Although there will be significant GHG emissions from the construction of the new airport, GACM has 
+taken a number of steps to mitigate the negative environmental impacts of the airport construction. In 
+addition,  by  following  Equator  Principles,  a  commitment  for  extensive  disclosure  and  the  stakeholder 
+engagement process, GACM aims to reduce the impact of the airport on the surrounding communities.  
+ 
+GACM has strong systems and commitments to manage the negative environmental impacts from airport 
+operations. With the aim of being carbon neutral and conserving the biodiversity of the surrounding areas, 
+GACM  plans  to  maintain  and  operate  the  airport  in  a  sustainable  manner.  The  NAICM  Green  Bond 
+Framework and green bond issuance may also set a positive precedent for the promotion of sustainable 
+infrastructure investment by public sector and state-owned enterprises in Mexico.  
+ 
+By  defining  strong  eligibility  criteria,  demonstrating  a  structured  and  transparent  project  selection 
+process, management of proceeds and reporting, the NAICM Green Bond Framework is in alignment with 
+the four pillars of Green Bond Principles 2016.  
+ 
+Based  on  the  above  considerations,  Sustainalytics  is  of  the  view  that  GACM’s  Green  Bond  is  robust, 
+credible and transparent.  
+
+ 
+
+PUBLIC 
+ 
+
+9 
+
+© Sustainalytics 2016 
+
+Overall NAICM Environmental Goals: 
+Source: http://www.aeropuerto.gob.mx/acciones-ambientales.php 
+
+APPENDICES 
+ 
+Appendix A: Summary Key Performance Indicators 
+ 
+ 
+ 
+ 
+ 
+ 
+
+To have a carbon neutral footprint 
+To sanitize 9 rivers 
+Operate with 100% clean energy 
+Achieve 30% water consumption reductions 
+Achieve 40% energy use reduction relative to  
+international standards 
+
+• 
+• 
+• 
+• 
+• 
+
+• 
+• 
+• 
+• 
+• 
+
+To seek LEED certification  
+To use solar energy for electricity generation 
+To treat and re-use water on-site 
+To preserve and protect bird habitats 
+To remediate an area with environmental 
+degradation 
+
+Currently on target for 
+at least LEEDv4 Gold 
+Certification 
+
+*Note: NAICM project team is conducting detailed energy modeling based on ASHRAE 90.1- 2010 standards that incorporates Mexico City historical weather data as well as 
+NAICM Master Architect’s modeling of future occupancy, lighting, equipment usage for various on-site facilities.  
+
+ 
+
+PUBLIC 
+ 
+
+10 
+
+© Sustainalytics 2016 
+
+Appendix C: Documents Reviewed 
+ 
+Sustainalytics reviewed the following documents for the purposes of writing this report: 
+ 
+
+Number  Document Name 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+
+Environmental Master Plan  
+Environmental Programs related to EIA Resolution 
+Environmental Impact Assessment (EIA) - Reports 
+Environmental Feasibility Studies 
+GACM press releases 2016 
+NAICM Green Bond Project portfolio 
+Technical Reports  
+LEED v4 – LEED Credit Trackers (Spanish) and Commissioning Plans. 
+Solar PV Studies 
+Equator Principles Compliance Assessment  
+Equator Principles Quarterly Compliance Reports 
+Hidraulic Plan 
+NAICM and Sustainability presentations 
+LEED in Motion: Mexico report 
+
+ 
+ 
+Disclaimer 
+ 
+All rights reserved. No part of this second party opinion (the “Opinion”) may be reproduced, transmitted 
+or published in any form or by any means without the prior written permission of Sustainalytics.  
+  
+The Opinion was drawn up with the aim to explain why the analyzed bond is considered sustainable and 
+responsible. Consequently, this Opinion is for information purposes only and Sustainalytics will not 
+accept any form of liability for the substance of the opinion and/or any liability for damage arising from 
+the use of this Opinion and/or the information provided in it. 
+  
+As the Opinion is based on information made available by the client, Sustainalytics does not warrant that 
+the information presented in this Opinion is complete, accurate or up to date. 
+  
+Nothing contained in this Opinion shall be construed as to make a representation or warranty, express or 
+implied, regarding the advisability to invest in or include companies in investable universes and/or 
+portfolios. Furthermore, this Opinion shall in no event be interpreted and construed as an assessment of 
+the economic performance and credit worthiness of the bond, nor to have focused on the effective 
+allocation of the funds’ use of proceeds. 
+  
+The client is fully responsible for certifying and ensuring its commitments` compliance, implementation 
+and monitoring. 
+ 
+
+PUBLIC 
+ 
+
+16 
+
+© Sustainalytics 2016 
+
+SUSTAINALYTICS 
+Sustainalytics is the largest independent provider of sustainability 
+research, analysis, and services to investors. We serve over 250 
+institutional investors which include some of the world's largest 
+asset owners and asset managers. Through over 20 years of 
+experience serving the responsible investment (RI) market, we have 
+gained a reputation for providing high-quality ESG research 
+solutions and excellent client service. 
+
+Sustainalytics is headed by seasoned professionals in the field of 
+business, finance, and sustainability, with a wealth of experience in 
+the Responsible Investment area. After more than 20 years of local 
+experience and expertise in the Responsible Investment (RI) market 
+Sustainalytics has developed a comprehensive understanding of 
+trends and best practices and a solid process to assist organisations 
+in integrating ESG considerations into their policies and strategies. 
+We have worked with some of the world’s financial institutions 
+including pension plans, investment managers and banks providing 
+customised support to help them achieve their RI objectives. Clients 
+include ABN AMRO, APG, BBVA, BNP Paribas, Deutsche Bank, ING 
+Bank, Lombard Odier, Lloyds Bank, Triodos Bank, UBS and over 250 
+other financial institutions and organisations. 
+
+Sustainalytics now has a staff of 250 employees globally, including 
+over 120 analysts, with operations in Amsterdam, Boston, 
+Bucharest, Frankfurt, New York, Paris, London, Singapore, Sydney, 
+Timisoara, and Toronto, and representation in Brussels and 
+Washington DC. 
+
+In 2015, Sustainalytics was named the 
+Best SRI or Green Bond Research Firm 
+by GlobalCapital. In December 2014, 
+for the third year in a row, 
+Sustainalytics was named best 
+sustainable and responsible investment 
+research firm in the Independent 
+Research in Responsible Investment 
+(IRRI) Survey, conducted by Thomson 
+Reuters and SRI-CONNECT.  
+
+ 
+
+PUBLIC 
+ 
+
+17 
+
+

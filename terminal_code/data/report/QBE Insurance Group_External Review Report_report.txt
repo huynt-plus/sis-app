@@ -1,0 +1,846 @@
+ 
+ 
+  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ QBE INSURANCE GROUP 
+
+GREEN BOND 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+
+FRAMEWORK OVERVIEW AND SECOND OPINION BY 
+
+SUSTAINALYTICS 
+
+March 20th, 2017 
+
+www.sustainalytics.com 
+ 
+www.sustainalytics.com 
+ 
+www.sustainalytics.com 
+
+Trisha Taneja (Toronto) 
+
+Catalina Secreteanu (Sydney) 
+
+Advisor, Advisory Services 
+
+Associate Director, Institutional Relations 
+
+trisha.taneja@sustainalytics.com 
+
+catalina.secreteanu@sustainalytics.com 
+
+(+1) 647-317-3695  
+
+ 
+ 
+
+Vikram Puppala  
+
+(+61) 2 8015 5651  
+  
+
+Vikram Puppala  
+
+Manager,  
+
+© Sustainalytics 2017 
+
+Table of Contents 
+
+FRAMEWORK OVERVIEW AND SECOND OPINION BY SUSTAINALYTICS 
+
+1. 
+
+Introduction 
+
+2.  Overview of Issuer 
+
+3  Framework Overview 
+
+3.1 Use of Proceeds 
+3.2 Project Evaluation and Selection Process 
+3.3 Management of Proceeds 
+3.4 Reporting 
+
+4  Sustainalytics’ Opinion 
+
+Impact of Use of Proceeds 
+Conclusion 
+
+ANNEXES 
+
+Annex 1: Sustainalytics’ Controversy Assessment Methodology 
+Annex 2: Green Bond/Green Bond Programme External Review Form 
+
+SUSTAINALYTICS 
+
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+1 
+
+3 
+
+3 
+
+4 
+4 
+7 
+7 
+8 
+
+10 
+10 
+11 
+
+12 
+12 
+13 
+
+20 
+
+2 
+
+© Sustainalytics 2017 
+
+1. INTRODUCTION 
+ 
+QBE  Insurance  Group  (QBE),  an  Australian  general insurance  and  reinsurance company,  is  planning  to 
+issue multiple green bonds (QBE Green Bonds) to finance / refinance its investment in a portfolio of green 
+bonds.  The  company  has  engaged  Sustainalytics  to  provide  a  second  opinion  on  QBE’s  Green  Bond 
+Framework and on the bond’s environmental credentials. As part of this engagement, Sustainalytics held 
+conversations with relevant  internal stakeholders  to understand the use of proceeds, management of 
+proceeds, and reporting aspects of QBE’s Green Bond, as well as its sustainability strategy. Sustainalytics 
+also reviewed relevant public and internal documents from the company. This document contains two 
+sections: Framework Overview – a summary of QBE’s Green Bond framework; and Sustainalytics’ Opinion 
+– an opinion on the framework. 
+ 
+2. OVERVIEW OF ISSUER 
+ 
+QBE Insurance Group Limited underwrites general insurance and reinsurance risks worldwide. It operates 
+through  North  American  Operations,  European  Operations,  Australian  &  New  Zealand  Operations, 
+Emerging Markets, and Equator Re segments. The company offers commercial and domestic property, 
+motor and motor casualty, agriculture, public/product liability, workers’ compensation, marine energy 
+and  aviation,  professional  indemnity,  financial  and  credit,  accident  and  health,  and  other  insurance 
+products. It also manages Lloyd’s syndicates. The company was founded in 1886 and is headquartered in 
+Sydney, Australia. 
+ 
+On its website, QBE states that it not only follows environmental, social and governance (ESG) standards 
+across a range of jurisdictions, but also believe its responsibilities extend beyond compliance1 As part of 
+its commitment to sustainability, in 2015, QBE became a signatory to the United Nations Environment 
+Programme  Finance  Initiative:  Principles  for  Sustainable  Insurance  (UNEP:  PSI).  QBE  discloses  how  its 
+overall strategies and ESG initiatives are designed to adhere to the 4 principles set by the PSI2.  
+ 
+In  2016,  QBE  launched  its  Premiums4Good  program,  which  offers  customers  a  choice  to  direct  a 
+proportion of their premium to investment in securities that have an additional social or environmental 
+objective. Examples of these investments include Social Impact Bonds, green bonds and investments into 
+infrastructure projects with environmental benefits3.  
+ 
+  
+ 
+
+ 
+
+ 
+1 Corporate Website, https://www.group.qbe.com/corporate-governance/sustainability-report 
+2 QBE Insurance Group Limited, Sustainability Review, 2016, accessed from 
+https://www.group.qbe.com/sites/default/files/Default%20Media/QBE%202015%20Sustainability%20Report.pdf 
+3 Corporate Website, https://www.qbe.com.au/campaigns/premiums4good 
+
+ 
+ 
+
+3 
+
+© Sustainalytics 2017 
+
+3  FRAMEWORK OVERVIEW 
+
+ 
+
+For this green bond issued by QBE a framework has been created that follows the four key pillars of the 
+Green Bond Principles (“GBP”): 
+
+•  Use of Proceeds 
+•  Selection Process 
+•  Management of Proceeds 
+•  Reporting 
+
+ 
+ 
+3.1 Use of Proceeds 
+The proceeds of the QBE Green Bond(s) will be allocated towards  financing / refinancing investment in 
+its  green  bond  portfolio.  The  portfolio may  invest  in  labelled  green  bonds that  are  eligible  as  per the 
+criteria defined below. In addition to defining eligibility criteria for the framework, QBE has committed 
+that where green bond review and evaluation has been completed and the allocation of proceeds has 
+been determined at time of issuance, it will disclose the specific projects funded through bond proceeds, 
+and the relevant eligibility criteria the funded projects will fall under, on issuance of each QBE Green Bond. 
+ 
+Eligibility Criteria 
+
+1.  The green bond is certified under the Climate Bonds Standard OR has been assessed to be in 
+
+compliance with the Green Bond Principles through a second-party opinion.  
+ 
+ AND 
+ 
+
+2.  The green bond finances/refinances projects or activities that meet one or a combination of the 
+
+following thematic eligibility criteria. 
+
+ 
+Thematic Eligibility Criteria 
+1.  RENEWABLE ENERGY  
+
+i. 
+
+ii. 
+
+iii. 
+
+Development, construction, or operation of wind farms, solar farms, or hydropower 
+projects.  
+
+Development,  construction  or  operation  of  manufacturing  facilities  dedicated  to 
+production  of  renewable  energy  technologies  and  equipment,  or  components  of 
+equipment,  including  solar  panels,  wind  turbines,  storage  technology,  or  other 
+equipment produced specifically for generating renewable energy. 
+ 
+Transmission systems or other infrastructure (including information, communication and 
+technology  infrastructure,  storage  facilities,  etc.)  that  facilitates  the  integration  of 
+renewable electricity into the grid. 
+
+ 
+
+4 
+
+ 
+
+ 
+
+ 
+ 
+
+© Sustainalytics 2017 
+
+2.  ENERGY EFFICIENCY 
+
+i. 
+
+ii. 
+
+iii. 
+
+ 
+
+Installation of products or services that increase the energy efficiency of industrial 
+processes 
+ 
+Industrial/utility energy-efficiency improvements involving changes in processes, 
+reduction of heat losses and/or increased waste heat recovery. This includes the 
+installation of cogeneration plants. 
+ 
+Development or manufacture of energy efficiency technologies and products such as 
+efficient appliances, lighting, etc. 
+ 
+
+3.  GREEN BUILDINGS 
+
+i. 
+
+ii. 
+
+iii. 
+
+iv. 
+
+Development or construction of buildings that meet sustainability standards (equivalent 
+to LEED Gold or higher).  
+ 
+Retrofits of existing buildings such as architectural changes that enable a reduction in 
+energy consumption. 
+
+ 
+
+Energy-efficiency improvements through the installation of more efficient insulation, 
+lighting, appliances, waste heat recovery systems and/or other equipment. 
+
+Development and manufacture of products and services that increase energy efficiency 
+in residential, commercial and other buildings, including energy efficient lighting, 
+insulation, efficient heating, ventilation and air conditioning equipment, and integrated 
+buildings control systems. 
+ 
+
+4.  LOW CARBON TRANSPORTATION 
+
+i. 
+
+ii. 
+
+Development,  manufacture  and/or  distribution  of  technologies  and  equipment  to 
+increase  the  sustainability  (through  improved  energy/fuel  efficiency  or  switching  to 
+electricity) of auto, truck, train, marine and aerospace transportation.  
+ 
+Development and operation of sustainable public/mass transportation systems and/or 
+of equipment for such systems (including most rail and Bus Rapid Transit that meets the 
+BRT standard). 
+ 
+
+5.  SUSTAINABLE FORESTRY 
+
+i. 
+
+ii. 
+
+Forest management activities that comply with international standards for sustainable 
+forestry such as those of the Forest Stewardship Council (FSC). 
+ 
+Reforestation of previously forested land. 
+
+iii. 
+
+Afforestation (plantations) of non-forested land. 
+
+5 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+© Sustainalytics 2017 
+
+ 
+
+6.  WATER EFFICIENCY  
+
+i. 
+
+ii. 
+
+Development/construction of infrastructure designed to conserve water resources 
+and/or increase the efficiency of water use. 
+ 
+Development, manufacture and/or installation of technologies designed to increase 
+reuse and to improve the efficiency of water use by end users. 
+ 
+
+7.  WASTE MANAGEMENT  
+
+i. 
+
+ii. 
+
+Development, manufacture and/or installation of technology and/or equipment that 
+make waste management more sustainable (e.g. waste-to-energy systems, composters, 
+and anaerobic digesters. 
+ 
+Development and/or installation of technology or equipment that increases a 
+company's resource efficiency and/or reduces its waste production. 
+
+8.  POLLUTION CONTROL 
+
+i. 
+
+ii. 
+
+Development, manufacture, and/or installation of products and services that prevent or 
+reduce the pollution of air, water or land caused by pollutants such as sulphur dioxide, 
+nitrous oxide, fluorocarbons, mercury, particulates, and carbon monoxide. 
+ 
+Projects or equipment that reduce non-energy-related GHG emissions that result from 
+industrial processes (e.g. cement, chemical industries). 
+
+ 
+
+ 
+
+Exclusionary Criteria 
+QBE has developed a list of exclusionary criteria for the proceeds of the QBE Green Bond. QBE commits 
+itself  to  not  knowingly  be  involved  in  financing  any  of  the  following  projects/activities  through  the 
+proceeds of the QBE Green Bond(s): 
+ 
+
+1.  Manufacture or wholesale retail of alcoholic beverages  
+2.  Manufacture or wholesale retail of tobacco products 
+3.  Ownership or operation of gambling enterprises 
+4.  Production or distribution of adult entertainment materials 
+5.  Manufacture or retail sale and distribution of weapons and small arms  
+6.  Transportation of live cattle 
+7.  Whaling 
+8.  Predatory lending activities 
+9.  Production or refining of palm oil 
+10. Extraction or refining of fossil fuels  
+11. Large scale hydro projects (i.e. projects that generate greater than 20 MW of electricity) 
+12. Technology and equipment for large scale hydro projects 
+13. Transmission infrastructure and systems where 25% or more of electricity transmitted to the 
+
+grid is fossil-fuel-generated 
+
+ 
+ 
+
+6 
+
+© Sustainalytics 2017 
+
+14. Technologies that increase the energy efficiency of fossil fuel production and/or distribution 
+15. Systems and infrastructure used primarily for the transportation of fossil fuels 
+16. Agricultural or afforestation operations located on land designated as primary forest,  high 
+
+conservation value areas, or legally preserved areas 
+
+17. Green  bond  issuers  that  are  involved  in  major  environmental,  social  or  governance 
+controversies  (Category  5  controversies  ),  as  assessed  by  Sustainalytics.  See  Annex  1  for 
+details on Sustainalytics’ controversy assessment methodology. 
+
+ 
+
+3.2 Project Evaluation and Selection Process 
+QBE’s Investment Team identifies bonds that meet the  company’s investment risk/return criteria, and 
+makes  the  investment  in  the  bond.  If  the  investment  is  a  green  bond,  the  Manager,  Responsible 
+Investments (MRI) is notified. The MRI then assesses if the green bond meets the eligibility criteria defined 
+in the framework, and if proceeds from the QBE Green Bond(s) can be allocated to refinancing the green 
+bond investment(s).  
+ 
+In addition to assessing each green bond investment’s compliance with the framework eligibility criteria, 
+QBE also: 
+  
+
+(i) 
+(ii) 
+
+assesses each green bond investment’s eligibility,  
+classifies each green bond investment as “High”4 or “Moderate5” impact.  
+ 
+
+Every labelled green bond is presented by the MRI to QBE’s Classification of Social Investments Committee 
+(COSI Co.) The committee reviews and classifies these green bond investments as meeting the “additional 
+social or environmental objective,”. COSI Co. also classifies these green bond investments as “High” or 
+“Moderate” impact. The COSI Co. is also responsible for annually monitoring its green bond investment 
+to review its classification and monitor its continued suitability.  
+ 
+3.3 Management of Proceeds  
+QBE will track the Use of Proceeds of its Green Bond(s) via its internal information systems. Each QBE 
+Green Bond will be booked under an earmarked position which is set up for each Green Bond specifically 
+in the appropriate internal system. QBE will establish a register, recording each specific acquired green 
+bond ID allocated as Use of Proceeds for each Green Bond by a unique position identifier. 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+4 High Impact investments are those with an explicit dual purpose of delivering a financial return, and a measurable or verifiable social and/or 
+environmental return.  
+5 Moderate impact investments are those which partially or wholly provide, support, or fund socially and/or environmentally beneficial 
+activities.  
+
+7 
+
+ 
+ 
+
+© Sustainalytics 2017 
+
+3.4 Reporting  
+Allocation and Impact Reporting 
+The QBE Green Bond issuing entity will provide a Green Progress Report on an annual basis including: 
+ 
+
+(i)  Aggregate amounts of funds allocated to each of the Thematic Eligibility Criteria (Section 3.1) 
+
+together with a description of the types of projects being financed / refinanced; 
+
+(ii)  The remaining balance of unallocated Green Bond proceeds at the reporting period end; and, 
+(iii) Confirmation that the Use of Proceeds of the Green Bond (s) issued conforms with the QBE 
+
+Green Bond Framework. 
+
+ 
+QBE recognises investors’ preference for enhanced information on Use of Proceeds. Where possible QBE 
+will provide further information and examples of green bonds financed / refinanced by a QBE Green Bond. 
+ 
+The QBE issuing entity will prepare the report and the ESG Committee will review and approve each Green 
+Progress Report. Each Green Progress Report will be produced to a 31 December reporting date and will 
+be published by the 31 March of the following year on the QBE Investor Relations webpage, found through 
+www.qbe.com  
+ 
+QBE  has  also  committed  that  where  possible,  it  will  use  the  impact  metrics  described  in  Table  1  as 
+guidance for its impact reporting. Given that QBE is dependent on regular impact reporting from invested 
+green bonds, QBE will include impact reporting as a part of its annual Green Bond report when the data 
+from investees is available in a timely manner.  
+ 
+Table 1: Suggested KPIs for QBE impact reporting 
+
+Eligible Sector 
+Renewable energy 
+
+Energy efficiency 
+
+Green buildings 
+
+Low carbon transportation 
+Sustainable forestry  
+
+Water efficiency 
+Waste Management 
+
+Example Impact Metric 
+
+•  kWh of power generated from renewable energy 
+•  Tonnes of CO2 equivalent avoided 
+•  Energy saved per year (kWh/year) 
+•  Percentage energy efficiency achieved 
+•  Energy consumption reduced per square foot 
+• 
+
+List of eligible buildings that received third party verified 
+green building certification  
+
+•  GHG emissions savings/tonnes of CO2 equivalent avoided 
+•  CO2 emissions avoided through planted forests 
+•  Total land area under sustainably certified forests 
+•  Amount of water saved 
+•  Annual amount of hazardous waste reduced/avoided  
+•  Estimate of annual GHG emissions reduced/avoided (tCO2e) 
+
+[for waste-energy technologies] 
+
+Pollution control 
+
+•  Estimate of equipment's annual potential to reduce/avoid 
+
+the emission or release of a given pollutant 
+
+ 
+ 
+
+8 
+
+© Sustainalytics 2017 
+
+Compliance Review 
+In addition, QBE has committed to undertaking an annual compliance review of funded companies with 
+Sustainalytics. Sustainalytics will review all companies/borrowers to which proceeds have been allocated, 
+in order to determine whether they meet the eligibility criteria in the framework. As a part of the annual 
+compliance review, Sustainalytics will also undertake a review and analysis of companies’ involvement in 
+controversies. Sustainalytics will provide a letter stating the results of the compliance review, which QBE 
+may disclose publicly on its website. The compliance review will take place annually throughout the term 
+of the bond. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+9 
+
+© Sustainalytics 2017 
+
+4  SUSTAINALYTICS’ OPINION 
+ 
+Well positioned to issue a Green Bond  
+In  its  2015  sustainability  report,  QBE  states  a  commitment  to  managing  Environmental,  Social,  or 
+Governance (ESG)  risks  in an integrated manner, across its underwriting and investment management 
+business activities.6 QBE states a recognition of how environmental risks can affect claim activity, and also 
+has a responsible investment team that considers ESG issues in its investment decisions. Moreover, QBE 
+is signatory to industry initiatives that promote responsible finance such as the UN PRI and UNEP FI. 
+ 
+One  way  in  which  QBE  acts  on  its  stated  commitment  to  responsible  finance  is  through  its 
+Premiums4Good program, which allows policyholders (at no cost or risk to them) to direct a proportion 
+of their premiums to be invested directly into projects that create environmental or social impacts. This 
+initiative  is  linked  to QBE’s  core  business  products  and  activities. Proceeds  from  the  QBE  Green  Bond 
+Framework  will  directly  support  and  further  develop  QBE’s  overall  commitment  to  responsible 
+investment.  
+ 
+Given QBE’s commitment to responsible finance, as signalled by its participation in industry initiatives, 
+and  the  contribution  of  its  Green  Bond  Framework,  Sustainalytics  is  of  the  opinion  that  QBE  is  well 
+positioned  to  issue  its  Green  Bond(s).  Sustainalytics  is  also  of  the  opinion  that  QBE’s  Green  Bond 
+Framework aligns with the company’s strategic priorities in the area of responsible finance.  
+ 
+Impact of Use of Proceeds 
+The  Green  Bond  Principles  (GBP)  focus  on  direct  investment  in  projects  that  provide  environmental 
+benefits. Proceeds from the QBE Green Bond(s) will not be used to finance green projects directly but will 
+instead  be  used  to  finance/refinance  investment  in  securities  (other  green  bonds)  that  have  positive 
+environmental impacts. Nonetheless, Sustainalytics believes that QBE’s green bonds will have a positive 
+impact  in  that  it  will  channel  capital  indirectly  toward  projects  and  activities  that  have  environmental 
+benefits. In this sense, the QBE Green Bond(s) are aligned with the Green Bond Principles.  
+ 
+Sustainalytics is of the opinion that QBE’s Green Bond Framework provides assurance that proceeds will 
+be invested only in green bonds that have been certified under the Climate Bonds Standard or that have 
+received  a  positive  second-party  opinion.  Such  reviews  provide  due  diligence  on  the  environmental 
+integrity of projects and assurance that a green bond is credible. Additionally, QBE’s thematic eligibility 
+criteria align with widely accepted definitions of what qualifies as a green bond; the criteria are recognized 
+by the GBP and Climate Bonds Initiative as eligible green project categories. This ensures that the green 
+bonds  selected  for  investment  in QBE’s  green  bond  portfolio  are  deploying  additional  capital  towards 
+projects that benefit the environment.  
+ 
+Sustainalytics  also  believes  that  QBE’s  Green  Bond  Framework  may  provide  indirect  positive  outcome 
+within  the  green  bond  market  by  encouraging  issuers  to  report  thoroughly  and  regularly  on  impacts 
+resulting from their investments in green bond projects. Given that QBE intends to report on impacts of 
+
+ 
+6 QBE Sustainability Report: https://qbe2015.qreports.com.au/xresources/downloads/2015/QBE_AR15_sustainability.pdf  
+
+10 
+
+ 
+ 
+
+© Sustainalytics 2017 
+
+its green bond portfolio, this approach may help signal to green bond issuers the importance of impact 
+reporting.   
+ 
+Alignment with the Green Bond Principles 2016 
+Sustainalytics  has  determined  that  the  QBE  Green  Bond  Framework  aligns  to  the  four  pillars  of  the 
+International Capital Markets Association (ICMA) Green Bond Principles 2016. For detailed information 
+please refer to Annex 2: Green Bond/Green Bond Programme External Review Form. 
+ 
+Conclusion 
+Sustainalytics is of the opinion that QBE’s Green Bond Framework is transparent, robust, and aligns with 
+the GBP 2016. Proceeds from this green bond will contribute to several global sustainability priorities, as 
+outlined in the SDGs, and will contribute to mitigating climate change. 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+11 
+
+© Sustainalytics 2017 
+
+ANNEXES 
+ 
+Annex 1: Sustainalytics’ Controversy Assessment Methodology 
+ 
+Controversies are an assessment of a company’s past involvement in incidents that had a negative impact 
+on  stakeholders,  and  that  pose  outstanding  risks  to  the  company.  Sustainalytics  analyses  companies’ 
+involvement in controversies based on several factors, including impact of the incident, recurrence and 
+pattern  of  incidence,  company  response,  and  managerial  responsibility.  After  analysis,  companies’ 
+involvement in controversies is classified on a hurricane scale of 1 to 5. Controversies are assessed as 
+Category 1 if they have a low impact on the environment and society, and pose negligible risks to the 
+company. Controversies are assessed as Category 5 if they have a severe impact on the environment and 
+society, and pose a serious risk to the company. Category 5 represents the most severe corporate conduct.   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+
+12 
+
+© Sustainalytics 2017 
+
+Disclaimer 
+
+All rights reserved. No part of this second party opinion (the “Opinion”) may be reproduced, transmitted 
+or published in any form or by any means without the prior written permission of Sustainalytics.  
+  
+The Opinion was drawn up with the aim to explain why the analyzed bond is considered sustainable and 
+responsible. Consequently, this Opinion is for information purposes only and Sustainalytics will not 
+accept any form of liability for the substance of the opinion and/or any liability for damage arising from 
+the use of this Opinion and/or the information provided in it. 
+  
+As the Opinion is based on information made available by the client, Sustainalytics does not warrant that 
+the information presented in this Opinion is complete, accurate or up to date. 
+  
+Nothing contained in this Opinion shall be construed as to make a representation or warranty, express or 
+implied, regarding the advisability to invest in or include companies in investable universes and/or 
+portfolios. Furthermore, this Opinion shall in no event be interpreted and construed as an assessment of 
+the economic performance and credit worthiness of the bond, nor to have focused on the effective 
+allocation of the funds’ use of proceeds. 
+  
+The client is fully responsible for certifying and ensuring its commitments` compliance, implementation 
+and monitoring. 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+19 
+
+© Sustainalytics 2017 
+
+SUSTAINALYTICS 
+ 
+Sustainalytics  is  an  independent  ESG  and  corporate  governance  research,  ratings  and  analysis  firm 
+supporting  investors  around  the  world  with  the  development  and  implementation  of  responsible 
+investment  strategies. With 13 offices globally, Sustainalytics partners with institutional investors who 
+integrate  environmental,  social  and  governance  information  and  assessments  into  their  investment 
+processes.  Today,  the  firm  has  more  than  300  staff  members,  including  170  analysts  with  varied 
+multidisciplinary  expertise  of  more  than  40  sectors.  Through  the  IRRI  survey,  investors  selected 
+Sustainalytics as the best independent responsible investment research firm for three consecutive years, 
+2012 through 2014 and in 2015, Sustainalytics was named among the top three firms for both ESG and 
+Corporate Governance research. The firm was also named the Best SRI or Green Bond Research Firm by 
+Global Capital in 2015. For more information, visit www.sustainalytics.com  
+ 
+Copyright © 2017 Sustainalytics. All rights reserved. 
+ 
+The  intellectual  property  rights  to  this  publication/report  and  the  information  contained  herein  are  vested  exclusively  in 
+Sustainalytics and/or its suppliers. No part of this publication/report may be reproduced, used, disseminated, modified, published 
+or  otherwise  furnished  in  any  manner  without  the  express  written  consent  of  Sustainalytics.  Nothing  contained  in  this 
+publication/report shall be construed as to make a representation or warranty, express or implied, regarding the advisability to 
+invest in or include companies in investable universes and/or portfolios. The performance represented herein is historical; past 
+performance is not a reliable indicator of future results and results and the information provided in this brochure is not intended 
+to be relied upon as, nor to be a substitute for specific professional advice and in particular financial advice. The information on 
+which this publication/report is based on reflects the situation as on the date of its elaboration. Such information has – fully or 
+partially  –  been  derived  from  third  parties  and  is  therefore  subject  to  continuous  modification.  Sustainalytics  observes  the 
+greatest possible care in using information but cannot guarantee that information contained herein is accurate and/or complete 
+and no rights can be derived from it. The information is provided “as is” and, therefore Sustainalytics assumes no responsibility 
+for  errors  or  omissions.  Sustainalytics  nor  its  suppliers  accept  any  liability  for  damage  arising  from  the  use  of  this 
+publication/report or information contained herein in any manner whatsoever. 
+ 
+Sustainalytics 
+info@sustainalytics.com  
+www.sustainalytics.com  
+ 
+ 
+
+ 
+
+ 
+ 
+
+20 
+
+

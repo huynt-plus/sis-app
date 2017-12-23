@@ -1,0 +1,1958 @@
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+
+ 
+ 
+ 
+ 
+ 
+
+FMO SUSTAINABILITY BOND  
+
+FRAMEWORK OVERVIEW AND SECOND OPINION BY 
+
+SUSTAINALYTICS 
+
+May, 2017 
+
+ 
+
+ 
+
+www.sustainalytics.com 
+ 
+
+ 
+
+Catarina da Silva (Amsterdam) 
+
+Willem van Golstein Brouwers (Amsterdam) 
+
+Senior Advisor, Advisory Services 
+catarina.dasilva@sustainalytics.com 
+(+31) 20 205 0045 
+ 
+ 
+ 
+ 
+
+Senior Advisor, Institutional Relations 
+
+willem.vgb@sustainalytics.com  
+
+(+31) 20 205 0041 
+
+ 
+ 
+
+Vikram Puppala  
+
+© Sustainalytics 2015 
+
+CONTENTS 
+
+ 
+
+1. 
+
+INTRODUCTION 
+
+2.  OVERVIEW OF THE ISSUER - FMO 
+
+3.  SUSTAINABILITY BOND FRAMEWORK OVERVIEW 
+
+3.1  Use of Proceeds 
+3.2  Project Selection Process 
+3.3  Management of Proceeds 
+3.4  Impact Measurement & Reporting 
+3.5  Compliance Review 
+
+4.  SUSTAINALYTICS OPINION 
+
+Section 1: Sustainability Performance of the Issuer 
+Section 2: Impact of the use of proceeds 
+Conclusion 
+
+5.  APPENDICES 
+ 
+
+ 
+ 
+  
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+2 
+
+2 
+
+3 
+3 
+7 
+8 
+9 
+10 
+
+11 
+11 
+11 
+13 
+
+14 
+
+1 
+
+© Sustainalytics 2015 
+
+1. INTRODUCTION 
+In  2015,  Sustainalytics  was  retained  by  FMO  to  provide  an  evaluation  of  FMO’s  Sustainability  Bond 
+framework in order to ensure alignment with the Green Bond Principles and industry best practices. In 
+May  2017,  FMO  engaged  Sustainalytics  to  update  its  2015  Sustainability  Bond  framework  to  include 
+additional Use of Proceeds Criteria (refer to section 3).  
+As  part  of  this  engagement,  Sustainalytics  held  conversations  with  members  of  FMO’s  treasury  and 
+sustainability teams and reviewed relevant public and internal documents to understand FMO’s planned 
+use of proceeds, project selection process, management and reporting for its Sustainability Bond.  
+This document contains three sections: Overview of the issuer and its ESG Performance; Sustainability 
+Bond  Framework  Overview  –  a  summary  of  FMO’s  Sustainability  Bond  framework;  and  Sustainalytics’ 
+Opinion – an opinion on the framework. 
+ 
+ 
+2. OVERVIEW OF THE ISSUER - FMO 
+Founded in 1970 by the Dutch government, FMO is the Dutch development bank, and one of the largest 
+financial  institutions  focussed  on  development.  With  operations  in  over  85  countries,  FMO  provides 
+financing for businesses, projects and financial institutions in developing and emerging markets, with the 
+aim of supporting sustainable, private sector development. In general, FMO’s activities focus on having a 
+large, long-term impact in the following areas: Financial Institutions, Energy and Agribusiness.  
+ 
+FMO’s vision is that by 2050, nine billion people live well within the limits of our planet. FMO states that 
+its strategy is based on the conviction that economic growth that is both inclusive and green will lead to 
+a better world. Hence green development and inclusive development are key parts of FMO’s Theory of 
+Change.  
+ 
+FMO’s ambition for 2020 is to be the leading impact investor by:  
+  Doubling its impact by doubling direct and indirect jobs, and 
+  Halving its footprint by doubling avoided Greenhouse Gas (GHG) emissions1. 
+ 
+The footprint objective is translated into an operational objective to double the proportion of new green 
+commitments  to  40%  in  2020.  In  addition,  FMO  aims  to  contribute  to  the  United  Nations  Sustainable 
+Development Goals (SDGs) as part of its core business, with a particular focus on SDG 8, 10 and 13, in line 
+with  its  ambition  to  be  a  leading  impact  investor.  As  part  of  this  endeavour,  FMO  plans  to  issue 
+Sustainability Bonds to fund both its green and inclusive finance commitments.  
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+1 As per FMO’s 2016 Annual Report, these goals will be measured with respect to FMO’s annual new investments in 2018-2020 
+versus the 2010-2012 baseline period. 
+
+2 
+
+ 
+ 
+
+© Sustainalytics 2015 
+
+FMO’s Sustainability Policy 
+FMO has a Sustainability Policy2, defining, amongst others, environmental and social criteria for direct and 
+indirect  investments  (see Appendix 1).  All FMO’s  direct  investment clients (including those  in which it 
+takes  equity  stake)  are  required  to  comply  with  applicable  national  and  international  E&S  laws  as  a 
+minimum standard. In addition, FMO upholds the IFC (International Finance Corporation) Performance 
+Standards as applicable for its clients. For FMO’s financial institution (FI) clients and private equity funds 
+(PEF) in which  it  invests,  FMO  focuses  on how they address  the environmental and social risk  in their 
+portfolios. Depending on the risk category (see Appendix 1), FMO expects the FIs and PEFs to apply certain 
+environmental and social standards when financing or investing in their clients. This entails that, FIs and 
+PEFs  will  be  required  to  establish  and  maintain  an  E&S  Management  System  to  ensure  that  their 
+investments  meet  (or over time  become  compliant with) FMO’s requirements. The level of detail and 
+sophistication  of  this  management  system  and  the  monitoring  approach  will  depend  on  the  E&S  risk 
+profile of the FI / PEF and the type of financing that they provide. 
+ 
+With regard to ESG oversight, FMO's E&S team has oversight over environmental and social issues, while 
+the management board is responsible for setting the sustainability agenda and developing ESG policies. 
+FMO's E&S team is comprised of 26 members, three of whom are on the sustainability team coordinating 
+all sustainability-related activities, while the other 23 are integrated in the investment and credit review 
+teams. 
+ 
+ 
+3. SUSTAINABILITY BOND FRAMEWORK OVERVIEW  
+For  the  purpose  of  issuing  Sustainability  Bonds,  FMO  has  developed  the  following  framework,  which 
+addresses  the  four  key  pillars  of  the  Green  Bond  Principles3:  Use  of  proceeds,  Project  evaluation  and 
+selection process, Management of proceeds, and Reporting. 
+ 
+2017 FRAMEWORK UPDATE 
+This framework has been updated in May 2017, to include “SME Financing” as one of the eligible criteria 
+for  use  of  proceeds.  This  newly  added  eligibility  criteria  does  not  apply  retroactively  to  FMO’s 
+Sustainability Bonds issued under the previous framework4, but is applicable to future bonds, and hence 
+affects only future investments. 
+ 
+3.1  Use of Proceeds 
+FMO  plans  to  use  proceeds  of  its  Sustainability  Bonds  to  fund  environmental  (“green”)  and  inclusive 
+finance projects to support FMO’s mission. FMO’s definition of green projects focuses on climate-related 
+projects,  that should be value  added, and go beyond complying with regulatory  standards in order to 
+initiate and/or enable a market shift. FMO defines two sub categories under green finance: climate change 
+mitigation and climate change adaptation, and one category under inclusive finance. FMO’s definition of 
+green and inclusive finance categories are provided in Table 1.  
+
+ 
+2 https://www.fmo.nl/policies-and-position-statements 
+3 “Green Bond Principles, 2016” dated 16 June 2016 issued by the International Capital Market Association (ICMA) 
+4 Dated from April 2015 and available at https://www.fmo.nl/sustainability-bonds 
+
+3 
+
+ 
+ 
+
+© Sustainalytics 2015 
+
+ 
+Table 1 
+
+Category 
+
+Climate Change 
+Mitigation 
+
+Climate Change 
+Adaptation 
+
+Inclusive  
+Finance5 
+
+Definition 
+An activity is considered to be mitigating climate change if it contributes to either, reducing 
+greenhouse gas (GHG) emissions into the atmosphere, or sequestering GHG emissions from 
+the atmosphere. If the project or activity relates to Energy efficiency, it should achieve at 
+least 20% reduction in energy consumptions or GHG emissions. 
+An  activity  is  considered  as  climate  change  adaptation  if  the  intention  of  the  activity  or 
+project design is to reduce the vulnerability of human or natural systems to the impacts of 
+climate change and climate-related risks, by maintaining or increasing adaptive capacity and 
+resilience. 
+
+Inclusive  finance  focuses  on  expanding  access  to  affordable  and  responsible  financial 
+products and services to the poor and vulnerable populations. This includes microfinance as 
+well  as  directly  financing  organizations  that  are  often  unable  to  gain  access  to  financial 
+products and services such as small- and medium-sized enterprises.  
+
+ 
+ 
+Eligibility Criteria 
+ 
+Climate Change Mitigation Eligibility Criteria 
+FMO’s definitions of climate change mitigation, and the eligibility criteria, align with the definitions and 
+the types of projects set forth by the Multilateral Development Banks (MDBs) in the “Joint Report on MDB 
+Climate Finance 2012”6.  FMO is not formally a member of the MDB group, but closely follows the group’s 
+developments through regular communication with it. FMO commits to re-align with MDB’s definitions 
+on a rolling basis, as and when FMO partners with MDBs on climate deals, and will re-align at the end of 
+each year based on MDB’s annual climate report.  
+ 
+To be eligible for Sustainability Bond proceeds, FMO states that a mitigation activity: 
+  Should contribute to the mitigation of climate change by reducing or avoiding GHG, or contribute to 
+
+the protection and/or enhancement of GHG sinks and reservoirs that absorb GHGs;  
+
+  Can be a project or project component;  
+  Should be disaggregated from non-mitigation activities through a reasonable level of data granularity. 
+For example, a project with a total cost of EUR 100 million may have a EUR 10 million component for 
+energy efficiency improvements – only the EUR10 million should be allocated. 
+
+ 
+A  full  list  of  eligible  climate  mitigation  activities  can  be  found  in  Appendix  2a.  Broadly,  they  can  be 
+categorised as: 
+
+  Energy efficiency; 
+  Renewable Energy; 
+  Transport; 
+  Agriculture, forestry and land use; 
+
+ 
+5 http://www.unpri.org/areas-of-work/implementation-support/piif/what-is-inclusive-finance/ 
+6 http://www.ebrd.com/downloads/sector/sei/climate-finance-2012.pdf 
+
+4 
+
+ 
+ 
+
+© Sustainalytics 2015 
+
+  Waste and wastewater; 
+  Non-energy GHG reductions; and  
+  Cross-sector activities. 
+
+ 
+ 
+Climate Change Adaptation Eligibility Criteria 
+FMO defines this category along the lines of the Joint Report on MDB Climate Finance and states that to 
+be eligible for Sustainability Bond proceeds an adaptation-related activity needs to demonstrate that it 
+potentially contributes to reducing the vulnerability to climate change identified in the project area, and 
+that the following should be provided to substantiate this: 
+
+  A description of the context of climate vulnerability of the project based on an investigation of 
+
+the vulnerabilities to climate change of the project’s geographical area; 
+
+  An explicit statement of intent to address climate vulnerability as part of the project. This should 
+be supported by an analysis of the project’s planned activities to decipher a positive list of actions 
+that  can  contribute  to  reducing  vulnerability,  or  strengthening  the  resilience  of  communities, 
+goods, or ecosystems to climate change; 
+
+  Articulating  a  clear  and  direct  link  between  the  climate  vulnerability  context  and  the  specific 
+
+project activities; and 
+
+  Evidences that the project does not have negative impacts in terms of climate change mitigation 
+
+(e.g., enhancing carbon intensive infrastructures). 
+
+A few examples of climate change adaptation activities can be found in Appendix 2b. 
+ 
+ 
+Inclusive Finance Eligibility Criteria 
+FMO  is  committed  to  provide  funds  generated  through  the  issuance  of  its  Sustainability  Bonds  to 
+microfinance  institutions  (MFIs)  as  well  as  directly  to  small-  and  medium-sized  enterprises  (SMEs)  in 
+developing and emerging markets. 
+  
+Finance of microfinance institutions (MFIs) 
+FMO provides funds to microfinance institutions (MFIs) to provide loans to micro-enterprises. FMO plans 
+to use the Sustainability Bonds  proceeds  to fund such MFIs. FMO undertakes  a  detailed due  diligence 
+exercise,  including an assessment  of ESG related risks,  before  selecting a MFI to receive  funding from 
+FMO. Projects are classified as microfinance if they meet the following criteria: 
+
+a)  The end-client should meet two of three criteria to be eligible for the Sustainability Bond (see 
+table 2): 1) number of employees <10; 2) turnover <USD 100,000; 3) total assets <USD 100,000; 
+or  
+
+b)  If data mentioned in point ‘a’ is not available, then the loan size should be < USD 10,000. 
+
+ 
+FMO  carries  out  an  annual  review  of  each  MFI  and  their  lending  to  evaluate  if  MFIs  are  meeting  the 
+conditions, including the above condition, set by FMO. 
+ 
+ 
+ 
+ 
+
+5 
+
+ 
+ 
+
+© Sustainalytics 2015 
+
+Financing small- and medium-sized enterprises (SMEs) 
+FMO  commits  to  finance  SMEs  in  developing  and  emerging  markets,  typically  through  financial 
+intermediaries,  such  as  SME  (focused)  Banks,  non-bank  financial  institutions  and  corporates7.  FMO  is 
+committed8,9 to invest in some of the poorest countries in the world. To be eligible for the use of proceeds, 
+financial institutions should: 
+
+ 
+
+specifically target one or more of the following populations: females; rural populations who are 
+focusing  on  agricultural  production  and  agricultural  value  chains;  economically  excluded 
+individuals; and low-income populations who earn less than USD 8 per day; and  
+
+  be identified as an SME, as defined by the International Finance Corporation (IFC)10, as outlined in 
+
+Table 2.  
+
+ 
+Table 2. IFC’s definition for Micro-, Small- and Medium-size Enterprises 
+Small-size enterprise 
+
+Micro-size enterprise 
+
+Medium-size enterprise 
+
+Indicator/Size of 
+enterprise 
+Number of employees  < 10 
+Total assets 
+
+< USD 100,000 
+
+Annual sales 
+
+< USD 100,000 
+
+10 < 50  
+USD 100,000 < USD 3 
+million 
+USD 100,000 < USD 3 
+million 
+
+50 – 300 
+USD 3 million < USD 15 
+million 
+USD 3 million < USD 15 
+million 
+
+ 
+FMO undertakes a detailed due diligence exercise, similar to that is being applied in case of selecting MFIs. 
+This  includes  an  assessment  of  ESG  related  risks,  before  providing  finance  to  SMEs  or  financial 
+intermediaries.  An  SME  average  loan  size  should  be between  USD  10,000 or  more,  but  less  than  USD 
+1,000,000 (10,000 < USD < 1,000,000). 
+
+ 
+ 
+
+Exclusionary Criteria 
+In addition to eligibility criteria, FMO specifies the following exclusionary criteria with regard to use of 
+proceeds. FMO will not finance any business or trade involved in: 
+1.  Forced labour11 or child labour12. 
+2.  Activities  or  materials  deemed  illegal  under  host  country  laws  or  regulations  or  international 
+
+conventions and agreements, or subject to international phase-outs or bans, such as: 
+
+ 
+7 FMO Investment Criteria, February 2017 
+8 https://www.fmo.nl/l/library/download/urn:uuid:638188d0-5def-49f4-bf5a-7db9c94ddb52/2016+fmo+annual+report.pdf 
+9 https://www.fmo.nl/l/library/download/urn:uuid:9978eafe-864f-4b3a-bed1-
+5e0563df0c85/fmo+sustainability+policy.pdf?format=save_to_disk&ext=.pdf 
+10http://www.ifc.org/wps/wcm/connect/635f64804efbe2b18ef5cf3eac88a2f8/IFC_Factsheet_SME_Loan+Size+Proxy_Brief.pdf
+%20?MOD=AJPERES 
+11 Forced labour means all work or service, not voluntarily performed, that is extracted from an individual under threat of force 
+of penalty as defined by ILO conventions. 
+12 Persons may only be employed if’ they are at least 14 years old, as defined in the ILO Fundamental Human Rights 
+Conventions (Minimum Age Convention C138, Art. 2), unless local legislation specifies compulsory school attendance or the 
+minimum age for working. In such cases the higher age shall apply. 
+ 
+
+6 
+
+ 
+ 
+
+© Sustainalytics 2015 
+
+a)  Ozone depleting substances, PCB’s (Polychlorinated Biphenyls) and other specific, hazardous 
+
+pharmaceuticals, pesticides/herbicides or chemicals; 
+
+b)  Wildlife or products regulated under the Convention on International Trade in Endangered 
+
+Species or Wild Fauna and Flora (CITES); or 
+
+c)  Unsustainable  fishing  methods  (e.g.,  blast  fishing  and  drift  net  fishing  in  the  marine 
+
+environment using nets in excess of 2.5 km in length). 
+
+3.  Cross-border trade in waste and waste products, unless compliant with the Basel Convention and the 
+
+underlying regulations. 
+
+4.  Destruction13 of High Conservation Value areas14. 
+5.  Radioactive materials15 and unbounded asbestos fibres. 
+6.  Pornography and/or prostitution. 
+7.  Racist and/or anti-democratic media. 
+8.  The following products forming a substantial part of a project’s primary financed business activities16: 
+
+a)  Alcoholic Beverages (except beer and wine); 
+b)  Tobacco; 
+c)  Weapons and munitions; 
+d)  Gambling, casinos and equivalent enterprises; or 
+e)  Nuclear energy. 
+
+ 
+ 
+Eligible projects  
+Projects eligible to be financed with the proceeds of FMO’s Sustainability Bonds include projects that meet 
+the eligibility criteria described above and are: 
+  Projects committed after the issuance of the Sustainability Bond; or 
+  Projects committed before the issuance of the Sustainability Bond but funded (disbursed) after the 
+
+issuance of the Sustainability Bond; or 
+
+  Projects  funded  (disbursed)  within  12  months  before  the  issuance  of  the  Sustainability  Bond. 
+
+ 
+ 
+
+3.2  Project Selection Process 
+FMO  follows  a  two-stage  process  for  the  selection  of  green  and  inclusive  finance  projects  for  the 
+Sustainability Bond portfolio: 
+ 
+Stage 1- Approve projects under green or inclusive finance category; 
+Stage 2- Allocate bond funds to approved projects. 
+ 
+ 
+13 Destruction means the (I) elimination or severe diminution of the integrity of an area caused by a major, long-term change in 
+land or water use or (2) modification of a habitat in such a way that the area’s ability to maintain its role is lost. 
+14 High Conservation Value (HCV) areas are defined as natural habitats where these values are considered to be of outstanding 
+significance or critical importance 
+15 This does not apply to the purchase of medical equipment, quality control (measurement) equipment or any other 
+equipment where the radioactive source is understood to be trivial and/or adequately shielded. 
+16 For companies, ‘substantial’ means more than 10% of their consolidated balance sheets or earnings. For financial institutions 
+and investment funds, ‘substantial” means more than 10% of their underlying portfolio volumes. 
+
+7 
+
+ 
+ 
+
+© Sustainalytics 2015 
+
+Stage 1: The following steps detail the approval process for green projects 
+
+1)  The  deal  team  prepares  a  proposal  substantiating  why  a  project  qualifies  as  green  (consults  an 
+
+external advisor if needed), submits the deal to sustainability team for approval;  
+
+2)  The sustainability team, which is a part of the strategy department, receives proposals and assesses 
+the  transaction  against  the  green  project  definition  and  criteria  as  per  FMO’s  Green  Definitions 
+document. If the project activity automatically meet the eligibility criteria, then the sustainability 
+team approves this and notifies the deal team. For project activities that do not automatically meet 
+the  eligibility  criteria,  the  sustainability  team  can  consult  the  Green  Business  Knowledge  Street 
+(GBKS) that consists of environmental specialists. 
+
+3)  Based  on  the  outcome  of  the  GBKS,  the  sustainability  team  confirms  whether  the  transaction 
+
+qualifies as green and what percentage of the investment qualifies as a green investment; 
+
+4)  The transaction is then recorded into an internal system with all the relevant details pertaining to 
+
+the project and the decision on the green investment amount and percentage. 
+
+ 
+The GBKS consists of members from different departments who have expertise in sustainability, and is 
+chaired by the manager of the sustainability department. If required, the green team may engage external 
+experts to make a decision on green credentials of complex deals. The mandate of the GBKS is to advise 
+deal teams and the sustainability team, and to provide final approval whether a transaction is green and 
+the percentage of green for complex green transactions and learn from partner (IFC, EBRD, ADB, AfDB, 
+EIB, IDB, and WB) definitions and calculations. 
+ 
+The following steps detail the approval process for inclusive finance projects (micro finance): 
+
+1)  The  deal  team  checks  whether  the  project  meets  the  inclusive  finance  eligibility  criteria  as 
+
+described in paragraph 3.1; 
+
+2)  When the project meets the inclusive finance criteria, it is then labelled as micro-finance\SME in 
+
+an internal system (ACBS) with all the relevant details pertaining to the project. 
+
+ 
+Stage 2: Allocate bond funds to approved projects.  
+FMO  reviews  semi-annually,  all  the  approved  and  recorded  projects  under  green  or  inclusive  finance 
+category, and selects only those projects for the bond proceeds allocation, that meet the eligibility criteria 
+defined in section 3.1. above. The Sustainability Bond funds are then allocated to these eligible projects 
+and reported. 
+ 
+The steps in Appendix 3 highlight the process to select green and inclusive finance projects. 
+ 
+ 
+3.3  Management of Proceeds 
+The net proceeds of the Sustainable Bond issue are held within FMO’s Treasury in a special sub-portfolio 
+that is linked to FMO’s lending operations in the fields of green finance and inclusive finance. As long as 
+the  Sustainability  Bond  is  outstanding,  the  balance  of  the  sub-portfolio  will  be  reduced  by  amounts 
+matching the disbursements to the eligible projects. Pending such disbursement, the net proceeds of the 
+Sustainability Bond will be held  in FMO’s liquidity portfolio and may temporarily  be used for different 
+
+ 
+ 
+
+8 
+
+© Sustainalytics 2015 
+
+purposes in case of liquidity stress situations. FMO expects the bond proceeds to be fully allocated within 
+two years from the issue date. 
+ 
+ 
+3.4  Impact Measurement & Reporting 
+ 
+Impact Measurement 
+Within FMO, green transactions can either be direct (i.e. FMO finances a project or company directly), or 
+indirect (i.e. FMO participates in a private equity fund targeting green investments, or provides a so-called 
+green  credit  line  to  a  bank  or  other  financial  intermediary).  For  all  direct  green  investments,  FMO 
+calculates, accounts and reports the greenhouse gas (GHG) emission reductions that these investments 
+are estimated to realize, by calculating the difference between the emissions caused by the project and 
+the emissions ‘without the project’ or ‘most likely alternative’ scenario. The methodology FMO applies 
+aligns  with  guidance  provided  by  the  following  broadly  accepted  bodies  and  initiatives:  (i)  the  GHG 
+Protocol (accounting basics on scope 1,2,3 emissions and direct and indirect emission reductions), (ii) the 
+UNFCCC, (iii) the IFI Framework on the Accounting of GHG Reductions. FMO accepts the following source 
+data for its calculations, in order of preference: 
+
+  First preference: project-specific data from the Validation Report (or, if not yet available, from the 
+most  recent Project Design Document), issued as part of the  project  registration under the Clean 
+Development Mechanism (CDM).  
+
+  Second preference: project-specific validated data from the Gold Standard or voluntary carbon credit 
+
+scheme (VCS), or another voluntary carbon scheme or standard with an equal assurance level. 
+
+  Third  preference:  for  electricity  producing  projects,  compare  the  project’s  estimated  power 
+production  and  the  project’s  estimated  GHG  emission  with  the  emission  from  the  same  power 
+production, using a grid emission factor endorsed by the UNFCCC or the IFI Harmonization Initiative 
+on GHG Accounting, or published by the IEA. For other projects, use dedicated methodologies or 
+independent consultant studies. 
+
+ 
+FMO calculates estimated annual GHG emission reduction based on the sum of the ex-ante estimate of 
+each  project  financed  through  direct  green  investments,  in  proportion  to  the  Sustainability  Bond 
+allocation. For example, for a EUR 100 million project with project savings of 100,000 tons of CO2eq per 
+year, if, total FMO financing is EUR 20 million and total Sustainability Bond allocation is EUR 10 million 
+(i.e., 10% of total project size), then total attribution to the Sustainability bond would be 10,000 tons of 
+CO2eq per year (i.e., 10% of total GHG savings). 
+ 
+FMO has developed metrics that measure and capture positive outcomes from inclusive finance funding, 
+namely the number of (in)direct jobs supported with its investments. 
+ 
+Reporting 
+FMO provides investors with a semi-annual newsletter highlighting the following: 
+
+  The progress on allocation of use of proceeds; 
+  Details about each project such as country of location, sector, project description and amount 
+allocated from the bond including a hyperlink to a detailed project description on FMO's website;  
+
+9 
+
+ 
+ 
+
+© Sustainalytics 2015 
+
+  A few case studies; 
+  An estimation of annual GHG emission reduction from direct green investments 
+  An estimation of the number of (in)direct jobs supported with our investments 
+
+ 
+In  addition,  FMO  has moved  towards  a  fully  integrated  annual  report  with  financial  and  non-financial 
+information including GHG emissions. FMO  has the integrated report audited by its auditors providing 
+(limited) assurance. FMO has published seven Sustainability Bond newsletters to date on its website17. 
+Additionally, the website provides detailed project information such as client info, the funding objective, 
+and the rationale for funding.  
+ 
+ 
+3.5  Compliance Review 
+On the first anniversary of each Sustainability Bond issuance, FMO will engage Sustainalytics to review 
+projects funded by the Sustainability Bond in order to assess the compliance of projects with the use of 
+proceeds criteria of the bond. Sustainalytics will review a broad sample of projects from the total allocated 
+projects  in  order  to  determine  whether  or  not  they  meet  the  use  of  proceeds  criteria  defined  in  the 
+framework. Sustainalytics will provide a report of the evaluation, which FMO may plan to disclose publicly. 
+In an unlikely event that a project did not meet the use of proceed criteria, FMO would reallocate the 
+bond funds to a different project that is aligned with the criteria. 
+
+ 
+
+ 
+17 https://www.fmo.nl/news?search=&newsType=snippet&publicationYear=&filterLabel%5B%5D=sustainability_bonds 
+
+10 
+
+ 
+ 
+
+© Sustainalytics 2015 
+
+4. SUSTAINALYTICS OPINION 
+ 
+Section 1: Sustainability Performance of the Issuer  
+ 
+Amongst the industry leaders in ESG performance  
+Of the companies that Sustainalytics tracks globally in the diversified financials industry, FMO has been 
+assessed as an industry leader compared to its industry peers. As of May 2017, the company’s total ESG 
+score places FMO in the top 10 performing companies in the Banks industry18.  In comparison to its peers, 
+the company ranks at the top of its industry based on its good performance in environmental, social, and 
+governance  issues.  Given  its  mission,  vision  and  programmes  aimed  at  creating  positive  sustainability 
+outcomes, and its industry leading ESG performance among its peers, Sustainalytics is of the opinion that 
+FMO is well positioned to issue Sustainability Bonds. 
+ 
+Due diligence efforts to evaluate environmental and social risks associated with the projects  
+FMO  performs  thorough  social  and  environmental  assessments  prior  to  providing  (direct  or  indirect) 
+financing. All projects are required to comply with strong social and environmental criteria, in alignment 
+with the strict IFC Environmental and Social Performance Standards. These standards are recognized as 
+best practice internationally, and Sustainalytics considers this due diligence level of particular importance 
+given FMO’s involvement in developing and emerging markets, where the environmental and social risks 
+associated with the projects are potentially greater.  
+In recent years, FMO has seen two of the projects financed by the bank criticized due to social impacts on 
+indigenous people. One refers to the Agua Zarca project in Honduras, and the other to the Barro Blanco 
+hydro dam in Panama. According to information on FMO’s website on these incidents, for Agua Zarca 
+project, FMO is in discussion with involved stakeholder to realize a responsible exit19, and for the Barro 
+Blanco project issues are being addressed following an agreement between the government of Panama 
+and the indigenous groups on cultural, social, economic and environmental aspects related to the hydro 
+project20. Sustainalytics recognizes that due to its focus on developing and emerging economies, FMO is 
+particularly  exposed  to  social  and  environmental  risks  associated  with  the  projects.  However, 
+Sustainalytics  considers  that  FMO’s  policies  and  due  diligence  efforts,  in  line  with  international  best 
+practices,  strengthen  the  bank’s  ability  to  address  and  mitigate  social  and  environmental  risks  in  its 
+portfolio. 
+ 
+Section 2: Impact of the use of proceeds  
+ 
+Strong internal expertise ensuring that proceeds are allocated to high-quality assets 
+FMO has developed strong internal expertise in the identification, evaluation and assessment of green 
+and socially inclusive projects and in the measurement of the impacts of these projects. When assessing 
+a project, FMO takes an in-depth and critical look at the project and follows a rigorous approval process, 
+as highlighted in section 3.2 above. This practice will enable FMO to allocate Sustainability Bond funds to 
+
+ 
+18 Sustainalytics analyses the ESG performance of 319 companies as part of the Banks industry.  
+19 https://www.fmo.nl/agua-zarca 
+20 https://www.fmo.nl/barro-blanco 
+
+11 
+
+ 
+ 
+
+© Sustainalytics 2015 
+
+high-quality and impactful assets. Furthermore, in the area of impact measurement, FMO has developed 
+internal capability to quantify GHG emission reductions, which will enable it to measure and track actual 
+positive impacts achieved by the bond. FMO's expertise in areas of project selection and measurement 
+make it highly likely that assets selected for the Sustainability Bond will have a strong impact in the areas 
+of climate change mitigation, climate change adaptation and inclusive finance. 
+ 
+Providing a positive contribution to climate change mitigation and adaptation 
+FMO defines two categories for the use of Sustainability Bond proceeds – Green and Inclusive Finance. 
+Eligibility criteria for the Green category are based on the definitions and the types of projects set forth 
+by the Multilateral Development Banks (MDBs) in the “Joint Report on MDB Climate Finance 2012.”21 The 
+MDBs’ Joint Report further breaks down the Green category into Climate Change Mitigation and Climate 
+Change Adaptation. The MDBs’ eligibility criteria for climate change mitigation are specific and detailed, 
+and by adopting these criteria FMO is providing sufficient clarity to investors regarding the intended use 
+of bond proceeds. With regard to climate change adaptation, the eligibility criteria in the Joint Report 
+include any project or activity that has a clear link to addressing climate change vulnerability. It should be 
+noted, however, that some climate change adaptation activities, such as enhancing the resilience of oil 
+and  gas  infrastructure  or  adapting  mining  practices  to  climate  change,  have  negative  sustainability 
+impacts in the long run. Excluding such projects from a Sustainability Bond that aims to provide positive 
+impact  is  therefore  necessary.  Rightly,  FMO  takes  this  extra  step  and  specifies  that  it  will  only  fund 
+adaptation projects that do not have any negative sustainability impacts. This will provide assurance to 
+investors that only positive impact activities are funded with the Sustainability Bond. 
+       
+Advancing inclusive finance in developing and emerging economies 
+With regard to Inclusive Finance, FMO is committed to provide loans to MFIs and SMEs.  Through those 
+loans,  it  specifically  targets  developing  and  emerging  economies.  In  those  countries,  it  focuses  on 
+populations  who  are  at  the  Base  of  the  Pyramid,  and  who  typically  would  benefit  from  financing 
+programmes specifically tailored to their needs and economic possibilities. FMO is diligent in its selection 
+of  SMEs  or  financial  intermediaries  that  support  lending  to  enterprises.  While  lending  to  SMEs  in 
+developing  countries  generally  has  a  positive  impact  through  its  contribution  to  local  economic 
+opportunity  and  development,  it  also  exposes  FMO  to  the  possibility  of  financing  activities  that  may 
+breach international norms, such as the use of child labour. Carrying out due diligence when selecting 
+MFIs  and  SMEs,  and  undertaking  an  annual  review  of  MFIs  to  ensure  that  their  lending  practices  are 
+compliant  with  FMO’s  policies  and  exclusionary  criteria  mentioned  in  section  3.1,  will  help  FMO  to 
+mitigate this risk. 
+ 
+Contributing to FMO’s sustainability ambition and to the advancement of the SDGs 
+Sustainalytics  considers  that  FMO’s  Sustainability  Bonds  will  positively  contribute  to  FMO’s  vision  and 
+ambition for 2020, as outlined in section 2, as well as to the advancement of the SDG agenda. Specifically, 
+the use of proceeds will be impactful for, for instance, the following SDGs:  
+
+  Goal 7: Ensure access to affordable, reliable, sustainable and modern energy for all;  
+  SDG  8:  Promote  sustained,  inclusive  and  sustainable  economic  growth,  full  and  productive 
+
+employment and decent work for all;  
+
+ 
+
+21 http://www.ebrd.com/downloads/sector/sei/climate-finance-2012.pdf 
+
+12 
+
+ 
+ 
+
+© Sustainalytics 2015 
+
+  Goal 10: Reduce inequality within and among countries; 
+  SDG 13: Take urgent action to combat climate change and its impacts.  
+
+ 
+Excellent reporting leading best practices 
+FMO’s Sustainability Bond reporting is very detailed and includes a description of each project along with 
+the  information  regarding  location,  amounts  allocated  and  relative  ESG  risk  level.  FMO  publishes  two 
+Sustainability Bond newsletters per year, providing detailed and insightful project allocation information. 
+Sustainalytics considers this to be amongst leading reporting practices. 
+ 
+Alignment with the Green Bond Principles 
+Sustainalytics has determined that FMO’s Sustainability Bond Framework aligns with the four pillars of 
+ICMA’s Green Bond Principles, 2016.  An overview of these four pillars is provided in Appendix 5: Green 
+Bond Programme External Review Form.  
+ 
+ 
+Conclusion  
+Sustainalytics considers that FMO is well positioned to issue Sustainability Bonds. The proceeds will be 
+directed  towards  climate  change  mitigation  and  adaptation  activities,  and  towards  inclusive  finance, 
+contributing to FMO’s vision, sustainability targets and to advancing the Sustainable Development Goals. 
+FMO has outlined a clear decision-making process to evaluate and select eligible projects to be financed 
+by Sustainability Bonds’ proceeds. This evaluation is supported by a thorough social and environmental 
+assessments prior to providing (direct or indirect) financing to all its projects. Sustainalytics considers this 
+due  diligence  level  of  particular  importance  given  FMO’s  involvement  in  developing  and  emerging 
+markets, where the environmental and social risks associated with the projects are potentially greater. 
+FMO’s  reporting  is  very  detailed  and  transparent,  which  will  provide  investors  clarity  about  the  bond 
+investments. In addition, FMO has engaged Sustainalytics to provide an annual compliance review on each 
+bond issued under the framework, which will provide additional assurance that the bond is fully compliant 
+with eligibility criteria. 
+ 
+Sustainalytics considers that FMO’s Sustainability Bond framework follows the guidance provided by the 
+Green Bond Principles 2016 and is in alignment with the Principles’ four components: the use of proceeds, 
+project evaluation and selection process, management of proceeds and reporting.  
+ 
+Based on the above points, Sustainalytics considers FMO’s Sustainability Bond to be robust, credible and 
+transparent. 
+ 
+
+ 
+
+ 
+ 
+
+13 
+
+© Sustainalytics 2015 
+
+5. APPENDICES 
+ 
+APPENDIX  1:    FMO  Environmental  and  Social  approach  –  integrated  in  FMO’s 
+Sustainability Policy 
+ 
+Direct investments 
+Risk Categorization   
+All new and existing clients for FMO are subject to a Risk Categorization of their (potential) Environmental 
+and Social impacts. There are four risk categories A, B+, B and C: 
+ 
+A = high risk:  Projects / clients with potential significant adverse social or environmental impacts which 
+are diverse, irreversible or unprecedented. 
+B+ = medium high risk:  Clients with potential adverse social or environmental impacts that are generally 
+beyond  the  site  boundaries,  largely  reversible  and  can  be  addressed  through  relevant  mitigation 
+measures.  
+B = medium risk:  Clients with potential limited adverse social or environmental impacts that are few in 
+number, generally site-specific, largely reversible and readily addressed through mitigation measures.  
+C = low risk:  Projects with minimal or no adverse social or environmental Impacts. 
+ 
+The categorization of clients into the A, B+, B, or C category is largely based on an assessment against the 
+applicable  IFC  Environmental  and  Social  Performance  Standards.  At  the  same  time,  FMO  cooperates 
+closely with the European Development Finance Institutions (EDFI’s) with the purpose to harmonize its 
+definitions and requirements.  
+ 
+Applicable requirements   
+For direct investment clients in category A and B+, an assessment of the E&S practices is required as part 
+of FMO’s due diligence. All FMO’s higher risk clients are required to implement an Environmental and 
+Social Management System (ESMS). This ESMS is customized for each type of client. Below table provides 
+an overview of the minimum requirements per category of company.     
+
+ 
+
+Direct Investments 
+
+Risk / impact 
+IFC Performance 
+Standards (PS) 
+
+Requirements 
+
+A 
+
+High 
+
+Often project finance 
+with PS 1-4 triggered 
+as well as high risk 
+aspects (PS 5-8) 
+
+ 
+
+- IFC Performance 
+Standards  
+- ESAP (usually) 
+
+B+ 
+
+Medium / high 
+
+Often corporate 
+finance with PS 1-4 
+triggered, and  
+potentially high risk 
+aspects (PS 5-8)  
+ 
+-IFC Performance 
+standards  
+-ESAP (if necessary) 
+ 
+
+B 
+
+Medium 
+
+Corporate in medium 
+risk sector PS 1-3 
+
+C 
+
+Low 
+
+Corporate 
+in low risk 
+sector 
+
+-IFC Performance 
+Standards  
+-ESAP (on request) 
+
+-National 
+Law  
+-No ESAP  
+ 
+
+ 
+ 
+
+14 
+
+© Sustainalytics 2015 
+
+ 
+Methodology:  Environmental and Social Action Plans 
+Based on the outcomes of the assessment carried out, an Environmental and Social Action Plan (ESAP) 
+will  be  agreed  upon  as  necessary,  with  clear  and  practical milestones  to  be  achieved  within  a  certain 
+period of time. The ESAP would normally allow clients a three-year period at the maximum to reach full 
+compliance with the requirements. For clients in category B and C, no in-depth assessment is required. 
+However, on a voluntary basis FMO tries to identify potential value creation that can be achieved with 
+these clients. 
+ 
+The ESAP is, in cooperation with the client, made “SMART”, i.e. Specific, Measurable, Achievable, Realistic 
+and Time-Bound, and included in the loan documentation. Non-compliance with key milestones of the 
+ESAP constitutes an event of default under the loan documentation. For FMO’s direct equity transactions, 
+the  ESAP  shall  be  firmly  agreed  and  the  E&S  principles  to  be  applied  by  the  company  shall  be  firmly 
+constituted  in  the  Shareholders  Agreement.  The  ESAP  shall  be  under  implementation  before 
+disbursement of FMO’s funds. 
+ 
+Effective implementation of the ESAP adds value to the client, it mitigates E&S risks and it contributes to 
+E&S development impact that FMO achieves through its financing.  
+ 
+Indirect Investments 
+For financial institution (FI) clients and private equity funds (PEF) in which FMO invests, it focuses on how 
+they address the environmental and social risk in their portfolios. Depending on the risk category, FMO 
+expects the FIs and PEFs to apply certain environmental and social standards when financing or investing 
+in  their  clients.  This  entails  that,  FIs  and  PEFs  will  be  required  to  establish  and  maintain  an  E&S 
+Management System to ensure that their investments meet (or over time become compliant with) FMO’s 
+requirements. The level of detail and sophistication of this management system and of the monitoring 
+approach will depend on the E&S risk profile of the FI / PEF and the type of financing that they provide.  
+In  the  table  below,  the  risk  categorisation  for  FIs  and  PEFs  is  presented,  together  with  the  applicable 
+requirements. 
+ 
+
+ 
+ 
+
+15 
+
+© Sustainalytics 2015 
+
+Indirect 
+
+Investments: 
+
+Financial 
+
+Institutions 
+
+Risk / 
+impact 
+
+BASIC CRITERIA 
+
+FI-A 
+
+High 
+
+FI-B 
+
+Medium 
+
+FI-C 
+
+Low 
+
+High E&S risk sector exposure is 
+> 20% 
+ 
+
+High E&S risk sector exposure is 
+< 20% 
+ 
+
+Retail or micro 
+businesses exposure is > 
+80% 
+ 
+
+Upgrade category if one of the criteria below is applicable: 
+
+  Exposure to IFC PS-triggered transactions is > 10% of total loan portfolio or > USD 
+
+300mln  
+Specific E&S challenges increase the FI-Clients E&S risk profile 
+
+ 
+
+UP- OR 
+DOWNGRADE 
+CRITERIA 
+
+ 
+ 
+Downgrade category if one of the criteria below is applicable:  
+
+Short-term (< 12 months) financing is > 75% 
+
+ 
+  Average loan size or financial engagement of the FI-Client is < EUR 25.000 
+
+ 
+
+ 
+
+Footnotes: 
+1.  Portfolio: Percentages refer to total loan portfolio volume 
+2.  High E&S Risk Sector: determined based on EDFI High E&S Risk Sector List 
+3. 
+
+IFC PS-triggered transactions: Project finance and corporate loans related to project finance (total project 
+size USD ≥ 10m / ≥36 months tenor) 
+
+4.  E&S challenges: country specific E&S issues (Indigenous people / Land rights / Water / Deforestation), 
+
+negative NGO / Media attention 
+
+Indirect 
+
+Investments: 
+
+Financial 
+
+Institutions 
+
+BASIC 
+REQUIREMENTS 
+
+CATEGORY-
+BASED 
+REQUIREMENTS 
+
+ 
+
+ 
+ 
+
+FI-A 
+
+FI-B 
+
+FI-C 
+
+-  Apply Exclusion List to FI-Client’s loan and investment portfolio (Annex 3) 
+-  Compliance with IFC PS 2 – Labour and Working Conditions (material issues) 
+-  Compliance of FI-Client and its clients (loan portfolio) with local E&S regulation 
+-  Annual portfolio sector overview / composition  
+Scope 
+-  ESMS covering at minimum 
+
+Scope 
+-  ESMS covering IFC PS-
+
+-  CPP Requirements 
+
+IFC PS-triggered 
+transactions, high E&S risk 
+sectors and country-specific 
+sensitive issues 
+
+Application 
+- 
+
+- 
+
+IFC PS framework is applied 
+to IFC PS-triggered 
+transactions 
+Transactions with country-
+specific sensitive issues will 
+
+- 
+
+triggered transactions and 
+country-specific sensitive 
+issues 
+
+Application 
+- 
+
+IFC PS framework is applied 
+to IFC PS-triggered 
+transactions 
+Transactions with country-
+specific sensitive issues will 
+be addressed through IFC 
+
+16 
+
+© Sustainalytics 2015 
+
+PS or an approach tailor-
+made to address risks in 
+the local context 
+
+Additional  
+-  E&S tracking Management 
+
+Information System 
+
+-  Annual E&S Monitoring 
+
+Report 
+
+be addressed through IFC 
+PS or an approach tailor-
+made to address risks in 
+the local context 
+Clients in the high E&S risk 
+sectors will adhere to local 
+E&S regulation 
+
+- 
+
+Additional  
+-  E&S tracking Management 
+
+Information System 
+
+-  Annual E&S Monitoring 
+
+Report  
+
+Indirect 
+
+Investments: 
+Private Equity 
+
+Funds 
+
+Risk / impact 
+PEF Criteria for 
+Categorization 
+
+Fund 
+Requirements 
+
+PEF-A 
+
+High 
+
+PEF-B 
+
+Medium 
+
+>15% Investee companies in 
+high risk sectors  
+
+<15% Investee companies in 
+high risk sectors 
+
+-Apply exclusion list 
+- Commit to E&S Investment 
+Code before first investment 
+- ESMS based on IFC PS for high 
+risk clients 
+-ESMS ready before first 
+investment 
+
+- Apply exclusion list 
+- Commit to E&S Investment 
+Code before first investment 
+- ESMS based on IFC PS for high 
+risk clients 
+-ESMS ready before first 
+investment 
+
+Investee 
+Company 
+Requirements 
+
+-  National Law and ILO core 
+
+- 
+
+conventions. 
+
+ National Law and ILO core 
+conventions. 
+
+-  Work to ultimately comply 
+
+-  Work to ultimately comply 
+
+with IFC PS (for high risk 
+investee companies only) 
+Policy for continuous 
+improvement 
+
+- 
+
+with IFC PS (for high risk 
+investee companies only) 
+Policy for continuous 
+improvement  
+
+- 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+PEF-C 
+
+Low 
+
+In principle 
+Investments in low 
+risk sectors only 
+- Apply exclusion list 
+- Commit to E&S 
+Investment Code 
+before first 
+investment 
+- ESMS based on IFC 
+PS for high risk clients 
+-ESMS ready before 
+first investment 
+-  National Law and 
+
+ILO core 
+conventions. 
+
+-  Work to 
+
+ultimately comply 
+with IFC PS (for 
+high risk investee 
+companies only) 
+Policy for 
+continuous 
+improvement  
+
+- 
+
+17 
+
+© Sustainalytics 2015 
+
+Methodology: Environmental and Social Action Plans 
+For those FIs where an ESMS is required, an action plan can be agreed upon with timelines for the 
+various elements (policy, training, procedures and full implementation). The Environmental and Social 
+Action Plan (ESAP) is to be agreed upon as necessary, with clear and practical milestones to be achieved 
+within a certain period of time. 
+  
+ 
+
+ 
+
+ 
+ 
+
+18 
+
+© Sustainalytics 2015 
+
+APPENDIX 2: Eligible activities under climate change mitigation and adaptation 
+(Source MDB)  
+ 
+2a: Eligible activities under climate change mitigation 
+ 
+Energy efficiency 
+ 
+
+Commercial and 
+residential buildings 
+
+Public services 
+
+ 
+ 
+
+Energy-efficiency improvement in lighting, appliances and equipment 
+Substitution of existing heating/cooling systems for buildings by cogeneration 
+plants that generate electricity in addition to providing heating/cooling 
+
+  Retrofit of existing buildings: Architectural or building changes that enable 
+
+reducing energy consumption 
+
+  Waste heat recovery improvements 
+ 
+
+Energy-efficiency improvement in utilities and public services through the 
+installation of more efficient lighting or equipment 
+
+  Rehabilitation of district heating systems 
+  Utility heat loss reduction and/or increased waste heat recovery 
+ 
+
+Improvement in utility scale energy efficiency through efficient energy use, and 
+loss reduction. 
+
+Agriculture 
+
+  Reduction in energy use in traction (e.g. efficient tillage), irrigation, and other 
+
+Industry 
+
+ 
+
+Transmission and 
+distribution systems 
+
+Power plants 
+
+Construction of new 
+buildings 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+agriculture processes 
+Industrial energy-efficiency improvements through the installation of more 
+efficient equipment, changes in processes, reduction of heat losses and/or 
+increased waste heat recovery 
+Installation of cogeneration plants 
+
+ 
+  More efficient facility replacement of an older facility (old facility retired) 
+  Retrofit of transmission lines or substations to reduce energy use and/or 
+
+technical losses, excluding capacity expansion 
+
+  Retrofit of distribution systems to reduce energy use and/or technical losses, 
+
+ 
+
+excluding capacity expansion 
+Improving existing systems to facilitate the integration of renewable energy 
+sources into the grid 
+
+  Renewable energy power plant retrofits 
+ 
+ 
+
+Energy-efficiency improvement in existing thermal power plant 
+Thermal power plant retrofit to fuel switch from a more GHG-intensive fuel to a 
+different, less GHG-intensive fuel type 
+
+  Waste heat recovery improvements 
+  Use of highly efficient architectural designs or building techniques that enable 
+
+reducing energy consumption for heating and air conditioning, exceeding 
+available standards and complying with high energy efficiency certification or 
+rating schemes 
+
+19 
+
+© Sustainalytics 2015 
+
+Renewable Energy 
+ 
+
+Electricity generation 
+
+Transmission systems, 
+greenfield 
+
+Heat production or 
+greenfield 
+
+ 
+ 
+Transport 
+ 
+
+Vehicle energy efficiency 
+fleet retrofit 
+Urban transport modal 
+change 
+Urban development 
+
+ 
+
+ 
+
+lnter-urban transport 
+and freight transport 
+
+Solar power (concentrated solar power, photovoltaic power) 
+
+  Wind power 
+  Geothermal power, if net emission can be demonstrated 
+ 
+  Biomass or biogas power that does not decrease biomass and soil carbon pools 
+  Ocean power (wave, tidal, ocean currents, salt gradient, etc.) 
+  Hydropower plants only if net emission reduction can be demonstrated 
+  New transmission systems (lines, substations) or new systems (e.g., new 
+
+information and communication technology, storage facility, etc.) to facilitate 
+the integration of renewable energy sources into the grid 
+Solar water heating and other thermal applications of solar power in all sectors 
+Thermal applications of geothermal power in all sectors 
+Thermal applications of sustainably-produced bioenergy in all sectors, including 
+
+ 
+ 
+ 
+
+ 
+
+Existing vehicles, rail or boat fleet retrofit or replacement (including the use of 
+lower-carbon fuels, electric or hydrogen technologies, etc.) 
+
+  Urban mass transit 
+  Non-motorized transport (bicycles and pedestrian mobility) 
+ 
+
+Integration of transport and urban development planning (dense development, 
+multiple land-use, walking communities, transit connectivity, etc.), leading to a 
+reduction in the use of passenger cars 
+Transport demand management measures to reduce GHG emissions (e.g., speed 
+limits, high-occupancy vehicle lanes, congestion charging/road pricing, parking 
+management, restriction or auctioning of license plates, car-free city areas, low-
+emission zones) 
+Improvement of general transport logistics to increase energy efficiency of 
+infrastructure and transport, e.g. reduction of empty running 
+
+  Railway transport ensuring a modal shift of freight and/or passenger transport 
+
+from road to rail (improvement of existing lines or construction of new lines) 
+
+  Waterways transport ensuring a modal shift of freight and/or passenger 
+
+transport from road to waterways (improvement of existing infrastructure or 
+construction of new infrastructure) 
+
+ 
+ 
+Agriculture, forestry and land use 
+ 
+
+Afforestation 
+(plantations) on non-
+forested land 
+Reducing emissions 
+from the deforestation 
+
+  Afforestation (plantations) on non-forested land 
+  Reforestation on previously forested land 
+
+  Biosphere conservation projects (including payments for ecosystem 
+
+services) 
+
+ 
+ 
+
+20 
+
+© Sustainalytics 2015 
+
+or degradation of 
+ecosystems 
+Sustainable forest 
+management 
+Agriculture 
+
+ 
+
+Forest management activities that increase carbon stocks or reduce the impact 
+of forestry activities 
+
+  Agriculture projects that do not deplete and/or improve existing carbon pools 
+
+Livestock 
+
+ 
+ 
+Waste and wastewater 
+ 
+
+Waste and wastewater 
+ 
+
+ 
+
+ 
+
+ 
+
+(Reduction in fertilizer use, rangeland management, collection and use of 
+bagasse, rice husks, or other agricultural waste, low tillage techniques that 
+increase carbon contents of soil, rehabilitation of degraded lands, etc.) 
+Livestock projects that reduce methane or other GHG emissions (manure 
+management with biodigestors, etc.) 
+
+Solid waste management that reduce methane emissions (e.g. incineration of 
+waste, landfill gas capture, and landfill gas combustion) 
+Treatment of wastewater if not a compliance requirement (e.g. performance 
+standard or safeguard) as part of a larger project 
+
+  Waste recycling projects that recover or reuse materials and waste as inputs into 
+
+new products or as a resource 
+
+ 
+ 
+Non-energy GHG reductions 
+ 
+
+Industrial processes 
+
+  Reduction in GHG emissions resulting from industrial process improvements and 
+
+cleaner production (e.g. cement, chemical) 
+
+  Retrofit of existing industrial, commercial and residential infrastructure to switch 
+
+to cooling agent with lower global warming potential 
+Carbon capture and storage projects (including enhanced oil recovery) 
+
+ 
+  Reduction of gas flaring or methane fugitive emissions in the oil and gas industry 
+ 
+
+Coal mine methane capture 
+
+Air conditioning and 
+cooling 
+Fugitive emissions and 
+carbon capture 
+
+ 
+Cross-sector activities 
+ 
+
+Policy and regulation 
+
+ 
+ 
+
+ 
+ 
+
+  National mitigation policy/planning/institutions 
+ 
+
+Energy sector policies and regulations 
+(energy efficiency standards or 
+certification schemes; energy efficiency 
+procurement schemes; renewable energy 
+policies) 
+Systems for monitoring the emissions of greenhouse gases 
+Efficient pricing of fuels and electricity (subsidy rationalization, efficient end-user 
+tariffs, and efficient regulations on electricity generation, transmission, or 
+distribution) 
+
+21 
+
+© Sustainalytics 2015 
+
+Energy audits 
+
+Supply chain 
+
+Financing instruments 
+
+Low-carbon 
+technologies 
+
+Activities with 
+greenhouse gas 
+accounting 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Education, training, capacity building and awareness raising on climate change 
+mitigation/sustainable energy/sustainable transport; mitigation research 
+Energy audits to energy end-users, including industries, buildings, and transport 
+systems 
+Improvements in energy efficiency and GHG reductions in existing product supply 
+chains 
+Carbon markets and finance (purchase, sale, trading, financing, guarantee and 
+other technical assistance). Includes all activities related to compliance-grade 
+carbon assets and mechanisms, such as Clean Development Mechanism (CDM), 
+Joint Implementation (JI), Assigned Amount Units (AAUs), as well as well-
+established voluntary carbon standards like the Verified Carbon Standard (VCS) 
+or the Gold Standard. 
+
+  Renewable energy and energy efficiency financing through financial 
+
+intermediaries or similar (e.g. earmarked lines of credit; lines for microfinance 
+institutions, cooperatives, etc.) 
+
+  Research and development of renewable energy or energy efficiency 
+
+technologies 
+
+  Manufacture of renewable energy and energy efficiency technologies and 
+
+products 
+
+  Any other activity not included in this list for which the results of an ex-ante 
+
+greenhouse gas accounting (undertaken according to commonly agreed 
+methodologies) show emission reductions that are higher than a commonly 
+agreed threshold 
+
+ 
+ 
+2b: A few examples of climate change adaptation activities 
+ 
+
+Adaptation Category  Potential Risk 
+
+Adaptation Activity 
+
+Water resources  
+
+Urban development 
+
+(Waste) water 
+infrastructure 
+
+Water resources reduction in river water 
+levels due to reduced rainfall  
+ 
+Increased urban flooding from 
+extreme rainfalls 
+ 
+Increased groundwater salinity due to sea 
+level rise and/or coastal flooding 
+ 
+
+ 
+
+Improved catchment management planning 
+and regulation of abstraction 
+
+Asset review to identify assets vulnerable to 
+increased flooding, then prioritise protection 
+works 
+Provision of microfinance for domestic 
+rainwater harvesting equipment and storage 
+
+22 
+
+ 
+
+ 
+ 
+
+© Sustainalytics 2015 
+
+APPENDIX 3: Process to select green and inclusive finance projects 
+ 
+Function 
+A 
+Treasury officer  
+ 
+ 
+  
+
+  Runs a project disbursement report (e.g. Dashboard) based 
+on the green and inclusive finance labels in ACBS (stage 1) 
+  Provides  Director  Financial  Markets  (FM),  Director  Risk 
+ 
+Management (RM) and Manager Sustainability (SUS) with 
+the report 
+
+Frequency and Output 
+Frequency  
+
+      Semi-Annually 
+
+Output 
+
+Activity 
+
+ 
+
+  
+
+     Report  on  eligible  green  and  financial 
+
+inclusion disbursements 
+
+Director FM 
+
+  Organizes a meeting together with Manager SUS, Director 
+
+RM and relevant Front-Office Directors. 
+
+  Determines  based  on  report  which  green  and  inclusive 
+
+finance projects are eligible for the sustainability bond. 
+
+Treasury Officer  
+  
+
+  Sends  list  of  projects  to  be  tagged  to  the  Sustainability 
+
+bonds (ISIN codes) outstanding to the Mid-Office.  
+
+Input  
+Report on eligible  green and inclusive 
+disbursements 
+ 
+Output 
+List  of  disbursements  to  be  tagged  to 
+the Sustainability Bond 
+Input  
+
+    List  of  disbursements  to  be  tagged  to  
+
+the Sustainability Bond 
+ 
+Output 
+
+      Identification of eligible assets in ACBS 
+
+Mid-Office 
+Officer 
+
+  Enters  the  ISIN  code  in  ACBS  for  the  disbursements  to 
+
+applicable disbursements 
+
+Treasury officer  
+ 
+  
+
+  Provides  report  with  earmarked  green  and  inclusive 
+projects  to  Asset  and  Liability  Committee  (ALCO)  for 
+information. 
+
+  Prepares newsletter with earmarked projects for investors 
+together  with  Marketing  &  Communications  on  a  semi-
+annual basis. 
+
+  
+
+Output  
+Report 
+projects 
+ 
+
+for  ALCO  on  earmarked 
+
+M&C Officer  
+  
+
+  Ensures detailed project disclosure for earmarked projects 
+on the external website in line with FMO's disclosure policy 
+  Publishes  Sustainability  Bond  newsletter  on  the  external 
+
+ Output  
+Semi-Annual  newsletter  for  investors 
+(progress report) 
+
+website 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+23 
+
+© Sustainalytics 2015 
+
+APPENDIX 4: Documents reviewed 
+The table below provides an overview of all documents on which this second opinion is based. 
+ 
+
+Title 
+
+Comments 
+
+Approved  Green  Definition 
+Proposal (dated 2 October 2014) 
+Eligible  Projects 
+for  Other 
+Footprint  Category  (dated  20 
+August 2014) 
+Inclusive Finance 
+
+IFC Special Climate Definition 
+Sustainability Bond newsletters 
+Strategy documentation 
+FMO  Environmental  and  Social 
+Policy 
+MDB  Climate  Finance  report 
+Nov 2013 
+Final terms Sustainability Bond  
+Annual Report 2016 
+FMO’s website 
+FMO Sustainability Policy 
+FMO Investment Criteria 
+(February 2017) 
+IFC’s Fact sheet: SME Loan Size 
+Proxy 
+
+Outlines  FMO’s  definition  of  “green”,  and  criteria  and  eligible 
+projects related to climate change adaptation and mitigation 
+Outlines eligible projects that would qualify as “green” that fall 
+outside of climate change mitigation and adaptation projects 
+
+Outlines FMO’s definition of inclusive finance and criteria  and 
+eligible inclusive finance projects 
+ 
+Sustainability Bond newsletters provided on the website 
+ 
+ 
+
+ 
+
+Transaction details of FMO’s inaugural Sustainability Bond 
+ 
+ 
+ 
+ 
+
+Definition of Micro, Small, and Medium-size Enterprises 
+
+ 
+
+24 
+
+Document 
+# 
+1 
+
+2 
+
+3 
+
+4 
+5 
+6 
+7 
+
+8 
+
+9 
+10 
+11 
+12 
+13 
+
+14 
+
+ 
+ 
+ 
+
+ 
+ 
+
+© Sustainalytics 2015 
+
+Disclaimer 
+All rights reserved. No part of this second party opinion (the “Opinion”) may be reproduced, transmitted 
+or published in any form or by any means without the prior written permission of Sustainalytics.  
+  
+The Opinion was drawn up with the aim to explain why the analyzed bond is considered sustainable and 
+responsible. Consequently, this Opinion is for information purposes only and Sustainalytics will not 
+accept any form of liability for the substance of the opinion and/or any liability for damage arising from 
+the use of this Opinion and/or the information provided in it. 
+  
+As the Opinion is based on information made available by the client, Sustainalytics does not warrant that 
+the information presented in this Opinion is complete, accurate or up to date. 
+  
+Nothing contained in this Opinion shall be construed as to make a representation or warranty, express or 
+implied, regarding the advisability to invest in or include companies in investable universes and/or 
+portfolios. Furthermore, this Opinion shall in no event be interpreted and construed as an assessment of 
+the economic performance and credit worthiness of the bond, nor to have focused on the effective 
+allocation of the funds’ use of proceeds. 
+  
+The client is fully responsible for certifying and ensuring its commitments` compliance, implementation 
+and monitoring. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+30 
+
+

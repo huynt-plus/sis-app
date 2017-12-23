@@ -1,0 +1,1093 @@
+Castellum Green Bond Framework 
+
+OVERVIEW AND SECOND OPINION BY SUSTAINALYTICS 
+
+September 7, 2016 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+© Sustainalytics 2016 
+ 
+ 
+
+TABLE OF CONTENTS 
+
+OVERVIEW AND SECOND OPINION BY SUSTAINALYTICS 
+
+INTRODUCTION 
+
+EXECUTIVE SUMMARY 
+1. 
+2.  FRAMEWORK OVERVIEW 
+2.1  Introduction 
+2.2  Castellum’s Sustainability Profile 
+2.3  Castellum’s Green Bond 
+2.3.1 Use of Proceeds 
+2.3.2 Process for Project Evaluation and Selection 
+2.2.3 Management of Proceeds 
+2.2.4 Impact Reporting 
+3.  Sustainalytics’ Opinion 
+Appendix I: Real Estate Certification Systems - Miljöbyggnad Standards and BREEAM Standards 
+
+Comparison 
+
+Appendix II: ESG Analysis 
+Appendix III: Adherence to the Green Bond Principles 2016 
+
+About Sustainalytics 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+0 
+2 
+2 
+3 
+3 
+3 
+3 
+3 
+4 
+4 
+5 
+6 
+
+10 
+14 
+15 
+
+20 
+
+1 
+
+© Sustainalytics 2016 
+ 
+ 
+
+EXECUTIVE SUMMARY  
+Castellum, an industry leader in environmental, social, and governance (ESG) management in the 
+real  estate  sector  as  per  Sustainalytics’  ESG  ratings,  has  elected  to  develop  a  Green  Bond 
+Framework for the future issuance of interest bearing notes with added environmental criteria. 
+The  proceeds  will  be  allocated towards  the development  and  acquisition  of  new and  existing 
+commercial real estate projects with a minimum certification level of BREEAM Excellent (for new 
+assets) or BREEAM Very Good (for existing assets), or Miljöbyggnad Silver. The use of the BREEAM 
+and  Miljöbyggnad  certification  schemes  ensures  strong  sustainability  performance,  and 
+Castellum has committed to certification levels that represent demonstrable improvements from 
+the  baseline  of  local  regulation.  In  addition,  Castellum  commits  within  the  Green  Bond 
+Framework to high levels of transparency concerning the management of proceeds as well as 
+annual reporting, including key impact metrics such as energy consumption, water usage and 
+water footprint. As a result, investors will easily be able to verify that the proceeds have been 
+allocated  only  towards  projects  that  meet  the  eligibility  criteria,  and  track  the  environmental 
+impact of the use of proceeds. Overall, the Framework exceeds the requirements of the Green 
+Bond  Principles  with  the  management  of  proceeds  and  reporting,  and  fully  aligns  with  the 
+principles with regards to the use of proceeds and project selection. Furthermore, according to 
+Sustainalytics  research,  Castellum  ranks  in  the  top  2%  on  sustainability  performance  among 
+peers in the real estate industry globally and this framework aligns well with overall sustainability 
+objectives of the company. Based on the above considerations, Sustainalytics is of the view that 
+Castellum’s Green Bond Framework is strong and credible. 
+ 
+
+1.  INTRODUCTION  
+
+Castellum intends to issue a series of interest bearing notes with added environmental criteria 
+(hereafter,  the  Green  Bonds)  via  its  domestic  medium  term  note  program  (MTN).  Castellum 
+engaged  Sustainalytics  to  provide  a  second  party  opinion  on  its  Green  Bond  Framework.  
+Sustainalytics is the largest independent provider of sustainability research, analysis, and services 
+to investors and other financial institutions globally. Sustainalytics’ opinion intends to provide an 
+assessment  of  the  framework’s  alignment  with  the  Green  Bond  Principles1  as  well  as  assess 
+Castellum’s overall sustainability performance and its alignment with the framework.  To come 
+to its opinion, Sustainalytics held conversations with members of Castellum’s Sustainability and 
+Finance departments to understand the sustainability impact of their business processes, and to 
+understand the use and management of proceeds for the company’s issuance of Green Bonds. 
+Sustainalytics  also  reviewed  public  and  internal  documents  from  Castellum.  This  document 
+contains two sections: Framework Overview – a summary of Castellum’s Green Bond Framework; 
+and Sustainalytics’ Opinion – an opinion of the framework.  
+
+ 
+
+1  The  Green  Bond  Principles  are  voluntary  process  guidelines  that  recommend  transparency  and  disclosure  and  promote  integrity  in  the 
+development of the Green Bond market. They provide issuers guidance on the key components involved in launching a credible Green Bond 
+and aid investors by ensuring availability of information necessary to evaluate the environmental impact of their Green bond investments.  
+
+ 
+
+2 
+
+© Sustainalytics 2016 
+ 
+ 
+
+2.  FRAMEWORK OVERVIEW  
+
+ 
+2.1 Introduction  
+Castellum is a major Swedish-based real estate company with its headquarters in Gothenburg, 
+Sweden.  Castellum  AB,  the  parent  company  in  the  Castellum  Group  (“Castellum”),  has 
+subsidiaries operating in five regions: West, Stockholm, Central, North and Oresund. Castellum 
+was founded in the 1990s and is listed on Nasdaq Stockholm stock exchange.  Castellum develops 
+and rents office and retail properties as well as warehouse and industrial properties. As of end 
+of June 2016, Castellum’s real estate portfolio compromised 742 properties with a total lettable 
+area of approximately 4,700,000 square meters and a fair value of approximately SEK 72 billion. 
+  
+2.2 Castellum’s Sustainability Profile  
+Castellum has a strong sustainability policy and environmental management system, which align 
+with best practice. The company is a member of the Swedish Green Building Council (SGBC) and 
+has outlined targets for green buildings in its Sustainability Policy. Castellum commits to have all 
+new constructions and reconstructions environmentally certified and 30% of its portfolio to be 
+certified by 2017. The company’s Sustainability Policy includes a focus on reducing its utilization 
+of natural resources, including a target to decrease its energy use by 30% until 2017 compared 
+to a 2007 baseline and source 90% of its energy from renewable sources. Castellum has a group-
+wide Head of Sustainability and its board has oversight of the company’s Sustainability Policy. In 
+2015, Castellum was awarded the World Green Building Council’s highest distinction Business 
+Leadership  in  Sustainability,  which  awards  companies  exhibiting  best  practice  in  sustainable 
+construction and projects. It has also earned the Green Star 2015, an award issued by the Global 
+Real  Estate  Sustainability  Benchmark,  an  organization  assessing  the  ESG  performance  of  real 
+estates.  
+ 
+2.3 Castellum’s Green Bond 
+Castellum intends to issue a series of interest bearing notes with added environmental criteria 
+(hereafter,  the  Green  Bonds)  via  its  domestic  medium  term  note  program  (MTN).  The  net 
+proceeds of the issuance of Green Bonds will be used to finance both the development and/or 
+acquisition of new real estate assets and existing real estate assets. All projects financed by Green 
+Bonds  proceeds  must  comply  with  Castellum’s  Process  for  Project  Evaluation  and  Selection, 
+which outlines the eligibility criteria. The following sections summarize Castellum’s Green Bond 
+Framework with respect to the use of proceeds, project selection, the management of proceeds, 
+and reporting.  
+ 
+2.3.1  Use of Proceeds 
+The proceeds of the notes issued by Castellum will be used to finance projects that fall under the 
+categories outlined below.  
+ 
+
+ 
+
+3 
+
+© Sustainalytics 2016 
+ 
+ 
+
+  Development and/or acquisition of new real estate assets  
+  Existing real estate assets (on-going reconstruction, recently acquired or otherwise 
+
+completed and existing real estate assets)  
+
+ 
+For  both  project  categories  above,  the  Green  Bonds  proceeds  must  comply  with  Castellum’s 
+Process for Project Evaluation and Selection as well as the eligibility criteria of Castellum’s “Green 
+Terms” outlined in the next section.  
+ 
+
+2.3.2  Process for Project Evaluation and Selection  
+
+To be funded through the use of proceeds, the real estate projects must meet the following 
+eligibility criteria:  
+ 
+
+1.  Projects falling under the development and/or acquisition of new real estate assets will 
+require  a)  a  design  stage  certification  or  b)  an  in-use  certification  of  at  least  (A) 
+Miljöbyggnad Silver or (B) BREEAM Excellent.  
+ 
+
+2.  Projects falling under existing real estate assets will require a) a design stage certification 
+or b) an in-use certification of at least (A) Miljöbyggnad Silver or (B) BREEAM Very Good. 
+The design stage certification will be applicable when reconstructing existing assets.  
+
+ 
+Miljöbyggnad  is  a  Swedish  certification  system  used  for  both  residential  and  commercial 
+buildings  in  Sweden.  It  has  four  areas  of  assessment  (energy,  indoor  environment,  chemical 
+substances, specific environmental demands), spanning 15 indicators overall. The Miljöbyggnad 
+Silver standard sets minimum requirements across the four areas of assessment that go above 
+legal compliance in Sweden. In comparison, BREEAM has 10 areas of assessment and buildings 
+are examined on 50 indicators. For a full overview of the two standards, please see Appendix I.  
+ 
+The  process  for  project  evaluation  and  the  selection  is  overseen  by  both  the  Sustainability 
+Department  and  the  Finance  Department.  The  Sustainability  Department  tracks  and  reviews 
+Castellum’s  environmentally  certified  real  estate  assets  and  will  identify  eligible  projects  and 
+assets meeting the criteria outlined above. The decision to finance eligible projects and assets 
+with net proceeds from the issuance of Green Bonds will be made in cooperation with the Group 
+Finance  Department,  which  is  responsible  for  the  allocation  of  the  net  proceeds  from  the 
+issuance  of  Green  Bonds  to  the  relevant  eligible  projects  and  assets  according  to  Castellum’s 
+“Green Terms”.  
+ 
+
+2.2.3  Management of Proceeds  
+
+Green Bond net proceeds will be credited to a separate account, which disallows fungibility with 
+other funds and enables strong monitoring and tracking of the use of proceeds. Castellum will 
+keep a record of the purpose of the transfers on the separate account. Any payment or transfer 
+from the account is only allowed when financing eligible projects and assets that have met the 
+
+ 
+
+4 
+
+© Sustainalytics 2016 
+ 
+ 
+
+applicable  criteria  or  to  repay  a  Green  Bond.  Castellum’s  Group  Finance  Department  will  use 
+intra-group loans, including specifications on the explicit use of proceeds to projects and assets, 
+when allocating the net proceeds from the issuance of Green Bonds to subsidiaries owning the 
+eligible projects and/or assets. In case the account has a positive balance, the unallocated funds 
+may be invested in short-term interest bearing securities pending investment in eligible projects 
+and  assets.  Allowed  investments  are  Swedish  treasury  bills  and  highly  rated  short-term  bank 
+notes (A+ rating from S&P or equivalent rating from Moody’s or Fitch).  
+ 
+
+2.2.4 
+
+Impact Reporting  
+
+Castellum will report on estimated impact in the following areas:  
+
+  environmental certification  
+  energy consumption (disclosed by absolute consumption in kWh and intensity in kWh 
+
+per square meter) 
+
+  water usage (disclosed by absolute consumption in m3 and intensity in m3 per square 
+
+meter) 
+
+  carbon footprint (disclosed by absolute emissions in tons and intensity in tons per 
+
+square meter) 
+
+  purchased renewable energy (disclosed by absolute consumption in kWh and intensity 
+
+in KWh per square meter, and % renewable energy of the total purchased energy) 
+
+  main method of heating and cooling  
+
+ 
+The data will be provided in table format, disclosing all eligible projects and assets that have had 
+net proceeds allocated to them. The energy and water consumption is measured in assets where 
+Castellum is responsible for the purchase of energy and/or water. In buildings where the tenant 
+is responsible for the energy and/or water supply, Castellum has no comprehensive picture of 
+the actual energy and water consumption.  
+ 
+Castellum will publish a yearly report describing the use of funds and adherence to all criteria 
+outlined above. The reporting will include a list of all eligible projects and assets that have been 
+financed with Green Bonds, a summary of Castellum’s activities in the past year in relation to 
+Green Bonds as well as information regarding each eligible project’s adherence to the relevant 
+eligibility criteria. For projects financed by the Green Bonds proceeds the reporting will disclose 
+the  aggregate market  value  and  the  sum  of  existing  external debt for  such  assets.  It  will  also 
+disclose the sum of outstanding Green Bonds and the sum of the account balance, including any 
+short-term  investments.  A  third  party  appointed  by  Castellum  will  report  whether  the  Green 
+Bond net proceeds have been allocated to the projects that Castellum outlines in its reporting 
+and  comply  with  the  relevant  eligibility  criteria,  and  a  signed  document  will  be  provided  on 
+Castellum’s website.  
+
+ 
+
+ 
+
+5 
+
+© Sustainalytics 2016 
+ 
+ 
+
+3.  Sustainalytics’ Opinion  
+
+ 
+Environmental Priorities and ESG Performance: By developing a Green Bond Framework and 
+issuing Green Bonds, Castellum continues to leverage its position as an industry leader among 
+real estate companies on sustainability performance. Castellum ranks in the top 2% among the 
+301 real estate companies tracked by Sustainalytics’ research on the environmental, social, and 
+governance  performance  of  companies.  In  addition,  the  company  has  strong  environmental 
+policies  and  environmental  management  systems.  According  to  Sustainalytics’  research, 
+Castellum  ranks  in  the  top  1%  on  environmental  management,  indicating  very  strong 
+environmental performance.  Castellum also performs well ahead of its peers in the real estate 
+industry across the most material sustainability issues, including  product sustainability, energy 
+use, and human capital. For a full snapshot of Castellum’s environmental, social, and governance 
+performance, please see Appendix II.2 
+ 
+The company has set targets to improve its sustainability performance, including a commitment 
+to  have  all  new  constructions  and  reconstructions  environmentally  certified  and  30%  of  its 
+portfolio classified by 2017.3 This target aligns directly with the use of proceeds under the Green 
+Bond framework.  
+ 
+Taking  into  consideration  its  long-standing  sustainability focus,  commitments  and  overall  ESG 
+rating,  Sustainalytics  believes  that  Castellum’s  green  bond  is  aligned  with  the  overall 
+sustainability objectives of the company. 
+ 
+Adherence to The Green Bond Principles (GBP): Sustainalytics has determined that Castellum’s 
+green bond aligns with the four pillars of the Green Bond Principles 2016. Please also see 
+Appendix III. 
+ 
+
+In line with the 
+GBP 2016?  
+Yes 
+
+Principle 
+
+Use of 
+Proceeds 
+ 
+
+Comments 
+
+Castellum’s  project  eligibility  criteria  are  based  on  third-party 
+certification standards of BREEAM and Miljöbyggnad, both of which are 
+used  in  Sweden.  In  using  Miljöbyggnad  Silver  and/or  BREEAM  Very 
+Good, the eligibility criteria set robust standards on the sustainability 
+performance of the eligible assets.  
+ 
+
+ 
+
+2 Sustainalytics assesses Castellum in a peer group of 297 real estate companies. Peer groups are a Sustainalytics’ industry classification scheme 
+
+that is aligned with GICS industry classification and also takes into account a company’s main operating activities and environmental, social, 
+and governance risk exposures. 
+
+3 As of 2015, 20% of Castellum’s portfolio was certified.  
+
+ 
+
+6 
+
+© Sustainalytics 2016 
+ 
+ 
+
+Yes 
+
+Project 
+selection 
+process 
+ 
+
+ 
+
+The majority of BREEAM indicators are tradable and without minimum 
+requirements,  meaning  that  buildings  can  receive  the  same 
+certification based on the fulfillment of different indicators. However, 
+this  weakness  is  partly  overcome  in  Castellum’s  framework  as  it  will 
+report  transparently  on  each  project’s  energy  consumption,  carbon 
+footprint,  and  water  usage  and  purchased  renewable  energy, 
+regardless of the certification used. Furthermore, Castellum is already 
+subject to Sweden’s stringent energy efficiency standards (BBR) under 
+its national building regulations.  
+ 
+In  addition,  the  framework  ensures  that  the  buildings  eligible  will 
+maintain strong sustainability performance over the term of the Green 
+Bond issuance. Since eligible assets need to have either design stage, 
+operational,  or  in-use  certification4,  if  at  any  point  the  applicable 
+certification expires without renewal it will no longer qualify under the 
+eligibility criteria. This is important for investors concerned about the 
+ongoing performance of the assets and building management.  
+ 
+Although  Castellum  does  not  commit  to  a  ratio  or  target  of  new  vs. 
+existing  real  estate  projects  selected  under  the  use  of  proceeds, 
+Sustainalytics  has  reviewed  documentation  of  an  existing  pool  of 
+eligible  assets.  Coupled  with  the  company’s  public  target  for 
+certification  across  its  entire  portfolio,  Sustainalytics  believes  that 
+Castellum  has  sufficient  assets  and  pipeline  to  allocate  the  use  of 
+proceeds.  Furthermore,  Castellum  will  report  on  the  respective 
+allocation of new vs. existing projects financed, for full transparency to 
+investors.  
+ 
+Overall,  Sustainalytics  is  of  the  opinion  that  Castellum’s  project 
+eligibility  criteria  are  credible  and  that  the  company  is  effectively 
+targeting its green bond proceeds towards environmentally beneficial 
+projects.  
+ 
+Castellum has outlined a clear decision-making process for the Project 
+Selection Process  involving  both  its  Sustainability  and  Group  Finance 
+Departments.  Given  that  eligible  projects  must  adhere  to  specific 
+eligibility  criteria  and  the  selection  process 
+in 
+coordination with Castellum’s Sustainability Department, Sustainalytics 
+is of the opinion that  the selection process  for projects and assets  is 
+very  strong  and  ensures  that  the  selected  projects  will  adhere  to  all 
+mentioned eligibility criteria. 
+
+is  completed 
+
+4 As Castellum is a property owner it is only responsible for the asset rating and the building management rating stages of the BREEAM in-use 
+
+certification. It does not seek out the tenancy ratings of the certification.  
+
+ 
+
+7 
+
+© Sustainalytics 2016 
+ 
+ 
+
+Yes 
+
+Management 
+of Proceeds 
+ 
+
+Reporting 
+ 
+
+Yes 
+
+invested 
+
+in  short-term 
+
+The  net  proceeds  of  the  Green  Bond  issues  will  be  credited  to  a 
+separate account and Castellum will keep a record of the purpose of 
+the transfers on the account. If the account has a positive balance and 
+unallocated  funds  are 
+interest  bearing 
+securities,  these  will  be  reported  and  their  intended  use  will  be 
+explained. The level of transparency with regards to the management 
+of  proceeds  is  very  strong  and  will  allow  investors  to  verify  that 
+proceeds  have  only  been  allocated  towards  projects  that  meet  the 
+eligibility criteria, as well as track temporary investments. Furthermore, 
+internal  documentation  reviewed  by  Sustainalytics  of  the  tracking 
+process makes it clear that the sale of any asset to which proceeds have 
+been  allocated  will  immediately  result  in  the  balance  of  unallocated 
+funds rising by an equivalent amount as that asset’s book value. As a 
+result,  in  an  event  of  a  sale,  proceeds will  be  recycled  and  allocated 
+towards new eligible assets. This will also be made visible to investors 
+through the reporting process, as described below.  
+ 
+Castellum will publish a yearly report describing the use of funds and 
+their adherence to the eligibility criteria on its website. The report will 
+contain a list of all eligible projects financed and information regarding 
+each project’s adherence to the eligibility criteria will be provided. For 
+financed projects, the report will disclose the aggregate market value 
+and  the  sum  of  existing  external  debt  for  such  assets.    It  will  also 
+disclose  the  sum  of  unallocated  proceeds,  including  any  short-term 
+investments. This level of transparency ensures that investors will be 
+made aware if any asset, originally included under the use of proceeds, 
+is  sold  or  otherwise  impaired  over  the  term  of  the  bond,  and  the 
+proceeds will be reallocated towards new eligible assets. In addition, as 
+described under the use of proceeds, the reporting framework ensures 
+that  if  the  design  stage  certification  for  new  assets  expires  over  the 
+course of the term of the bond and the asset has not in the meantime 
+received operational certification, this will be disclosed to investors and 
+the  asset  will  no  longer  be  included  under  the  use  of  proceeds. 
+Sustainalytics finds the reporting to be very investor friendly. 
+ 
+Where Castellum is responsible for project operation, the reporting will 
+also  contain  a  disclosure  of  a  select  set  of  asset-level  indicators  and 
+measurements. 
+consumption,  water 
+consumption, GHG emissions, use of renewable energy, as well as the 
+means of heating and cooling.5  
+ 
+
+This 
+
+includes 
+
+energy 
+
+ 
+
+5 The IEA estimates that space heating and cooling as well as hot water account for roughly half of global energy consumption in buildings. 
+
+ 
+
+8 
+
+© Sustainalytics 2016 
+ 
+ 
+
+Given that it is publicly disclosed, audited by a third party, clearly lays 
+out  adherence  with  the  eligibility  criteria,  and  provides  key  metrics 
+regarding the environmental impact of the eligible assets, Castellum’s 
+Green Bond reporting process is highly transparent and demonstrates 
+market best practice. 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+9 
+
+© Sustainalytics 2016 
+ 
+ 
+
+Appendix I: Real Estate Certification Systems - Miljöbyggnad Standards and BREEAM 
+Standards Comparison 
+ 
+ 
+ 
+
+BREEAM SE 
+
+Miljöbyggnad 
+
+Background 
+
+Levels/Grades 
+
+Swedish Certification System 
+Used for residential and commercial 
+buildings  
+Used for new and existing buildings, 
+first buildings certified in 2010  
+ 
+Gold  
+Silver (required by Castellum)  
+Bronze  
+
+Areas of Assessment  
+
+Energy  
+Indoor Environment  
+Chemical Substances  
+Specific Environmental Demands 
+
+Procedure  
+
+Buildings are examined on 15 indicators 
+Application sent to Swedish Green 
+Building Council 
+
+British Certification System 
+Adapted to Swedish regulations (BREEAM SE) 
+used in Sweden since 2013 
+Used for new, refurbished and extension of 
+existing buildings 
+
+Outstanding 
+Excellent (required for all new assets under 
+Castellum’s framework) 
+Very Good (required for all existing assets 
+under Castellum’s framework) 
+Good  
+Passed 
+Management 
+Health and Wellbeing  
+Energy  
+Transport  
+Water 
+Materials  
+Waste 
+Land Use and Ecology  
+Pollution 
+Innovation 
+Buildings are examined on 50 indicators  
+Application sent to Swedish Green Building 
+Council (licensed by BRE Global) 
+
+Indicators  
+(see detailed list) 
+
+Energy:  
+Bought Energy 
+Heating Power requirement  
+Solar Heat Load  
+Fraction of Energy Carriers  
+ 
+Indoor Environment:  
+Noise Protection 
+Radon Content  
+Ventilation Rates 
+
+Management:  
+Commissioning  
+Construction Site Impacts  
+Building User Guide  
+Moisture Control  
+ 
+Health and Wellbeing:  
+Daylight  
+Occupants thermal comfort  
+Acoustics  
+
+ 
+
+10 
+
+© Sustainalytics 2016 
+ 
+ 
+
+N2O to Indoor Air (from traffic) 
+Moisture Prevention 
+Thermal Climate Winter  
+Thermal Climate Summer  
+Daylight  
+Legionella  
+ 
+Materials and Chemicals: 
+Documentation of materials 
+Absence of hazardous substances 
+ 
+
+ 
+
+Indoor Air and Water Quality  
+Lighting  
+ 
+Energy:  
+CO2 emissions  
+Low or zero carbon technologies  
+Energy sub metering  
+Energy efficient buildings system  
+ 
+Transport:  
+Public transport network connectivity 
+Pedestrian and cyclist facilities  
+Access to amenities  
+Travel plans and information 
+ 
+Water:  
+Water consumption 
+Leak detection 
+Water re-usage and recycling  
+ 
+Waste:  
+Construction waste  
+Recycled aggregates  
+Recycling facilities  
+ 
+Pollution:  
+Refrigerant use and leakage  
+Flood risk  
+NOX emissions  
+Watercourse pollution  
+External light and noise pollution  
+ 
+Land Use and Ecology:  
+Site selection 
+Protection of ecological features  
+Mitigation/enhancement of ecological value  
+ 
+Materials:  
+Embodied life cycle impact of materials  
+Material re-use  
+Responsible sourcing  
+Robustness  
+Avoidance of hazardous substances  
+ 
+
+11 
+
+© Sustainalytics 2016 
+ 
+ 
+
+Use in Sweden 
+
+Rating 
+
+ 
+
+ 
+
+Innovation: 
+Exemplary performance levels  
+Use of BREEAM Accredited Professionals 
+
+Proportion of certified assessments under 
+BREEAM and the Code for Sustainable Homes 
+in Sweden 2012: 0,09%  
+ 
+Proportion of certified assets under BREEAM 
+New construction non-domestic by country 
+2012: 0,2% 
+Majority  of  BREEAM 
+issues  are  tradable, 
+meaning  that  the  client  can  pick  and  choose 
+which  to  comply  with  in  order  to  build  their 
+BREEAM  performance  score.  BREEAM  issues 
+do have minimum standards, so to achieve a 
+particular BREEAM rating a defined number of 
+credits for that issue must be achieved.  
+ 
+BREAAM has two stages, Interim Design Stage 
+and  Post  Construction  Stage,  with  different 
+assessment criteria.  
+ 
+Environmental 
+Rating 
+Weightings and Minimum BREEAM standards 
+determine final BREEAM rating. The areas are 
+weighted with respect to each other. The sum 
+of  the  points  obtained  in  each  area  are 
+converted  to  the  %  obtained  of  the  total 
+possible within each area, with the share then 
+being  weighted  according 
+total 
+weighting of each area.  
+ 
+For  BREEAM  very  good  a  score  of  55%  or 
+above  must  be  reached.  For  Very  Good  a 
+Minimum Number 1 must be reached for the 
+issues “ 
+ 
+
+benchmarks, 
+
+to 
+
+the 
+
+ 
+
+12 
+
+© Sustainalytics 2016 
+ 
+ 
+
+Comparable Issues to 
+reach M. Silver or 
+BREEAM Very Good 
+
+ 
+Daylight: Daylight factor of more than 
+1,2%  
+ 
+Thermal Climate Summer and Thermal 
+Climate Winter: PPD smaller or equal to 
+15%.  
+ 
+Moisture Prevention: Moisture Proof 
+design according to Bygga F 
+ 
+Noise Protection: equal to or 50% above 
+the Parameters Class B 
+ 
+Absence of hazardous substances: Some 
+POS above content limits occur and are 
+listed  
+
+Validity of 
+Certification 
+
+The certification is valid for up to 10 
+years.  
+
+is  not  a  minimum 
+safety  planning 
+
+ 
+Daylight:  is  not  a  minimum  requirement,  at 
+least  80%  of  the  floor  area  is  adequately 
+daylight with an average daylight illuminance 
+of 200 lux for 2650 hours per year. (they also 
+have a daylight factor 2,1 and 2,2)  
+ 
+Occupants Thermal Comfort: is not a minimum 
+requirement, to receive 1 credit PPD has to be 
+assessed and cannot fall within levels defined 
+as local dissatisfaction.  
+Moisture  Control: 
+requirement,  Moisture 
+according to Bygga F or equivalent.  
+ 
+Acoustics: no minimum requirement, for one 
+credit all acoustic parameters for sound class 
+C.  For  2  credits,  all  acoustic  parameters  for 
+Sound Class B.  
+ 
+Avoidance  of  hazardous  substances:  no 
+minimum requirement, Construction Material 
+Assessment  System  has  been  used  and 
+substances are documented  
+ 
+BREEAM  for  new  constructions  is  a one-time 
+certification valid for the lifetime of a building.  
+BREAAM  in-use  is  for  existing  buildings  and 
+encompasses three different elements within 
+the 
+intrinsic  and 
+management aspects of a building. It must be 
+re-certified  annually.  Certificates  may  be 
+renewed subject to confirmation by the client 
+that no significant changes have been made to 
+the  asset  or  the  occupying  organizations’ 
+policies.  After  two  renewals  have  been 
+completed, a full reassessment is required. 
+
+scheme:  operational, 
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+13 
+
+© Sustainalytics 2016 
+ 
+ 
+
+Appendix II: ESG Analysis 
+ 
+Industry Leader in ESG Performance: 
+According  to  Sustainalytics’  ESG  research,  as  of  August  2016,  Castellum  is  a  leader  in  the  real  estate 
+industry, and ranks in the top 2% among its peers. With respect to its environmental rating, Castellum 
+ranks in the top 1% among its peers, indicating very strong environmental performance. 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+Top 10 Companies 
+
+1 Gecina SA 
+
+2 City Developments Limited 
+
+3 Unibail-Rodamco SE 
+
+4 Icade 
+
+5 British Land Co. plc 
+
+6 Stockland Corporation 
+
+7 Dexus Property Group 
+
+8. Castellum AB 
+
+9  Atrium Ljungberg AB 
+
+10 Fabege AB 
+
+ 
+
+ 
+
+ 
+
+Score 
+
+94 
+
+90 
+
+89 
+
+88 
+
+87 
+
+85 
+
+84 
+
+84 
+
+82 
+
+80 
+
+ 
+
+ 
+
+14 
+
+© Sustainalytics 2016 
+ 
+ 
+
+ 
+
+ABOUT SUSTAINALYTICS 
+Sustainalytics is the largest independent provider of sustainability 
+research, analysis, and services to investors. We serve over 250 
+institutional investors which include some of the world's largest 
+asset owners and asset managers. Through over 20 years of 
+experience serving the responsible investment (RI) market, we have 
+gained a reputation for providing high-quality ESG research 
+solutions and excellent client service. 
+
+Sustainalytics is headed by seasoned professionals in the field of 
+business, finance, and sustainability, with a wealth of experience in 
+the Responsible Investment area. After more than 20 years of local 
+experience and expertise in the Responsible Investment (RI) market 
+Sustainalytics has developed a comprehensive understanding of 
+trends and best practices and a solid process to assist organisations 
+in integrating ESG considerations into their policies and strategies. 
+We have worked with some of the world’s financial institutions 
+including pension plans, investment managers and banks providing 
+customised support to help them achieve their RI objectives. Clients 
+include ABN AMRO, APG, BBVA, BNP Paribas, Deutsche Bank, ING 
+Bank, Lombard Odier, Lloyds Bank, Triodos Bank, UBS and over 250 
+other financial institutions and organisations. 
+
+Sustainalytics now has a staff of 250 employees globally, including 
+over 120 analysts, with operations in Amsterdam, Boston, 
+Bucharest, Frankfurt, New York, Paris, London, Singapore, Sydney, 
+Timisoara, and Toronto, and representation in Brussels and 
+Washington DC. 
+
+In 2015, Sustainalytics was named the 
+Best SRI or Green Bond Research Firm 
+by GlobalCapital. In December 2014, for 
+the third year in a row, Sustainalytics 
+was named best sustainable and 
+responsible investment research firm in 
+the Independent Research in 
+Responsible Investment (IRRI) Survey, 
+conducted by Thomson Reuters and 
+
+SRI-CONNECT.  
+ 
+ 
+ 
+
+ 
+
+20 
+
+© Sustainalytics 2016 
+ 
+ 
+
+ 
+ 
+Disclaimer 
+All rights reserved. No part of this second party opinion (the “Opinion”) may be reproduced, transmitted 
+or published in any form or by any means without the prior written permission of Sustainalytics.  
+ 
+The Opinion was drawn up with the aim to explain why the analyzed bond is considered sustainable and 
+responsible. Consequently, this Opinion is for information purposes only and Sustainalytics will not 
+accept any form of liability for the substance of the opinion and/or any liability for damage arising from 
+the use of this Opinion and/or the information provided in it. 
+  
+As the Opinion is based on information made available by the client, Sustainalytics does not warrant that 
+the information presented in this Opinion is complete, accurate or up to date. 
+  
+Nothing contained in this Opinion shall be construed as to make a representation or warranty, express or 
+implied, regarding the advisability to invest in or include companies in investable universes and/or 
+portfolios. Furthermore, this Opinion shall in no event be interpreted and construed as an assessment of 
+the economic performance and credit worthiness of the bond, nor to have focused on the effective 
+allocation of the funds’ use of proceeds. 
+  
+The client is fully responsible for certifying and ensuring its commitments` compliance, implementation 
+and monitoring. 
+ 
+
+ 
+
+21 
+
+

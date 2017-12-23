@@ -1,0 +1,898 @@
+ 
+ 
+  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+APPLE INC. 
+
+GREEN BOND 
+
+ 
+
+FRAMEWORK OVERVIEW AND SECOND-PARTY 
+
+OPINION BY SUSTAINALYTICS 
+
+ 
+
+June 13, 2017 
+
+www.sustainalytics.com 
+
+Trisha Taneja (Toronto) 
+Advisor, Advisory Services 
+trisha.taneja@sustainalytics.com 
+(+1) 647 317 3695 
+
+Charlotte Peyraud (New York) 
+Senior Advisor, Institutional Relations  
+charlotte.peyraud@sustainalytics.com  
+(+1) 646 518 0184 
+
+Catarina da Silva (Amsterdam) 
+Senior Advisor, Advisory Services 
+catarina.dasilva@sustainalytics.com 
+(+31) 20 205 00 45 
+
+ 
+
+ 
+ 
+
+Vikram Puppala  
+
+© Sustainalytics 2017 
+
+TABLE OF CONTENTS 
+
+1. 
+
+Introduction 
+
+2.  Overview of Issuer 
+
+3.  Framework Overview 
+
+3.1 Use of Proceeds 
+Eligible Projects 
+
+3.2 Project Selection Process 
+3.3 Management of Proceeds 
+3.4 Reporting 
+
+Allocation Reporting 
+Impact Reporting 
+Project Reporting 
+3.5 Compliance review 
+
+4.  SUSTAINALYTICS’ OPINION 
+
+Section 1: Sustainability Performance of the Issuer 
+Section 2: Impact of Use of Proceeds 
+Conclusion 
+
+ 
+
+ 
+
+ 
+
+Appendices 
+
+SUSTAINALYTICS 
+ 
+
+ 
+ 
+  
+ 
+
+ 
+
+ 
+
+ 
+
+2 
+
+2 
+
+3 
+3 
+6 
+7 
+7 
+7 
+8 
+8 
+9 
+9 
+
+10 
+10 
+11 
+13 
+
+14 
+
+21 
+
+1 
+
+© Sustainalytics 2017 
+
+1. INTRODUCTION 
+
+ 
+Apple Inc. is planning to issue its second green bond (2017 Green Bond), the proceeds of which will be 
+allocated to projects focused on renewable energy, energy and water efficiency, green buildings, creating 
+a closed-loop supply chain, and using environmentally friendly materials in their products. The company 
+has engaged Sustainalytics to provide a second opinion on Apple’s 2017 Green Bond Framework and on 
+the bond’s environmental credentials. As part of this engagement, Sustainalytics held conversations with 
+Apple’s  legal,  treasury  and  sustainability  teams  to  understand  the  use  of  proceeds,  project  selection 
+process,  management  of  proceeds,  and  reporting  aspects  of  Apple’s  2017  Green  Bond,  as  well  as  its 
+environmental  strategy.  Sustainalytics  also  reviewed  relevant  public  and  internal  documents  from  the 
+company. This document contains two sections: Framework Overview – a summary of Apple’s 2017 Green 
+Bond Framework; and Sustainalytics’ Opinion – an opinion on Apple’s 2017 Green Bond Framework. 
+ 
+
+2. OVERVIEW OF ISSUER 
+
+ 
+Apple  designs,  manufactures,  and  markets  mobile  communication  and  media  devices,  personal 
+computers, and portable digital music players to consumers, small and mid-sized businesses, education, 
+and enterprise and government customers worldwide. The company sells and delivers digital content and 
+applications through the iTunes Store, App Store, iBooks Store, Mac App Store, and Apple Music. It also 
+sells its products through its retail and online stores, and direct sales force, as well as through third-party 
+cellular network carriers, wholesalers, retailers, and value-added resellers. Apple was founded in 1977 
+and is headquartered in Cupertino, California. 
+ 
+Apple  is  issuing  its  second  green  bond  that  aims  to  fund  projects  that  are  focused  on  environmental 
+sustainability across its global business divisions and operations.   
+ 
+These projects will align with its three environmental priorities1:  
+
+1.  reducing  its  impact  on  climate  change  by  using  renewable  energy  sources  and  driving  energy 
+
+efficiency in its facilities, products and supply chain;  
+
+2.  pioneering the use of greener materials in its products and processes; and, 
+3.  conserving resources.  
+
+ 
+The following section summarizes Apple’s 2017 Green Bond framework including the use of proceeds, the 
+management of proceeds, and reporting. 
+ 
+ 
+ 
+ 
+
+ 
+1 2017 Environmental Responsibility Report, covering fiscal year 2016, page 3, 
+https://images.apple.com/environment/pdf/Apple_Environmental_Responsibility_Report_2017.pdf 
+
+ 
+
+ 
+
+2 
+
+© Sustainalytics 2017 
+
+3. FRAMEWORK OVERVIEW  
+
+ 
+3.1 Use of Proceeds 
+ 
+Apple will allocate an amount equal to the net proceeds from sales of the 2017 Green Bond to one or 
+more projects that are eligible according to the below criteria. Any proceeds allocated to eligible projects 
+in Apple’s supply chain will represent expenditures made by Apple or any of its subsidiaries. Apple or its 
+subsidiaries will directly invest in eligible projects in its own facilities or its suppliers’ facilities.  
+ 
+
+1.  EXPENDITURES RELATED TO THE DEVELOPMENT OF NEW AND ONGOING RENEWABLE ENERGY PROJECTS 
+TO REDUCE EMISSIONS IN APPLE’S CORPORATE FACILITIES AND SUPPLY CHAIN, INCLUDING SOLAR AND 
+WIND PROJECTS, OR THE ASSOCIATED ENERGY STORAGE SOLUTIONS.  
+
+ 
+Use  of Proceeds:  Proceeds  of  the  2017  Green  Bond may  be  allocated to  new and  ongoing  renewable 
+energy projects, including, but not limited to, solar and wind projects.  Apple will also consider projects 
+that provide energy storage solutions for renewable energy.  
+ 
+Context:  As  one  of  its  environmental  priorities,  Apple  has  identified  renewable  energy  use  as  a  key 
+strategy to reduce its climate change impacts.  The company has committed to powering all of its facilities 
+with 100 percent renewable energy. In addition, together with its suppliers, Apple has a commitment to 
+bring more than 4 gigawatts of new clean power online worldwide by 2020.2 In its 2017 Environmental 
+Responsibility  Report,  Apple  states  that,  as of  April 2017,  between  its  own  clean  energy  projects  that 
+target  emissions-reduction  from  upstream  suppliers,  and  those  clean  energy  projects  that  its  direct 
+suppliers have embarked on, Apple already has commitments for 2 gigawatts of clean energy in Apple’s 
+supply chain.3  
+ 
+
+2.  EXPENDITURES  RELATED  TO  PROJECTS  THAT  HAVE  RECEIVED  WITHIN  THE  LAST  THREE  YEARS,  OR  ARE 
+EXPECTED  TO  RECEIVE,  CERTIFICATION  OF  LEED  GOLD  OR  PLATINUM  OR  BREEAM  VERY  GOOD, 
+EXCELLENT,  OR OUTSTANDING  “GREEN  BUILDING”  STANDARDS,  OR  OTHER  REGIONAL  GREEN  BUILDING 
+STANDARDS 
+
+ 
+Use of Proceeds: Proceeds of the 2017 Green Bond may be allocated to green buildings that have or are 
+expected to receive either LEED or BREEAM certification at the highest levels: LEED Gold or Platinum, or 
+BREEAM Very Good, Excellent, or Outstanding.  Apple expects to apply regional green building standards 
+to  eligible  projects  with  the  same  level  of  scrutiny  as  the  LEED  and  BREEAM  standards.    For  existing 
+buildings, certification must have been received within the last three years.  
+ 
+
+ 
+2 2017 Environmental Responsibility Report, covering fiscal year 2016 
+https://images.apple.com/environment/pdf/Apple_Environmental_Responsibility_Report_2017.pdf .  
+3  2017 Environmental Responsibility Report, covering fiscal year 2016 
+https://images.apple.com/environment/pdf/Apple_Environmental_Responsibility_Report_2017.pdf . 
+
+ 
+
+ 
+
+3 
+
+© Sustainalytics 2017 
+
+Context: Apple reports that environmental design, management and operation of facilities are a priority 
+for the company.  In its 2017 Environmental Responsibility Report, Apple confirmed that its data centers 
+in Oregon, Nevada and North Carolina have all earned LEED Platinum certification. 
+ 
+
+3.  EXPENDITURES RELATED TO THE IMPLEMENTATION OF ENVIRONMENTAL DESIGN ELEMENTS FOR NEW OR 
+
+ONGOING BUILDING DEVELOPMENTS, SUCH AS HIGH PERFORMANCE MECHANICAL SYSTEMS, NATURAL 
+VENTILATION, ON-SITE RENEWABLE ENERGY AND HIGH-PERFORMANCE LIGHTING SYSTEMS.  
+
+ 
+Use  of  Proceeds:  Proceeds  of  the  2017  Green  Bond  may  be  allocated  to  projects  that  enable  the 
+implementation  of  environmental  design  elements  into  new  or  ongoing  building  developments,  or 
+renovations.  These projects may or may not be part of LEED- or BREEAM-certified buildings or include 
+energy efficiency projects at existing facilities. Projects that meet criterion #2 and/or #4 are excluded from 
+this  criterion  in  order  to  avoid  double  counting.  Projects  may  include,  but  are  not  limited  to,  high-
+performance  mechanical  systems,  natural  ventilation,  on-site  renewable  energy  and  high-performing 
+lighting systems. 
+ 
+Context:  Apple states that considering the environment in the design of a new building or renovations of 
+existing facilities is a priority.  The company articulates in its Environmental, Health and Safety Policy4 a 
+commitment  to  designing  its  facilities  in  a  manner  that  promotes  energy  efficiency  and  protects  the 
+environment.  For  example,  environmental  design  has  been  a  key  consideration  in  its  new  campus  in 
+Cupertino, where Apple is constructing a facility that is highly energy efficient and entirely powered by 
+renewable energy. 
+ 
+
+4.  EXPENDITURES RELATED TO ENERGY EFFICIENCY PROJECTS AND TECHNOLOGIES FOR APPLE’S CORPORATE 
+
+FACILITIES, PRODUCTS, OR SUPPLY CHAIN, SUCH AS HEATING, VENTILATION AND AIR CONDITIONING 
+SYSTEMS UPGRADES, LIGHTING RETROFITS AND ENERGY MONITORS AND CONTROLS. 
+
+ 
+Use of Proceeds: Proceeds of the 2017 Green Bond may be allocated to energy efficiency projects and 
+technologies,  including  but  not  limited  to,  heating,  ventilation,  and  air  conditioning  system  upgrades, 
+lighting retrofits, and the installation of energy monitors and controls at the company’s existing corporate 
+facilities, retail offices, data centers, and supplier facilities. Proceeds may also be allocated to the research 
+and development of energy efficient product technologies like batteries or energy audits that monitor 
+energy usage. 
+ 
+Context: In its 2017 Environmental Responsibility Report, Apple states that it considers energy efficiency 
+to be the first step in its renewable energy strategy, and the company views its own facilities, including 
+its  corporate  campuses,  retail  offices  and  data  centers,  as  an  important  starting  point  for  fulfilling  its 
+environmental  commitments.5  In  2015,  Apple  started  engaging  directly  with  suppliers  to  find  ways  to 
+
+ 
+4 Apple’s Environmental, Health and Safety Policy Statement, 
+http://images.apple.com/ca/environment/pdf/Apple_Environmental_Responsibility_Report_2015.pdf.  
+5   2017 Environmental Responsibility Report, covering fiscal year 2016 
+https://images.apple.com/environment/pdf/Apple_Environmental_Responsibility_Report_2017.pdf . 
+ 
+
+ 
+
+ 
+
+4 
+
+© Sustainalytics 2017 
+
+reduce their energy use. As part of this program, Apple conducted energy audits and implemented energy 
+training programs at several supplier facilities in 2016 to reduce energy consumption in Apple’s supply 
+chain. 6 
+ 
+
+5.  EXPENDITURES RELATED TO WATER EFFICIENCY, WATER CONSERVATION, AND WATER QUALITY PROJECTS 
+AND TECHNOLOGIES FOR ITS CORPORATE FACILITIES, PRODUCTS, OR SUPPLY CHAIN, SUCH AS UPGRADES 
+TO WATER EFFICIENT FIXTURES AND WATER EFFICIENT IRRIGATION AND INCREASED USE OF RECYCLED 
+WATER. 
+
+ 
+Use of Proceeds: Proceeds of the 2017 Green Bond may be allocated to projects and technologies that 
+lead to  greater water efficiencies  at  Apple’s existing corporate or supplier facilities,  including, but  not 
+limited  to,  upgrading  to  water  efficient  fixtures,  implementing  water  efficient  irrigation  systems,  and 
+projects and technologies that increase the use of recycled water. Proceeds may be allocated to research 
+and development of water efficient product technologies, like a product machining tool that requires less 
+consumption of process water.  Proceeds may also be allocated to projects like water conservation audits 
+that monitor water use. 
+ 
+Context: Apple states that it recognizes the importance of conserving natural resources, such as water, as 
+one of its environmental priorities. The company seeks to conserve water by maximizing its use of recycled 
+water, and reducing water use in manufacturing, cooling, landscaping, and sanitation. The company tracks 
+and discloses in its 2017 Environmental Responsibility Report, its company-level water usage, as well as 
+its water use by facility type (data centers, corporate offices, and retail stores). Apple also states that it 
+prioritizes its water conservation efforts based on use and water risks. In 2013, Apple initiated a program 
+to work with suppliers to reduce water use at their manufacturing facilities. 7 
+ 
+
+6.  EXPENDITURES RELATED TO ADVANCING APPLE’S GOAL OF A CLOSED LOOP SUPPLY CHAIN THAT FOCUSES 
+ON  THE  ENTIRE  LIFE  CYCLE  OF  APPLE’S  PRODUCTS,  SUCH  AS  PROJECTS  THAT  IMPROVE  MATERIAL 
+EFFICIENCY,  INCREASE  THE  USE  OF  SUSTAINABLY  SOURCED  MATERIALS  LIKE  BIO-PLASTICS,  RECYCLED 
+ALUMINUM  OR  RESPONSIBLY  SOURCED  PAPER,  CREATE  NEW  SOURCES  OF  THESE  MORE  SUSTAINABLE 
+MATERIALS,  AND  ENHANCE  MATERIAL  RECOVERY  FROM  APPLE’S  PRODUCTS  AT  THE  END  OF  THEIR  LIFE 
+CYCLES. 
+
+ 
+Use of Proceeds: Proceeds of the 2017 Green Bond may be allocated to projects that enhance recycling, 
+material recovery and reuse, including sourcing of recycled components and end-of-life product material 
+recovery. Proceeds may also be allocated towards diversion of waste from landfills.    
+ 
+Context: As reflected in its 2017 Environmental Responsibility Report, Apple is committed to conserving 
+resources, recycling materials, and waste management, both with respect to its products and its facilities. 
+In April 2017, Apple announced its goal to create closed-loop supply chains, with the aim of ending their 
+
+ 
+6 Apple’s Environmental, Health and Safety Policy Statement, 
+http://images.apple.com/ca/environment/pdf/Apple_Environmental_Responsibility_Report_2015.pdf. 
+7 Apple’s Environmental, Health and Safety Policy Statement, 
+http://images.apple.com/ca/environment/pdf/Apple_Environmental_Responsibility_Report_2015.pdf. 
+
+ 
+
+ 
+
+5 
+
+© Sustainalytics 2017 
+
+reliance on mining altogether. This means Apple will be investigating ways to build products using only 
+renewable  resources  or  recycled  materials,  and  will  be  pursuing  ways  to  better  recover  and  recycle 
+materials from its products.  
+ 
+
+7.  EXPENDITURES RELATED TO PROJECTS THAT FACILITATE THE USE OF MATERIALS THAT ARE SAFER FOR THE 
+ENVIRONMENT  AND  HUMAN  HEALTH,  SUCH  AS  CONTINUED  ELIMINATION  OF  TOXIC  SUBSTANCES 
+COMMONLY USED IN THE INDUSTRY IN ACCORDANCE WITH ITS REGULATED SUBSTANCES SPECIFICATION 
+(AVAILABLE AT HTTP://WWW.APPLE.COM/ENVIRONMENT/REPORTS/). 
+
+ 
+Use of Proceeds: Proceeds of the 2017 Green Bond may be allocated to projects that eliminate the use of 
+toxic substances (according to its Regulated Substance Specification). Proceeds may also be allocated to 
+projects that reduce air pollution at Apple’s own facilities and supplier facilities. 
+ 
+Context:  Using  greener  materials  in  its  products  is  an  important  environmental  goal  reflected  in  the 
+company’s three environmental priorities.   
+ 
+All of Apple’s products must comply with the restrictions listed in its Regulated Substances Specification, 
+which describes Apple’s global restrictions on the use of certain chemical substances or materials in its 
+products, accessories, manufacturing processes, and packaging used for shipping products to customers. 
+This Regulated Substances Specification is  a  comprehensive list of substances with Chemical Abstracts 
+Service (CAS) registry numbers that identify unique substances. Apple requires its suppliers to adhere to 
+this Regulated Substances Specification and to demonstrate compliance by providing test reports from 
+certified  labs  as  proof  of  compliance.   Apple  derives  these  restrictions  from  international  laws  or 
+directives, agency or eco-label requirements; and its policies state that in many cases, the company must 
+go  beyond  minimum  legal  requirements.   Examples  of  international  laws  and  directives  focused  on 
+restricting toxic substance use include, but are not limited to: 
+ 
+
+•  REACH SVHCs: EU’s Registration, Evaluation, Authorisation, and Restriction of Chemicals (REACH). 
+Substances  that  may  have  serious  and  often  irreversible  effects  on  human  health  and  the 
+environment can be identified as substances of very high concern (SVHCs). 
+
+•  Ozone depleting chemicals cited by the Montreal Protocol. 
+•  OSPAR: OSPAR List of Chemicals for Priority Action, OSPAR Convention for the Protection of the 
+
+Marine Environment of the North-East Atlantic, 2004. 
+
+•  Clean Production Action (CPA): GreenScreen® for Safer Chemicals, 2014. 
+
+ 
+Eligible Projects 
+ 
+Any project that meets the above eligibility criteria, including the new and ongoing developments of such 
+projects, are eligible to be funded in whole or in part by an allocation of the green bond proceeds.   
+ 
+Eligible projects may include projects of Apple’s subsidiaries that meet the eligibility criteria. Any proceeds 
+allocated to eligible projects in Apple’s supply chain will represent expenditures made by Apple or any of 
+its subsidiaries.  
+
+ 
+
+ 
+
+6 
+
+© Sustainalytics 2017 
+
+3.2 Project Selection Process 
+ 
+Apple’s Environment, Policy and Social Initiatives (EPSI) team will: 
+ 
+
+(i) 
+(ii) 
+
+assess and determine project eligibility; and, 
+recommend an allocation of proceeds to eligible projects. 
+
+ 
+These projects are developed and managed by central teams, which are primarily based in Cupertino.  For 
+example,  Apple  has  a  Global  Energy  Team  that  manages  all  corporate  renewable  energy  and  energy 
+efficiency projects; centralized Real Estate & Facilities teams that track and plan for all facilities worldwide, 
+including green buildings and its new campus; and a Global Data Center team that manages the global 
+expansion of its data centers. 
+ 
+Apple’s  finance  department  will  track  the  allocation  of  the  green  bond  proceeds  and,  together  with 
+members of Apple’s EPSI, legal and treasury teams, review projects and budgets on a semi-annual basis. 
+This  review  includes  details  for  projects  that  have  been  recommended  for  allocation,  such  as  a  brief 
+description of the project, the country in which the project is located, and the anticipated expenditures 
+for the project.  Apple’s EPSI team will ensure that each project meets the eligibility criteria and at least 
+one of Apple’s three environmental priorities.   
+ 
+The company’s Vice President of Environment, Policy and Social Initiatives will approve the final allocation 
+of proceeds. 
+ 
+3.3 Management of Proceeds  
+ 
+The proceeds from the 2017 Green Bond will be managed by Apple’s finance department. Pending the 
+allocation  of  the  green  bond  proceeds,  the  company  will  temporarily  invest  an  amount  equal  to  the 
+balance of the proceeds in cash, cash equivalents and/or U.S. treasury securities. Payment of principal 
+and interest on the 2017 Green Bond will be made from the company’s general funds and will not be 
+directly linked to the performance of any eligible projects. 
+ 
+Apple expects to spend the majority of green bond proceeds within two years of the date of issuance. 
+ 
+3.4 Reporting  
+ 
+Throughout the term of the  2017 Green Bond, until the proceeds have been fully allocated to eligible 
+projects, Apple commits to publishing annual updates of the allocation of the proceeds and impact of 
+projects  that  have  received  allocations.  The  annual  allocation  and  expected  impact  evaluation  will  be 
+reported as a separate green bond report (which will be available to investors within one year from the 
+date of issuance of the 2017 Green Bond). These updates will be published on the company’s website at 
+investor.apple.com  and  will  be  accompanied  by  (1)  a  letter  from  Sustainalytics,  with  respect  to  the 
+compliance of projects, with the eligibility criteria (see section 3.5 Compliance Review for further details), 
+(2) assertions by management that the net proceeds of the 2017 Green Bond were allocated to eligible 
+
+ 
+
+ 
+
+7 
+
+© Sustainalytics 2017 
+
+projects, and (3) an annual report from an independent registered public accounting firm in respect of its 
+examination of management’s assertions conducted in accordance with attestation standards established 
+by the American Institute of Certified Public Accountants. 
+  
+Allocation Reporting 
+ 
+Apple commits to detailing the aggregate allocation of the proceeds, and to the extent practicable, Apple 
+also intends to report the allocation to eligible projects at a category level, which is consistent with the 
+eligibility criteria, subject to confidentiality considerations.  
+ 
+Impact Reporting 
+ 
+In addition to its allocation reporting, Apple commits to publishing annual updates on the 
+environmental impacts of the projects funded with green bond proceeds. 
+ 
+Where relevant, Apple will report on other Key Performance Indicators (KPIs) in aggregate for green 
+bond projects, such as the following: 
+ 
+ 
+
+Key Performance Indicators 
+
+Renewable Energy 
+ 
+
+•  Renewable energy installed capacity (kW or MW) 
+• 
+•  GHG emissions avoided (in CO2e tons) 
+
+Energy produced from renewable sources (kWh or MWh) 
+
+Energy Efficiency 
+ 
+
+• 
+• 
+
+Energy saved aggregate (kWh) 
+Energy saved due to building retrofits or design (kW) 
+
+Water 
+
+Waste 
+
+  Water use savings (gallons) 
+
+•  Waste diverted from landfills (tons or % diversion) 
+•  Waste recycled or composted (tons) 
+
+Resource Use 
+ 
+
+•  Bio-based material use (% of material in product) 
+•  Recycled content use (% material in product) 
+
+In  addition,  if  relevant,  Apple  will  (1)  provide  a  list  of  buildings  that  are  certified,  or  are  expected  to 
+become  certified,  LEED  Gold  or  Platinum,  or  BREEAM  Very  Good,  Excellent,  or  Outstanding,  or  other 
+regional green building standards, to which bond proceeds have been allocated (subject to confidentiality 
+considerations), and (2) report the number and type of toxic substances removed from its products and 
+accessories.  Apple may also report on additional metrics as feasible and relevant. 
+ 
+ 
+ 
+
+ 
+
+ 
+
+8 
+
+© Sustainalytics 2017 
+
+Project Reporting 
+ 
+Subject to confidentiality considerations, Apple will provide additional descriptions of select projects 
+funded with green bond proceeds. 
+ 
+3.5 Compliance review   
+ 
+In  addition  to  its  own  annual  reporting,  Apple  will  obtain  a  letter  from  Sustainalytics, with  respect  to 
+Apple’s  green  bond  projects’  compliance  with the  eligibility  criteria.  Sustainalytics  will  review  a  broad 
+sample of projects from the total allocated projects in order to determine whether they meet the use of 
+proceeds criteria defined in the framework. Sustainalytics will provide a report of the evaluation, which 
+Apple  will  disclose  publicly.  In  an  unlikely  event  that  one  or  more  projects  do not  meet  the  eligibility 
+criteria, Apple will reallocate the green bond proceeds to other projects that meet one of the criteria. 
+
+ 
+
+ 
+
+9 
+
+© Sustainalytics 2017 
+
+4. SUSTAINALYTICS’ OPINION 
+
+ 
+Section 1: Sustainability Performance of the Issuer 
+ 
+Contribution of the 2017 Green Bond to Apple’s environmental strategy  
+In its 2017 Environment Responsibility Report, covering fiscal year 2016, Apple emphasises the following 
+three  environmental  commitments:  (i)  Combat  climate  change  –  reducing  carbon  emissions  in  their 
+facilities and their supply chains worldwide by using renewable energy and achieving energy efficiency in 
+its products; (ii) Conserve finite  resources  –  setting a goal to produce all products  using  a closed-loop 
+supply  chain,  where  products  are  built  using  only  renewable  resources  or  recycled  material;  and  (iii) 
+Prioritize greener products and services – using greener materials in its products and services.8  
+ 
+In addition to outlining these broad commitments, Apple has also set relevant targets in some of these 
+areas.  For  example,  Apple  has  a  target  to  power  its  facilities  worldwide  with  100  percent  renewable 
+energy; in addition, together with its suppliers, Apple has a commitment to bring more than 4 gigawatts 
+of new clean power online worldwide by 2020.1 Finally, Apple also reports on performance with respect 
+to these commitments and targets annually in its environmental responsibility report. For example, Apple 
+reported that, in 2016, 96 percent of the electricity used at Apple’s global facilities came from renewable 
+energy, reducing its carbon emissions by nearly 585,000 metric tons.9 Another example of reporting on 
+performance is demonstrated by Apple’s closed-loop supply chain commitment. In its iMac Environment 
+Report, Apple reported that, for its 21.5-inch iMac, the stand is made with 30 percent recycled aluminum, 
+the speaker enclosures are made with 35 percent post-consumer recycled plastic, and the fan assembly 
+is made with 28 percent bio-based plastic.10 Similarly, Apple reported that for its iPhone 7 product, plastics 
+used in the internal antenna are made with 35 percent post-consumer recycled content and plastics used 
+in the display frame are made with 28 percent bio-based content.11 
+ 
+Overall, Apple’s 2017 Green Bond will contribute to these environmental priorities; each use of proceeds 
+category supports at least one of the three commitments outlined above. Additionally, Sustainalytics is of 
+the opinion that reporting on targets and performance is indicative of the priority the company assigns to 
+achieving results. The alignment of the 2017 Green Bond with Apple’s environmental commitments, its 
+setting of targets and reporting on performance, in combination with the fact that Apple has not been 
+involved  in  any  significant  environmental  controversies  makes  Apple  well  positioned  to  issue  a  green 
+bond.  
+ 
+
+ 
+
+ 
+ 
+ 
+8 2017 Environmental Responsibility Report, covering fiscal year 2016 
+https://images.apple.com/environment/pdf/Apple_Environmental_Responsibility_Report_2017.pdf    
+9 2017 Environmental Responsibility Report, covering fiscal year 2016  
+https://images.apple.com/environment/pdf/Apple_Environmental_Responsibility_Report_2017.pdf      
+10  https://images.apple.com/environment/pdf/products/desktops/21.5-inch_iMac_PER_June2017.pdf 
+11 https://images.apple.com/environment/pdf/products/iphone/iPhone_7_PER_sept2016.pdf  
+ 
+
+ 
+
+ 
+
+10 
+
+© Sustainalytics 2017 
+
+Well positioned to address common environmental and social risks associated with the projects 
+Given the company’s business and dimension, Apple is exposed to social and environmental risks, both in 
+its operations and in its supply chain. To address such risks, Apple has implemented several policies such 
+as  the  Code  of  Conduct  and  Apple’s  Environmental,  Health  and  Safety  Policy.  In  addition,  Apple  has 
+extensive  Supplier  Responsibility  Standards12 that  set  clear  environmental  and  social  expectations  for 
+suppliers. Apple is also a member of the Electronic Industry Citizenship Coalition (EICC), committing to 
+strong supplier expectations and releasing a supplier responsibility progress report annually.  
+ 
+In 2016, Apple expanded its responsible sourcing requirements to a much broader set of issues, including 
+a more explicit approach to forced and underage labor, health and safety, and environmental impacts 
+worldwide. In order to verify compliance with the above-mentioned policies, in 2016, Apple performed 
+705 supplier assessments. In its 2017 Supplier Responsibility Progress Report,13 the company discloses the 
+results of these assessments and how it addressed situations of non-compliance.  
+ 
+Overall, Sustainalytics is of the opinion that Apple has policies and process in place that are comparable 
+to other companies in its peer group to identify, address and mitigate relevant social and environmental 
+risks associated with the projects that will be financed with green bond proceeds.  
+ 
+Section 2: Impact of Use of Proceeds 
+Apple’s  project  eligibility  criteria  address  specific  areas  for  environmental  impact  including  renewable 
+energy; green building design, energy and water efficiency; waste management and reuse of materials 
+through a closed-loop supply chain; and use of greener materials in its products. These use of proceeds 
+categories are recognized by the Green Bond Principles as having a clear environmental impact.14  
+ 
+Compared to the eligibility criteria from Apple’s first green bond, issued in February 2016, in the 2017 
+Green Bond, Apple has expanded these project eligibility criteria to apply not only to its own operations, 
+but also to directly invest in its supply chain and its suppliers’ facilities, and to its products. Sustainalytics 
+is of the opinion that directly investing in its suppliers’ facilities is extremely unusual for any company, 
+and that using green bond proceeds to target reduction of Apple’s carbon footprint across its supply chain, 
+operations, and products ensures that the company is holistically addressing the environmental impacts 
+of its business. 
+ 
+Additionally,  Apple’s  green  building  eligibility criteria is  based  on  third  party  certification  standards  of 
+LEED and BREEAM, and the company is aligning with industry best practices by focusing on LEED Gold or 
+Platinum,  or  BREEAM  Very  Good,  Excellent,  or  Outstanding,  levels  of  certification.  In  the  offering 
+documents related to its 2017 Green Bond, Apple has stated that it will also fund green buildings that 
+have achieved other regional green building standards. Apple has  discussed with Sustainalytics that in 
+certain cases, municipal code requires green buildings to achieve regional green building standards, rather 
+than LEED or BREEAM. For example, in Singapore, all green buildings are required to achieve the Green 
+
+ 
+12 https://images.apple.com/supplier-responsibility/pdf/Apple-Supplier-Responsible-Standards.pdf 
+13 https://images.apple.com/supplier-responsibility/pdf/Apple-Progress-Report-2017.pdf 
+14 Reuse of materials through a closed-loop supply chain is aligned with the GBP category of Eco-efficient products, production technologies 
+and processes 
+
+ 
+
+ 
+
+11 
+
+© Sustainalytics 2017 
+
+Mark certification. Apple has confirmed to Sustainalytics that in these cases, such regional green building 
+standards will be reputable. In addition, Apple has confirmed to Sustainalytics that wherever possible, it 
+will strive to fund regionally certified green buildings that have an overall performance that is comparable 
+to the LEED and BREEAM levels mentioned in the framework.  
+ 
+With respect to elimination of toxic substances that are commonly used in the industry, Sustainalytics 
+believes  that  these  projects  are  likely  to  positively  impact  the  sustainability  of  Apple’s  products,  and 
+ensure that the products do not damage the environment.  
+ 
+Environmental Impact of a closed-loop supply chain  
+The recent demands from population growth worldwide and economic expansion in developing countries 
+have brought attention to the critical issue of depletion of natural resources. The issue can be seen not 
+only in their impact on the environment but also in their impact on society, as mining and extraction of 
+natural resources can cause conflicts with local communities in some developing countries. Keeping in 
+mind  the  above-mentioned  context,  and  a  growing  pressure  from  regulations  and/or  international 
+guidelines  such  as  the  United  Nations  Sustainable  Development  Goals,  corporations  face  pressure  to 
+review their procurement of resources and develop a strategic plan to mitigate these environmental and 
+social risks involved with extraction of finite resources. This issue is especially relevant to the Electronics 
+industry, which tends to use natural and scarce resources such as rare-earth metals in their products.  
+ 
+In this context, Apple’s efforts to achieve a closed loop supply chain ultimately aim for the end of the 
+company’s reliance on mining through improved recycling and usage of renewable or recycled materials. 
+According  to  the  Ellen  McArthur  Foundation’s  report  on  the  circular  economy15,  benefits  of  circular 
+business models in the electronics industry include the reduction of toxic chemicals which impair reuse, 
+and  the  elimination  of  electronic  waste  through  superior  design.  The  report  states  that  the  cost  of 
+remanufacturing mobile phones could be reduced by 50 percent per device if the industry made phones 
+easier to take apart, improved the reverse cycle, and offered incentives to return phones. On a global 
+scale  the  foundation  estimates  major  net  material  savings  in  the  scenario  of  a  shift  towards  circular 
+business models by large industrial players. This net material saving would result in a shift down the cost 
+curve for various raw materials, likely reducing demand driven volatility. In Sustainalytics’ view, Apple’s 
+use of proceeds, supporting closed loop supply chains, will positively contribute to this vision, reducing 
+pollution and waste generation in the electronics industry and greatly contributing to resource efficiency, 
+alleviating unsustainable trends in natural resource extraction and consumption.  
+ 
+Furthermore, Sustainalytics’ believes that the reduction of the usage of tin, tantalum, tungsten and gold, 
+all  materials that are  controversial due  to  human rights  concerns in developing countries, could bring 
+social benefits in conflict regions where these minerals are extracted.  
+ 
+Overall, Sustainalytics is of the opinion that Apple’s project eligibility criteria are credible and robust, and 
+that by selecting projects based on these criteria, Apple is effectively targeting its green bond proceeds 
+at projects that will contribute to reducing Apple’s overall environmental impact. 
+
+ 
+15 https://www.ellenmacarthurfoundation.org/assets/downloads/publications/Ellen-MacArthur-Foundation-Towards-the-
+Circular-Economy-vol.1.pdf 
+
+ 
+
+ 
+
+12 
+
+© Sustainalytics 2017 
+
+Alignment with the Green Bond Principles 2016  
+Sustainalytics  has  determined  that  the  Apple  Green  Bond  Framework  aligns  to  the  four  pillars  of  the 
+International Capital Markets Association (ICMA) Green Bond Principles 2016. For detailed information 
+please refer to Annex 2: Green Bond/Green Bond Programme External Review Form. 
+ 
+Conclusion  
+Apple’s  green  bond  framework  aligns  with  the  four  pillars  of  the  Green  Bond  Principles  2016.  The 
+company has established clear project eligibility criteria that are recognized as environmentally impactful 
+by the Green Bond Principles, align with its environmental priorities, and support its efforts to reduce its 
+overall environmental impact across its supply chain, operations, and products. Sustainalytics is of the 
+opinion that this is representative of the company’s holistic efforts to address the environmental impacts 
+of its business. Finally, the company’s approach to selecting projects and managing green bond proceeds 
+is  robust,  and  its  reporting  on  the  use  of  proceeds,  with  KPIs  that  capture  environmental  impact,  is 
+reasonably transparent. Based on the above considerations, Sustainalytics is of the view that Apple’s 2017 
+Green Bond is robust and credible. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+13 
+
+© Sustainalytics 2017 
+
+Disclaimer 
+
+All rights reserved. No part of this second party opinion (the “Opinion”) may be reproduced, transmitted 
+or published in any form or by any means without the prior written permission of Sustainalytics.  
+  
+The Opinion was drawn up with the aim to explain why the analyzed bond is considered sustainable and 
+responsible. Consequently, this Opinion is for information purposes only and Sustainalytics will not 
+accept any form of liability for the substance of the opinion and/or any liability for damage arising from 
+the use of this Opinion and/or the information provided in it. 
+  
+As the Opinion is based on information made available by the client, Sustainalytics does not warrant that 
+the information presented in this Opinion is complete, accurate or up to date. 
+  
+Nothing contained in this Opinion shall be construed as to make a representation or warranty, express or 
+implied, regarding the advisability to invest in or include companies in investable universes and/or 
+portfolios. Furthermore, this Opinion shall in no event be interpreted and construed as an assessment of 
+the economic performance and credit worthiness of the bond, nor to have focused on the effective 
+allocation of the funds’ use of proceeds. 
+  
+The client is fully responsible for certifying and ensuring its commitments` compliance, implementation 
+and monitoring. 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+
+ 
+
+20 
+
+© Sustainalytics 2017 
+
+SUSTAINALYTICS 
+ 
+Sustainalytics  is  an  independent  ESG  and  corporate  governance  research,  ratings  and  analysis  firm 
+supporting  investors  around  the  world  with  the  development  and  implementation  of  responsible 
+investment  strategies. With 13 offices globally, Sustainalytics partners with institutional investors who 
+integrate  environmental,  social  and  governance  information  and  assessments  into  their  investment 
+processes.  Today,  the  firm  has  more  than  300  staff  members,  including  170  analysts  with  varied 
+multidisciplinary  expertise  of  more  than  40  sectors.  Through  the  IRRI  survey,  investors  selected 
+Sustainalytics as the best independent responsible investment research firm for three consecutive years, 
+2012 through 2014 and in 2015, Sustainalytics was named among the top three firms for both ESG and 
+Corporate Governance research. The firm was also named the Best SRI or Green Bond Research Firm by 
+Global Capital in 2015. For more information, visit www.sustainalytics.com  
+ 
+ 
+Sustainalytics 
+info@sustainalytics.com  
+www.sustainalytics.com  
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+21 
+
+

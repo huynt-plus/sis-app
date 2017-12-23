@@ -1,0 +1,1132 @@
+ 
+ 
+  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ MITSUBISHI UFJ FINANCIAL 
+
+GROUP 
+
+GREEN BOND 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+
+FRAMEWORK OVERVIEW AND SECOND OPINION BY 
+
+SUSTAINALYTICS 
+
+September 1st, 2016 
+
+www.sustainalytics.com 
+ 
+www.sustainalytics.com 
+ 
+www.sustainalytics.com 
+
+Farnam Bidgoli (London) 
+
+Trisha Taneja (Toronto) 
+
+Dominic Chan (Singapore) 
+
+Manager, Advisory Services  
+farnam.bidgoli@sustainalytics.com 
+(+44) 20 3514 3127 
+
+Junior Advisor, Advisory Services  
+
+trisha.taneja@sustainalytics.com 
+
+(+1) 647 317 3695 
+
+Senior Advisor, Institutional Relations   
+dominic.chan@sustainalytics.com 
+(+65) 3158 3796 
+
+ 
+
+ 
+ 
+
+Vikram Puppala  
+
+Manager,  
+
+ 
+ 
+
+Vikram Puppala  
+
+Manager,  
+
+ 
+ 
+
+Vikram Puppala  
+
+Manager,  
+
+© Sustainalytics 2016 
+
+TABLE OF CONTENTS 
+
+FRAMEWORK OVERVIEW AND SECOND OPINION BY SUSTAINALYTICS 
+
+1.  Preface 
+
+2. 
+
+Introduction 
+
+3.  Framework overview 
+3.1  Use of Proceeds 
+3.2  Process for Project Evaluation and Selection 
+3.3  Management of Proceeds 
+3.4  Reporting 
+
+4.  Sustainalytics’ opinion 
+
+Conclusion 
+
+APPENDICES 
+
+Appendix 1: The Ten Equator Principles 
+Appendix 2: Alignment with Green Bond Principles 2016 
+
+ABOUT SUSTAINALYTICS 
+
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1 
+
+3 
+
+3 
+
+4 
+4 
+4 
+5 
+5 
+
+6 
+8 
+
+9 
+9 
+10 
+
+16 
+
+2 
+
+© Sustainalytics 2016 
+
+1. PREFACE 
+ 
+Mitsubishi UFJ Financial Group (MUFG) is planning to issue a green bond to finance lending to renewable 
+energy  projects.  MUFG  has  engaged  Sustainalytics  to  provide  a  second  opinion  on  its  green  bond 
+framework  and  the  bond’s  environmental  credentials.  As  part  of  this  engagement,  Sustainalytics  held 
+conversations  with  various  members  of  MUFG’s  management  team  to  understand  the  sustainability 
+impact of their business processes and planned use of proceeds for the bond issuance. Sustainalytics also 
+reviewed  relevant  public  and  internal  documents.  This  document  contains  two  sections:  Framework 
+Overview – a summary of the MUFG green bond framework; and Sustainalytics’ Opinion – an opinion on 
+the framework.  
+  
+2. INTRODUCTION 
+ 
+MUFG,  through  its  subsidiaries,  provides  financial  services  in  Japan  and  internationally.  It  operates  in 
+several segments, including Retail Banking, Corporate Banking, Trust Assets, and Global Business Group.  
+ 
+MUFG’s Corporate Social Responsibility (CSR) policy is focused on three pillars that it has assessed as most 
+important  to  business  success  and  societal  stakeholders:  Customers,  Community,  and  Responsible 
+Finance. The Responsible Finance pillar explicitly references MUFG’s underlying objective to “contribute 
+to the realization of a sustainable environment and society through its financial business.” MUFG aims to 
+realize  this  objective  through  the  (i)  dissemination  of  renewable  energy;  (ii)  public-private  financial 
+partnerships; (iii) adoption and adherence to the Equator Principles, a risk management framework to 
+determine,  assess  and  manage  environmental  and  social  risks  and  impacts  in  projects;  (iv)  consulting 
+services related to climate change mitigation;  and (v) promotion of ESG investment.   Particularly, the 
+dissemination of renewable energy is a key business activity for MUFG. MUFG views financing renewable 
+energy as a way to integrate the CSR pillar of Responsible Finance into its business operations. In Financial 
+Year (FY) 2015, MUFG was ranked second in the global project finance lead arranger table for renewable 
+energy by Bloomberg New Energy Finance. In FY 2015, MUFG originated USD 2,639.1 million in renewable 
+energy project finance loans.1   
+ 
+To further the Responsible Finance pillar of its CSR policy, particularly the activity centered on promotion 
+and dissemination of renewable energy, MUFG is planning to issue a green bond to finance lending to 
+renewable energy projects. While the issuing entity will be MUFG, the entity that will manage lending to 
+Eligible Green Projects will be the Bank of Tokyo- Mitsubishi UFJ (BTMU), a wholly owned subsidiary of 
+MUFG. All new and existing projects financed through bond proceeds must be eligible according to the 
+Use of Proceeds criteria outlined in the Framework Overview below.  
+ 
+ 
+
+ 
+1 The Bloomberg New Energy Finance table is disclosed on the MUFG website: 
+http://www.mufg.jp/english/csr/juten/sustainability/saiseikanou/   
+
+ 
+
+ 
+
+3 
+
+© Sustainalytics 2016 
+
+3. FRAMEWORK OVERVIEW 
+ 
+Proceeds  from  MUFG’s  green  bond  will  be  used  to  finance  projects  focused  on  the  generation  of 
+renewable energy, specifically solar and wind energy.  The following section summarizes MUFG’s green 
+bond  framework  including  the  use  of  proceeds,  process  for  project  selection,  the  management  of 
+proceeds, and reporting. 
+ 
+3.1   Use of Proceeds 
+MUFG will allocate an amount equal to the net proceeds from the sale of the green bond to fund 
+projects that are eligible as per the criterion specified below.  
+ 
+3.1.1  Eligibility Criterion 
+In order for a project to be funded through green bond proceeds, the project must meet the following 
+eligibility criterion:  
+ 
+
+  Expenditures related to the development construction, operation, or expansion of facilities for 
+new and existing solar and wind projects that are (i) determined as Category B or Category C in 
+accordance with the Equator Principles, and (ii) signed since September 2014.  
+
+ 
+
+As per the Equator Principles, Category A projects have potential significant adverse environmental and 
+social  risks  and/or  impacts  that  are  diverse,  irreversible  or  unprecedented.    Category  B  projects  have 
+limited  adverse  environmental  and  social  risks  and/or  impacts  that are few  in number,  generally  site-
+specific, largely reversible and readily addressed through mitigation measures. Category C projects have 
+minimal or no adverse environmental and social risks and/or impacts.2 Proceeds of the green bond may 
+be  allocated  to  lending  to  new  and  existing  Category  B  or  C  renewable  energy projects,  such  as  solar 
+thermal  power  generation,  solar  photovoltaic  power  generation  and  onshore  and  offshore wind  farm 
+projects.  
+
+ 
+
+3.2  Process for Project Evaluation and Selection  
+All renewable energy projects financed through bond proceeds are evaluated for financial viability by the 
+BTMU  Structured  Finance  Division.  Additionally,  Eligible  Green  Projects  financed  through  green  bond 
+proceeds are evaluated by the Social and Environmental Risk Assessment Office of BTMU’s Structured 
+Finance Division for their alignment with the eligibility criterion. As noted above, this includes selecting 
+projects that are categorised as Category B or Category C in accordance with the Equator Principles, i.e. 
+projects that have limited or minimal adverse environmental and social risks and impacts.  
+ 
+BTMU categorises projects as A, B or C based on its internal environmental and social  risk assessment 
+process. This process is aligned with the ten Equator Principles (please see Appendix 2 for a complete list 
+of the Equator Principles).   As a part of this process, BTMU evaluates a project for minimal, limited or 
+significant  potential  adverse  environmental  and  social  impact  based  on  the  International  Finance 
+ 
+2 The Equator Principles:  http://www.equator-principles.com/ 
+
+ 
+
+ 
+
+4 
+
+© Sustainalytics 2016 
+
+Corporation  (IFC)’s  eight  Performance  Standards  on  Environmental  and  Social  Sustainability.  For  each 
+Performance Standard where limited or significant risk is identified, BTMU’s internal process requires the 
+Social  and  Environmental  Risk  Assessment  Office  to  work  in  partnership  with  its  clients  to  assess  and 
+manage  these  environmental  and  social  risks  and  impacts.  The  final  project  categorisation  awarded 
+through  this  process,  and  alignment  of  the  project  selection  process  with  the  Equator  Principles  is 
+reviewed  by  PricewaterhouseCoopers  Sustainability  Co.,  Ltd.    As  an  example,  the  most  recent 
+PricewaterhouseCoopers Sustainability Assurance report can be found on the MUFG website (please see 
+link in footnote).3  
+ 
+
+3.3        Management of Proceeds  
+While the bond will be issued by MUFG, proceeds will be loaned on to BTMU, a wholly owned subsidiary 
+of MUFG. As soon as MUFG receives the proceeds of the bond, MUFG will remit an amount equivalent to 
+the proceeds to BTMU, based on a loan agreement made between MUFG and BTMU. MUFG reports that 
+it will monitor and track the allocation of proceeds to Eligible Green Projects using BTMU’s internal loan 
+management system. This loan management system generates a spreadsheet listing all loans. BTMU uses 
+the spreadsheet to identify and tag loans that are eligible for funding through bond proceeds. Such loans 
+are identified and tagged by using internal project ID codes. Pending allocation of an amount equal to the 
+net proceeds to Eligible Green Projects, BTMU is expected to invest an amount equal to any unallocated 
+balance of such net proceeds in cash, cash equivalents and/or marketable securities.  
+ 
+3.4    Reporting  
+Allocation Reporting and Compliance Review 
+MUFG has confirmed that it will, on an annual basis throughout the term of the bond, or until the proceeds 
+are fully allocated, disclose attestations by management that confirm allocation of proceeds to Eligible 
+Green Projects. Allocation of proceeds in these attestations will be disclosed in aggregate, on a project 
+portfolio  basis.  These  attestations  will  be  disclosed  on  the  MUFG  website.  In  addition,  MUFG  has 
+committed  to  undertaking  an  annual  compliance  review  of  funded  projects  with  an  independent 
+consultant with recognized expertise in environmental and social issues. Such a consultant will review a 
+broad sample of projects from the total allocated projects in order to determine whether they meet the 
+eligibility criteria defined in the framework. The consultant will also provide a letter stating the results of 
+the compliance review, which MUFG may disclose publicly on its website. This compliance review will take 
+place annually throughout the term of the bond, or until the proceeds are fully allocated.  
+ 
+Impact Reporting 
+MUFG has committed to publishing an impact report annually, throughout the term of the bond, that will 
+report on the following impact metrics: kWh of power generated from renewable energy produced by 
+Eligible  Green  Projects,  and  prospective  carbon  offset  from  Eligible  Green  Projects,  in  tonnes  of  CO2 
+equivalent. These metrics will be disclosed in aggregate, on a project portfolio basis. All impact reporting 
+will be disclosed on the MUFG website.  
+ 
+ 
+
+ 
+3 The most recent PricewaterhouseCoopers Sustainability Assurance report can be found at the link below: 
+http://www.mufg.jp/english/csr/juten/sustainability/sekidou/pdf/independent_assurance.pdf 
+
+ 
+
+ 
+
+5 
+
+© Sustainalytics 2016 
+
+4. SUSTAINALYTICS’ OPINION 
+ 
+A strong Responsible Finance policy realized through sustainable products & services 
+Sustainalytics’ Environmental, Social, and Governance (ESG) research assesses MUFG as having a strong 
+environmental policy, as seen in the Responsible Finance pillar of its CSR policy. The strength of this policy 
+lies  in  MUFG’s  commitment  to  go  beyond  the  environmental  and  social  risk  assessment  of  its  own 
+financing by encouraging the broader adoption of sustainable practices through its products and services. 
+As per Sustainalytics’ ESG research and analysis, this strength is demonstrated through three particular 
+MUFG  commitments  to  (i)  promote  greater  environmental  responsibility  through  its  activities,  (ii) 
+encourage  the  diffusion  of  environmentally  friendly  technologies,  and  (iii)  report  regularly  on 
+environmental issues.  
+ 
+MUFG realizes the above three commitments through offering sustainable products and services. These 
+include loan products that offer subsidies to fund activities relating to energy conservation and energy 
+efficiency, as well as services such as the Joint Credit Mechanism (JCM) consulting service. MUFG’s JCM 
+consulting service supports the dissemination of low-carbon technologies to emerging markets as per the 
+bilateral  credit  creation  scheme  proposed  by  Japan4.  A  specific  illustration  of  how  the  JCM  consulting 
+service enables MUFG to act on the three commitments described above is the ‘Green Hospitals’ project 
+developed in Vietnam. Through its JCM service, MUFG and its subsidiaries, financed the installation of 
+1,000 energy efficient air conditioners at two hospitals in Vietnam. As a part of this service, MUFG is also 
+developing a measurement and reporting methodology for Green House Gas (GHG) emissions reduced at 
+these hospitals.  
+ 
+While acknowledging the significance of MUFG’s sustainable products and services suite, Sustainalytics’ 
+ESG research notes that MUFG does not have formal targets and deadlines  with respect to either this 
+suite,  or  its  renewable  energy  financing  programs.  Sustainalytics’  ESG  research  also  notes  that  while 
+MUFG does promote the consideration of ESG factors in its investment management and project lending 
+activities, it gives limited consideration to ESG factors in its non-project based, general corporate lending 
+activities. For example, while MUFG avoids lending to cluster munition manufacturers,5 it does not have 
+a formal policy that systematically incorporates such ESG considerations in corporate lending activities. 
+However, Sustainalytics evaluates the above as being in line with peer performance for banks. 
+ 
+Specifically, with respect to its project lending activities, Sustainalytics is of the opinion that MUFG has a 
+robust and credible process to consider ESG factors that is in accordance with the Equator Principles.  This 
+credibility  of  project  lending  with  respect  to  renewable  energy  is  reflected  in  MUFG’s  ranking  as  the 
+
+ 
+4 The JCM is a bilateral credit creation scheme between Japan and developing countries proposed by the Japanese government to the 
+international community. JCM allows Japan, a country with an emission-reduction commitment under the Kyoto Protocol, to implement an 
+emission-reduction project in developing countries. This is often done through offering subsidies for the transfer of low carbon technologies. 
+These projects are then eligible to earn Certified Emission Reduction (CER) credits, each of which is equivalent to one tonne of carbon dioxide. 
+These CER credits are then traded bilaterally between Japan and the host developing country.  
+5 Sustainalytics ESG research 
+ 
+
+ 
+
+ 
+
+6 
+
+© Sustainalytics 2016 
+
+second largest project finance lead arranger for renewable energy in the Bloomberg New Energy Finance 
+league table.6 
+ 
+Given  the  demonstrated  realization  of  a  strong  Responsible  Finance  policy  and  the  abovementioned 
+credibility of renewable energy project finance lending, Sustainalytics is of the opinion that MUFG is well 
+positioned to issue this green bond. Sustainalytics also believes that this green bond issuance aligns well 
+with the three commitments that strengthen MUFG’s Responsible Finance policy.   
+ 
+Robust environmental and social risk management based on recognized third-party standard 
+BTMU, the entity using the proceeds to lend to Eligible Green Projects, has a robust internal process to 
+assess  and  manage  environmental  and  social  risks  stemming  from  its  project  finance  activities.  This 
+internal process complies with the Equator Principles (EP), a risk management framework for large-scale 
+projects. The credibility of the EP as a risk management tool derives from its ability to ensure: 
+ 
+
+(i) 
+
+ 
+
+(ii) 
+
+(iii) 
+
+A mandatory review of all projects with respect to their level of impact in a comprehensive 
+range of environmental and social areas 
+Principle 1 of the EP mandates a review and categorisation of all projects as having significant 
+(Category A), limited (Category B), or minimal (Category C) environmental and social impact. 
+Impact  is  assessed  on  the  eight  IFC  Performance  Standards  on  Environmental  and  Social 
+Sustainability. These cover a wide range of issues to address environmental and social risk, 
+including  management  of  environmental  and  social  impacts,  community  health,  resource 
+efficiency and pollution prevention, and labour conditions.  
+
+Strong mitigation process for projects with significant or limited adverse environmental and 
+social impact  
+The  EPs  (specifically  Principles  2-6)  also  require  all7 Category  A  and  B  projects  to  conduct 
+environmental  and  social  impact  assessments,  develop  and  maintain  environmental 
+management  systems,  demonstrate  effective  stakeholder  engagement,  and  establish  a 
+grievance  mechanism8 to  address  concerns  around  the  project’s  environmental  and  social 
+performance. Sustainalytics is of the opinion that the abovementioned components combine 
+to form a strong overall process for mitigating impacts throughout the life of project.  
+ 
+Continuous independent assurance of a project’s environmental and social impact  
+Principle  7  of  the  EP  require  that  Category  A  and  as  appropriate,  Category  B  projects  are 
+subject to an independent review to assess the strength of the mitigation processes outlined 
+above, and to assess compliance with the EP. Additionally, Principle 9 of the EP also requires 
+the appointment of an independent environmental and social consultant to verify ongoing 
+monitoring and reporting of project impacts.  
+
+ 
+6   The Bloomberg New Energy Finance table is disclosed on the MUFG website: 
+http://www.mufg.jp/english/csr/juten/sustainability/saiseikanou/  
+7 Please note that for projects implemented in a set list of ‘Designated Countries,’ compliance with host country laws meets these mitigation 
+requirements. This is because these countries are assessed as having robust environmental and social governance, legislation systems and 
+institutional capacity designed to protect their people and the natural environment. 
+8 For all Category A and, as appropriate, Category B Projects, MUFG’s client are required, as part of the ESMS, to establish a grievance 
+mechanism designed to receive and facilitate resolution of concerns and grievances about the project’s environmental and social performance. 
+
+ 
+
+ 
+
+7 
+
+© Sustainalytics 2016 
+
+Sustainalytics believes that the three points outlined above speak to the comprehensive nature of the EP. 
+Sustainalytics has reviewed internal BTMU’s documents that demonstrate compliance with the EP, and is 
+of the opinion that three core strengths of the EP are well reflected in BTMU’s internal risk assessment 
+process.  As well,  BTMU  has  also  confirmed  that an  independent  third  party  auditor  (Pricewaterhouse 
+Coopers) provides assurance on compliance with the EP.  
+ 
+Alignment with Green Bond Principles (GBP) 2016 
+Sustainalytics  has  determined  that MUFG’s  green  bond  aligns  with the  four  pillars  of  the  Green  Bond 
+Principles 2016. Please see Appendix 2 for details.  
+ 
+Conclusion 
+MUFG’s  green  bond  framework  is  transparent  and  provides  clarity  regarding  use  of  proceeds and  the 
+outcomes of the green bond investments. Renewable energy is included in the GBP as an eligible green 
+project category, offering clear environmental benefits. Additionally, MUFG’s project selection process is 
+based on external standards such as the Equator Principles. This ensures that projects funded through 
+bond proceeds have minimal or limited adverse environmental or social impacts.  Sustainalytics is of the 
+opinion that MUFG’s green bond aligns with the four pillars of the GBP, and is robust and credible.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+8 
+
+© Sustainalytics 2016 
+
+APPENDICES 
+Appendix 1: The Ten Equator Principles 
+ 
+The Equator Principles are listed below, and can be viewed at the following link: http://www.equator-
+principles.com/ 
+ 
+
+  Principle 1: Review and Categorisation 
+  Principle 2: Environmental and Social Assessment 
+  Principle 3: Applicable Environmental and Social Standards 
+  Principle 4: Environmental and Social Management System and Equator Principles Action Plan 
+  Principle 5: Stakeholder Engagement 
+  Principle 6: Grievance Mechanism 
+  Principle 7: Independent Review 
+  Principle 8: Covenants 
+  Principle 9: Independent Monitoring and Reporting 
+  Principle 10: Reporting and Transparency  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+9 
+
+© Sustainalytics 2016 
+
+Appendix 2: Alignment with Green Bond Principles 2016  
+ 
+ 
+
+Green Bond / Green Bond Programme 
+
+External Review Form 
+
+ 
+
+Section 1.  Basic Information 
+
+Issuer name: Mitsubishi UFJ Financial Group  
+
+Green Bond ISIN or Issuer Green Bond Framework Name, if applicable:  
+
+Review provider’s name: Sustainalytics 
+
+Completion date of this form: September 1, 2016 
+
+ 
+
+Section 2.  Review overview 
+
+SCOPE OF REVIEW  
+
+The review assessed the following elements and confirmed their alignment with the GBPs: 
+
+Use of Proceeds 
+
+☒ 
+☒  Management of Proceeds 
+
+ 
+
+ROLE(S) OF REVIEW PROVIDER 
+
+Consultancy (incl. 2nd opinion) 
+
+Verification 
+
+Other (please specify): 
+
+☒ 
+
+☐ 
+
+☐ 
+
+ 
+
+☒ 
+
+☒ 
+
+☐ 
+
+☐ 
+
+ 
+
+Process for Project Evaluation and Selection 
+Reporting 
+
+Certification 
+
+Rating 
+
+ 
+
+EXECUTIVE SUMMARY OF REVIEW and/or LINK TO FULL REVIEW (if applicable) 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+10 
+
+© Sustainalytics 2016 
+
+Section 3.  Detailed review 
+ 
+1. USE OF PROCEEDS 
+Overall comment on section (if applicable):  
+The  Use  of  Proceeds  of  this  bond  are  clearly  described  in  the  public  offering  statement.  In  addition, 
+renewable  energy  is  included  in  the  GBP  as  an  eligible  green  project  category,  offering  clear 
+environmental benefits. BTMU has a global portfolio of solar and wind projects. Currently, the projects 
+are all located in developed countries. BTMU may also expand this portfolio to include eligible solar and 
+wind projects in emerging markets and other developed countries.  
+ 
+Sustainalytics is of the opinion that projects funded in accordance with the eligibility criteria described in 
+the framework will contribute to mitigating climate change by reducing GHG emissions.  
+ 
+
+Use of proceeds categories as per GBP: 
+
+☒ 
+
+☐ 
+
+☐ 
+
+☐ 
+
+☐ 
+
+☐ 
+
+Renewable energy 
+ 
+Pollution prevention and control 
+ 
+
+Terrestrial and aquatic biodiversity 
+conservation 
+ 
+Sustainable water management  
+ 
+Eco-efficient products, production 
+technologies and processes 
+ 
+Unknown at issuance but currently expected 
+to conform with GBP categories, or other 
+eligible areas not yet stated in GBPs 
+
+☐ 
+
+☐ 
+
+☐ 
+
+☐ 
+
+Energy efficiency  
+ 
+Sustainable management of living 
+natural resources 
+ 
+Clean transportation 
+
+Climate change adaptation 
+ 
+
+☐  Other (please specify): 
+
+ 
+
+ 
+
+ 
+
+If applicable please specify the environmental taxonomy, if other than GBPs: 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+11 
+
+© Sustainalytics 2016 
+
+2. PROCESS FOR PROJECT EVALUATION AND SELECTION 
+Overall comment on section (if applicable):  
+ 
+All selected projects are aligned or will be aligned with (i) the eligibility criteria defined in the framework 
+(ii) BTMU’s internal environmental and social risk assessment process based on the Equator Principles. 
+The eligibility criteria ensure that all selected projects have/will have limited or minimal environmental or 
+social impacts. BTMU’s internal environmental and social risk assessment process ensures that selected 
+projects comply/will comply with the Equator Principles, including mitigation of any known environmental 
+or social impacts. The project selection process is based on external third party standards, such as the 
+Equator  Principles  and  the  IFC  Performance  Standards  on  Environmental  and  Social  Sustainability. 
+Sustainalytics believes this process to be credible.  
+ 
+ 
+
+Evaluation and selection 
+
+☒ 
+
+☒ 
+
+Defined and transparent criteria for 
+projects eligible for Green Bond 
+proceeds  
+Summary criteria for project evaluation 
+and selection publicly available 
+
+ 
+
+☒  Documented process to determine that 
+
+projects fit within defined categories  
+
+☐  Other (please specify): 
+
+Information on Responsibilities and Accountability  
+
+☒ 
+
+☐ 
+
+Evaluation / Selection criteria subject to 
+external advice or verification 
+Other (please specify): 
+
+☐ 
+
+In-house assessment 
+
+ 
+
+ 
+
+ 
+3. MANAGEMENT OF PROCEEDS 
+Overall comment on section (if applicable): 
+On receipt of the proceeds, MUFG will remit an amount equivalent to the proceeds of the bond to BTMU. 
+MUFG will use BTMU’s internal loan management system to monitor and track disbursement of proceeds 
+to loans that fund on-going and new Eligible Green Projects. Loans eligible for funding will be identified 
+by  BTMU’s  internal  project  ID  codes.  Sustainalytics  is  of  the  opinion  that  MUFG’s  Financial  Planning 
+Division has sufficient oversight over the management of proceeds.  
+ 
+ 
+
+Tracking of proceeds: 
+
+Green Bond proceeds segregated or tracked by the issuer in a systematic manner 
+
+Disclosure of intended types of temporary investment instruments for unallocated proceeds 
+
+Other (please specify): 
+
+12 
+
+☒ 
+
+☒ 
+
+☐ 
+
+ 
+
+ 
+
+© Sustainalytics 2016 
+
+ 
+
+Additional disclosure: 
+
+☐ 
+
+☒ 
+
+☐ 
+
+Allocations to future investments only 
+
+☒  Allocations to both existing and future 
+
+investments 
+
+Allocation to individual disbursements 
+
+☐  Allocation to a portfolio of disbursements 
+
+Disclosure of portfolio balance of 
+unallocated proceeds 
+
+☐  Other (please specify): 
+
+ 
+
+ 
+4. REPORTING 
+Overall comment on section (if applicable):  
+MUFG will disclose attestations by management that confirm the allocation of proceeds to Eligible Green 
+Projects. Additionally, MUFG will also undertake an annual compliance review through an independent 
+consultant with recognized expertise in environmental or social issues. This compliance review will serve 
+as a verification that bond proceeds were allocated to Eligible Green Projects. MUFG has disclosed that it 
+is unable to undergo a financial verification of allocation of proceeds, as conducted by an external auditor. 
+This is due to the fact that such a service is not offered by MUFG’s financial auditor as of the release date 
+of the framework overview. Sustainalytics is of the opinion that this constraint is sufficiently overcome by 
+MUFG’s willingness to disclose management attestations.  
+
+ 
+
+Use of proceeds reporting: 
+
+☐ 
+
+☐ 
+
+Project-by-project 
+
+☒  On a project portfolio basis 
+
+Linkage to individual bond(s) 
+
+☐  Other (please specify): 
+
+ 
+
+Information reported: 
+
+☒ Allocated amounts 
+
+☐ Other (please specify): 
+
+ 
+
+ 
+
+ 
+
+  Frequency: 
+
+ 
+
+ 
+
+☒ Annual 
+
+☐ Other (please specify): 
+
+☐  GB financed share of total investment 
+
+ 
+
+☐ 
+
+Semi-annual 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+13 
+
+© Sustainalytics 2016 
+
+Impact reporting: 
+
+☐ 
+
+☐ 
+
+Project-by-project 
+
+☒  On a project portfolio basis 
+
+Linkage to individual bond(s) 
+
+☐  Other (please specify): 
+
+  Frequency: 
+
+ 
+
+ 
+
+☒ Annual 
+
+☐ Other (please specify): 
+
+ 
+
+Information reported (expected or ex-post): 
+
+ 
+
+ 
+
+☐ GHG Emissions / Savings 
+
+☒ Other ESG indicators (please specify): kWh 
+of power generated from renewable energy 
+and prospective carbon offset in tonnes of CO2 
+equivalent 
+
+Means of Disclosure 
+
+☐ 
+
+Semi-annual 
+
+ 
+
+☐   Energy Savings  
+
+ 
+
+ 
+
+☐ 
+
+☐ 
+
+☐ 
+
+Information published in financial report 
+
+☐ 
+
+Information published in sustainability report 
+
+Information published in ad hoc 
+documents 
+Reporting reviewed (if yes, please specify which parts of the reporting are subject to external review): 
+
+☒  Other (please specify): MUFG website  
+
+ 
+Where appropriate, please specify name and date of publication in the useful links section. 
+USEFUL LINKS (e.g. to review provider methodology or credentials, to issuer’s documentation, etc.) 
+The Equator Principles: http://www.equator-principles.com/  
+The IFC Performance Standards: 
+http://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/ifc+sustaina
+bility/our+approach/risk+management/performance+standards/environmental+and+social+perform
+ance+standards+and+guidance+notes  
+PricewaterhouseCoopers Sustainability Assurance Report on compliance with Equator Principles: 
+http://www.mufg.jp/english/csr/juten/sustainability/sekidou/pdf/independent_assurance.pdf  
+ 
+SPECIFY OTHER EXTERNAL REVIEWS AVAILABLE, IF APPROPRIATE 
+Type(s) of Review provided: 
+
+☐ 
+
+☐ 
+
+☐ 
+
+Consultancy (incl. 2nd opinion) 
+
+Verification / Audit 
+
+Other (please specify): 
+
+ 
+Review provider(s): 
+ 
+
+☐ 
+
+☐ 
+
+Certification 
+
+Rating 
+
+Date of publication: 
+
+ 
+
+ 
+
+14 
+
+© Sustainalytics 2016 
+
+ 
+Disclaimer 
+All rights reserved. No part of this second party opinion (the “Opinion”) may be reproduced, transmitted 
+or published in any form or by any means without the prior written permission of Sustainalytics.  
+  
+The Opinion was drawn up with the aim to explain why the analyzed bond is considered sustainable and 
+responsible. Consequently, this Opinion is for information purposes only and Sustainalytics will not 
+accept any form of liability for the substance of the opinion and/or any liability for damage arising from 
+the use of this Opinion and/or the information provided in it. 
+  
+As the Opinion is based on information made available by the client, Sustainalytics does not warrant that 
+the information presented in this Opinion is complete, accurate or up to date. 
+  
+Nothing contained in this Opinion shall be construed as to make a representation or warranty, express or 
+implied, regarding the advisability to invest in or include companies in investable universes and/or 
+portfolios. Furthermore, this Opinion shall in no event be interpreted and construed as an assessment of 
+the economic performance and credit worthiness of the bond, nor to have focused on the effective 
+allocation of the funds’ use of proceeds. 
+  
+The client is fully responsible for certifying and ensuring its commitments` compliance, implementation 
+and monitoring. 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+15 
+
+© Sustainalytics 2016 
+
+ABOUT SUSTAINALYTICS 
+ 
+Sustainalytics is the largest independent provider of sustainability 
+research, analysis, and services to investors. We serve over 250 
+institutional investors which include some of the world's largest asset 
+owners and asset managers. Through over 20 years of experience 
+serving the responsible investment (RI) market, we have gained a 
+reputation for providing high-quality ESG research solutions and 
+excellent client service. 
+
+Sustainalytics is headed by seasoned professionals in the field of 
+business, finance, and sustainability, with a wealth of experience in the 
+Responsible Investment area. After more than 20 years of local 
+experience and expertise in the Responsible Investment (RI) market 
+Sustainalytics has developed a comprehensive understanding of trends 
+and best practices and a solid process to assist organisations in 
+integrating ESG considerations into their policies and strategies. We 
+have worked with some of the world’s financial institutions including 
+pension plans, investment managers and banks providing customised 
+support to help them achieve their RI objectives. Clients include ABN 
+AMRO, APG, BBVA, BNP Paribas, Deutsche Bank, ING Bank, Lombard 
+Odier, Lloyds Bank, Triodos Bank, UBS and over 250 other financial 
+institutions and organisations. 
+
+Sustainalytics now has a staff of 250 employees globally, including over 
+120 analysts, with operations in Amsterdam, Boston, Bucharest, 
+Frankfurt, New York, Paris, London, Singapore, Sydney, Timisoara, and 
+Toronto, and representation in Brussels and Washington DC. 
+
+In 2015, Sustainalytics was named the Best 
+SRI or Green Bond Research Firm by 
+GlobalCapital. In December 2014, for the 
+third year in a row, Sustainalytics was 
+named best sustainable and responsible 
+investment research firm in the 
+Independent Research in Responsible 
+Investment (IRRI) Survey, conducted by 
+Thomson Reuters and SRI-CONNECT.  
+
+ 
+
+ 
+
+16 
+
+

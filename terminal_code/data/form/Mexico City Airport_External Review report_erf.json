@@ -1,0 +1,153 @@
+{
+    "form_data": {
+        "sections": {
+            "Basic Information": {},
+            "Detailed Review": {
+                "Management of Proceeds": {
+                    "Additional disclosure": {
+                        "Allocation to a portfolio of disbursements": false,
+                        "Allocation to individual disbursements": true,
+                        "Allocations to both existing and future investments": true,
+                        "Allocations to future investments only": false,
+                        "Disclosure of portfolio balance of unallocated proceeds": true,
+                        "Other (please specify)": false
+                    },
+                    "Tracking of Proceeds": {
+                        "Disclosure of intended types of temporary investment instruments for unallocated proceeds": true,
+                        "Green Bond proceeds segregated or tracked by the issuer in a systematic manner": true,
+                        "Other (please specify)": false
+                    }
+                },
+                "Process for Project Evaluation and Selection": {
+                    "Evaluation and Selection": {
+                        "Defined and transparent criteria for projects eligible for Green Bond proceeds": true,
+                        "Documented process to determine that projects fit within defined categories": true,
+                        "Other (please specify)": false,
+                        "Summary criteria for project evaluation and selection publicly available": true
+                    },
+                    "Information on Responsibilities and Accountability": {
+                        "Evaluation / Selection criteria subject to external advice or verification": true,
+                        "In-house assessment": false,
+                        "Other (please specify)": false
+                    }
+                },
+                "Reporting": {
+                    "Impact Reporting": {
+                        "Frequency": {
+                            "Annual": false,
+                            "Other (please specify)": false,
+                            "Semi-annual": false
+                        },
+                        "Information Reported": {
+                            "Energy Savings": true,
+                            "GHG Emissions / Savings": true,
+                            "Other ESG indicators (please specify)": true
+                        },
+                        "Linkage to individual bond(s)": true,
+                        "On a project portfolio basis": true,
+                        "Other (please specify)": false,
+                        "Project-by-project": false
+                    },
+                    "Means of Disclosure": {
+                        "Information published in ad hoc documents": true,
+                        "Information published in financial report": false,
+                        "Information published in sustainability report": false,
+                        "Other (please specify)": false,
+                        "Reporting reviewed (if yes, please specify which parts of the reporting are subject to external review)": true
+                    },
+                    "Use of Proceeds Reporting": {
+                        "Frequency": {
+                            "Annual": false,
+                            "Other (please specify)": false,
+                            "Semi-annual": false
+                        },
+                        "Information Reported": {
+                            "Allocated amounts": true,
+                            "GB financed share of total investment": false,
+                            "Other (please specify)": false
+                        },
+                        "Linkage to individual bond(s)": false,
+                        "On a project portfolio basis": true,
+                        "Other (please specify)": false,
+                        "Project-by-project": false
+                    }
+                },
+                "Specify other external reviews available, if appropriate": {
+                    "Type(s) of Review provided": {
+                        "Certification": false,
+                        "Consultancy (incl. 2 nd opinion)": true,
+                        "Other (please specify)": false,
+                        "Rating": false,
+                        "Verification / Audit": false
+                    }
+                },
+                "Use of Proceeds": {
+                    "Use of Proceeds Categories as per GBP": {
+                        "Clean transportation": false,
+                        "Climate change adaptation": false,
+                        "Eco-efficient products, production technologies and processes": true,
+                        "Energy efficiency": true,
+                        "Other (please specify)": false,
+                        "Pollution prevention and control": true,
+                        "Renewable energy": true,
+                        "Sustainable management of living natural resources": false,
+                        "Sustainable water management": true,
+                        "Terrestrial and aquatic biodiversity conservation": true,
+                        "Unknown at issuance but currently expected to conform with GBP categories, or other eligible areas not yet stated in GBPs": false
+                    }
+                }
+            },
+            "Review Overview": {
+                "Role(s) of Review Provider": {
+                    "Certification": false,
+                    "Consultancy (incl. 2 nd opinion)": true,
+                    "Other (please specify)": false,
+                    "Rating": false,
+                    "Verification": false
+                },
+                "Scope of Review": {
+                    "Management of Proceeds": true,
+                    "Process for Project Evaluation and Selection": true,
+                    "Reporting": true,
+                    "Use of Proceeds": true
+                }
+            }
+        }
+    },
+    "meta": {
+        "section_names": {
+            "Basic Information": {},
+            "Detailed Review": {
+                "Management of Proceeds": {
+                    "Additional disclosure": {},
+                    "Tracking of Proceeds": {}
+                },
+                "Process for Project Evaluation and Selection": {
+                    "Evaluation and Selection": {},
+                    "Information on Responsibilities and Accountability": {}
+                },
+                "Reporting": {
+                    "Impact Reporting": {
+                        "Frequency": {},
+                        "Information Reported": {}
+                    },
+                    "Means of Disclosure": {},
+                    "Use of Proceeds Reporting": {
+                        "Frequency": {},
+                        "Information Reported": {}
+                    }
+                },
+                "Specify other external reviews available, if appropriate": {
+                    "Type(s) of Review provided": {}
+                },
+                "Use of Proceeds": {
+                    "Use of Proceeds Categories as per GBP": {}
+                }
+            },
+            "Review Overview": {
+                "Role(s) of Review Provider": {},
+                "Scope of Review": {}
+            }
+        }
+    }
+}

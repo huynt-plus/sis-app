@@ -1,0 +1,797 @@
+ 
+ 
+  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ MTR CORPORATION LIMITED  
+
+GREEN BOND 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+
+FRAMEWORK OVERVIEW AND SECOND OPINION BY 
+
+SUSTAINALYTICS 
+
+October 14th, 2016 
+
+www.sustainalytics.com 
+ 
+www.sustainalytics.com 
+ 
+www.sustainalytics.com 
+
+Trisha Taneja (Toronto) 
+
+Tim Langer (London) 
+
+James Hawrylak (Tokyo) 
+
+Advisor, Advisory Services 
+
+trisha.taneja@sustainalytics.com 
+
+(+1) 647 317 3695 
+
+Advisor, Institutional Relations 
+tim.langer@sustainalytics.com 
+(+44) 20 3695 9528 
+
+Director, Institutional Relations 
+james.hawrylak@sustainalytics.com 
+(+81) 3 4589 4886 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+Vikram Puppala  
+
+Vikram Puppala  
+
+Vikram Puppala  
+
+©  Sustainalytics 2016 
+
+TABLE OF CONTENTS 
+
+FRAMEWORK OVERVIEW AND SECOND OPINION BY SUSTAINALYTICS 
+
+1.  Preface 
+
+2. 
+
+Introduction 
+
+3.  Framework overview 
+3.1  Use of Proceeds 
+3.2  Project Evaluation and Selection Process 
+3.3  Management of Proceeds 
+3.4  Reporting 
+
+4  Sustainalytics’ Opinion 
+
+Impact of Use of Proceeds 
+
+Appendices 
+
+Appendix 1: Alignment with Green Bond Principles (GBP) 
+Appendix 2: MTR’s overall ESG performance (as assessed by Sustainalytics) 
+
+SUSTAINALYTICS 
+
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1 
+
+3 
+
+3 
+
+4 
+4 
+7 
+7 
+8 
+
+9 
+10 
+
+12 
+12 
+17 
+
+19 
+
+2 
+
+©  Sustainalytics 2016 
+
+1. PREFACE 
+MTR  Corporation  Limited  (“MTR”)  and  its  subsidiaries  (“MTR  Group  Entities”)  are  planning  to  issue 
+multiple  green  bonds  under  its  Green  Bond  Framework  to  finance  projects  aligned  with  MTR 
+sustainability objectives. MTR has engaged Sustainalytics to provide a second opinion on the framework 
+and  its  environmental  credentials.  As  part  of  this  engagement,  Sustainalytics  held  conversations  with 
+various members of MTR’s management team to understand the sustainability impact of their business 
+processes  and  planned  use  of  proceeds  for  the  bond  issuance.  Sustainalytics  also  reviewed  relevant 
+public  and  internal  documents.  This  document  contains  two  sections:  Framework  Overview  –  a 
+summary  of  the  MTR  green  bond  framework;  and  Sustainalytics’  Opinion  –  an  opinion  on  the 
+framework.  
+ 
+2. INTRODUCTION 
+MTR is one of the world's leading railway operators carrying an average weekday patronage of over 5.5 
+million  in  Hong  Kong,  and  together  with  its  subsidiary  and  associate  companies  over  5  million 
+passengers overseas. 
+ 
+Established  in  1975,  MTR  was  formerly  a  Hong  Kong  government-owned  entity  constructing  and 
+operating an urban metro system to help meet  Hong Kong's public transport requirements. MTR now 
+has a diversified business profile focusing on railway construction and operations, station commercial, 
+residential  and  commercial  property  development,  property  investment  and  management,  and 
+international consultancy services. MTR’s notable railway investment and operations include the Hong 
+Kong  railway  network,  the  Hong  Kong  Airport  Express  and  several  railway  lines  in  Beijing,  Shenzhen, 
+London, Melbourne and Stockholm. MTR’s shares have been listed on the Stock Exchange of Hong Kong 
+since 2000 with the Hong Kong SAR Government owning 75.40% of its shares as at the end of June 2016. 
+ 
+MTR’s  vision  is  to  be  a  leading  multinational  company  that  connects  and  grows  communities,  with  a 
+focus  on  both  the  social  and  environmental  benefits  of  rail  and  property  networks  to  power  the 
+sustainable development of the communities it operates in and the wider society to which it belongs.  
+ 
+In its Sustainability Report, MTR states that it “strives to become one of the  most resource-efficient and 
+ecologically sustainable railway and property companies in the world.” In line with this overarching goal, 
+MTR has developed a sustainability strategy that includes a Corporate Sustainability Policy, a Corporate 
+Responsibility Policy, a Corporate Biodiversity Policy, and a commitment to combating climate change. 
+Through  these  commitments,  MTR  has  currently  identified  the  following  broad  environmental 
+sustainability  objectives:  (i)  increase  energy  efficiency;  (ii)  use  natural  resources  sustainably;  and  (iii) 
+mitigate and adapt to climate change.  
+ 
+To invest in projects that further MTR’s sustainability commitments, the company is planning to 
+issue  green  bonds  to  finance  projects  focussed  on  low  carbon  transportation,  energy  efficiency, 
+sustainable  transit  stations  and  real  estate  properties,  adaptation  to  climate  change,  biodiversity  and 
+conservation, water management, and pollution prevention that are eligible according to the eligibility 
+criteria outlined in the Use of Proceeds section of the Framework Overview.     
+
+ 
+
+ 
+
+3 
+
+©  Sustainalytics 2016 
+
+ 
+3. FRAMEWORK OVERVIEW 
+The following section summarizes MTR’s green bond framework including the use of proceeds, process 
+for project selection, the management of proceeds, and reporting. 
+ 
+3.1   Use of Proceeds 
+The proceeds of MTR Green Bonds will be allocated towards funding or refinancing, in whole or in part, 
+MTR projects that meet the following eligibility criteria. In addition to defining eligibility criteria for the 
+framework, MTR has committed that where project review and evaluation has been completed and the 
+allocation  of  proceeds  has  been  determined  at  time  of  issuance,  it  will  disclose  the  specific  projects 
+funded through bond proceeds, and the relevant eligibility criteria the funded projects will fall under, on 
+issuance of green bonds. 
+ 
+Eligibility Criteria 
+ 
+
+1.  LOW CARBON TRANSPORTATION 
+
+ 
+
+Proceeds  may  be  allocated  towards  (i)  projects  to  build  or  operate  electric,  hybrid,  public,  urban 
+metro, heavy or light rail, non-motorized, multi-modal transportation. Examples of projects funded 
+include  construction  of  new  lines,  network  expansion  of  metro/heavy  rail/light  rail,  “last  mile” 
+solutions  (for  example,  buses  and  other  potentially  non-motorized  transport);  expansions  and 
+upgrades that result in improved service levels; (ii) projects that create or construct infrastructure to 
+support  low  carbon  transportation.  Examples  of  projects  funded  include  support  infrastructure  on 
+capacity  enhancements  of  metro/heavy  rail/light  rail  (for  example,  signaling  equipment,  platform 
+gates); network interfaces including passenger access, ancillary passenger services, facilities required 
+for the safe, clean and efficient operation of the network, utilities and other enabling infrastructure. 
+
+ 
+
+The context: In its 2015 Sustainability Report, MTR states a commitment to mitigate climate change 
+by providing low carbon transportation. MTR aims to realize this commitment through the provision 
+of electrically powered mass  transit  railway, including the building of new networks, expansion of 
+current networks, and construction of supporting infrastructure. 
+
+2.  ENERGY EFFICIENCY 
+
+ 
+
+Proceeds may be allocated towards the design, manufacture and installation of systems, products 
+and technology that reduce energy consumption or mitigate greenhouse gas emissions in (a) railway 
+construction and operation; (b) property management. 
+ 
+
+a.  ENERGY EFFICIENCY IN RAILWAY CONSTRUCTION AND OPERATION 
+
+This includes allocation towards projects that: 
+ 
+
+4 
+
+ 
+
+ 
+
+ 
+
+©  Sustainalytics 2016 
+
+  Enable  energy  performance  monitoring  and  modelling  such  as  design  and 
+
+installation of computer controls, sensors, or information systems 
+ 
+
+  Optimise  the  amount  and timing of  energy consumption  and minimise  peak  loads 
+such  as  design  and  installation  of  metering,  peak  load  shedding,  regenerative 
+braking systems, or trackside energy storage system 
+
+  Deployment of new and energy-efficient trains, light rail vehicles and buses 
+
+The  context:  MTR  has  a  publicly  available  Climate  Change  Statement  in  which  the 
+organisation commits to a continuous reduction in its Greenhouse Gas (GHG) emissions. 
+The  majority  of  MTR’s  GHG  emissions  stem  from  purchased  energy  for  its  railway 
+construction and operations as well as property management operations. With respect 
+to energy efficiency in its railway construction and operations, MTR has set a target to 
+reduce  the  amount  of  electricity  consumed  per  passenger-kilometer  in  its  heavy  rail 
+network by 21% as compared to the 2008 levels by 2020. In line with this commitment, 
+energy  efficiency  in  railway  construction  and  operation  is  an  important  sustainability 
+goal for MTR. 
+ 
+
+b.  ENERGY EFFICIENCY IN PROPERTY MANAGEMENT 
+
+This includes allocation towards projects that: 
+ 
+  Have the objective of installation, maintenance, or replacement of energy efficient 
+
+systems/technologies, such as heating, ventilation, air-conditioning, cooling, lighting 
+and electrical equipment in properties 
+
+ 
+The  context:  MTR  is  a  signatory  of  the  World  Business  Council  for  Sustainable 
+Development  Manifesto  for  Energy  Efficiency  in  Buildings.  Being  a  signatory  requires 
+MTR  to  set  and  report  to  an  energy  efficiency  target.    MTR  has  disclosed  that  it  will 
+report on its progress towards this target starting in 2017. In line with this commitment, 
+energy efficiency in property management is an important sustainability goal for MTR.  
+
+ 
+
+ 
+
+ 
+
+3.  SUSTAINABLE TRANSIT STATIONS AND REAL ESTATE PROPERTIES  
+
+ 
+
+Proceeds  may  be  allocated  towards  financing  existing  or  new  buildings  that  have  received,  or 
+expects to receive based on its design, construction and operational plans, certification according to 
+third  party  verified  green  building  standards.  Eligible  third  party  certifications  that  verify  green 
+building  standards  are:    LEED,  BEAM,  BREEAM  and  ISCA  and  other  appropriate  and  equivalent 
+standards1 in the relevant jurisdictions where MTR has its operations.  
+ 
+
+ 
+1
+ MTR considers a standard equivalent if it requires, at minimum, a demonstration of energy and water efficiency in certified buildings. 
+
+ 
+
+ 
+
+5 
+
+©  Sustainalytics 2016 
+
+The context: In addition to its commitment to reduce GHG emissions, MTR also has a commitment 
+to  certify  new  residential  property  developments  with  a  minimum  Hong  Kong  BEAM  Plus  Gold 
+certification, where this standard is relevant. In line with these commitments, green buildings are an 
+important climate change mitigation goal for MTR.   
+ 
+4.  ADAPTATION TO CLIMATE CHANGE 
+
+Proceeds  may  be  allocated  towards  financing  projects  for  the  design,  construction,  maintenance 
+and upgrades of infrastructure for adapting to extreme weather events caused by climate change. 
+This  includes,  but  is  not  limited  to,  infrastructure  for  flood  prevention,  flood  defence,  or  storm 
+water  management.  Examples  of  such  projects  include  maintenance  of  wetlands  and  lagoons; 
+construction  of  retention  berms,  reservoirs,  sluice  gates,  drainage  systems,  tunnels  and  channels; 
+infrastructure  to  protect  from  heat-stress  caused  by  increased  temperatures  and  landslide 
+prevention. 
+ 
+The  context:  MTR  has  a  publicly  available  Climate  Change  Statement  in  which  the  organisation 
+commits  to  adapting  to  risks  stemming  from  climate  change.  MTR  has  identified  heavy  rain  and 
+flooding and rising temperatures as two key risks to its railway operations. The company discloses 
+that it regularly reviews its Design Standard Manual for new railway projects and its existing railway 
+infrastructure  on  a  regular  basis  to  integrate  adaptation  to  extreme  weather  events.  As  such, 
+adaptation to climate change is an important and ongoing sustainability objective for MTR.  
+ 
+5.  BIODIVERSITY AND CONSERVATION  
+ 
+Proceeds  may  be  allocated  towards  reforestation,  and  ecological  restoration  of  forests  and 
+wetlands, and soil remediation.  
+
+ 
+
+The context: MTR has a publicly available Corporate Responsibility Policy, in which it states that the 
+company has a commitment to protecting the environment. This policy includes a commitment to 
+protect  natural  habitats  and  areas  with  high  ecological  sensitivity  during  the  construction  of  new 
+railway  projects.  In  line  with  this  commitment,  biodiversity  and  conservation  is  an  important 
+sustainability goal for MTR to manage its business operation risks.  
+
+6.  WATER MANAGEMENT 
+
+Proceeds  may  be  allocated  towards  rainwater  collection,  installation/upgrade  of  technologies  to 
+increase water efficiency, alternatively sourced water treatment facilities. 
+ 
+The context: MTR discloses in its sustainability report that water is an important component of their 
+railway  operations  business,  and  is  used  for  cleaning  trains,  and  for  construction of  infrastructure 
+and stations. Due to the nature of its business operations and the dependency of Hong Kong on a 
+single  river  basin  for 80%  of  its  water supply,  MTR  recognizes  a water  supply  risk.  As  such,  water 
+management is an important sustainability goal for the company.  
+
+6 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+©  Sustainalytics 2016 
+
+ 
+
+7.  WASTE MANAGEMENT  
+  
+Proceeds may be allocated towards waste management support infrastructure within MTR premises 
+such  as  recycling  collection  areas,  and  technologies  that  enable  the  separation,  handling  and 
+processing of waste to recycled materials. 
+ 
+The context: MTR has a publicly available Corporate Responsibility Policy, in which it states that the 
+company has a commitment  to preventing pollution caused by waste  generated from both MTR’s 
+railway and property management operations.  
+
+ 
+
+8.  POLLUTION PREVENTION: IMPROVEMENT OF AIR QUALITY AND NOISE REDUCTION 
+ 
+Proceeds  may  be  allocated  towards technologies  related to  enhancing  air  quality such  as,  but  not 
+limited  to,  technologies  that  increase  air  circulation  and  air  filtration;  and  noise  reduction 
+technologies such as noise barriers, modification of turnouts, rail dampers and insulation booths. 
+ 
+The  context:  MTR’s  Corporate  Responsibility  Policy  also  states  a  commitment  to  preventing  air 
+pollution caused by MTR trains at railway stations. Additionally, MTR’s sustainability report outlines 
+a commitment to noise mitigation initiatives, as required by environmental regulators in Hong Kong. 
+Given this commitment, MTR has identified pollution prevention through improvement of air quality 
+and noise reduction as sustainability objectives.   
+
+ 
+3.2  Project Evaluation and Selection Process 
+Projects will be selected for funding through bond proceeds if they fall under one or more of the use of 
+proceeds  eligibility  criteria  outlined  in  section  3.1.  MTR’s  Treasury  Department  and  the  Corporate 
+Responsibility  Department  will  review  and  approve  (as  appropriate)  each  proposed  use  of  proceeds 
+based on this evaluation. Additionally, projects will also be evaluated by MTR’s Corporate Responsibility 
+Department  for  their  alignment  with  MTR’s  sustainability  framework  and  potential  to  reduce 
+environmental impacts or create positive environmental benefits.  
+ 
+
+3.3        Management of Proceeds  
+The proceeds of MTR Green Bonds will be credited to the general funding account of the MTR issuing 
+entity.  MTR  will  maintain  a  Green  Bond  Register  to  track  the  use  of  proceeds  for  MTR  Green  Bond 
+issuance. The Register will contain details of MTR Green Bonds issued and projects identified for funding 
+through earmarking of proceeds of MTR Green Bonds. The Register will contain, for MTR Green Bonds  
+issued, information on:  
+ 
+MTR Green Bond details, including ISIN, the principal amount outstanding, pricing date, and maturity;  
+
+(i) 
+
+Earmarking of proceeds to eligible projects, including: 
+a.  Eligible investment category of eligible project funded,  
+b.  Summary details of eligible project funded  
+c.  Amount allocated to eligible project  
+
+ 
+
+ 
+
+7 
+
+©  Sustainalytics 2016 
+
+d. 
+
+Issuer estimate of the impact of the eligible project  
+
+ 
+Pending allocation to eligible projects, proceeds may be invested in accordance with MTR’s Investment 
+Guidelines, including in cash and money market instruments, or used to repay existing borrowings under 
+MTR’s general credit facilities, in whole or part.  
+ 
+3.4    Reporting  
+Allocation and Impact Reporting  
+MTR  has  committed  to  preparing  an  annual  Green Bond  Report  that  will  report  on  both  allocation of 
+proceeds and the impact of proceeds. The Green Bond Report will be published on the MTR website and 
+within  the  MTR  Sustainability Report  annually,  throughout  the  term  of  each  green  bond  issued  under 
+this  framework.  The  Green  Bond  Report  will  be  reviewed  by the MTR  Executive  Committee.  MTR  has 
+also committed to engage an independent third party to review the allocation of proceeds in the Green 
+Bond Report. 
+ 
+Annually, the Green Bond Report will disclose:  
+ 
+
+(i)  A list of MTR green bonds outstanding, including the issuing entity, ISIN Reference and 
+
+outstanding amounts at the beginning and end of the annual period 
+
+(ii)  MTR green bonds issued and repaid/redeemed during the annual period  
+(iii) Details of allocation of proceeds for each MTR green bond in issuance during the annual period, 
+
+including:  
+
+a.  Amount of proceeds allocated, in aggregate, to all projects under each eligibility 
+
+criterion  
+
+b.  Description of the projects funded under each eligibility criterion  
+c.  Balance of unallocated proceeds at the end of the reporting period  
+
+(iv) When feasible, an estimate of the impact of projects funded through the Key Performance 
+
+Indicators (KPIs) specified in Table 1.  
+
+ 
+Table 1: KPIs by Eligibility Criterion 
+
+Eligibility Criterion 
+Low Carbon Transportation 
+ 
+Energy Efficiency 
+ 
+Sustainable transit stations and real estate 
+properties 
+ 
+Water Management 
+ 
+Biodiversity and Conservation 
+Waste Management 
+ 
+
+ 
+
+ 
+
+KPI 
+Tons of fuel saved/reduced 
+Tons CO2 emissions or equivalent avoided 
+Kwh saved/reduced 
+Tons CO2 emissions or equivalent avoided 
+Kwh saved/reduced 
+Tons CO2 emissions or equivalent avoided 
+
+Cubic meter of water (m³) saved / reduced 
+Cubic meter of water (m³) collected / stored / treated 
+Hectares of land/area reforested or protected  
+Tons of waste reduced or recycled 
+
+8 
+
+©  Sustainalytics 2016 
+
+ 
+ 
+ 
+ 
+4  SUSTAINALYTICS’ OPINION 
+ 
+A strong and comprehensive environmental strategy:  
+MTR has a comprehensive environmental strategy, as supported by the company’s commitments in its 
+Code of Conduct, Corporate Sustainability Policy, Corporate Responsibility Policy, Corporate Biodiversity 
+Policy,  and  Climate  Change  Statement.  Through  these  statements  and  policies,  MTR  makes  a 
+commitment  to  address  a  wide  range  of  environmental  risks  stemming  from  its  business  operations, 
+ranging from pollution prevention to climate change mitigation and adaptation.     
+ 
+In  addition  to  its  comprehensive  nature,  Sustainalytics  has  assessed  MTR’s  overall  environmental 
+strategy to be robust. The strength of this strategy derives from three factors: (i) MTR’s environmental 
+policy  includes  a  commitment  not  only  to  improve  the  environmental  performance  of  its  own 
+operations, but also to promote greater environmental responsibility among its stakeholders including 
+employees,  contractors  and  suppliers;  (ii)  MTR’s  environmental  strategy  is  approved  by  the  board  of 
+directors; and (iii) MTR regularly reports on its progress towards achieving its commitments and targets.  
+ 
+Track record of delivering on its commitments:  
+Sustainalytics is of the opinion that MTR’s track record is in line with its commitments. An example of 
+this  is  MTR’s  “Rail  Gen  2.0”  initiative  that  launched  in  early  2016.  MTR  states  that  a  key  focus  of  the 
+“Rail Gen 2.0” initiative is to enhance its railway service, enabling an increase in the use of its network. 
+This  initiative  also  integrates  the  improvement  of  the  company’s  environmental  performance,  in 
+accordance  with  the  commitments  outlined  in  its  various  policies  and  statements,  with  its  business 
+operations.  For  example,  as  a  part  of  the  “Rail  Gen  2.0”  initiative,  MTR  is  replacing  160  chillers  in 
+stations  and  depots  with  more  energy  efficient  models.  Some  other  examples  of  MTR’s  performance 
+through  the  “Rail  Gen  2.0”  initiative  include  retrofitting  platform  gates  in  operational  railways,  and 
+installation of new trains and signalling systems in order to increase capacity and/or energy efficiency of 
+its rail operations.  
+ 
+Well positioned to mitigate common environmental and social risks:  
+Sustainalytics recognizes common environmental and social risks posed by infrastructure development 
+projects, such as pollution, loss of biodiversity, and poor health and safety conditions for construction 
+workers.  However,  Sustainalytics  is  of  the  opinion  that  MTR  is  well  positioned  to  mitigate  these  risks 
+through its robust internal processes.  
+ 
+With  respect  to  mitigating  environmental  risks,  Sustainalytics  reviewed  internal  MTR  documents  that 
+reflect  a  robust  internal  process  for  environmental  site  management.  The  robustness  of  this  process 
+derives from: (i) the need for a mandatory environmental impact assessment for all projects in order to 
+receive approval from the EPD; (ii) continuous monitoring and audits of environmental impact; and (iii) 
+
+ 
+
+ 
+
+9 
+
+©  Sustainalytics 2016 
+
+an  agreement  that  requires  mandatory  Environmental  Management  Plan  (EMP)  and  Waste 
+Management Plan (WMP) for all construction and demolition carried out by MTR contractors.  
+ 
+With respect to mitigating social risks, MTR has in place a Human and Labour Rights requirement that 
+aligns with international norms such as the United Nations (UN) Universal Declaration of Human Rights, 
+and  the  UN  Global  Compact.  The  requirement  addresses  several  areas,  including  the  use  of  child  and 
+forced  labour,  health  and  safety,  and  wages  of  workers  for  all  MTR  suppliers,  contractors,  and 
+consultants.  Additionally,  MTR  also  engages  external  auditors  to  evaluate  safety  standards  on  its 
+construction  sites.    Lastly,  MTR  has  in  place  a  comprehensive  stakeholder  engagement  process  that 
+identifies  all  stakeholders,  and  maintains  an  issue  register  to  capture  current  and  anticipated 
+stakeholder  concerns  and  engagements.  The  stakeholder  engagement  process  also  includes  a  step  to 
+regularly monitor and update the list of identified stakeholders.  
+ 
+Sustainalytics  is  of  the  opinion  that  the  environmental  and  social  risk  mitigation  processes  described 
+above  are  comprehensive  and  strong,  and  that MTR  is  well  positioned  to  mitigate  the  risks  identified 
+above.  
+ 
+Impact of Use of Proceeds 
+In  general,  Sustainalytics  is  of  the  opinion  that  all  the  use  of  proceeds  outlined  by  MTR  have  an 
+environmental  benefit,  specifically  in  the  context  of  Hong  Kong.  Sustainalytics  has  outlined  the 
+contextual  relevance  of  this  impact  for  Hong  Kong  for  the  low  carbon  transportation  and  energy 
+efficiency  criteria  in  the  sections  below.  In  addition,  Sustainalytics’  opinion  on  three  specific eligibility 
+criteria  –  sustainable  transit  stations  and  real  estate  properties,  climate  change  adaptation  and  noise 
+pollution – are detailed in the paragraphs below.  
+ 
+With  respect to  sustainable  transit  stations  and real estate  properties,  Sustainalytics  is  of  the  opinion 
+that although all levels of LEED, BEAM, BREEAM and equivalent certifications result in additional energy 
+and water  efficiency, funding the  equivalent of Hong Kong BEAM Plus Gold  or Platinum/LEED Gold or 
+Platinum certified buildings represents best practice, and MTR should make best efforts to achieve this 
+standard.    MTR  already  has  a  commitment  to  certify  new  residential  property  developments  with  a 
+minimum Hong Kong BEAM Plus Gold certification, where this standard is relevant. It has demonstrated 
+meeting this best practice standard.  
+  
+With  respect  to  climate  change  adaptation,  Sustainalytics  has  reviewed  internal  MTR  documents  that 
+confirm that the company has conducted a study to identify risks posed by climate change. The study 
+specifically  identifies  flooding  due  to  increased  rainfall  and  rising  sea  levels,  as  well  as  increased 
+landslides, as risks faced by various MTR sites due to climate change. Sustainalytics is of the opinion that 
+basing  the  adaptation  eligibility  criterion  on  specific  risk  studies  strengthens  the  impact  of  the  use  of 
+proceeds,  as  it  establishes  a  clear  case  that  the  adaptation  infrastructure  is  being  funded  as  a  direct 
+response to climate change risks.  
+ 
+While  Sustainalytics  recognizes  that  prevention  of  noise  pollution  can  be  considered  to  have  clearer 
+links  to  health  and  social  impacts,  noise  pollution  is  classified  by  the  Hong  Kong  Environmental 
+Protection  Department  (EPD)  as  an  environmental  issue.  Given  the  contextual  relevance  of  noise 
+
+ 
+
+ 
+
+10 
+
+©  Sustainalytics 2016 
+
+pollution as an environmental issue in Hong Kong, projects related to noise pollution have been included 
+under MTR’s eligibility criteria for this bond.  
+ 
+Importance of energy efficiency in mitigating climate change in Hong Kong 
+Hong Kong is a service-based city and does not have energy-intensive industries. Electricity accounts for 
+54%  of  the  city’s  total  energy  consumption.  Since  1997,  the  Hong  Kong  government  banned  the 
+construction of new coal-fired generating units in favour of natural gas, which emits less greenhouse gas 
+per  unit  of  electricity  produced.  Nonetheless,  the  major  source  of  power  generation  in  Hong  Kong 
+remains fossil fuels. As a result, as per the Hong Kong Government’s EPD, electricity generation is the 
+largest source of local GHG emissions, accounting for about 68% of the total.  
+ 
+Hong Kong’s access to alternative energy sources is limited, due to its geographical conditions and the 
+constraint of land areas.  Although  companies in Hong Kong are  exploring the feasibility of developing 
+large-scale offshore wind farms, it is estimated to meet merely 1 to 2% of total electricity demand by 
+2020. Hong Kong’s current targets are to reduce the carbon intensity by 50-60% from the 2005 level by 
+2020; and to reduce the city’s energy intensity from the 2005 level by 40% by 2025. Therefore, energy 
+efficiency becomes top priority in mitigating climate change.  With buildings accounting for 89% of the 
+total electricity consumption at end-use level in Hong Kong (and 60% of GHGs), MTR’s effort to promote 
+energy  efficiency  of  its  constructions  and  existing  properties  would  have  the  potential  to  make 
+significant  contributions  to  the  reduction  of  Hong  Kong’s  overall  energy  and  carbon  intensities.  In 
+addition,  given  MTR  is  the  largest  single  electricity  user  in  Hong  Kong2,  due  to  its  railway  operations, 
+enhancing  energy  efficiency  of  its  railway  system  would  also  generate  significant  impact  on  energy 
+conservation in Hong Kong. 
+ 
+Importance of low carbon transportation in mitigating climate change in Hong Kong 
+Hong Kong is a highly populated city, with average of over 12 million passenger journeys made on public 
+transport every day (including railways, trams, buses, minibuses, taxis and ferries).  Transportation is the 
+second largest source of GHG emissions, representing about 17% of the total, mainly arising from fuel 
+usage  in  commercial  diesel  vehicles  and  petrol  private  cars3.  Over  the  past  10  years,  the  number  of 
+licensed private cars has increased dramatically from 345,000 in 2004 to about 495,000 in 2014, which 
+led to an overall rise in the total number of vehicles.  
+ 
+The most  direct and effective way to mitigate  carbon emissions from transportation in the  context of 
+Hong  Kong  is  to  promote  public  transport,  including  buses,  but  especially  rail.  The  government  is 
+planning  to  extensively  expand  the  city’s  rail  system,  aiming  to  increase  railway’s  share  in  the  public 
+transport  patronage  to  45%  ~  50%  by  20312.  By  then,  75%  of  Hong  Kong’s  population  will  have 
+convenient access to rail as a means of daily transport. While more electricity will be needed to power 
+all these  new  rail-lines,  in total  it  will account  for a very small share of Hong Kong’s overall electricity 
+consumption, and therefore rail transport is still the lowest carbon way to provide mass mobility. Given 
+
+ 
+2
+ http://www.enb.gov.hk/sites/default/files/pdf/EnergySavingPlanEn.pdf  
+3
+ http://www.enb.gov.hk/sites/default/files/pdf/ClimateChangeEng.pdf  
+
+ 
+
+ 
+
+11 
+
+©  Sustainalytics 2016 
+
+ 
+ 
+ 
+ 
+ 
+Disclaimer 
+All rights reserved. No part of this second party opinion (the “Opinion”) may be reproduced, transmitted 
+or published in any form or by any means without the prior written permission of Sustainalytics.  
+  
+The Opinion was drawn up with the aim to explain why the analysed bond is considered sustainable and 
+responsible. Consequently, this Opinion is for information purposes only and Sustainalytics will not 
+accept any form of liability for the substance of the opinion and/or any liability for damage arising from 
+the use of this Opinion and/or the information provided in it. 
+  
+As the Opinion is based on information made available by the client, Sustainalytics does not warrant that 
+the information presented in this Opinion is complete, accurate or up to date. 
+  
+Nothing contained in this Opinion shall be construed as to make a representation or warranty, express or 
+implied, regarding the advisability to invest in or include companies in investable universes and/or 
+portfolios. Furthermore, this Opinion shall in no event be interpreted and construed as an assessment of 
+the economic performance and credit worthiness of the bond, nor to have focused on the effective 
+allocation of the funds’ use of proceeds. 
+  
+The client is fully responsible for certifying and ensuring its commitments` compliance, implementation 
+and monitoring. 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+18 
+
+©  Sustainalytics 2016 
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+SUSTAINALYTICS 
+ 
+Sustainalytics is the largest independent provider of sustainability 
+research, analysis, and services to investors. We serve over 250 
+institutional investors which include some of the world's largest asset 
+owners and asset managers. Through over 20 years of experience 
+serving the responsible investment (RI) market, we have gained a 
+reputation for providing high-quality ESG research solutions and 
+excellent client service. 
+
+Sustainalytics is headed by seasoned professionals in the field of 
+business, finance, and sustainability, with a wealth of experience in the 
+Responsible Investment area. After more than 20 years of local 
+experience and expertise in the Responsible Investment (RI) market 
+Sustainalytics has developed a comprehensive understanding of trends 
+and best practices and a solid process to assist organisations in 
+integrating ESG considerations into their policies and strategies. We 
+have worked with some of the world’s financial institutions including 
+pension plans, investment managers and banks providing customised 
+support to help them achieve their RI objectives. Clients include ABN 
+AMRO, APG, BBVA, BNP Paribas, Deutsche Bank, ING Bank, Lombard 
+Odier, Lloyds Bank, Triodos Bank, UBS and over 250 other financial 
+institutions and organisations. 
+
+Sustainalytics now has a staff of 250 employees globally, including over 
+120 analysts, with operations in Amsterdam, Boston, Bucharest, 
+Frankfurt, New York, Paris, London, Singapore, Sydney, Timisoara, and 
+Toronto, and representation in Brussels and Washington DC. 
+
+ 
+
+ 
+
+19 
+
+©  Sustainalytics 2016 
+
+In 2015, Sustainalytics was named the Best SRI or Green Bond Research Firm by GlobalCapital. In 
+December 2014, for the third year in a row, Sustainalytics was named best sustainable and responsible 
+investment research firm in the Independent Research in Responsible Investment (IRRI) Survey, 
+conducted by Thomson Reuters and SRI-CONNECT.  
+
+ 
+
+ 
+
+20 
+
+

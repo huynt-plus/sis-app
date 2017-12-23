@@ -1,0 +1,1245 @@
+	
+
+	
+
+KLABIN	GREEN	BOND	
+
+	
+
+FRAMEWORK	OVERVIEW	AND	SECOND	PARTY	
+
+OPINION	BY	SUSTAINALYTICS	
+
+August	30,	2017	
+
+	
+
+	
+
+	
+	
+	
+
+www.sustainalytics.com	
+	
+
+Ankita	Shukla	(Toronto)	
+Senior	Associate,	Advisory	Services	
+ankita.shukla@sustainalytics.com		
+(+1)	416	861	0403	
+
+Charlotte	Peyraud	(New	York)		
+Senior	Associate,	Institutional	Relations	
+charlotte.peyraud@sustainalytics.com	
+(+1)	646	518	0184	
+
+©	Sustainalytics	2017	
+
+TABLE	OF	CONTENTS
+1.	 Preface	
+
+2.	 Overview	of	the	Issuer	
+
+3.	 Framework	Overview	
+3.1	 Use	of	Proceeds	
+3.2	 Project	Evaluation	and	Selection	Process	
+3.3	 Management	of	Proceeds	
+3.4	 Reporting	
+
+4.	 Sustainalytics’	Opinion	
+
+Section	1:	Sustainability	Performance	of	the	Issuer	
+Section	2:	Impact	of	Use	of	Proceeds	
+Conclusion	
+
+Appendix	1	
+
+Sustainalytics	
+
+	
+
+	
+	
+
+	
+	
+
+3	
+
+3	
+
+4	
+4	
+11	
+12	
+12	
+
+14	
+14	
+16	
+18	
+
+19	
+
+25	
+
+2	
+
+	
+Klabin	S.A.,	a	Brazilian	pulp,	paper	and	packaging	company	active	in	the	global	forest	products	and	FSC-
+certified	 packaging	 market,	 intends	 to	 issue	 a	 Green	 Bond	 to	 finance	 projects	 and	 activities	 that	 will	
+improve	 its	 environmental	 performance.	 Klabin	 engaged	 Sustainalytics	 to	 provide	 a	 second	 party	
+opinion	on	its	Green	Bond	Framework.	Sustainalytics’	opinion	intends	to	provide	an	assessment	of	the	
+Green	 Bond	 Framework’s	 alignment	 with	 the	 Green	 Bond	 Principles	 20171	 (“GBP”)	 as	 well	 as	 assess	
+Klabin’s	overall	sustainability	performance	and	its	alignment	with	the	framework.		
+	
+As	 part	 of	 this	 engagement,	 Sustainalytics	 held	 conversations	 with	 Klabin’s	 treasury,	 legal	 and	
+sustainability	 teams	 to	 understand	 the	 use	 of	 proceeds,	process	 for	 project	 evaluation	 and	 selection,	
+management	 of	 proceeds	 and	 reporting	 aspects	 of	 Klabin’s	 Green	 Bond,	 as	 well	 as	 the	 company’s	
+sustainability	strategy.	Sustainalytics	also	reviewed	relevant	public	and	internal	documents	from	Klabin.	
+Following	this	engagement,	some	elements	of	the	Green	Bond	Framework	were	clarified	to	ensure	an	
+alignment	 with	 the	 level	 of	 disclosure	 expected	 by	 the	 GBP.	 This	 document	 contains	 two	 sections:	
+Framework	Overview	–	a	summary	of	Klabin’s	Green	Bond	framework;	and	Sustainalytics’	Opinion	–	an	
+opinion	on	that	framework.	
+	
+
+2. OVERVIEW	OF	THE	ISSUER	
+
+©	Sustainalytics	2017	
+
+1. PREFACE	
+
+	
+Klabin	 is	 a	 pulp,	 paper	 and	 packaging	 company	 with	 more	 than	 229	 thousand	 hectares	 of	 forest	
+plantations	in	Brazil	and	more	than	214	thousand	hectares	of	native	forests	that	have	been	set	aside	for	
+environmental	conservation.	The	company	has	an	annual	production	capacity	of	3.5	million	tons,	with	
+18	 industrial	 units,	 17	 in	 eight	 Brazilian	 states	 and	 1	 in	 Argentina.	 Klabin	 is	 Brazil’s	 largest	 paper	
+producer	and	exporter,	the	leading	manufacturer	of	paper	and	board	for	packaging,	corrugated	board	
+packaging	and	industrial	bags,	and	also	markets	timber	in	logs.	It	is	also	the	only	Brazilian	company	to	
+simultaneously	supply	hardwood	pulp	(eucalyptus),	softwood	pulp	(pine)	and	fluff	pulp	to	the	market.	
+	
+Klabin’s	 long-term	 business	 strategies	 are	 based	 on	 operational	 and	 energy	 efficiency,	 responsible	
+management	of	resources	and	commitments	to	the	environment	and	its	stakeholders.	Klabin	pioneered	
+responsible	 forest	 management	 and	 was	 the	 first	 company	 in	 the	 pulp	 and	 paper	 industry	 in	 the	
+Southern	Hemisphere	to	receive	FSC®	certification	(Forest	Stewardship	Council®)	for	its	forest	areas	in	
+1998	and	the	first	in	the	world	to	have	non-timber	forest	products	certified.	Klabin’s	FSC®	certificate	
+covers	the	chain	of	custody	of	industrial	sacks,	paperboard	and	kraft	paper	in	all	its	operational	units.		
+		
+In	 line	 with	 its	 commitment,	 Klabin	 is	 issuing	 Green	 Bonds	 to	 advance	 environmental	 sustainability	
+across	the	company’s	global	business	divisions	and	operations.	
+
+	
+1	The	Green	Bond	Principles	are	voluntary	guidelines	that	recommend	transparency	and	disclosure	and	promote	integrity	in	the	
+development	 of	 the	 Green	 Bond	 market.	 They	 provide	 issuers	 guidance	 on	 the	 key	 components	 involved	 in	 launching	 a	
+credible	Green	Bond	and	aid	investors	by	ensuring	availability	of	information	necessary	to	evaluate	the	environmental	impact	
+of	their	Green	bond	investments.	
+
+	
+	
+
+3	
+
+©	Sustainalytics	2017	
+	
+
+3. FRAMEWORK	OVERVIEW	
+
+	
+The	following	section	summarizes	Klabin’	Green	Bond	Framework,	which	follows	the	four	key	pillars	of	
+the	 GBP	 including:	 the	 use	 of	 proceeds,	 project	 evaluation	 and	 selection	 process,	 management	 of	
+proceeds,	and	reporting.	
+	
+	
+
+3.1 
+
+		Use	of	Proceeds	
+
+	
+An	amount	equal	 to	 the	 net	proceeds	 of	 the	 Green	 Bond	 will	 be	 allocated	 to	 projects	that	meet	the	
+eligibility	criteria	specified	below,	including:		
+
+(i) 
+(ii) 
+
+(iii) 
+
+existing	projects	financed	during	the	two	years	preceding	the	issue	date	of	the	Green	Bond;		
+projects	committed	to	prior	to	the	issue	date	of	the	Green	Bond	but	financed	following	the	
+issue	date	of	the	Green	Bond;	and		
+projects	committed	to	and	financed	after	the	issue	date	but	before	the	maturity	date	of	the	
+Green	Bond.		
+
+	
+	
+3.1.1  Eligibility	Criteria	
+	
+To	be	eligible	for	the	Green	Bond	proceeds,	the	projects	funded	must	meet	one	or	more	of	the	following	
+business	activity	criteria:	
+	
+
+	
+	
+
+	
+
+1.  Sustainable	Forest	Management	
+2.  Restoration	of	Native	Forests	and		
+
+Conservation	of	Biodiversity	
+
+3.  Renewable	Energy	
+4.  Clean	Transportation		
+5.  Energy	Efficiency	
+
+1.  SUSTAINABLE	FOREST	MANAGEMENT	
+
+6.  Waste	Management	
+7.  Sustainable	Water	Management	
+8.  Eco-Efficient	and	Circular	Economy	
+
+Adapted	Products,	Production	
+Technologies	and	Processes	
+9.  Climate	Change	Adaptation
+
+	
+Use	 of	 proceeds:	 Proceeds	 of	 the	 Green	 Bond	 will	 be	 allocated	 to	 capital	 and	 operating	 expenses	
+required	for	activities	necessary	to	sustainably	manage	eucalyptus	and	pine	forest	plantations	that	are	
+certified	by	FSC®.	This	includes:	
+	
+
+(i) 
+
+New	planting	and	replanting	activities	in	owned	and	third-parties’	areas,	such	as:	
+a.  Production	and	acquisition	of	eucalyptus	and	pine	seedlings;	
+b.  Preparation	of	soil	for	the	plantation	of	seedlings,	including	subsoiling	and	harrowing	
+
+activity;	
+
+c.  Planting	of	seedlings;	
+d.  Protection	and	maintenance	of	planted	seedlings	up	until	harvest.	
+
+©	Sustainalytics	2017	
+
+	
+Context:	Klabin's	forestry	assets	are	the	basis	of	company’s	growth	strategy.	The	company's	products	
+are	from	the	pine	and	eucalyptus	forests	and	it	is	with	them	that	the	company	has	been	advancing	in	
+new	 markets,	 such	 as	 pulp.	 Klabin’s	 goals	 for	 its	 forestry	 operations	 set	 long-term	 commitments	 in	
+regards	 to	 achieving	 maximum	 productivity	 while	 protecting	 biodiversity	 and	 natural	 resources	 and	
+building	stronger	relationships	with	communities.		
+				
+All	of	Klabin’s	forest	stewardship	units	are	certified	by	FSC®,	totaling	the	scope	of	425,519.93	hectares.	
+Klabin	 develops	 its	 forest	 management	 using	 the	 mosaic	 concept:	 plantations	 are	 interspersed	 with	
+areas	of	native	forests	-	preserved	areas	of	the	Brazilian	Atlantic	Forest	-	to	create	ecological	corridors	
+that	preserve	the	local	fauna	and	flora.	
+	
+
+FSC®	Forest	Certification	Program	for	Small	and	Medium-sized	Rural	Producers,	such	as:	
+a.  Activities	and	services	required	to	assess	practices	and	implement	appropriate	
+
+measures	in	small	and	medium-sized	rural	producers’	planted	areas	for	FSC®	
+certification.		
+
+(ii) 
+
+	
+
+Context:	To	ensure	that	good	management	practices	and	a	commitment	to	sustainable	development	
+are	extended	through	the	timber	supply	chain,	since	2013	Klabin	has	maintained	the	Forest	Certification	
+Program	for	Small	and	Medium-sized	Rural	Producers	in	the	region	of	Campos	Gerais,	Paraná,	aimed	at	
+the	 producers	 that	 are	 part	 of	 the	 Forest	 Development	 Program	 and	 to	 independent	 producers.	
+Certification	 is	 a	 statement	 that	 the	 timber	 producer	 operates	 with	 social	 and	 environmental	
+responsibility	and	follows	the	worldwide	standards	of	forest	management.	As	of	December	2016,	more	
+than	 25,000	 hectares	 had	 been	 certified	 and	 almost	 7,000	 hectares	 of	 degraded	 land	 have	 been	
+environmentally	restored	in	partner-producer	areas.	
+	
+	
+
+2.  RESTORATION	OF	NATIVE	FORESTS	AND	CONSERVATION	OF	BIODIVERSITY		
+
+	
+Use	 of	 Proceeds:	 Proceeds	 of	 the	 Green	 Bond	 will	 be	 allocated	 to	 capital	 and	 operating	 expenses	
+required	 for	 activities	 that	 maintain	 existing	 strict	 conservation	 areas	 or	 that	 develop	 new	 strict	
+conservation	areas.	This	includes:	
+	
+
+(i) 
+
+Restoration	and	conservation	of	native	forest	cover	in	degraded	land	and	biodiversity,	such	
+as:	
+a.  Current	activities	and	services	required	to	restore	and	protect	Klabin's	native	forests	
+
+(Permanent	Preservation	Areas,	Legal	Reserves	and	Natural	Heritage	Private	Reserves);	
+
+b.  Acquisition	of	native	Brazilian	seedlings;	
+c.  Labor	costs	associated	with	planting	native	Brazilian	seedlings,	pest	management,	
+
+construction	of	fences,	as	required;	
+
+d.  Labor	and	capital	costs	associated	with	creating	ecological	corridors	and	mosaics	in	non-
+
+native	plantations	so	they	can	serve	as	wildlife	and	flora	habitat	conservation;	
+
+e.  Costs	of	legalization	and	environmental	licensing	costs	related	to	developing	new	
+
+conservation	areas	on	owned	and	leased	lands;	
+
+	
+	
+
+5	
+
+©	Sustainalytics	2017	
+
+f.  Specialized	facilities	and	services	to	study	and	monitor	the	restored	area;	
+g.  Wildlife	crossings,	underpasses	and	barrier	fences.		
+
+	
+
+Context:	Klabin	is	a	pioneer	in	the	adoption	of	mosaic	forest	management,	which	mixes	planted	forests	
+and	preserved	native	forests.	Ecological	corridors	allow	the	transit	of	animals	in	large	areas,	contributing	
+to	 the	 preservation	 of	 fauna	 and	 flora	 and	 the	 conservation	 of	 water	 resources.	 The	 company	 is	
+developing	a	broad	program	of	research	and	conservation	of	fauna	and	flora,	promoting	the	monitoring	
+of	biodiversity	in	its	forests	and	helping	to	ensure	the	survival	of	endangered	species	such	as	the	Pygmy	
+brocket,	 howler	 monkey	 and	 puma.	 Of	 the	 total	 area	 managed	 by	 Klabin,	 approximately	 43%	 (215	
+thousand	hectares)	corresponds	to	preservation	areas,	divided	between	Permanent	Preservation	Areas,	
+Legal	Reserves	and	Natural	Heritage	Private	Reserves.	
+	
+Klabin	 owns	 two	 Natural	 Heritage	 Private	 Reserves	 in	 areas	 totaling	 almost	 9,000	 hectares	 dedicated	
+exclusively	 to	 scientific	 research,	 the	 protection	 of	 local	 biodiversity	 and	 water	 resources,	 as	 well	 as	
+providing	the	seeds	of	forest	species	for	the	restoration	of	degraded	areas.		
+	
+
+(ii) 
+
+Klabin’s	Good	Woods	Program	(“Programa	Matas	Legais”),	which	includes:	
+a.  Current	activities	and	services	required	for	training	the	third-party	timber	producers;	
+b.  Specialized	services	in	studying	and	sustainably	planning	the	third-party	areas	
+
+cultivation	and	management.	
+
+	
+Context:	Klabin	engages	with	its	wood	partner	suppliers	through	the	company’s	Good	Woods	Program,	
+in	 order	 to	 improve	 the	 environmental	 condition	 of	 their	 property	 and	 guide	 them	 towards	 the	
+compliance	of	the	Brazilian	Forest	Code	(which	focuses	on	environmental	protection	issues).	Through	
+technical	 guidance	 and	 the	 donation	 of	 seedlings	 from	 native	 plants,	 the	 activities	 performed	 by	 the	
+program	 foster	 the	 recovery	 of	 native	 forests	 (including	 riparian	 forests),	 responsible	 forestry	
+management,	organic	agriculture,	ecotourism	and	conservation	of	natural	heritage.	
+	
+
+Conservation	of	fauna	through	Klabin's	Ecological	Park,	which	includes:	
+a.  Specialized	facilities	and	services	in	studying	and	monitoring	the	behavior	of	species	and	
+
+(iii) 
+
+fauna;	
+
+b.  Labor	costs	associated	with	maintaining	the	staff	exclusively	dedicated	to	the	care	and	
+
+accommodation	of	animals	(including	a	biologist	and	a	veterinarian);	
+
+c.  Costs	and	investments	related	to	animals’	treatments	and	accommodation;		
+
+	
+Context:	Klabin's	Ecological	Park	dedicates	its	activities	to	the	conservation	and	study	of	the	behavior	of	
+endangered	 species	 of	 fauna,	 promoting	 their	 reproduction	 and	 their	 reintroduction	 into	 the	
+environment	 according	 to	 the	 norms	 of	 environmental	 agencies.	 Additionally,	 it	 houses	 and	 treats	
+animals	at	risk	that	are	unable	to	return	to	the	wild	(e.g.	animals	struck	by	cars	on	local	roads).	About	
+200	specimens	of	50	species	live	in	the	park’s	nursery.	The	park	is	on	11,000	hectares	of	land,	of	which	
+almost	7,000	are	native	forests.	The	whole	area	is	an	Area	of	High	Conservation	Value	(AHCV),	which	
+means	that	it	has	a	significant	concentration	of	biodiversity	and	rare	ecosystems	that	are	endangered	or	
+threatened	 with	 extinction.	 The	 preservation	 of	 these	 species	 results	 in	 maintaining	 both	 plant	 and	
+animal	biodiversity.	
+
+	
+	
+
+6	
+
+©	Sustainalytics	2017	
+
+	
+
+3.  RENEWABLE	ENERGY	
+
+	
+Use	 of	 Proceeds:	 Proceeds	 of	 the	 Green	 Bond	 may	 be	 allocated	 to	 capital	 and	 operating	 expenses	
+required	 for	 the	 development,	 construction,	 installation,	 operation,	 and	 upgrade	 of	 facilities	 that	
+reduces	greenhouse	gas	emissions	(GHG)	through	the	substitution	of	fossil	fuels	with	renewable	sources	
+and	increases	energy	efficiency.	This	includes:	
+	
+(i) 
+
+Projects	and	equipment	that	promote	substitution	of	fossil	fuels	with	renewable	sources	in	
+industrial	operations,	such	as:	
+
+a.  Biomass	Recovery	Boilers	and	related	facilities;	
+b.  Consolidation	of	electrical	systems	to	export	excess	energy	into	the	public	grid;	
+c.  Optimization	projects	in	Klabin’s	plants.	
+
+	
+
+Context:	 The	 switch	 from	 fossil	 fuels	 to	 biomass	 as	 an	 energy	 source	 has	 been	 the	 focus	 of	 Klabin's	
+environmental	 management	 for	 some	 years.	 Currently	 86%	 of	 the	 energy	 matrix	 is	 composed	 of	
+renewable	energy	sources	(biomass,	black	liquor	and	hydraulic).	The	goal	for	2020	is	to	achieve	88%	of	
+the	 energy	 matrix	 composed	 of	 renewables.	 With	 the	 increased	 use	 of	 renewable	 fuel	 in	 its	 energy	
+matrix,	the	company	is	contributing	to	a	reduction	in	greenhouse	gas	(GHG)	emissions.	The	company	
+presents	 its	 results	 through	 the	 Emissions	 Inventory	 prepared	 according	 to	 the	 methodology	 of	 the	
+Brazilian	 GHG	 Protocol	 Program,	 a	 world-recognized	 standard,	 with	 2010	 as	 the	 base	 year	 for	
+calculations.	
+	
+	
+
+4.  CLEAN	TRANSPORTATION	
+
+	
+Use	 of	 Proceeds:	 Proceeds	 of	 the	 Green	 Bond	 may	 be	 allocated	 to	 capital	 and	 operating	 expenses	
+required	 for	 the	 construction,	 maintenance	 and	 operation	 of	 clean	 transport	 infrastructure	 that	
+transports	pulp	from	Klabin’s	facilities:	
+	
+(i) 
+
+Activities	related	to	the	clean	transportation	infrastructure	dedicated	exclusively	for	the	
+transportation	of	pulp,	such	as:	
+
+a.  Acquisition	of	locomotives	and	train	wagons	in	order	to	replace	the	usage	of	trucks;	
+b.  Railway	extensions	from	main	railway	lines	to	Klabin’s	facilities.	
+
+	
+Context:	Klabin	uses	rail	transportation	to	carry	all	of	its	exported	pulp	from	the	Puma	unit	to	the	Port	
+of	Paranaguá.	This	equates	to	approximately	85,000	ton	per	month	transported	464	km	via	railroad.	The	
+railroad	 uses	 a	 new	 extension	 (21	 km),	 built	 by	 Klabin,	 which	 connects	 the	 Puma	 unit	 to	 the	 already	
+existing	"Paraná	Central"	line,	operated	by	Rumo.	In	addition	to	the	investment	in	the	new	extension,	
+Klabin	also	acquired	the	wagons,	locomotives	and	built	a	pulp	warehouse	in	Paranaguá	(5	km	far	from	
+the	Port).	
+	
+	
+	
+
+	
+	
+
+7	
+
+©	Sustainalytics	2017	
+
+	
+	
+
+5.  ENERGY	EFFICIENCY	
+
+	
+
+	
+
+Use	 of	 Proceeds:	 Proceeds	 of	 the	 Green	 Bond	 may	 be	 allocated	 to	 capital	 and	 operating	 expenses	
+required	 for	 the	 development,	 construction,	 installation,	 operation,	 and	 upgrade	 of	 facilities.	 This	
+includes:	
+	
+(i) 
+
+Projects	for	energy	efficiency	and	optimization	of	equipment	or	processes	to	reduce	energy	
+waste,	such	as:	
+
+a.  Acquisition	of	more	efficient	electric	engines,	valves	and	pumps;	
+b.  Optimization	projects	in	Klabin’s	plants.	
+
+	
+Context:	The	Puma	Unit,	which	began	operations	in	March	2016,	was	conceived	with	the	goal	of	making	
+Klabin	 a	 self-sufficient	 organization	 in	 power	 generation,	 with	 a	 capacity	 to	 generate	 270	 MW	 from	
+renewable	sources.	Of	these,	approximately	120	MW	are	intended	for	industrial	operations	at	the	unit	
+and	the	remaining	150	MW	are	available	for	sale	to	the	Brazilian	electrical	grid.		
+	
+	
+
+6.  WASTE	MANAGEMENT	
+
+	
+Use	 of	 Proceeds:	 Proceeds	 of	 the	 Green	 Bond	 may	 be	 allocated	 to	 capital	 and	 operating	 expenses	
+required	for	the	development,	construction,	installation,	operation,	and	upgrade	of	facilities	that:	
+	
+(i) 
+
+Reduce	the	generation	of	waste,	such	as:	
+
+a.  Equipment	to	reduce	chemical	usage	and	waste	generated	in	the	wood	cooking	process;	
+b.  Equipment	to	recover	paper	and	fiber	wastes	(which	are	reused	as	biomass	or	
+
+commercialized	for	packaging);	
+
+c.  Equipment	to	minimize	fiber	waste;	
+d.  Equipment	to	minimize	paper	waste	in	the	Industrial	Bags	and	Corrugated	Paper	plants.	
+
+	
+(ii) 
+
+	
+(iii) 
+
+Reuse	waste	in	processes,	such	as:		
+
+a.  Transformation	of	solid	waste	of	the	industrial	process	into	sub-products	to	use	as	soil	
+
+correctives,	agrochemicals	and	fertilizers.	
+
+Treat	wastewater,	such	as:		
+
+a.  Wastewater	treatment	facilities	to	improve	the	quality	of	treated	wastewater.	
+
+Context:	 Pollution	 prevention	 and	 control	 is	 a	 commitment	 established	 within	 Klabin’s	 Sustainability	
+Policy.	 Waste	 management	 at	 Klabin	 was	 strengthened	 in	 2016	 with	 the	 development	 of	 the	 Solid	
+Waste	Processing	Center	at	the	Puma	Unit	in	Ortigueira	(Paraná),	which	also	serves	the	Monte	Alegre	
+Unit	in	Telêmaco	Borba.	The	center	has	the	capacity	to	recycle	94%	of	the	waste	from	the	Puma	Unit	
+operations,	 reducing	 the	 operational	 costs	 of	 waste	 treatment,	 the	 number	 of	 landfills	 and	 its	
+environmental	 impacts.	 Processed	 solid	 waste	 is	 reused	 as	 fertilizer	 and	 soil	 correctives.	 In	 addition,	
+
+	
+	
+
+8	
+
+©	Sustainalytics	2017	
+
+recovered	primary	sludge	and	fiber	waste	can	be	reincorporated	into	the	papermaking	process.	Klabin	
+also	partners	with	companies	in	search	of	new	solutions	for	the	reuse	of:	materials,	such	as	wood,	which	
+can	be	used	as	fuel;	plastic,	which	can	be	sent	to	recycling	cooperatives;	and	sludge	from	the	Effluent	
+Treatment	Stations	that	can	be	transformed	into	organic	fertilizer.		
+	
+Klabin	has	a	target	to	increase	recycling	and	reuse	of	waste	to	95%	by	2020	(currently	at	92%	in	2017).		
+	
+	
+
+7.  SUSTAINABLE	WATER	MANAGEMENT		
+
+	
+Use	of	Proceeds:	Proceeds	of	the	Green	Bond	may	be	allocated	to	construction,	installation,	operations	
+and	upgrade	of	water	facilities	that:		
+	
+(i) 
+
+Reduce	water	consumption,	such	as:	
+
+a.  Equipment	to	reduce	the	consumption	of	water	in	industrial	processes.	
+
+Allow	for	water	reuse	in	industrial	processes,	such	as:	
+
+a.  Equipment	that	would	facilitate	reuse	of	water	in	industrial	processes,	such	as	reusing	
+
+water	that	was	previously	released	as	effluent.	
+
+	
+Context:		Klabin	strives	to	conserve	water	resources.	The	company	keeps	flow	measurement	systems	in	
+mills,	 specific	 to	 each	 production	 process,	 and	 monitors	 the	 use,	 quality	 and	 stress	 of	 this	 resource	
+through	 its	 forest	 management	 activities.	 Currently,	 36%	 of	 the	 total	 amount	 of	 water	 drawn	 from	
+natural	water	sources	is	recycled	or	reused.	The	company	has	been	implementing	measures	to	improve	
+water	 efficiency	 in	 its	 operations,	 and	 has	 a	 reduction	 target	 of	 5%	 set	 to	 be	 achieved	 by	 2020.	
+Currently,	80%	of	water	consumed	is	returned	to	nearby	rivers	at	the	end	of	the	production	cycle	at	
+production	facilities.	
+	
+	
+
+8.  	ECO-EFFICIENT	AND/OR	CIRCULAR	ECONOMY	ADAPTED	PRODUCTS,	PRODUCTION	TECHNOLOGIES	AND	
+
+PROCESSES	
+
+	
+Use	of	Proceeds:	Proceeds	of	the	Green	Bond	may	be	allocated	to	expenditures	that:	
+	
+
+	
+
+	
+
+	
+
+(i) 
+
+Support	Klabin’s	Industrial	and	Forestry	Research	Centers,	focused	on:	
+a.  Capturing	gains	in	productivity	and	product	quality;	
+b.  Developing	solutions	for	more	efficiently	consuming	inputs;	
+c.  Reducing	and	mitigating	environmental	impacts;	
+d.  Development	of	hybrids	without	genetic	manipulation	to	improve	the	productivity	of	
+
+	
+(ii) 
+
+(ii) 
+
+	
+	
+
+eucalyptus	and	pine	plantations.	
+
+	
+Facilitate	the	use	of:		
+a.  FSC	certified	materials	packaging;	
+
+9	
+
+©	Sustainalytics	2017	
+
+b.  Recycled	materials	in	packaging;	
+c.  Reduced	materials	in	packaging;	
+d.  Prolong	the	life	of	packaging	materials.	
+
+ 
+
+plants;	
+
+(iii) 
+
+Enhance	the	recovery	and	recycling	of	packaging	materials	at	the	end	of	their	life	cycles	
+a.  Projects	for	efficiency	and	capacity	improvements	of	the	Recycled	Paper	production	
+
+b.  Activities	related	to	assuring	the	environmental	requirements	of	the	waste	paper	
+
+wholesalers	(Klabin’s	waste	paper	suppliers).	
+
+ 
+Context:	 Klabin’s	 newly-opened	 Technology	 Center	 in	 Telêmaco	 Borba	 (Paraná)	 brings	 together	
+professionals,	laboratories	and	state-of-the-art	equipment	to	ensure	that	the	company	works	in	at	the	
+forefront	of	this	area,	responding	to	current	needs	and	supporting	medium	and	long-term	projects.		
+	
+R&D	efforts	also	focus	on	productivity	increase	of	plantations	and	the	improvement	of	wood	(such	as	
+density	and	fiber	content),	the	development	of	new	properties	that	reduce	paper	total	weight,	research	
+on	new	technologies	linked	to	forests	(hemicelluloses,	lignin	or	extractives)	and	environmental	issues	
+related	to	climate	change	such	as	the	reduction	on	the	use	of	energy,	water,	steam	and	chemicals.	
+	
+	
+
+9.  CLIMATE	CHANGE	ADAPTATION	
+
+	
+Use	 of	 Proceeds:	 Proceeds	 of	 the	 Green	 Bond	 may	 be	 allocated	 to	 capital	 and	 operating	 expenses	
+required	for	mitigating	the	consequences	of	climate	change	through	adaptive	measures.	This	includes:	
+	
+
+Activities	 related	 to	 assessing	 Klabin’s	 vulnerabilities	 and	 opportunities	 due	 to	 climate	
+change	 and	 the	 means	 of	 improving	 the	 resilience	 of	 forestry,	 industrial	 and	 logistics	
+operations,	such	as:	
+a.  Alternative	green	methodologies	to	fight	forest	pest,	such	as	aerial	spraying	of	a	specific	
+
+type	of	fungus	targeting	biological	control	of	pests2;				
+
+b.  Preventive	operations	to	reduce	risk	of	forest	fires	–	innovations	in	planting	methods,	
+
+other	risk	reduction	strategies.	
+
+(i) 
+
+	
+
+	
+
+	
+2	Temperature	increase	and	reduced	frosts	may	lead	to	an	acceleration	of	the	growth	rate	of	forest	pests	due	to	thermal	stress	
+on	plantations.	Klabin	performs	risk	analysis	for	both	chemical	and	biological	inputs	application	methodologies,	with	special	
+care	to	aerial	spraying.	Rural	or	urban	communities,	water	courses	and	biodiversity	hotspots	are	mapped	by	the	company	and	
+buffer	 zones	 of	 200	 meters	 are	 established	 (compared	 to	 the	 100	 meters	 legal	 minimum	 safe	 zone).	 All	 aerial	 spraying	
+operation	is	registered	by	georeferencing	and	the	reports	are	audited	by	Brazil’s	Phytosanitary	Inspection	Agency.	Furthermore,	
+specificity	testing	requirements	on	each	biological	agent	and	their	application	methodologies	are	regulated	by	the	Government.	
+Klabin	strictly	follows	the	Brazilian	legislation	and	the	FSC	recommendations	/	prohibitions	in	regards	to	chemical	and	biological	
+inputs.																
+	
+
+	
+	
+
+10	
+
+©	Sustainalytics	2017	
+
+Context:	 Klabin	 recently	 concluded	 a	 detailed	 study	 on	 climate-related	 risks	 and	 opportunities,	
+conducted	 by	 a	 dedicated	 committee	 with	 inputs	 by	 external	 specialists.	 The	 analysis	 was	 based	 on	
+internal	mapping	of	the	impacts	to	the	company’s	operations	which	are	likely	occurring	due	to	climatic	
+events	 and	 the	 most	 probable	 risks	 and	 future	 opportunities.	 Science-derived	 inputs	 from	 the	
+Conference	of	Parties	(COP)	and	the	Intergovernmental	Panel	on	Climate	Change	(IPCC)	also	aided	in	the	
+assessment.	In	the	coming	months,	the	climate-related	impacts	matrix	will	be	assessed	by	the	Board	and	
+an	Adaptation	Plan	based	on	the	prioritized	risks	and	opportunities	will	be	deployed.	
+	
+	
+
+3.2  Project	Evaluation	and	Selection	Process	
+
+	
+3.2.1  Process	for	Evaluation	and	Selection	of	the	Eligible	Project	
+All	 projects	 developed	 by	 the	 company	 are	 approved	 by	 the	 Board	 of	 Directors	 for	 budget	 approval,	
+supported	 by	the	project’s	 financial	 viability	 and	 alignment	 to	 Klabin’s	strategy.	Additionally,	projects	
+that	 are	 funded	 through	 the	 Green	 Bond	 proceeds	 will	 be	 evaluated	 by	 the	 company’s	 Sustainability	
+Governance	 Bodies	 (Sustainability	 Committee	 and	 Commission,	 Climate	 Committee	 and	 Sustainability	
+Area),	 as	 applicable,	 for	 their	 potential	 to	 create	 impact	 and	 their	 alignment	 with	 use	 of	 proceeds	
+criteria.	
+	
+In	regards	to	the	projects	selected	for	allocation	of	amounts	equal	to	the	Green	Bond	Net	Proceeds,	
+Klabin’s	Green	Bond	Sustainability	Team	will:	
+
+(i) 
+(ii) 
+
+(iii) 
+
+Nominate	projects	which	comply	with	the	eligibility	criteria	as	described	in	the	framework;	
+Nominate	projects	which	meet	Klabin’s	environmental	and	social	risk	mitigation	process,	as	
+described	below,	and;	
+Recommend	an	allocation	of	proceeds	to	eligible	projects.	
+
+	
+These	 nominated	 projects	 will	 then	 be	 presented	 to	 Klabin’s	 Finance	 and	 Legal	 departments	 for	
+approval.		These	recommendations	will	be	made	on	an	annual	basis	and	will	include	past,	current	and	
+future	projects,	as	described	in	Section	3.1.1.	
+	
+3.2.2  Process	to	Mitigate	Environmental	and	Social	Risks	
+The	 management	 of	 environmental	 and	 social	 material	 risks	 is	 managed	 by	 Klabin’s	 sustainability	
+governance	 structure	 which	 is	 composed	 of	 a	 Sustainability	 Committee	 at	 the	 level	 of	 the	 Executive	
+Board	and	the	Board	of	Directors,	a	Sustainability	Commission,	a	Climate	Committee	and	a	Sustainability	
+Management	Department.	
+	
+Klabin	 identifies,	 monitors	 and	 mitigates	 such	 risks	 through	 its	 Sustainability	 Policy	 and	 the	 FSC,	 ISO	
+14001	 and	 OHSAS	 18001	 certifications	 requirements,	 which	 in	 turn	 are	 supported	 by	 company’s	
+Stakeholders	Engagement	Policy	and	the	Fundamental	Rights	in	Labor	Relations	Policy.		
+	
+Stakeholder	conflicts,	real	or	emerging,	are	tracked	systematically	through	multiple	platforms	such	as	
+the	Territory	Materiality	Matrix.	The	materiality	matrix	is	designed	by	stakeholders	and	defines	material	
+risks,	impacts	and	opportunities	for	interventions.	The	materiality	matrix	is	a	basic	component	for	the	
+establishment	of	goals	within	company's	sustainability	strategy.		
+
+	
+	
+
+11	
+
+©	Sustainalytics	2017	
+
+		
+Klabin	has	been	strengthening	a	multi-disciplinary	company-wide	risk	management	processes	through	
+its	Risk	Management	department	which	will	oversee	mapping,	prioritizing,	mitigating	and	reporting	risks	
+the	company	faces,	including	environmental	and	social	risks.	
+	
+Additionally,	 the	 company	 maintains	 -	 for	 both	 forestry	 and	 industrial	 operations	 -	 teams	 exclusively	
+mobilized	 to	 visit	 stakeholders	 including	 timber	 producers	 and	 community	 members,	 in	 order	 to	
+monitor	environmental,	labor	and	human	rights	issues	and	strengthen	community	relationships.					
+	
+	
+
+3.3 							Management	of	Proceeds		
+
+	
+The	proceeds	from	the	Green	Bond	will	be	managed	by	Klabin’s	Finance	Department	and	allocated	to	
+approved	 Eligible	 Green	 Projects	 following	 specific	 recommendations	 by	 Klabin’s	 Green	 Bond	
+Sustainability	 Team	 on	 project	 selection.	 The	 Finance	 Department	 has	 established	 an	 internal	
+management	system	that	will	track	the	allocation	of	proceeds	to	such	projects.	
+	
+Pending	allocation,	the	Net	Proceeds	may	be	invested	in	cash	or	cash	equivalents,	in	accordance	with	
+Klabin’s	cash	management	policies.	
+	
+	
+
+3.4 
+
+			Reporting		
+
+	
+3.4.1  Allocation	Reporting	
+Starting	 on	 or	 prior	 to	 the	 first	 anniversary	 of	 the	 settlement	 date	 of	 the	 Note	 and	 thereafter,	
+throughout	 the	 life	 of	 the	 Notes,	 Klabin	 will	 make	 and	 keep	 readily	 available	 information	 on	 the	
+allocation	 of	 amounts	 equal	 the	 Net	 Proceeds,	 to	 be	 updated	 annually	 until	 full	 allocation,	 and	 as	
+necessary	 thereafter	 in	 the	 event	 of	 material	 developments.	 Such	 information	 will	 be	 made	 publicly	
+available	on	Klabin’s	Investor	Relation	website	(http://ri.klabin.com.br.	
+		
+This	information	will	include	additional	descriptions	of	projects	funded	with	the	net	proceeds,	amounts	
+funded,	date	of	funding,	and	any	applicable	exchange	rates.	These	reports	will	be	accompanied	with	an	
+assertion	 by	 management	 that	 the	 net	 proceeds	 of	 this	 offering	 were	 allocated	 to	 qualifying	 eligible	
+projects	and	a	report	by	an	external	auditor	in	respect	of	its	examination	of	management’s	assertion	
+conducted	 in	 accordance	 with	 attestation	 standards	 established	 by	 the	 International	 Standard	 on	
+Assurance	Engagements	(ISAE)	3000.	
+	
+	
+	
+	
+	
+	
+	
+
+	
+	
+
+12	
+
+©	Sustainalytics	2017	
+
+Impact	Reporting	
+
+	
+	
+	
+3.4.2 
+Where	 feasible,	 in	 addition	 to	 the	 above	 allocation	 reporting,	 Klabin	 will	 report	 publicly	 -	 within	 its	
+sustainability	annual	report	(rs.klabin.com.br)	-	on	the	expected	environmental	impact	of	the	projects	to	
+which	an	amount	equal	to	the	Net	Proceeds	have	been	allocated.	Likewise,	Klabin	will	report	on	the	
+following	key	performance	indicators	(KPI)	on	a	project	portfolio	basis	for	the	Green	Bond	projects.		
+	
+Use	of	Proceeds	Category	
+1.	Sustainable	Forest	Management	
+
+Key	Performance	Indicators	
+Certified	forest	area:	Hectares	of	Klabin’s	land	that	has	
+been	planted	or	replanted	certified	by	FSC®1	
+Certified	third-party	forest	area:	Hectares	of	wood	
+suppliers’	land	that	has	been	certified	by	FSC®	
+Greenhouse	gas	sequestration	(tCO2eq/adt)	
+Hectares	of	Klabin’s	land	that	has	been	restored	
+Hectares	of	owned	land	area	with	conserved	native	
+vegetation		
+Greenhouse	gas	sequestration	(tCO2eq/adt)	
+Total	electricity	generated	from	waste	biomass	at	
+Klabin’s	facilities	(MWh	or	MWh/adt)	
+Greenhouse	gases	emission	reduction	(tCO2eq/adt)	
+Total	amount	of	waste	biomass	reused	for	electricity	
+generation	
+%	of	renewable	sources	in	the	energy	matrix	
+CO2	emissions	avoided	(tCO2eq/ton	transported)	
+%	of	self-sufficiency	in	power	generation	
+Reduced	and	reused	waste	(t	or	kg/adt)	
+Water	consumption	(m3	or	m3/adt)	
+Water	reused	(m3	or	m3/adt)	
+Forest	Productivity	(m³/ha/year)	
+Forest	MAI	-	Mean	Annual	Increment	(m³/ha/year)	
+Recycling	capacity	
+Delivery	of	adaptation	actions	
+Effectiveness	of	adaptation	actions,	where	feasible	
+
+13	
+
+2.	Restoration	of	Native	Forests	and	
+Conservation	of	Biodiversity		
+
+3.	Generation	of	Energy	from	Renewable	
+Sources	
+
+4.	Clean	Transportation	
+5.	Energy	Efficiency		
+6.	Waste	Management	
+7.	Sustainable	Water	Management		
+
+8.	Eco-Efficient	and	Circular	Economy	
+Adapted	Products,	Production	
+Technologies	and	Processes	
+9.	Climate	Change	Adaptation	
+
+	
+
+	
+1	FSC®	License	Code	FSC-C022516	
+	
+
+	
+
+	
+	
+
+©	Sustainalytics	2017	
+
+4. SUSTAINALYTICS’	OPINION	
+	
+Section	1:	Sustainability	Performance	of	the	Issuer	
+
+	
+Contribution	of	the	Green	Bond	to	Klabin’s	Environmental	Strategy	
+Sustainalytics	is	of	the	opinion	that	Klabin	has	a	strong	overall	environmental	strategy.	The	strength	of	
+Klabin’s	 strategy	 is	 derived	 from	 (i)	 its	 commitment	 to	 the	 environment	 which	 is	 expressed	 in	 its	
+Sustainability	 Vision	 as	 well	 as	 its	 Sustainability	 Policy;	 (ii)	 internal	 accountability	 –	 Klabin	 has	 a	
+Sustainability	Committee	which	is	responsible	for	ensuring	that	sustainability	is	an	integral	part	of	the	
+corporate	 strategy	 and	 all	 of	 the	 managerial	 processes;	 (iii)	 identification	 of	 material	 issues	 defined	
+within	 its	 materiality	 matrix3;	 (iv)	 establishment	 of	 medium-term	 environmental	 targets;	 and	 (v)	
+disclosure	on	progress	towards	achieving	environmental	targets.	
+	
+Klabin	updated	its	Sustainability	Policy	in	2016	and	expanded	its	areas	priority.	Amongst	its	priorities,	
+Klabin	 commits	 to:	 “Avoid	 and	 prevent	 pollution	 by	 reducing	 environmental	 impacts	 related	 to	
+wastewater,	solid	wastes	and	atmospheric	emissions”;	“Observe	the	United	Nations	(UN)	Sustainable	
+Development	 Goals	 (SDG)	 and	 to	 direct	 its	 actions	 and	 investments	 in	 support	 its	 objectives”;	 and	
+“Ensure	 that	 the	 company’s	 operations	 are	 constantly	 seeking	 to	 reduce	 greenhouse	 gas	 emissions	
+(GHG)”.4	 Sustainalytics	 is	 of	 the	 opinion	 that	 proceeds	 from	 the	 Green	 Bond	 are	 in	 line	 with	 Klabin’s	
+commitments.	
+	
+Additionally,	 each	 eligible	 use	 of	 proceed	 described	 in	 the	 Klabin	 Green	 Bond	 Framework	 outlines	
+specific	 objectives	 and	 actions.	 The	 Klabin	 Green	 Bond	 contributes	 to	 specific	 environmental	 targets	
+established	 as	 part	 of	 the	 organization’s	 medium-term	 strategy,	 which	 commenced	 in	 2013	 with	
+expected	 targets	 between	 2016	 to	 2018.	 Of	 the	 targets,	 the	 Green	 Bond	 directly	 contributes	 to	 the	
+following:	
+
+•  Reduce	greenhouse	gas	emissions	to	185	CO2e/t	(from	Scope	1	and	Scope	2	activities);	
+•  Reduce	water	consumption	to	38	m3	t/paper;	
+• 
+
+Increase	participation	of	renewable	sources	in	the	energy	matrix	to	88%.5	
+
+	
+Klabin	 publically	 reports	 on	 its	 progress	 in	 achieving	 these	 environmental	 targets.	 Between	 2004	 to	
+2012,	the	company	reduced	CO2	emissions	by	61%	from	492	kg	of	CO2e/t	of	paper	to	192	kg	of	CO2e/t	of	
+paper.6	 Sustainalytics	 is	 of	 the	 opinion	 that	 transparent	 disclosure	 on	 targets	 and	 performance	 is	
+indicative	of	the	priority	the	company	assigns	to	achieving	results.		
+	
+	
+
+	
+
+	
+3	http://rs.klabin.com.br/About-the-report#matriz-de-materialidade		
+4	http://rs.klabin.com.br/Commitment-to-sustainability		
+5	http://rs2012.klabin.com.br/en/strategy/objectives-and-targets-gri-12/	
+6	https://www.klabin.com.br/en/sustainability/environmental-responsibility/climate-change/	
+
+	
+	
+
+14	
+
+©	Sustainalytics	2017	
+
+Strong	Existing	Sustainability	Practices	
+Sustainalytics	 is	 of	 the	 opinion	 that	 Klabin	 has	 a	 track-record	 of	 successfully	 integrating	 sustainable	
+practices	within	its	operations,	as	well	as	extending	such	practices	down	its	supply	chain.	Such	practices	
+enable	the	company	to	mitigate	common	social	and	environmental	risks	associated	with	its	operations.	
+	
+Klabin	 maintains	 a	 strong	 Environmental	 Management	 System	 (EMS),	 which	 has	 been	 externally	
+certified	to	ISO	14001	standards,	for	13	out	of	its	18	(i.e.	75%)	production	sites	as	of	2016.	Furthermore,	
+Klabin’s	maintains	certification	for	all	of	its	forest	areas	from	the	Forest	Stewardship	Council	(FSC).	The	
+Forest	 Stewardship	 Council	 (FSC)	 is	 considered	 to	 be	 the	 best	 certification	 system	 to	 ensure	
+environmentally	responsible,	socially	beneficial	and	economically	viable	management	of	forests	in	the	
+industry.7	Sustainalytics	is	of	the	opinion	that	the	requirements	under	the	FSC	certification	means	that	
+eligible	projects	will	need	to	follow	more	rigorous	environmental	norms	which	further	strengthens	the	
+Green	Bond	Framework.		
+	
+In	addition	to	promoting	responsible	management	of	its	own	forest,	Klabin	uses	FSC	certified	wood	in	all	
+of	 its	 production	 processes,	 which	 is	 a	 result	 of	 the	 Forestry	 Incentives	 Program.	 Klabin	 purchases	
+between	15%	and	20%	of	its	total	timber	requirements	from	local	small	and	medium-sized	farmers.	The	
+Forestry	Incentives	Program	has	led	to	over	25,000	hectares	of	partner-producer	areas	becoming	FSC	
+certified	 as	 of	 2016.	 Studies	 have	 shown	 that	 forests	 which	 are	 FSC	 certified	 mitigate	 social	 risks	 by	
+providing	 more	 benefits	 to	 communities	 than	 uncertified	 forests	 by	 establishing	 more	 effective	 and	
+better	 organized	 institutions	 for	 communication	 with	 communities	 and	 equitable	 financial	 support	 to	
+development	projects.	 8	As	such,	Sustainalytics	is	of	the	opinion	that	the	Forestry	Incentives	Program	
+contributes	to	Klabin’s	commitments	to	use	certified	wood	in	its	production	and	also	leads	to	the	socio-
+economic	development	of	nearby	communities.	
+	
+Klabin	has	dedicated	more	than	40%	of	its	forest	to	the	conservation	of	native	forest	and	maintenance	
+of	 biodiversity,	 which	 is	 more	 than	 required	 by	 Brazilian	 legislation.	 In	 order	 to	 develop	 productive	
+forest	area,	Klabin	uses	the	mosaic	concept	where	pine	and	eucalyptus	plantations	are	mixed	with	areas	
+of	 native	 forests	 Brazilian	 Atlantic	 Forest	 in	 order	 to	 create	 ecological	 corridors.	 Additionally,	 the	
+company	does	not	use	genetically-modified	(GM)	seedlings	in	forestry	operations	and	has	committed	
+that	 no	 Green	 Bond	 proceeds	 will	 be	 allocated	 to	 the	 introduction	 of	 GM	 organisms	 in	 its	 forestry	
+operations.		
+	
+Sustainalytics	 is	 of	 the	 opinion	 that	 Klabin	 has	 followed	 best	 practices	 in	 managing	 its	 forests	 and	
+protecting	natural	resources	through	both	the	FSC	certification	as	well	as	the	ISO	14001	certification,	
+and	through	adoption	of	sustainable	environmental	practices.	Sustainalytics	believes	that	such	practices	
+enable	 Klabin	 to	 mitigate	 common	 social	 and	 environmental	 risks	 associated	 with	 its	 operations.	
+Moreover,	Sustainalytics	has	found	no	evidence	of	major	environmental	or	social	controversies	related	
+to	Klabin	and	as	such	is	of	the	opinion	that	Klabin	is	well	positioned	to	issue	Green	Bonds.	
+
+	
+7	WWF	Global:	http://wwf.panda.org/about_our_earth/deforestation/forest_sector_transformation/forest_certification/		
+8	The	Center	for	International	Forestry	Research	(CIFOR):	http://wwf.panda.org/?219250/Remarkable-social-progress-when-forests-are-
+
+FSCcertified---new-study-confirms		
+
+	
+	
+
+15	
+
+©	Sustainalytics	2017	
+
+Section	2:	Impact	of	Use	of	Proceeds	
+	
+Necessity	of	Research	and	Development	and	Adaptation	Studies	in	the	Pulp	and	Paper	Industry	
+As	 one	 of	 the	 largest	 industrial	 sectors	 in	 the	 world,	 the	 pulp	 and	 paper	 industry	 has	 an	 enormous	
+influence	 on	 global	 forests.	 Unsustainable	 pulpwood	 production	 can	 negatively	 impact	 climate	 by	
+releasing	carbon	into	the	atmosphere,	threaten	fragile	ecosystems	and	species	and	cause	soil	erosion.9	
+Sustainalytics	 is	 of	 the	 opinion	 that	 it	 is	 crucial	 for	 companies	 within	 the	 pulp	 and	 paper	 industry	 to	
+understand	climate	changes,	within	their	region	of	operation,	in	order	to	adapt	to	climate	change	and	
+mitigate	 potential	 risks,	 such	 as	 wildfire.	 Furthermore,	 ongoing	 Research	 and	 Development	 (R&D)	 is	
+crucial	in	order	to	continuously	seek	opportunities	to	reduce	negative	environmental	impacts	associated	
+with	operations.	
+	
+Proceeds	from	Klabin’s	Green	Bond	will	support	Research	and	Development	(R&D)	as	well	as	adaptation	
+to	climate	change	which	are	in	line	with	Klabin’s	Sustainability	Policy,	in	which	the	company	commits	to	
+innovation,	 research	 and	 development	 and	 reducing	 environmental	 impact.	 Klabin’s	 commitment	 to	
+reduce	 environmental	 impact	 through	 innovation	 is	 supported	 through	 the	 recent	 establishment	 of	
+Klabin’s	Technology	Center	in	the	state	of	Paraná.	The	Center	brings	together	professionals,	laboratories	
+and	 state-of-the-art	 equipment	 in	 order	 to	 respond	 to	 current	 needs	 and	 support	 medium	 and	 long-
+term	sustainability	projects10.	Klabin	has	also	recently	established	a	Climate	Committee	to	study	risks	
+and	 opportunities	 of	 climate	 change.	 The	 study	 was	 based	 on	 internal	 mapping	 of	 recent	 impacts	
+observed	on	the	company’s	operations	due	to	climatic	events.	The	Committee	identified	high	severity	
+risks,	such	as	temperature	increase	and	increased	frequency	of	intense	heat.	Klabin	has	communicated	
+to	Sustainalytics	that	the	outcomes	of	the	climate	study	as	well	as	an	adaptation	plan	is	expected	to	be	
+presented	and	endorsed	by	the	Executive	Board.		
+	
+Sustainalytics	has	a	positive	view	of	Klabin’s	efforts	towards	understanding	effects	of	climate	change	on	
+its	 operations	 as	 well	 as	 ongoing	 efforts	 to	 reduce	 negative	 environmental	 impacts.	 However,	
+Sustainalytics	 believes	 that	 Klabin	 can	 further	 strengthen	 its	 Sustainability	 Policy	 by	 incorporating	 a	
+commitment	towards	adaptation	to	climate	change	and	by	referencing	an	objective	to	create	positive	
+environmental	impact	as	part	of	its	R&D	mission	statement.	Lastly,	Klabin	should	ensure	that	proceeds	
+from	 the	 Green	 Bond	 used	 towards	 R&D	 are	 only	 allocated	 towards	 activities	 with	 the	 objective	 of	
+creating	positive	environmental	impact.		
+	
+	
+
+	
+
+	
+9	https://www.worldwildlife.org/industries/pulp-and-paper		
+10	https://s3.amazonaws.com/rs-klabin-2016/klabin_relatorio_impresso_ingles_3.pdf		
+
+	
+	
+
+16	
+
+©	Sustainalytics	2017	
+
+Alignment	with	Sustainable	Development	Goals		
+The	 Sustainable	 Development	 Goals	 (“SDG”)	 were	 set	 in	 September	 2015	 and	 form	 an	 agenda	 for	
+achieving	sustainable	development	by	the	year	2030.	Klabin	acknowledges	the	SDGs	and	the	need	to	
+direct	its	actions	and	investments	in	support	of	them	within	its	Sustainability	Policy	and	its	long-term	
+development	strategy.		
+	
+Klabin’s	Green	Bond	advances	the	following	SDG	goals	and	targets:		
+	
+Use	of	Proceeds	Category	
+1.	Sustainable	Forest	
+Management,	and	
+	
+2.	Restoration	of	Native	
+Forests	and	Conservation	
+of	Biodiversity,		
+	
+
+SDG	target	
+15.2	By	2020,	promote	the	implementation	of	
+sustainable	management	of	all	types	of	forests,	
+halt	deforestation,	restore	degraded	forests	and	
+substantially	increase	afforestation	and	
+reforestation	globally.	
+15.5	Take	urgent	and	significant	action	to	reduce	
+the	degradation	of	natural	habitats,	halt	the	loss	
+of	biodiversity	and,	by	2020,	protect	and	prevent	
+the	extinction	of	threatened	species.	
+7.2	By	2030,	increase	substantially	the	share	of	
+renewable	energy	in	the	global	energy	mix.	
+
+SDG	
+SDG	15	–		
+Life	on	Land	
+
+3.	Renewable	Energy	
+
+5.	Energy	Efficiency	
+
+SDG	7	–		
+Affordable	and	
+Clean	Energy	
+SDG	9	–		
+Industry,	Innovation	
+and	Infrastructure	
+
+6.	Waste	Management	
+
+SDG	12	–	
+Responsible	
+Consumption	
+	
+	
+	
+	
+	
+	
+	
+SDG	6	–		
+Clean	Water	and	
+Sanitation	
+	
+	
+	
+
+	
+	
+
+9.4	By	2030,	upgrade	infrastructure	and	retrofit	
+industries	to	make	them	sustainable,	with	
+increased	resource-use	efficiency	and	greater	
+adoption	of	clean	and	environmentally	sound	
+technologies	and	industrial	processes.	
+12.4	By	2020,	achieve	the	environmentally	sound	
+management	of	chemicals	and	all	wastes	
+throughout	their	life	cycle,	in	accordance	with	
+agreed	international	frameworks,	and	
+significantly	reduce	their	release	to	air,	water	
+and	soil	in	order	to	minimize	their	adverse	
+impacts	on	human	health	and	the	environment.	
+12.5	By	2030,	substantially	reduce	waste	
+generation	through	prevention,	reduction,	
+recycling	and	reuse.	
+6.3	By	2030,	improve	water	quality	by	reducing	
+pollution,	eliminating	dumping	and	minimizing	
+release	of	hazardous	chemicals	and	materials,	
+halving	the	proportion	of	untreated	wastewater	
+and	substantially	increasing	recycling	and	safe	
+reuse	globally.	
+
+17	
+
+©	Sustainalytics	2017	
+
+7.	Sustainable	Water	
+Management	
+
+8.	Eco-Efficient	and	
+Circular	Economy	Adapted	
+Products,	Production	
+Technologies	and	
+Processes	
+
+9.	Climate	Change	
+Adaptation	
+
+SDG	12	–	
+Responsible	
+Consumption	and	
+Production	
+SDG	12	–	
+Responsible	
+Consumption	and	
+Production	
+
+SDG	9	–		
+Industry,	Innovation	
+and	Infrastructure	
+	
+	
+	
+	
+	
+SDG	12	–	
+Responsible	
+Consumption	and	
+Production	
+
+12.2	By	2030,	achieve	the	sustainable	
+management	and	efficient	use	of	natural	
+resources.	
+
+12.2	By	2030,	achieve	the	sustainable	
+management	and	efficient	use	of	natural	
+resources.	
+12.5	By	2030,	substantially	reduce	waste	
+generation	through	prevention,	reduction,	
+recycling	and	reuse.	
+9.5	Enhance	scientific	research,	upgrade	the	
+technological	capabilities	of	industrial	sectors	in	
+all	countries,	in	particular	developing	countries,	
+including,	by	2030,	encouraging	innovation	and	
+substantially	increasing	the	number	of	research	
+and	development	workers	per	1	million	people	
+and	public	and	private	research	and	
+development	spending.	
+12.2	By	2030,	achieve	the	sustainable	
+management	and	efficient	use	of	natural	
+resources.	
+	
+
+	
+	
+Alignment	with	Green	Bond	Principles	2017	
+Sustainalytics	has	determined	that	the	Klabin	Green	Bond	Framework	aligns	to	the	four	pillars	of	the	
+Green	 Bond	 Principles	 2017.	 For	 detailed	 information	 please	 refer	 to	 Appendix	1:	 Green	 Bond/Green	
+Bond	Programme	External	Review	Form.	
+	
+	
+Conclusion	
+Klabin’s	 Green	 Bond	 Framework	 aligns	 with	 the	 four	 pillars	 of	 the	 Green	 Bond	 Principles	 2017.	 The	
+company	 has	 established	 clear	 project	 eligibility	 criteria	 that	 are	 recognized	 as	 environmentally	
+impactful	by	the	Green	Bond	Principles,	align	with	its	environmental	priorities,	and	support	its	efforts	to	
+reduce	its	overall	environmental	impact	across	its	supply	chain	and	operations.	Sustainalytics	is	of	the	
+opinion	 that	 this	 is	 representative	 of	 the	 company’s	 holistic	 efforts	 to	 address	 the	 environmental	
+impacts	of	its	operation.	Finally,	the	company’s	approach	to	selecting	current	and	future	projects	and	
+managing	 Green	 Bond	 proceeds	 is	 robust,	 and	 its	 reporting	 on	 the	 use	 of	 proceeds,	 with	 KPIs	 that	
+capture	 environmental	impact,	is	transparent.	Based	on	the	above	considerations,	Sustainalytics	is	of	
+the	view	that	Klabin’s	Green	Bond	is	robust	and	credible.	
+
+	
+
+	
+
+	
+	
+
+18	
+
+©	Sustainalytics	2017	
+
+	
+
+	
+	
+
+	
+	
+Disclaimer	
+All	rights	reserved.	No	part	of	this	second	party	opinion	(the	“Opinion”)	may	be	reproduced,	transmitted	
+or	published	in	any	form	or	by	any	means	without	the	prior	written	permission	of	Sustainalytics.	
+		
+The	Opinion	was	drawn	up	with	the	aim	to	explain	why	the	analyzed	bond	is	considered	sustainable	and	
+responsible.	Consequently,	this	Opinion	is	for	information	purposes	only	and	Sustainalytics	will	not	
+accept	any	form	of	liability	for	the	substance	of	the	opinion	and/or	any	liability	for	damage	arising	from	
+the	use	of	this	Opinion	and/or	the	information	provided	in	it.	
+		
+As	the	Opinion	is	based	on	information	made	available	by	the	client,	Sustainalytics	does	not	warrant	that	
+the	information	presented	in	this	Opinion	is	complete,	accurate	or	up	to	date.	
+		
+Nothing	contained	in	this	Opinion	shall	be	construed	as	to	make	a	representation	or	warranty,	express	or	
+implied,	regarding	the	advisability	to	invest	in	or	include	companies	in	investable	universes	and/or	
+portfolios.	Furthermore,	this	Opinion	shall	in	no	event	be	interpreted	and	construed	as	an	assessment	of	
+the	economic	performance	and	credit	worthiness	of	the	bond,	nor	to	have	focused	on	the	effective	
+allocation	of	the	funds’	use	of	proceeds.	
+		
+The	client	is	fully	responsible	for	certifying	and	ensuring	its	commitments`	compliance,	implementation	
+and	monitoring.	
+
+	
+
+24	
+
+©	Sustainalytics	2017	
+
+SUSTAINALYTICS	
+	
+Sustainalytics	 is	 an	 independent	 ESG	 and	 corporate	 governance	 research,	 ratings	 and	 analysis	 firm	
+supporting	 investors	 around	 the	 world	 with	 the	 development	 and	 implementation	 of	 responsible	
+investment	strategies.	With	13	offices	globally,	Sustainalytics	partners	with	institutional	investors	who	
+integrate	 environmental,	 social	 and	 governance	 information	 and	 assessments	 into	 their	 investment	
+processes.	 Today,	 the	 firm	 has	 more	 than	 300	 staff	 members,	 including	 170	 analysts	 with	 varied	
+multidisciplinary	 expertise	 of	 more	 than	 40	 sectors.	 Through	 the	 IRRI	 survey,	 investors	 selected	
+Sustainalytics	as	the	best	independent	responsible	investment	research	firm	for	three	consecutive	years,	
+2012	through	2014	and	in	2015,	Sustainalytics	was	named	among	the	top	three	firms	for	both	ESG	and	
+Corporate	Governance	research.	The	firm	was	also	named	the	Best	SRI	or	Green	Bond	Research	Firm	by	
+Global	Capital	in	2015.	For	more	information,	visit	www.sustainalytics.com		
+	
+	
+Sustainalytics	
+info@sustainalytics.com		
+www.sustainalytics.com		
+	
+	
+	
+	
+	
+
+	
+	
+
+	
+	
+
+25	
+
+

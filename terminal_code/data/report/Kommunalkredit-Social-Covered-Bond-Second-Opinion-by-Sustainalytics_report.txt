@@ -1,0 +1,641 @@
+ 
+ 
+  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+ KOMMUNALKREDIT  
+SOCIAL COVERED BOND 
+
+ 
+
+ 
+
+SECOND OPINION BY SUSTAINALYTICS 
+
+June 1st, 2017 
+
+Catarina da Silva (Amsterdam) 
+
+Senior Advisor, Advisory Services 
+catarina.dasilva@sustainalytics.com 
+(+31) 20 205 0045 
+ 
+ 
+ 
+ 
+
+Manager, Advisory Services 
+
+Megan Wallingford (Toronto) 
+
+www.sustainalytics.com 
+ 
+www.sustainalytics.com 
+ 
+www.sustainalytics.com 
+ 
+megan.wallingford@sustainalytics.com  
+www.sustainalytics.com 
+(+1) 647 317 3689   
+ 
+ 
+www.sustainalytics.com 
+ 
+ 
+www.sustainalytics.com 
+ 
+
+Vikram Puppala  
+
+Manager,  
+
+Tim Langer (London) 
+
+Senior Advisor, Institutional Relations 
+
+tim.langer@sustainalytics.com   
+
+(+49) 69 3329 6556 
+ 
+
+Vikram Puppala  
+
+Manager,  
+
+Advisory Services (Toronto) 
+
+© Sustainalytics 2017 
+ 
+
+TABLE OF CONTENTS 
+
+1. 
+
+Introduction 
+
+2.  Overview of the Issuer 
+
+3.  SUSTAINALYTICS’ OPINION 
+
+Section 1: Assessment of Kommunalkredit’s Social Mandate 
+Section 2: Opinion on Kommunalkredit’s Social Covered Bond Framework 
+Conclusion 
+
+APPENDICES 
+
+Appendix A: Project Eligibility Criteria 
+Appendix B: Green Bond External Review Form 
+
+SUSTAINALYTICS 
+
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+3 
+
+3 
+
+4 
+4 
+4 
+8 
+
+9 
+9 
+11 
+
+18 
+
+2 
+
+© Sustainalytics 2017 
+ 
+
+1. INTRODUCTION 
+Kommunalkredit  Austria  AG  (Kommunalkredit),  a  specialist  bank  for  infrastructure  financing  based  in 
+Austria,  is planning  to issue a Social  Covered Bond to finance  and refinance existing and new  projects 
+related  to  social  infrastructure,  with  a  special  focus on  projects  supporting  education,  healthcare  and 
+social  housing.  The  Bond  is  a  social  covered  bond  and  will  be  issued  under  its  Base  Prospectus, 
+Kommunalkredit´s EUR 800,000,000 Debt Issuance Programme, dated 7 April 2017, which is disclosed on 
+its website.1 
+ 
+Kommunalkredit  has  engaged  Sustainalytics  to  provide  a  second  opinion  on  its  Social  Covered  Bond 
+Framework2 and on the framework’s social credentials. As part of this engagement, Sustainalytics held 
+conversations  with  various  members  of  Kommunalkredit’s  Management  Team,  Sales  and  Treasury 
+Divisions to understand the social impact of their business processes and planned use of proceeds, as well 
+as management of proceeds and reporting aspects of Kommunalkredit’s Social Covered Bond. Following 
+this  engagement,  some  elements  of  the  Social  Covered  Bond  Framework  were  clarified  to  ensure  an 
+alignment  with  the  level  of  disclosure  expected  by  ICMA’s  Social  Bond  Guidance.3  Sustainalytics  also 
+reviewed relevant public and internal documents.  
+ 
+This document contains Sustainalytics’ opinion on Kommunalkredit’s Social Covered Bond Framework and 
+should be read in conjunction with that framework. 
+ 
+ 
+2. OVERVIEW OF THE ISSUER 
+Kommunalkredit is a specialist bank for infrastructure financing. It acts as a bridge between infrastructure 
+developers,  such  as  municipalities,  public-sector  enterprises  or  private  project  operators,  on  the  one 
+hand, and institutional investors, such as insurance companies or pension funds, on the other hand. The 
+bank  operates  mainly  in  Austria,  Germany,  Switzerland,  France,  the  Netherlands  and  Belgium,  and 
+finances  projects  in  ‘Social  Infrastructure’,  ‘Energy  and  the  Environment’,  and  ‘Transport’  areas.4  The 
+‘Social Infrastructure’ area includes care homes, health care and educational facilities, and social housing 
+and  administrative  buildings;  the  ‘Energy  and  the  Environment’  area  includes  projects  focused  on 
+sustainable  sources  of  energy;  and  the  ‘Transport’  area  includes  commuter  transport,  road  and  rail 
+transport. The bank, founded as a government entity in 1958, was privatised in 2015 and is headquartered 
+in  Vienna,  Austria.  Kommunalkredit  Austria  AG  is  owned  by  Gesona  Beteiligungsverwaltung  GmbH 
+(99.78%) and the Association of Austrian Municipalities (0,22%). 
+The bank considers sustainability to be fundamental to its business model. As part of its credit evaluation 
+process for financed projects, Kommunalkredit assesses the sustainability impact of its loan applicants by 
+evaluating social, ecological, and economic criteria.5  
+
+ 
+1 https://www.kommunalkredit.at/en/investor-relations/bondholder-information-funding/dip/ 
+2 Available at https://www.kommunalkredit.at/en/investor-relations/informationen-fuer-fremdkapitalgeber-funding/ 
+3 “Social Bonds – Guidance for Issuers”, dated 16 June 2016 issued by the International Capital Market Association (ICMA) 
+4 Annual Report 2016, page 29, https://www.kommunalkredit.at/fileadmin/user_upload/Annual_Report_Kommunalkredit_Group_en.pdf.  
+5 Kommunalkredit Sustainability, April 10, 2017, https://www.kommunalkredit.at/en/ueber-uns/nachhaltigkeit/.  
+
+3 
+
+ 
+ 
+
+© Sustainalytics 2017 
+ 
+
+ 
+3. SUSTAINALYTICS’ OPINION 
+ 
+Section 1: Assessment of Kommunalkredit’s Social Mandate 
+ 
+As a bank specializing in infrastructure financing in Europe, Kommunalkredit’s business model focuses on 
+public infrastructure, including core areas such as ‘Social infrastructure’, ‘Transport’, and ‘Energy and the 
+environment’.  Kommunalkredit  discloses  that,  as  of  2016,  26%  of  its  new  business  was  in  ‘Social 
+infrastructure’, 14% in ‘Transport’, and 60% in ‘Energy and the environment’.6  
+Kommunalkredit’s Social Covered Bond is closely aligned with its business mandate in social infrastructure 
+as the bond will focus on financing and refining social infrastructure projects in the areas of education, 
+healthcare,  and  social  housing  (including  care  homes).  Additionally,  it  will  positively  contribute  to 
+achieving the company’s mission.7  
+ 
+Kommunalkredit also has a robust policy for screening loan applicants, which is strongly aligned with its 
+sustainability mission. Kommunalkredit discloses that it assesses three sustainability areas as part of its 
+credit evaluation process for all loan applicants including those projects financed by the proceeds of the 
+Social  Covered  Bond.  The  sustainability  assessment  addresses  a  combination  of  Social,  Ecological  and 
+Economic issues (refer to Appendix A – Kommunalkredit sustainability checklist).  
+ 
+Overall,  considering  that  the  proceeds  of  the  bond  will  support  social  infrastructure,  and  given 
+Kommunalkredit’s  robust  sustainability  criteria  for  loan  applicants  which  includes  a  strong  focus  on 
+achieving a positive social impact, Sustainalytics is of the opinion that Kommunalkredit is well positioned 
+to issue a Social Covered Bond.  
+ 
+ 
+Section 2: Opinion on Kommunalkredit’s Social Covered Bond Framework 
+ 
+2.1 Positive impact of the use of proceeds and alignment with the Sustainable Development 
+Goals (SDGs) 
+ 
+Proceeds  of  Kommunalkredit’s  Social  Covered  Bond  will  be  directed  toward  investment  in  one  of  the 
+company’s  three  core  segments,  specifically  social  infrastructure.  The  eligibility  criteria  specify  that 
+Kommunalkredit will use the proceeds of the bond to fund three types of  social infrastructure projects: 
+•  Education, including the development of public primary and secondary schools, as well as public 
+
+universities;  
+
+•  Healthcare, including the development of public hospitals, nursing homes, rehabilitation centers, 
+
+psychosomatic centers, and/or homes for the care of the handicapped; and, 
+
+ 
+6 Kommunalkredit, Company Profile Presentation, provided via email. 
+7 Kommunalkredit’s mission: “ensure [the] sustainable success [of] projects in areas such as energy and environment, social infrastructure, and 
+transport”; https://www.kommunalkredit.at/en/ueber-uns/ueber-uns/  
+
+4 
+
+ 
+ 
+
+© Sustainalytics 2017 
+ 
+
+•  Social housing, including the development of subsidized housing and/or retirement or pension 
+
+homes. 
+
+In  addition,  to  be  considered  an  Eligible  Asset,  the  projects  cannot  finance  excluded  activities  (i.e. 
+exclusionary  criteria)  and  must  comply  with  all  analysed  criteria  in  Kommunalkredit’s  sustainability 
+checklist and achieve a positive social impact in the social dimension criteria.  
+ 
+Overall, Sustainalytics is confident that given the eligibility criteria defined in the Kommunalkredit Social 
+Covered Bond Framework, and sustainability assessments performed by Kommunalkredit, the selected 
+assets will have a positive social impact on Kommunalkredit’s European markets by: 
+
+1.  Addressing  the  needs  of  vulnerable  populations  such  as  youth,  elderly,  physically  or  mentally 
+
+dependent persons, persons suffering from illness, and low-income households; 
+
+2.  Contributing to the achievement of the United Nation’s Sustainable Development Goals (SDGs): 
+
+•  SDG 1: No Poverty; 
+•  SDG 3: Good Health and Well-being; 
+•  SDG 4: Quality Education; 
+•  SDG 11: Sustainable Cities and Communities. 
+
+3.  Advance the European Commission’s Europe 2020 Strategy for smart, sustainable and inclusive 
+
+growth; and, 
+
+4.  Advance  Kommunalkredit’s  mission  of  supporting  sustainability  projects  in  energy  and  the 
+
+environment, social infrastructure, and transport. 
+
+ 
+Below, Sustainalytics provides an opinion on the positive social impact of the eligibility criteria outlined in 
+the  Social  Covered  Bond  Framework,  how  these  impacts  align  with  regional  and  global  development 
+priorities, and any limitations. 
+ 
+EDUCATION 
+
+Kommunalkredit  will  finance  or  refinance  existing  or  new  projects  for  the  construction,  maintenance 
+and/or  renovation  of  public  education  facilities  in  its  European  markets.  Specifically,  proceeds  of  the 
+Social Covered Bond will support the development of public schools, including kindergarten schools, and 
+primary and secondary schools, as well as public universities, providing significant social benefit to youth 
+of all ages. Given that public education in Europe is available for all citizens, Sustainalytics is of the opinion 
+that  all  citizens,  including  vulnerable  populations,  will  benefit  from  these  projects.  Specifically,  the 
+European Commission identified access to education (for example, access to preschools and accessing 
+primary and secondary schools) one of the important factors that determine the risk of poverty or social 
+exclusion among vulnerable populations8.  
+ 
+For example, Kommunalkredit is financing a public university campus for the Federal Real Estate Agency 
+in Austria. The campus comprises of seven buildings, as well as publicly accessible grounds. The campus 
+services 25,000 students, in addition to 1,500 teachers, researchers and administrative staff. 
+    
+
+ 
+8 http://ec.europa.eu/eurostat/statistics-explained/index.php/Europe_2020_indicators_-_poverty_and_social_exclusion 
+ 
+
+5 
+
+ 
+ 
+
+© Sustainalytics 2017 
+ 
+
+ 
+Education is considered a fundamental right according International Covenant on Economic, Social and 
+Cultural  Rights,9  and  among  seven  priority  areas  outlined  in  the  European  Commission’s  Europe  2020 
+strategy.10 Enabling access to quality education for youth is necessary for building a skilled workforce, 
+reducing  inequalities,  and  ensuring  a  country’s  competitiveness.  Education  projects  funded  by  the 
+proceeds  of  Kommunalkredit’s  Social  Covered  Bond  also  align  with  and  support  the  Sustainable 
+Development Goals (SDGs), including SDG 4 Quality Education: Ensuring inclusive and equitable quality 
+education and promote lifelong learning opportunities for all. 
+ 
+HEALTHCARE 
+
+Kommunalkredit  will  finance  or  refinance  existing  or  new  projects  for  the  construction,  maintenance 
+and/or  renovation  of  healthcare  facilities  in  its  European  markets.  Specifically,  proceeds  of  the  Social 
+Covered  Bond  will  support  the  development  of  public  hospitals,  nursing  homes  for  the  elderly, 
+rehabilitation  centres,  psychosomatic  centres,  and  homecare  for  the  handicapped.  For  example, 
+Kommunalkredit is financing an Austrian company that operates five state hospitals. As of 2015, these 
+five  hospitals  combined  provide  2,322  beds  for  acute  and  post-acute  treatment,  170  beds  for 
+rehabilitation, and 189 beds for chronic disease.  
+    
+Kommunalkredit’s loans supporting healthcare projects are aligned with European priorities, as well as 
+internationally  agreed  sustainable  development  priorities.  One  of  the  three  pillars  in  the  European 
+Commission’s  Europe  2020  Strategy  is  Inclusive  Growth,  where  ‘reducing  healthcare  inequalities’  is 
+considered key to combatting poverty and social exclusion.11 Furthermore, healthcare projects funded by 
+the proceeds of Kommunalkredit’s Social Covered Bond also align with and support SDG 3 Good Health 
+and Wellbeing: Ensure healthy lives and promote well-being for all at all ages. 
+ 
+SOCIAL HOUSING 
+
+Kommunalkredit’s  Social  Covered  Bond  will  finance  or  refinance  existing  or  new  projects  for  the 
+construction,  maintenance  or  renovation  of  social  housing  projects,  including  subsidized  housing  and 
+homes  for  elderly  care  in  its  European  markets.  Projects  that  meet  the  subsidized  housing  eligibility 
+criteria will include projects where a percentage of the total housing project that receives financing is 
+subsidized. Sustainalytics is of the view that these projects will support vulnerable populations, especially 
+low-income  households,  since  the  eligible  tenants  will  be  selected  based  on  criteria  outlined  in  state 
+subsidy  laws  relating  to,  for  instance,  an  income  ceiling  requirement.  Sustainalytics  notes  that 
+Kommunalkredit is not responsible for operating social housing projects in its European markets, and it is 
+not involved in the application of selection criteria for awarding subsidized housing to target populations. 
+For  example,  Kommunalkredit  is  not  involved  in  ensuring  subsidized  housing  applicants  meet  the 
+
+ 
+9 International Covenant on Economic, Social and Cultural Rights: http://www.ohchr.org/EN/ProfessionalInterest/Pages/CESCR.aspx.  
+10European Commission, Europe 2020:  http://ec.europa.eu/eu2020/pdf/COMPLET%20EN%20BARROSO%20%20%20007%20-
+%20Europe%202020%20-%20EN%20version.pdf.  
+11 European Commission, Europe 2020:  http://ec.europa.eu/eu2020/pdf/COMPLET%20EN%20BARROSO%20%20%20007%20-
+%20Europe%202020%20-%20EN%20version.pdf. 
+
+6 
+
+ 
+ 
+
+© Sustainalytics 2017 
+ 
+
+qualification criteria outlined in Austria’s state subsidy law, and hence it cannot be held liable in case some 
+of the dwellings are not properly allocated over the term of the bond. 
+ 
+With  respect  to  homes  for  the  elderly,  projects  will  include  retirement  or  pension  homes,  providing 
+significant  social  benefits  to  elderly  person  in  Kommunalkredit’s  European  markets.  For  example, 
+Kommunalkredit has financed the construction and rehabilitation of a retirement home project in the city 
+of Vienna. The retirement home includes over 198 single flats and 10 double flats, where each flat is built 
+to meet the needs of the individual resident.  
+ 
+Kommunalkredit’s loans supporting social housing for low-income households and elderly is aligned with 
+European priorities, as well as internationally agreed sustainable development priorities. One of the seven 
+priorities  of  the  Europe  2020  strategy  is  combatting  poverty  and  social  exclusion.12  Additionally,  the 
+development  of  housing,  especially  “affordable  housing  of  good  quality”,  is  one  of  the  objectives  of 
+European  Commission’s  Urban  Agenda  for  the  EU.13  Affordable  housing  is  important  for  addressing 
+poverty, supporting  social inclusion,  reducing  inequalities  and  building  more sustainable  and  inclusive 
+communities. Finally, social housing projects funded by the proceeds of Kommunalkredit’s Social Covered 
+Bond  also  align  with  and  support  the  SDGs,  including  SDG  1  No  Poverty:  End  poverty  in  all  its  forms 
+everywhere,  and  SDG  11  Sustainable  Cities  and  Communities:  Make  cities  and  human  settlements 
+inclusive, safe, resilient and sustainable. Both SDGs strive to ensure access to affordable housing for all. 
+   
+Providing  affordable  housing  is  an  increasing  challenge  in  Europe,  especially  in  the  case  of  vulnerable 
+groups  such  as  single-parent  households  with  dependents,  youth,  and  low-income  households.14 
+Moreover, in its 2015 State of Housing in Europe report, Housing Europe found that new social housing 
+production has declined in most European countries, while the demand for social housing has increased.15 
+As a result, Sustainalytics is of the opinion that Kommunalkredit’s financing of social housing projects will 
+have a positive impact in addressing these social housing challenges. 
+ 
+ 
+2.2 Alignment of the Social Covered Bond framework with the Social Bond Guidance 
+Sustainalytics has determined that the Kommunalkredit Social Covered Bond Framework aligns with the 
+four  pillars  of  ICMA’s  Social  Bond  Guidance,  2016  with  respect  to  Use  of  Proceeds,  Project  Selection 
+Process, Management of Proceeds, and Reporting. An overview of these four pillars and Sustainalytcs’ 
+assessment is provided in Appendix B: Green Bond External Review Form. 
+ 
+ 
+ 
+ 
+ 
+ 
+12 European Commission, Europe 2020:  http://ec.europa.eu/eu2020/pdf/COMPLET%20EN%20BARROSO%20%20%20007%20-
+%20Europe%202020%20-%20EN%20version.pdf. 
+13 European Commission, Urban Agenda for the EU: https://ec.europa.eu/futurium/en/node/1710.  
+14 European Commission: EU Urban Agenda – The Challenge of “affordable housing” in Europe, https://ec.europa.eu/futurium/en/content/eu-
+urban-agenda-challenge-affordable-housing-europe-laura-colini-urbact-expert-0.  
+15 Housing Europe, State of Housing in the EU 2015, http://www.housingeurope.eu/resource-468/the-state-of-housing-in-the-eu-2015.  
+
+7 
+
+ 
+ 
+
+© Sustainalytics 2017 
+ 
+
+ 
+ 
+ 
+Conclusion 
+In  Sustainalytics’s  opinion  Kommunalkredit’s  Social  Covered  Bond  is  closely  aligned  with  its  business 
+mandate to support social infrastructure, as the use of proceeds  will finance and refinance education, 
+healthcare  and  social  housing  infrastructure  in  European  markets.  The  social  impact  facilitated  by 
+Kommunalkredit’s  lending  acitivites  will  contribute  to  advancing  European  and  global  development 
+priorities, including the Sustainable Development Goals. 
+ 
+Sustainalytics is also of the opinion that Kommunalkredit’s Social Covered Bond aligns with the ICMA’s 
+Social  Bond  Guidance  2016  on  the  use  of  proceeds  given  both  the  nature  of  the  eligibility  criteria  for 
+projects  and  the  vulnerable  populations  served.  The proceeds  of  the  Social  Covered  Bond  will  have  a 
+positive  impact  on  vulnerable  populations  by  supporting  access  to  education,  healthcare  and  social 
+housing  in  Europe.  Furthermore,  Kommunalkredit’s  Social  Covered  Bond  aligns  with  the  remaining 
+recommendations of the Green Bond Principles with respect to transparency around the project selection 
+process, management of proceeds, and reporting (see Appendix B for a completed Green Bond External 
+Review).  Based on the points above, Sustainalytics is of the opinion that Kommunalkredit’s Social Covered 
+Bond is robust, credible and transparent.  
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+
+8 
+
+© Sustainalytics 2017 
+ 
+
+APPENDICES 
+ 
+Appendix A: Project Eligibility Criteria 
+ 
+In  addition  to  complying  with  thematic  eligibility  criteria,  all  loan  applicants  are  assessed  against  the 
+following project eligibility criteria.  
+ 
+Exclusionary criteria - rejection criteria for lending to sensitive industries: 
+Kommunalkredit has developed a list of nine exclusionary criteria that apply to all projects financed by 
+the  bank,  including  those  funded  by  the  proceeds  of  Kommunalkredit’s  Social  Covered  Bond. 
+Kommunalkredit will not knowingly be involved in financing any activities that include an involvement in 
+the following areas: 
+ 
+
+1.  The lending is against law or ethical principles; 
+2.  The lending is for the purpose of constructing a nuclear power plant; 
+3.  The lending is for the purpose of  financing the production of weapons; 
+4.  The lending is for the purpose of  financing a belligerent state16; 
+5.  The lending is for the purpose of  financing a customer that did not provide sufficient 
+
+information to evaluate the customer’s creditworthiness; 
+
+6.  The lending business is unclear/not reasonable; 
+7.  The lending is for the purpose of  financing a customer with an unclear shareholder structure; 
+8.  The lending is for the purpose of  financing businesses that aim to evade national and/or 
+
+international legal regulations; and/or 
+
+9.  The lending is for a business with potential involvement in money laundering (according to Anti-
+Money Laundering check developed by Kommunalkredit’s Anti-Money Laundering officers based 
+on international guidelines).17 
+
+ 
+Sustainability checklist  
+As part of the evaluation process each criterion is evaluated as positive, negative, or neutral, and 
+Kommunalkredit summarizes the results in a chart accompanied by commentary. 
+ 
+
+Economic Dimension 
+
+1.  Significant impact on economically underdeveloped regions 
+2.  Significant impact on the employment rate /number of workplaces 
+3.  Significant impact on the level of education /training situation 
+4.  Significant impact on infrastructure as productivity factor 
+5.  Significant impact on economic efficiency 
+
+ 
+
+ 
+16 Should Kommunalkredit be in a position to finance an asset outside of its core and selective markets than it would follow the policy and 
+country list of Oesterreichische Kontrollbank AG (OeKB), a specialised institution providing Export credit guarantees; 
+http://www.oekb.at/en/export-services/managing-risks/export-guarantees/country-policy/Pages/List-of-Countries.aspx.    
+17 Such as the Wolfsberg Group Anti-Money Laundering Questionnaire and Know Your Customer (KYC) Checklist, and the Financial Action Task 
+Force (FATF) country risk list. 
+
+9 
+
+ 
+ 
+
+© Sustainalytics 2017 
+ 
+
+Ecological Dimension 
+ 
+
+Social Dimension 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+1.  Significant impact on emission of fine dust and other air pollutants 
+2.  Significant impact on CO2 emissions 
+3.  Significant impact on the biodiversity 
+4.  Significant impact on land and/or water 
+5.  Significant impact on reduction of energy consumption 
+ 
+1.  Is the project per se creating social added value? 
+2.  Diversity:  significant  impact  on  equal  opportunities  for  minorities  in 
+
+society? 
+
+3.  Gender: significant impact on the equal access to services and goods by 
+
+men and women? 
+
+4.  Significant Impact on the preservation of cultural property and heritage 
+5.  Multiplier effect: how can the project be evaluated in terms of a positive 
+
+social example? 
+ 
+
+ 
+
+10 
+
+© Sustainalytics 2017 
+ 
+
+Disclaimer 
+All rights reserved. No part of this second party opinion (the “Opinion”) may be reproduced, transmitted 
+or published in any form or by any means without the prior written permission of Sustainalytics.  
+  
+The Opinion was drawn up with the aim to explain why the analysed bond is considered sustainable and 
+responsible. Consequently, this Opinion is for information purposes only and Sustainalytics will not 
+accept any form of liability for the substance of the opinion and/or any liability for damage arising from 
+the use of this Opinion and/or the information provided in it. 
+  
+As the Opinion is based on information made available by the client, Sustainalytics does not warrant that 
+the information presented in this Opinion is complete, accurate or up to date. 
+  
+Nothing contained in this Opinion shall be construed as to make a representation or warranty, express or 
+implied, regarding the advisability to invest in or include companies in investable universes and/or 
+portfolios. Furthermore, this Opinion shall in no event be interpreted and construed as an assessment of 
+the economic performance and credit worthiness of the bond, nor to have focused on the effective 
+allocation of the funds’ use of proceeds. 
+  
+The client is fully responsible for certifying and ensuring its commitments` compliance, implementation 
+and monitoring. 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+17 
+
+© Sustainalytics 2017 
+ 
+
+SUSTAINALYTICS 
+ 
+Sustainalytics  is  an  independent  ESG  and  corporate  governance  research,  ratings  and  analysis  firm 
+supporting  investors  around  the  world  with  the  development  and  implementation  of  responsible 
+investment  strategies. With 13 offices globally, Sustainalytics partners with institutional investors who 
+integrate  environmental,  social  and  governance  information  and  assessments  into  their  investment 
+processes.  Today,  the  firm  has  more  than  300  staff  members,  including  170  analysts  with  varied 
+multidisciplinary  expertise  of  more  than  40  sectors.  Through  the  IRRI  survey,  investors  selected 
+Sustainalytics as the best independent responsible investment research firm for three consecutive years, 
+2012 through 2014 and in 2015, Sustainalytics was named among the top three firms for both ESG and 
+Corporate Governance research. The firm was also named the Best SRI or Green Bond Research Firm by 
+Global Capital in 2015. For more information, visit www.sustainalytics.com  
+ 
+Sustainalytics 
+info@sustainalytics.com  
+www.sustainalytics.com  
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+18 
+
+

@@ -1,0 +1,1158 @@
+ 
+ 
+  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ CITY DEVELOPMENTS 
+
+LIMITED  
+
+GREEN BOND 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+
+FRAMEWORK OVERVIEW AND SECOND OPINION BY 
+
+SUSTAINALYTICS 
+
+April 5th, 2017 
+
+www.sustainalytics.com 
+ 
+www.sustainalytics.com 
+ 
+www.sustainalytics.com 
+
+Trisha Taneja (Toronto) 
+
+Catalina Secreteanu (Sydney) 
+
+Advisor, Advisory Services 
+trisha.taneja@sustainalytics.com 
+(+1) 647 317 3695 
+
+Associate Director, Institutional Relations 
+catalina.secreteanu@sustainalytics.com 
+(+61) 2 8015 5651 
+
+ 
+ 
+
+Vikram Puppala  
+
+ 
+ 
+
+Vikram Puppala  
+
+Manager,  
+
+© Sustainalytics 2017 
+
+TABLE OF CONTENTS 
+
+FRAMEWORK OVERVIEW AND SECOND OPINION BY SUSTAINALYTICS 
+
+1. 
+
+Introduction 
+
+2.  Overview of Issuer 
+
+3.  Framework overview 
+3.1  Use of Proceeds 
+3.2  Project Evaluation and Selection Process 
+3.3  Management of Proceeds 
+3.4  Reporting 
+
+4  SUSTAINALYTICS’ OPINION 
+
+Conclusion 
+
+APPENDICES 
+
+Appendix 1: Sample Eligible Retrofit Projects Financed through Loan 
+Appendix 2: Description of Potential New Eligible Projects 
+Appendix 3: Sustainalytics’ ESG Assessment of CDL 
+ 
+Appendix 4: Requirements for BCA Green Mark Platinum Certification 
+Appendix 5: Adherence to Green Bond Principles 2016 
+
+13 
+
+SUSTAINALYTICS 
+
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+1 
+
+3 
+
+3 
+
+4 
+4 
+5 
+5 
+5 
+
+6 
+9 
+
+10 
+10 
+12 
+13 
+
+14 
+17 
+
+23 
+
+2 
+
+© Sustainalytics 2017 
+
+1. INTRODUCTION 
+ 
+City  Developments  Limited  (CDL)  is  planning  to  issue  multiple  green  bonds  that  aim  to  fund  and 
+refinance the retrofit of Republic Plaza, its flagship building in Singapore. CDL has engaged Sustainalytics 
+to provide a second opinion on its green bond framework and the bonds’ environmental credentials. As 
+part of this engagement, Sustainalytics held conversations with various members of CDL’s management 
+team to understand the sustainability impact of their business processes and planned use of proceeds 
+for the green bond framework. Sustainalytics also reviewed relevant public and internal documents. This 
+document contains two sections: Framework Overview – summary of CDL’s Green Bond framework; and 
+Sustainalytics’ Opinion – an opinion on the framework. 
+ 
+2. OVERVIEW OF ISSUER 
+ 
+City Developments Limited operates as a listed property arm of Hong Leong Group Singapore. CDL and 
+its subsidiaries engage in the development and investment of real estate properties, and ownership and 
+management of hotels, as well as the provision of hospitality solutions.  Building on its track record of 
+over  50  years  in  real  estate  development,  investment  and  management,  CDL  has  developed  growth 
+platforms in five key international markets – China, United Kingdom (UK), United States (US), Japan and 
+Australia.  The  company  is  also  leveraging  its  stable  of  prime  assets  and  growing  its  real  estate  funds 
+management  business.  It  currently  has  over  $3.5  billion  in  funds  under  management.  CDL  has 
+operations in Asia, Europe, North America, New Zealand, and Australia. The company was  founded in 
+1963 and is headquartered in Singapore, Singapore. 
+ 
+CDL  states  that  sustainability  has  been  integrated  into  its  vision  and  mission  to  create  business  value 
+and achieve long-term growth for the company. CDL states a belief that an embedded commitment to 
+sustainability complements the company’s business strategy. The company states that its commitment 
+to sustainability is reflected in its vision of “conserving as it constructs”. To further its commitment to 
+sustainability, and to contribute to Singapore’s greenhouse gas (GHG) emissions reduction goals, CDL is 
+planning  to  issue  multiple  green  bonds  to  fund  and  refinance  the  retrofit  of  its  flagship  building, 
+Republic Plaza and other possible green initiatives.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+3 
+
+© Sustainalytics 2017 
+
+3. FRAMEWORK OVERVIEW 
+This section presents CDL’s green bond framework for the use of proceeds, the process for project 
+selection, the management of proceeds, and reporting. 
+ 
+3.1   Use of Proceeds 
+Proceeds from the first bond issued under this framework will be used to refinance retrofit projects as 
+mentioned in point 1. Proceeds from all future issuances will be used to finance new retrofit projects as 
+mentioned in point 2.   
+ 
+For the current issuance, the proceeds of the green bond will be allocated towards: 
+ 
+
+1.  Repayment of S$100 million loan extended by CDL to CDL Properties (CDLP), which financed 
+
+retrofit and upgrading projects for Republic Plaza  
+A  sample  list  of  recent  retrofit  projects  from  years  2010-2015  that  were  funded  through  the 
+loan, and the estimated expenditure per project is available in Appendix 1.  
+ 
+
+For future issuances, the proceeds of the green bond will be allocated towards: 
+ 
+
+2.  Funding projects for new retrofits of Republic Plaza  
+
+A description of potential new projects that may be funded is available in Appendix 2.  
+ 
+
+All funded and refinanced projects must meet the eligibility criteria outlined below. 
+ 
+Eligibility Criteria 
+To be eligible for the green bond proceeds, the projects funded must meet one or more of the following 
+eligibility criteria:  
+
+1.  Expenditures related to the installation or upgrade of equipment that reduces energy 
+
+consumption of Republic Plaza; 
+ 
+
+2.  Expenditures related to the installation or upgrade of equipment that reduces water 
+
+consumption of Republic Plaza; 
+
+ 
+
+3.  Expenditures related to the installation or upgrade of equipment that reduces food and general 
+
+waste from Republic Plaza. 
+ 
+
+Context:  In  its  2016  sustainability  report,  CDL  states  that  it  considers  carbon  emissions,  energy  use, 
+water stewardship, and waste and resource management as four key environmental issues that create 
+measurable  and  sustainable  value  for  its  business  and  stakeholders.  Accordingly,  CDL  maintains  the 
+following targets that are aligned with the eligibility criteria of its green bond framework: 
+ 
+
+  Reduce carbon emissions intensity by 22% by 2020 and 25% by 2030 (from baseline year 2007) 
+  Reduce energy intensity by 22% by 2020 and 25% by 2030 (from baseline year 2007) 
+  Reduce water intensity by 22% by 2020 and 25% by 2030 (from baseline year 2007) 
+
+ 
+ 
+
+4 
+
+© Sustainalytics 2017 
+
+3.2  Project Evaluation and Selection Process 
+Selection process for current issuance 
+Eligible projects below S$1 million will be  selected for  refinancing through  bond proceeds  by the  CEO 
+and CFO. Projects over S$1 million will be selected by the Tender Committee, which is made up of the 
+Group General Manager, CFO, and CEO. 
+ 
+Selection process for future green bond issuances 
+The  selection  of  eligible  projects  will  be  overseen  by  the  Property  and  Facilities  Management  and 
+Sustainability departments of CDL. 
+ 
+All projects selected for funding through bond proceeds will be selected based on compliance with the 
+eligibility  criteria.  Additional  factors  such  as  applicability  to  Green  Mark  certification,  environmental 
+impact, size, and tenant needs may also be considered.  
+ 
+
+3.3        Management of Proceeds  
+Management of proceeds for current issuance 
+The first bond issuance under this framework will be issued by CDLP, a subsidiary of CDL. The proceeds 
+from this issuance will be used to repay a S$100 million loan from CDL that was used to finance eligible 
+retrofit projects for Republic Plaza. All proceeds will be allocated towards loan payment immediately at 
+issuance.  
+ 
+Management of proceeds for future issuances 
+For  any  future  issuances  based  on  this  framework,  allocation  of  proceeds  to  eligible  projects  will 
+managed and tracked by Group Finance Accounts using a spreadsheet. CDL has disclosed that proceeds 
+from future green bonds will be temporarily held in cash by CDL, until allocated to eligible projects.  
+ 
+3.4    Reporting  
+Allocation Reporting 
+CDL has committed to disclosing allocation of proceeds publicly on a project portfolio basis. CDL has also 
+committed  to  verification  of  annual  proceeds  by  its  auditor  in  appointment  that  year.  For  the  first 
+issuance, given that all proceeds will be allocated immediately, allocation reporting will be disclosed all 
+at once at the end of 2017. For future issuances, allocation reporting will be publicly disclosed annually, 
+until full allocation of the bond.  
+ 
+Impact Reporting 
+CDL  will  report  on  the  impact  of  the  bond  by  disclosing  energy  saved,  water  saved,  or  tons  of  waste 
+reduced  on  a  project  portfolio  basis.  CDL  will  continue  to  report  on  impact  in  this  format  annually, 
+throughout the term of the bond. Impact reporting will be disclosed publicly, together with allocation 
+reporting.  
+ 
+ 
+ 
+
+ 
+ 
+
+5 
+
+© Sustainalytics 2017 
+
+4  SUSTAINALYTICS’ OPINION 
+ 
+Importance of carbon emissions, energy, and water management in CDL’s sustainability strategy  
+Sustainalytics’ research assesses CDL as an industry leader in ESG performance (see Appendix 3). CDL’s 
+strategic approach for sustainability identifies six key sustainability aspects as material to their business- 
+Environment, Employee Relations, Corporate Governance and Risk Management, Stakeholder Relations, 
+and Community. CDL’s environmental commitment, including its policies and strategies, is informed by 
+this identification of environment as a materially important sustainability issue for the company.  
+ 
+CDL has a strong  overall  environmental commitment, as seen by its  environmental policy  and targets. 
+Sustainalytics is of the opinion that the strength of CDL’s policy is demonstrated through (i) the approval 
+of its policy  by the  board of directors (ii) commitment  to consult  with stakeholders on environmental 
+issues (ii) and commitment to report regularly on established targets.  
+ 
+With  respect  to  targets,  the  company  has  set  specific  objectives  for  the  period  2016-2020,  and  long-
+term goals for 2030  that  align with the  UN Sustainable Development  Goals (SDGs).  It lists  measurable 
+targets  for  its  set  objectives,  and  reports  on  performance  in  each  year.  CDL  senior  management  is 
+obliged to monitor the overall progress towards targets. Sustainalytics is of the opinion that reporting 
+on  targets  and  performance  is  indicative  of  the  priority  the  company  assigns  to  achieving  results. 
+Specifically, CDL’s targets in the areas of carbon emissions, energy management, and water stewardship 
+indicate the importance of these issues in CDL’s sustainability strategy, and demonstrates alignment of 
+the  green  bond  framework  with  CDL’s  strategic  priorities.    Details  on  CDL  targets  in  the  areas  of 
+emissions reduction, energy efficiency, and water use, and reported performance against these targets 
+are provided in Table 1.  
+ 
+Table 1: CDL Targets on Carbon Emissions, Energy Management, and Water Stewardship 
+
+Area 
+
+Target 
+
+Carbon emissions  
+
+Energy management 
+
+Water Stewardship 
+
+carbon 
+
+Reduce 
+emissions 
+intensity  by  22%  by  2020  and 
+25%  by  2030 
+(from  2007 
+baseline) 
+Reduce energy intensity by 22% 
+by 2020 and 25% by 2030 (from 
+2007 baseline) 
+Reduce  water  intensity  by  22% 
+by 2020 and 25% by 2030 (from 
+2007 baseline) 
+
+Reported  performance  against 
+target 
+Reduced 
+emissions 
+intensity  by  19%  in  2015  (from 
+2007 baseline) 
+
+carbon 
+
+in  2015 
+
+Reduced energy use intensity by 
+27% 
+(from  2007 
+baseline) 
+Reduced  water  use  intensity  by 
+17% 
+(from  2007 
+baseline) 
+
+in  2015 
+
+ 
+Given  CDL’s  integration  of  its  environmental  policy  in  organizational  actions  through  reporting  on 
+targets,  and  the  alignment  of  CDL’s  green  bond  framework  with  its  overall  environmental  strategy, 
+Sustainalytics is of the opinion that CDL is well positioned to issue green bonds.  
+
+ 
+ 
+
+6 
+
+© Sustainalytics 2017 
+
+Contribution of use of proceeds to Republic Plaza’s Green Mark Platinum certification 
+CDL has a track record of constructing and managing green buildings. As of the end of 2016, CDL had 87 
+Green  Mark  certified  developments  and  office  interiors  awarded  by  the  Building  and  Construction 
+Authority.  Sustainalytics’  ESG  research  also  shows  that  the  company  seeks  Green  Mark  Gold  PLUS 
+certification for all new developments, which is beyond the mandatory Green Mark certification.  
+ 
+Specifically, with regards to Republic Plaza, CDL’s retrofit projects have resulted in the building receiving 
+a Green Mark  Platinum award.  Green Mark is a sustainable building certification scheme  launched by 
+Singapore’s Building and Construction Authority (BCA) in 2005. The Green Mark certification is offered 
+on  four  levels-  Certified,  Gold,  Gold PLUS,  and  Platinum.  BCA  assigns  a  level of Green Mark  certification 
+based  on the  sustainability  performance  of  buildings  in  five  key  areas-  (i)  Energy  efficiency,  (ii) Water 
+efficiency, (iii) Environmental protection, (iv) Indoor environmental quality, and (v) Green features and 
+innovation. The minimum performance requirements for Green Mark Platinum buildings are detailed in 
+Appendix  4.  Additionally,  Green  Mark  buildings  certified  at  all  levels  are  required  to  be  re-assessed 
+every three years to maintain the Green Mark status. 
+ 
+Sustainalytics is of the opinion that using bond proceeds for eligible retrofit projects will contribute to 
+achieving  and  maintaining  the  energy  and  water  efficiency  requirements  of  a  Green  Mark  Platinum 
+certification.  
+ 
+In addition, CDL actively engages with its tenants so as to share best practices and encourage them to 
+take up environmentally friendly habits through various initiatives such as the Green Lease Partnership 
+Program.   For example, the  program aims to provide support to commercial tenants  in reducing their 
+energy consumption and environmental footprint. To enable tenants to better control and manage their 
+energy  usage,  a  real-time  digital  energy  and  carbon  footprint  monitoring  portal  was  launched  in 
+partnership  with  Tuas  Power.  As  an  incentive  to  encourage  greater  energy  conservation  amongst 
+tenants, CDL further introduced a 1% electricity rebate for commercial tenants who attain 2% savings 
+over  the  previous  quarter’s  bill.  CDL  sets  a  target  of  100%  tenant  participation  for  this  program. 
+Sustainalytics  is  of  the  opinion  that  such  additional  tenant  focussed  initiatives  are  demonstrative  of 
+CDL’s  commitment  to  promote  greater  environmental  responsibility  in  the  areas  of  carbon  emissions 
+and energy management.   
+ 
+Importance of green real estate in climate change mitigating in Singapore 
+As a low-lying island state of 719.2 km² with no natural resources, Singapore has to accommodate not 
+only  housing  and  commercial  centres,  but  also  power  plants,  reservoirs,  air/seaports  and  industries 
+within  city  boundaries.  Singapore  has  one  of  the  highest  population  densities  in  the  world  (7,797 
+persons per km2).1  
+ 
+Singapore is also alternative energy disadvantaged. The relatively flat land, low wind speeds and lack of 
+geothermal resources limit Singapore’s access to alternative energy options such as hydro-electric, wind 
+or  geothermal  power.  Given  Singapore’s  small  land  area  and  high  population  density,  the  risks  of 
+
+ 
+1 http://www.singstat.gov.sg/statistics/latest-data#16 
+
+ 
+ 
+
+7 
+
+© Sustainalytics 2017 
+
+nuclear energy currently outweigh the potential benefits. Due to the same reasons, although Singapore 
+is located in the tropics, it is difficult to harness solar energy in a significant way. Singapore therefore is 
+dependent on fossil fuels.  
+ 
+Despite  this  dependence,  in  2009,  Singapore  pledged  to  reduce  emissions  by  16%  from  business-as-
+usual (BAU) levels by 2020. In 2015, building on its earlier commitment, Singapore pledged to reduce its 
+emissions intensity (CO2e/S$GDP) by 36% from 2005 levels by 2030, and stabilize emissions with the aim 
+of peaking around 20302. To reach the targets, Singapore made a policy choice to reduce its greenhouse 
+gas (GHG) footprint by switching from fuel oil to natural gas for electricity generation. Today, over 95% 
+of  electricity  is  generated  from  natural  gas2,  which  also  means  that  the  capacity  to  further  reduce 
+emissions by substituting fuel oil with natural gas is reaching the limit.  
+ 
+Therefore,  energy  conservation  becomes  top  priority,  which  was  also  highlighted  in  Singapore’s  INDC 
+after  the  COP21.  With  buildings  (including  households)  accounting  for  49%  of  the  total  electricity 
+consumption3 at end-use level in Singapore (and 23% of GHGs2), promoting energy efficiency in buildings 
+is an effective way to achieve energy conservation and help address climate change. The Climate Action 
+Plan, announced by Singapore’s National Climate Change Secretariat (NCCS)2 in 2015, sets up a series of 
+strategic plans and policies to improve energy efficiency in the building environment. The government 
+aims at achieving BCA Green Mark4 standards for 80% of buildings by 2030. 
+ 
+Given  this  scenario,  it  is  clear  that  real  estate  companies  have  a  large  role  to  play  in  Singapore  in 
+mitigating climate change. CDL’s efforts to improve energy efficiencies of its properties is a step in the 
+right direction and strongly in line with the government of Singapore’s plans. 
+ 
+Importance of water management in Singapore 
+Singapore  is  officially  classified  by  the  World  Resources  Institute  as  one  of  the  countries  with  the 
+“highest water stress” in the world5. Current water demand in Singapore is about 430 million gallons a 
+day,  of  which  45%  is  for  domestic  use.  By  2060  water  demand  will  almost  double  from today’s  level, 
+estimated by Singapore’s National Water Agency (PUB) 6. However, Singapore has no freshwater lakes or 
+aquifers.  Currently  over  40%  of  Singapore’s  water  supply  is  imported  from  the  Johor  River,  the  main 
+river  in  the  Malaysia  state  of  Johor;  20%  is  contributed  by  the  advanced  rainwater  capture  systems 
+(Local Catchment); 30% added by grey water reuses (NEWater) and 10% produced by desalination5. In 
+addition to the lack of natural water resources, climate change imposes significant risks on Singapore’s 
+water supply, especially due to the intensity of weather variability. Periods of drought can reduce the 
+ 
+2 https://www.nccs.gov.sg/sites/nccs/files/NCCS_Mitigation_FA_webview%2027-06-16.pdf  
+3 https://www.nccs.gov.sg/sites/nccs/files/Roadmap_BEE_20140729.pdf  
+4 The BCA Green Mark is a green building rating system to evaluate a building for its environmental impact and performance, launched in 
+January 2005 by the Building and Construction Authority (BCA) under the Ministry of National Development. It is also endorsed and supported 
+by the National Environment Agency. The assessment identifies the specific energy efficient and environment-friendly features and practices 
+incorporated in the building projects. Points are awarded for incorporating energy efficient and environment-friendly features which are better 
+than normal practice. Depending on the overall assessment and point scoring, the building will be certified to have met the BCA Green Mark 
+Platinum, GoldPlus, Gold or Certified rating. Certified Green Mark buildings are required to be re-assessed every three years to maintain the 
+Green Mark status. New buildings certified will subsequently be re-assessed under the existing buildings criteria. 
+5 http://www.wri.org/sites/default/files/aqueduct_coutnry_rankings_010914.pdf  
+6 https://www.pub.gov.sg/watersupply/singaporewaterstory  
+
+ 
+ 
+
+8 
+
+© Sustainalytics 2017 
+
+reliability of water supply from the Johor River and local catchments, while sudden episodes of intense 
+rainfall could overwhelm the city’s drainage system and lead to flash floods. Moreover, water usage in 
+the Johor state of Malaysia is increasing substantially because of the fast industrialization and the rapid 
+expanding  of  plantations  for  agricultural  commodities  such  as  palm  oil  and  rubber.  In  fact,  the  dry 
+conditions of 2015-2016 have had led to serious water shortages7. 
+ 
+Singapore's current per capita domestic water consumption is 151 litres per day. The target is to lower it 
+to 147 litres by 2020 and 140 litres by 2030. By 2060, Singapore aims to be self-reliant with respect to 
+water. The government has been expanding the water catchment area but there is a limit — hence the 
+emphasis  has  been  on  reusing  water  (NEWater)  and  desalination.  These  unconventional  sources  of 
+water are expected to represent 55% and 30% of the supply respectively by 20606. The problem is that 
+both processes are extremely energy intensive (therefore sensitive to energy price and emission caps). 
+Therefore,  water  demand  management  becomes  an  important  complementary  method  to  the 
+development of unconventional water sources in order to achieve not only sustainability but also water 
+self-sufficiency.  Given  the  significant  importance  of  domestic  water  consumption,  it  is  clear  that  real 
+estate companies have a large role to play in Singapore in relieving water stress and adapting to climate 
+change. CDL’s efforts to improve the resource efficiency, including water, of its properties will help to 
+reduce the domestic consumption and therefore augment the supply.   
+ 
+Alignment with Green Bond Principles 2016  
+Sustainalytics has determined that CDL’s green bond aligns with the four pillars of the ICMA Green Bond 
+Principles 2016. Please see Appendix 5 for details. 
+ 
+Climate Bonds Certification 
+CDL  has  disclosed  to  Sustainalytics  that  it  will  also  apply  for  a  Climate  Bonds  Certification  for  its 
+inaugural green bond. CDL intends to certify its bond against the Climate Bonds Low Carbon Buildings 
+standard.   
+ 
+Conclusion 
+Overall, CDL’s green bond framework is transparent and provides clarity regarding the outcomes of the 
+Green  Bond  investments.  Furthermore,  the  green  bond  framework  is  in  line  with  CDL’s  overall 
+environmental  strategy  and  the  climate  change  mitigation  priorities  of  Singapore.  Sustainalytics 
+considers CDL’s green bond framework to be robust and credible.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+7 http://www.themalaymailonline.com/print/what-you-think/how-johors-growing-water-woes-could-affect-singapore-jackson-ewing-and-kari  
+
+ 
+ 
+
+9 
+
+© Sustainalytics 2017 
+
+APPENDICES 
+ 
+Appendix 1: Sample Eligible Retrofit Projects Financed through Loan 
+ 
+List of sample eligible retrofit projects for Republic Plaza that will be refinanced through current bond 
+issuance. 
+ 
+
+Year of 
+
+work 
+
+2010 
+
+Description / Main Objectives 
+
+Achieved 
+
+ 
+
+Energy/ Water 
+
+Savings 
+(Per Year) 
+
+Estimated 
+Savings  
+(Per Year) 
+
+Capex Amount 
+
+Spent 
+
+Toilet upgrading: raised level of 
+comfort and hygiene for tenants, 
+and increased water efficiency.  
+
+10,255 mᵌ of 
+
+water 
+
+ 
+ 
+
+Lift interior lights: replacement of 
+halogen lights with energy efficient 
+
+$12,000  
+
+$7,198,299  
+
+2010 
+
+lights that emit less heat. User 
+
+27,000 kWh 
+
+$5,400  
+
+$180,000  
+
+comfort raised and energy usage 
+
+reduced. 
+
+ 
+ 
+
+2011 
+
+Toilet lights upgrade: infra-red 
+
+motion sensors installed in toilets. 
+Reduced energy usage effectively.  
+
+ 
+ 
+
+2012 
+
+Retrofitting of chiller plants (Phase 
+
+1): significantly raised energy 
+
+efficiency of air conditioning of the 
+
+building.   
+
+ 
+ 
+
+2012 
+
+Lobby lighting at Level 1 & 2 at 
+
+Tower 1: small scaled upgrading but 
+some energy savings achieved.     
+
+ 
+ 
+
+2012 
+
+2013 
+
+Common areas lighting upgrading: 
+converted lighting to T5 and raised 
+energy efficiency substantially.   
+
+ 
+ 
+
+Atrium lighting upgrading: raise 
+level of comfort for visitors and 
+tenants, and increased energy 
+
+ 
+ 
+
+171,000 kWh 
+
+$34,200  
+
+$150,000  
+
+3,100,000 kWh 
+
+$620,000  
+
+$4,433,100  
+
+10,000 kWh 
+
+$2,000  
+
+$290,000  
+
+289,926 kWh 
+
+$57,985  
+
+$77,655  
+
+25,112 kWh 
+
+$10,924 
+
+$48,955 
+
+10 
+
+© Sustainalytics 2017 
+
+efficiency. 
+
+ 
+
+ 
+
+2013 
+
+Carpark lighting upgrading: 
+
+adoption of light emitting diode 
+(LED) lights with motion sensor 
+
+significantly raised energy 
+
+efficiency.   
+
+ 
+ 
+
+Staircase lighting: motion detector 
+
+installed for all staircases and 
+
+169,585 kWh 
+
+$33,917  
+
+$153,506  
+
+2013 
+
+replacement of T8 lighting to T5.  
+
+172,299 kWh 
+
+$34,460 
+
+$8,855 
+
+Both initiatives contributed to 
+tremendous energy savings. 
+
+ 
+ 
+
+Upgrading of lighting to T5 fittings 
+
+for offices.  
+
+ 
+ 
+
+2015 
+
+2015 
+
+Retrofitting of chiller plants (Phase 
+2) for air conditioning: further raised 
+
+energy efficiency.   
+
+ 
+ 
+
+Façade crown lighting from neon to 
+LED: raised energy efficiency and 
+gave a more modern and dynamic 
+
+look to the building.  
+
+ 
+
+ 
+
+2015 
+
+ 
+
+196,923 kWh 
+
+$39,384  
+
+$58,095  
+
+1,800,000 kWh 
+
+$360,000  
+
+$2,972,000  
+
+44,388 kWh 
+
+$8,877  
+
+$725,250  
+
+ 
+
+Recurrent 
+savings of  
+$1,219,147 
+
+per year 
+
+$16,295,715 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+11 
+
+Appendix 2: Description of Potential New Eligible Projects 
+ 
+Description of eligible retrofit projects for Republic Plaza that may be financed through future bond 
+proceeds. 
+ 
+Eligibility Criteria 
+Energy Efficiency 
+
+Project Name 
+
+ 
+Modernization of 
+Vertical Transportation 
+
+Description 
+
+ 
+CDL is looking into upgrading Republic Plaza’s lift 
+system, which will improve traffic performance, reduce 
+waiting time and improve energy efficiency.   
+ 
+ 
+The effectiveness and feasibility of Low-Emissive 
+(Low-E) window glass for solar control in enhancing 
+energy efficiency, improving comfort and reducing air-
+conditioning costs is currently being researched. 
+Based on the product specification, this glass panel 
+can be easily installed over the existing windows 
+panels. Energy savings of the panels are estimated to 
+be 5 - 10% of air-conditioning operating costs. 
+ 
+
+© Sustainalytics 2017 
+
+ 
+Low-E Window Glass 
+Panels 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+12 
+
+© Sustainalytics 2017 
+
+Appendix 3: Sustainalytics’ ESG Assessment of CDL  
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+13 
+
+© Sustainalytics 2017 
+
+Appendix 4: Requirements for BCA Green Mark Platinum Certification 
+
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+14 
+
+© Sustainalytics 2017 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+15 
+
+© Sustainalytics 2017 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+16 
+
+© Sustainalytics 2017 
+
+Disclaimer 
+All rights reserved. No part of this second party opinion (the “Opinion”) may be reproduced, transmitted 
+or published in any form or by any means without the prior written permission of Sustainalytics.  
+  
+The Opinion was drawn up with the aim to explain why the analyzed bond is considered sustainable and 
+responsible. Consequently, this Opinion is for information purposes only and Sustainalytics will not 
+accept any form of liability for the substance of the opinion and/or any liability for damage arising from 
+the use of this Opinion and/or the information provided in it. 
+  
+As the Opinion is based on information made available by the client, Sustainalytics does not warrant that 
+the information presented in this Opinion is complete, accurate or up to date. 
+  
+Nothing contained in this Opinion shall be construed as to make a representation or warranty, express or 
+implied, regarding the advisability to invest in or include companies in investable universes and/or 
+portfolios. Furthermore, this Opinion shall in no event be interpreted and construed as an assessment of 
+the economic performance and credit worthiness of the bond, nor to have focused on the effective 
+allocation of the funds’ use of proceeds. 
+  
+The client is fully responsible for certifying and ensuring its commitments` compliance, implementation 
+and monitoring. 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+22 
+
+© Sustainalytics 2017 
+
+SUSTAINALYTICS 
+ 
+Sustainalytics  is  an  independent  ESG  and  corporate  governance  research,  ratings  and  analysis  firm 
+supporting  investors  around  the  world  with  the  development  and  implementation  of  responsible 
+investment  strategies. With 13 offices  globally, Sustainalytics partners with institutional investors who 
+integrate  environmental,  social  and  governance  information  and  assessments  into  their  investment 
+processes.  Today,  the  firm  has  more  than  300  staff  members,  including  170  analysts  with  varied 
+multidisciplinary  expertise  of  more  than  40  sectors.  Through  the  IRRI  survey,  investors  selected 
+Sustainalytics as the best independent responsible investment research firm for three consecutive years, 
+2012 through 2014 and in 2015, Sustainalytics was named among the top three firms for both ESG and 
+Corporate Governance research. The firm was also named the Best SRI or Green Bond Research Firm by 
+Global Capital in 2015. For more information, visit www.sustainalytics.com  
+ 
+ 
+Sustainalytics 
+info@sustainalytics.com  
+www.sustainalytics.com  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+23 
+
+
